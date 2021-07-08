@@ -1,7 +1,12 @@
-[![hackmd-github-sync-badge](https://hackmd.io/2qQKhR-hRq-62aXKv4n6cg/badge)](https://hackmd.io/2qQKhR-hRq-62aXKv4n6cg)
-# MileStone
+README
+>[![hackmd-github-sync-badge](https://hackmd.io/2qQKhR-hRq-62aXKv4n6cg/badge)](https://hackmd.io/2qQKhR-hRq-62aXKv4n6cg)  
+
+worklog 
+>[![hackmd-github-sync-badge](https://hackmd.io/TX6rpzlaSkuiE9k3Cu-vKQ/badge)](https://hackmd.io/TX6rpzlaSkuiE9k3Cu-vKQ)
+# Google UR multilabel forum's comment dataset
+## MileStone
 * labeling 1000+ sample data (6/29~)
-# File structure
+## File structure
 Google_UR_MLFC/  
 　　　　|---data/　  
 　　　　　　　|---Google_NLP_Crawler/　　　---Crawler script   
@@ -11,13 +16,13 @@ Google_UR_MLFC/
 　　　　|---baseline_model/  
 　　　　|---README.md  
 　　　　|---.gitignore  
-# Multi-label Multi-span Dataset
+## Multi-label Multi-span Dataset
 * formation  
  multi-label  
  multi-span
 * label  
 
-# Some note
+## Some note
 * sync README.md with hackmd  
 https://hackmd.io/c/tutorials-tw/%2Fs%2Flink-with-github-tw
 * tips for working with github   
