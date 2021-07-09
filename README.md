@@ -6,7 +6,7 @@ worklog
 # Google UR multilabel forum's comment dataset
 ## MileStone
 * labeling 1000+ sample data (6/29~)
-## File structure
+## Directory structure
 Google_UR_MLFC/  
 　　　　|---data/　  
 　　　　　　　|---Google_NLP_Crawler/　　　---Crawler script   
