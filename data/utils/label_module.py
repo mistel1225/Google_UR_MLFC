@@ -31,7 +31,10 @@ def print_label(label_list):
 
 
 def create_label(label_list, label, description):
-    label_list[label] = description
+    if label not in label_list.keys():
+        label_list[label] = description
+    else:
+        print("the label {0} has already existed the list.".format(label))
     return label_list
 
 def print_context(sample_data):
