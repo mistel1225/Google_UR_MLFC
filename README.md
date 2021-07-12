@@ -7,8 +7,9 @@ worklog
 ## MileStone
 * labeling 1000+ sample data (6/29~)
     * working on label.py(7/7~)
-        * enter the error correction phase(7/12~)
-        * the current funtionality doesn't support more than two people labeling data at the same time(see worklog.md)   
+        * enter the error correction phase(7/12~7/14)
+        * the current funtionality doesn't support more than two people labeling data at the same time(see worklog.md)
+    * data annotation(7/14~)   
 
 ## Bug report
 To report any bug or suggestion, please post an issue and apply following format.  
