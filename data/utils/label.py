@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 import os
 import logging
+from label_module import label_new_data
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('-n', '--num', help=
@@ -34,13 +35,17 @@ def read_json(path):
 def init_file(path):
     if not path.exists():
         logging.info('{0} didn\'t exists, create new file...'.format(path))
-        open(str(path), 'x')
+        with open(str(path), 'x') as f:
+            json.dump({}, f)
     else:
         logging.info('{0} already exists, continue to run the program...'.format(path))
 mode = ['new', 'verify']
 
 def main(args):
-    pass
+    
+    if args.mode == 'new':        
+        label_data = label_new_data(args.num, args.data_path, args.index_path, args.label_path, args.output_path)
+
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
     args = parse_args()
@@ -57,11 +62,11 @@ if __name__ == '__main__':
     init_file(args.label_path)
     if args.mode not in mode:
         logging.error('{} is not in default mode [\'new\', \'verify\']')
+        exit(-1)
     if args.mode == 'verify' and str(args.data_path) == '../raw_data/data35000.json':
         logging.error('{0} verify mode fail, the data_path should under ../data/multi_label_data')
     main(args)
     
 
 
-    main(args)
 
