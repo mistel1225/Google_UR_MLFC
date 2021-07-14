@@ -1,0 +1,2 @@
+./data/remote_mount_data/*.json
+./data/remote_mount_data/*.lock
