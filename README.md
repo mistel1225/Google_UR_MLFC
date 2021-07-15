@@ -8,8 +8,8 @@ worklog
 * labeling 1000+ sample data (6/29~)
     * working on label.py(7/7~)
         * enter the error correction phase(7/12~7/14)
-        * the current funtionality doesn't support more than two people labeling data at the same time(see worklog.md)
-    * data annotation(7/14~)   
+        * the current funtionality doesn't support more than two people labeling data at the same time(see worklog.md)(done at 7/14)
+    * data annotation(7/19~)   
 
 ## Bug report
 To report any bug or suggestion, please post an issue and apply following format.  
@@ -18,7 +18,7 @@ To report any bug or suggestion, please post an issue and apply following format
     2. the input that leads to the bug.
     3. the output coming with the input.
 * problem of label  
-    1. the data id that you think is wrong
+    1. the wrong data id
     2. the label that should be corrected
     3. the recommendation label
     4. the recommendation span
@@ -28,8 +28,17 @@ To report any bug or suggestion, please post an issue and apply following format
 here is some way to contribute this project
 * Bug report
     * please refer to the Bug report segmentation.
-* Label annotation
-    * usage: python3 ./data/utils/label.py
+* Label annotation  
+    * dependency: sshfs
+        * Linux, Mac, Windows: https://blog.gtwang.org/linux/sshfs-ssh-linux-windows-mac-os-x/   
+    * In this version, we expect the data is located at 140.112.29.201:/home/NLP_annotation/NLP_DATA, and label.py should have to provide multiple annotation at the same time without corruption or overwriting.  
+    * For labeling, please follow the instruction below  
+    ```bash
+    ##usage:
+    cd data/utils
+    bash ./sshfs.sh
+    python3 ./label.py
+    ```
 * Label verfication(not available yet)
     * usage: python3 ./data/utils/label.py --mode verify
 ## Directory structure
