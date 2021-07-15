@@ -48,15 +48,16 @@ if __name__ == '__main__':
         logging.error('{0} <= 0, program shut down.'.format(args.num))
         exit(-1)
     if not args.data_path.exists():
-        logging.error('{0} didn\'t exists.')
+        logging.error('{0} didn\'t exists.'.format(args.data_path))
         exit(-1)
     else:
         data = read_json(args.data_path)
     init_file(args.output_path)
     init_file(args.index_path)
     init_file(args.label_path)
+    init_file(Path("../remote_mount_data"))
     if args.mode not in mode:
-        logging.error('{} is not in default mode [\'new\', \'verify\']')
+        logging.error('{0} is not in default mode [\'new\', \'verify\']'.format(args.mode))
         exit(-1)
     main(args)
     
