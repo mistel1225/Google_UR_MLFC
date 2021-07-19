@@ -11,7 +11,7 @@ def parse_args():
             'sample {num} data from data/raw_data/data35000.json(for new data) or data/multi_label_data(for verify data)', 
             type=int, default=50)
     parser.add_argument('-m', '--mode', help=
-    'new: sample new data. verify:sample the data that is already being labeled',
+            'new: sample new data. verify:sample the data that is already being labeled.',
             type=str, default='new')
     parser.add_argument('-dp', '--data_path', help=
             '../raw_data/{data with no label}.json, ../multi_label_data/{data already being labeled}.json', 
