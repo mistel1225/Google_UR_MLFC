@@ -1,7 +1,7 @@
 import json
 import logging
 from pathlib import Path
-
+lock_path = "./"
 def read_json(path):
     with open(str(path), 'r') as f:
         data = json.load(f)
@@ -12,16 +12,20 @@ def save_json(data, path):
         json.dump(data, f, indent=2)
 
 def get_lock():
+    if not Path(lock_path+'data.lock').exists():
+        logging.info('{0} didn\'t existst, create new lock file...'.format(lock_path+'data.lock'))
+        with open(lock_path+'data.lock', 'x') as f:
+            f.write("0")
     logging.info("get the file lock...")
     while(1):
-        with open("../remote_mount_data/data.lock", 'r+') as f:
+        with open(lock_path+'data.lock', 'r+') as f:
             if int(f.read()) == 0:
                 f.seek(0)
                 f.write("1")
                 break
 def restore_lock():
     logging.info("reset the file lock...")
-    with open("../remote_mount_data/data.lock", 'r+') as f:
+    with open(lock_path+'data.lock', 'r+') as f:
         f.seek(0)
         f.write("0")
 

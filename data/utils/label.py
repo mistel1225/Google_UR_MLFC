@@ -55,7 +55,6 @@ if __name__ == '__main__':
     init_file(args.output_path)
     init_file(args.index_path)
     init_file(args.label_path)
-    init_file(Path("../remote_mount_data"))
     if args.mode not in mode:
         logging.error('{0} is not in default mode [\'new\', \'verify\']'.format(args.mode))
         exit(-1)
