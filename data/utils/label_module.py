@@ -40,12 +40,7 @@ def label_new_data(sample_num, data_path, index_path, label_path, output_path):
         #random sample the data
         while(1):
             sample_index = np.random.randint(data_length)
-            if sample_index in annotated_index.keys():
-                if annotated_index[sample_index]['label'] == 0:
-                    break
-                else:
-                    break
-            else:
+            if sample_index not in annotated_index.keys():
                 break
         sample_data = data[str(sample_index)]
         print_context(sample_data)
