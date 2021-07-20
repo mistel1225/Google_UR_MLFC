@@ -38,6 +38,9 @@ here is some way to contribute this project
     cd data/utils
     bash ./sshfs.sh
     python3 ./label.py
+    ##for labeling on local site
+    cd data/utils
+    python label.py -dp ../raw_data/data1000.json -ip ./annotated_id.json -lp ./data_label.json -op ../multi_label_data/data1000label.json
     ```
 * Label verfication(not available yet)
     * usage: python3 ./data/utils/label.py --mode verify
