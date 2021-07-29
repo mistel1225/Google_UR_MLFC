@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/12567967/re-enabling-encryption-after-disabling-all-accessibility-services?hl=en",
-    "title": "Re-Enabling encryption after disabling all accessibility services",
-    "content": "Hello.\n\nAs you might know, data encryption stops being \"enhanced\" the moment you enable an accessibility service. I've been using an accessibility service until now (which I don't need anymore), and I'm wondering how to re-enable the enhanced data encryption after disabling the accessibility service.\n\nI do not want to use secure start-up (it's annoying, and I'd like Direct Boot support). I would just like for my data to be encrypted with my PIN. I'm on Android 9.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-08-22T11:40:13.147445+00:00",
-    "reply": "1 Recommended Answer"
-}

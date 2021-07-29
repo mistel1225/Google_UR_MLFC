@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/11246362/pixel-xl-boot-loop?hl=en",
-    "title": "Pixel XL boot loop",
-    "content": "Like a week ago my phone started to freeze when using the camera. To get it working again, I had to force restart it, pressing down the power button for several seconds.\n\nToday I was using the camera and my phone froze again, this time it restarted by itself and is now in an endless boot loop.\n\nI already tried factory reset and installing the latest OTA for my device (9.0.0 (PQ3A.190801.002, Aug 2019)) from this link (https://developers.google.com/android/ota) using the ADB in my laptop, but neither of these worked.\n\nI would like to know which other options I have to get it working again, or if there is something Google can do for me.\n\nI bought it from Amazon as a certified refurbished device a year and four months ago.\n\nThanks for your help.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-08-04T04:13:20.093774+00:00",
-    "reply": "5 Replies"
-}

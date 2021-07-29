@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/26141156/why-does-search-bar-crash-when-pasting-japanese-from-clipboard?hl=en",
-    "title": "Why does search bar crash when pasting Japanese from clipboard?",
-    "content": "When I copy paste Japanese into the search bar it crashes. I've attempted support with Google chat several times. Here are steps I've taken so far that didn't work. \n\n- uninstall updates, reinstall them\n- uninstall Google Japanese keyboard, reinstall\n- force stop, disable Google, re-enable Google\n- reboot to safe mode\n- clear cache \n- opted out of beta, revert to regular Google \n\nWhen I select the search bar widget from home screen, it opens Google search, and then I paste Japanese from the clipboard, but the Google search app freezes then crashes. No haptic feedback followed by \"paste/paste as plain text menu\", the  cursor disappears, and the screen closes. \n\nThank you",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2020-01-19T23:31:23.588847+00:00",
-    "reply": "1 Reply"
-}

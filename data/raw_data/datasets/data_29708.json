@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/9668665/pixel-is-not-working-qusb-bulk?hl=en",
-    "title": "Pixel is not working. qusb__bulk",
-    "content": "Hi!\nMy phone has stopped working.\nIt does not respond to the power button, there is nothing on the screen.\n\nWindows Device Manager defines it as qusb__bulk.\nLinux defines it as Qualcomm USB modem.\n\nBootloader is locked and I have always used only official android.\n\nIt seems that the device has switched to EDL mode.\nI think this is a software error and you solved it in the last update:\nhttps://source.android.com/security/bulletin/pixel/2019-07-01\n\"Fixes an issue for some devices getting stuck in EDL mode with a blank screen\"\n\nPlease help solve this problem.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-07-11T08:02:23.572825+00:00",
-    "reply": "3 Recommended Answers"
-}

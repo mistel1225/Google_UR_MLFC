@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/31710744/l2pt-vpn-psk-issues-with-android-10-pixel-4xl?hl=en",
-    "title": "L2PT/VPN (PSK) Issues with Android 10/Pixel 4XL",
-    "content": "I recently switched from iOS/Verizon to Android/Pixel/GoogleFi.  One issue I am having I run UniFi and I cannot connect to my L2PT VPN with the Pixel 4 on GoogleFi.  I still have a few iOS phones and other PC/Macs that have no issues connecting.  I opened a case with Google and they seem to want to redirect me to Ubiquiti for support, but since it works with other devices I am reluctant to think it is a UniFi issue.  Settings fields are the same regardless of the device (host name/network type/shared secret/credentials).\n\nI am not sure if this is a Pixel android issue or something Fi specific.\n\nAny thoughts?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2020-02-28T15:30:11.486404+00:00",
-    "reply": "5 Replies"
-}

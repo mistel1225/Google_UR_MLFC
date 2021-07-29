@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/84671504/help-with-p3xl-brick?hl=en",
-    "title": "help with p3xl brick",
-    "content": "Hey, maybe someone can help me, i have p3 xl, morning (yesterday) i just reboot my phone and when my phone is turn on, he just enter fastboot and have error \"device state: error!\" and \"enter reason: error to preload images\", i cant enter in recovery for wipe data, idk what need to do... bootloader was locked, have clean device. video (googlephoto)\n- i try unlock bootloader from cmd (adb), but can't because developer settings\n- try flash from flash.android.com, but again bootloader\n- try change A/B, but again cant because bootloader\ni can enter only fastboot (auto, when turn on device or when plug in charge), if i try enter recovery (from fastboot) i have black sreen ~5-10 sec and again enter at fastboot... (i think he reboot for enter recovery, but because cant... again fastboot..), idk what happend, because all was fine =\\idk so much pixel, 2 friends will buy it too... but now, idk, 2y old phone is dead =\\",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2020-11-22T17:24:38.858579+00:00",
-    "reply": "1 Recommended Answer"
-}

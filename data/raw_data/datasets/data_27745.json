@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/15810250/pixel-3-not-charging-i-ma-getting-an-notification-analog-audio-accessory-detected?hl=en",
-    "title": "Pixel 3 not charging - i ma getting an notification :analog audio accessory detected\",",
-    "content": "1. Switching cables, chargers, ports, OS and PC, in order to decline the option for a problem with a specific accessory.\n2. Turning ON/OFF the Pixel and the PC while being connected/disconnected.\n3. Enable and disable the relevant developer options and trying again after rebooting (Relevant options: USB debugging, default USB configuration set to file transfer, etc).\n4. Reboot in Safe Mode and try again.\n5. Cleaning the USB port.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3",
-    "post_time": "2019-10-02T03:02:09.488058+00:00",
-    "reply": "1 Recommended Answer"
-}

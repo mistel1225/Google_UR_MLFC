@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/26116871/multiple-user-account-disabled-voice-match?hl=en",
-    "title": "Multiple user account disabled voice match",
-    "content": "I have two user accounts, my main and a secondary account for guests.\n\nVoice match is enabled on my account, disabled on the secondary one. When I switch from primary to secondary and then back, voice match doesn't work any more.\n\nThe slider turns itself off in the voice match settings, until I restart the phone. Then it either works, or asks me to setup voice match. Changing to the secondary account and back breaks it again.",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 4 XL",
-    "post_time": "2020-01-19T17:08:06.349832+00:00",
-    "reply": "1 Recommended Answer"
-}

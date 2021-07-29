@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/16564322/pixel-one-stuck-on-a-bootloop-with-no-way-to-get-out-maybe-any-last-hope-from-the-community?hl=en",
-    "title": "Pixel One stuck on a Bootloop with no way to get out maybe any last hope from the Community?",
-    "content": "Hi Google Community,\nI'm a Pixel user since about 2 1/2 years now and was just waiting to get the new Pixel4 i hoped that my old Pixel would last until the end of this month... Some info from my phone which may help:\nPixel Shippped From UK cause its not officaly selling in my country (Switzerland), Boot-slot: b, Console: DISABLED, Secure Boot: PRODUCTION, Device is LOCKED\n\nWhat if tried so Far to get out of the bootloop:\nCool the pixel in the fridge (maybe overheated?);  \nwent in to Bootloader and tried to reach Recovery Mode which put me back to the Bootloop;\nCould be that my Power button was stuck, so I tryed to mobilize it and the volume button , this help me to reach Recovery Mode. \nI tried to do a Factory reset which worked but when i started the Pixel it was still stuck in the Bootloop. Some times it Boots up to the Homescreen when i enter my SIM-code and its starts to load data it resets and gets stuck again in the bootloop\nThe last thing I tryed was to Fastboot my Pixel over my Pc but since in didn't enable USB debugging on my phone thers no way that would work i guess...  Or can you sideload a Recovery image with your phone lcoked?\n\nany Help is appreciated!",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-10-11T14:51:37.64785+00:00",
-    "reply": "1 Recommended Answer"
-}

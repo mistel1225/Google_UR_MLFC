@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/23607042/pixel-4xl-android-10-file-transfer-mode-settings-ignored?hl=en",
-    "title": "Pixel 4xl/Android 10 - File Transfer mode settings ignored",
-    "content": "I just moved to a 4xl from a different brand, so I'm changing phones and going from 9 to 10.  When I plug my phone via USB into either PC or Mac, it pretty much always comes up in charging mode instead of File Transfer mode, completely different behavior from my old phone.\n\nI have enabled Developer Mode (as a dev, I do that anyway) and set the USB Preferences there, but those are still being ignored.  Going back to that menu, they are unchanged, and pretty clearly say File Transfer mode is the default.\n\nAfter connecting, I can go through the notification to change the mode, and that screen is slightly different from the Dev Mode settings - there are two sections - the bottom section lets me switch it to File Transfer mode, but there is also a top section - \"USB Controlled by\", which is set to \"This Device\".  This not only seems logical, but it is also the only option that seems to work.  At least on my Mac, changing to \"Connected Device\" grays the screen, says that it's trying to switch, then comes back with \"This Device\" still selected and a subtitle under Connected Device that reads \"Couldn't switch\".\n\nAny other suggestions for getting this mode to stick?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2019-12-23T10:21:24.29972+00:00",
-    "reply": "1 Recommended Answer"
-}

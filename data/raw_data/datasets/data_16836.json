@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/70084712/android-11-storage-access-google-play-issue?hl=en",
-    "title": "Android 11 Storage Access/Google Play Issue",
-    "content": "Hello,\n\nI have updated my Google Pixel 2 XL from Android 10 to Android 11 OTA. Now, none of my apps can access the storage on the device, and Google play repeatedly says that there is insufficient space despite the settings menu saying I have 4+GB free. I have tried to update apps in the play store in Safe Mode and restarted the device multiple times with no success. I really, really do not want to factory reset the device so that I do not lose my data. Is there anything else I can try to troubleshoot this issue?\n\nThanks,\nDaniel",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2020-09-09T16:01:01.809871+00:00",
-    "reply": "0 Replies"
-}

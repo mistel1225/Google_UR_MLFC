@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/21166265/pixel-2-extreme-lag-even-after-factory-reset?hl=en",
-    "title": "Pixel 2 extreme lag, even after factory reset",
-    "content": "As of last night (11-24), I started to experience extreme issues with lag across the device. It was first noticed with a Google search. After a very frustrating 2 hours, I backed everything up and did a factory reset. Also worth noting, I was on Android 9 at the time. After the clean slate, I updated to 10 and was working fine most of the day and only install minimal apps. \n\nAround 2pm, I installed my work's app to do some test validation and started to experience the lag issues again. I reset to safe mode and the problem persists. I have since removed all 3rd party apps, reset app settings, and cleared cache for the apps that were used. \n\nAnyone have any additional suggestions short of my second factory reset in less than 24 hours?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2019-11-26T00:24:42.92531+00:00",
-    "reply": "3 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/106101271/pixel-4-xl-other-party-sounds-like-a-robot-possible-root-cause-discovered?hl=en",
-    "title": "Pixel 4 XL; other party sounds like a robot. Possible root cause discovered.",
-    "content": "If you find yourself in a phone call with someone where they may for the entire call sound like a robot or it may alternate between sounding normal and then sounding like a robot.\n\nBoth you and the other party are probably communicating over Wi-Fi calling.\n\nThe other party needs to adjust some settings on their router to resolve this issue. Specific to my issue, the other party had a router I configured.\n\nBy default a fresh install of pfSense will put an automatic setting in the firewall for ISAKMP UDP Port 500. DISABLE IT. That's it.\n\nThe robotic call quality I believe is caused by the router dropping UDP packets when dealing with two WiFi callers. Good luck to you all.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
-    "post_time": "2021-04-14T00:31:19.984305+00:00",
-    "reply": "1 Reply"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/8505712/no-cell-service-on-google-pixel-1st-gen?hl=en",
-    "title": "No cell service on Google Pixel (1st Gen)",
-    "content": "The other day all of a sudden I could no longer toggle on the Mobile Data button from the settings. I restarted the device and after that I was able to toggle it but I've had no service since. The phone does not recognize the network at all (but it knows that a Sim has been inserted). I've used two Sim cards, none of them worked. And my Sim works on another phone. I still have an IMEI number (when I dial *#*#4636#*#* I can see the IMEI. I've tried the Run Ping Test button, Ipv4: Fail(2) IPv6: Fail(2). Mobile Radio Power is off by default, tried toggling it on, nothing. When I go into Settings>mobile network>Advanced, I can't seem to toggle \"automatically select network\" off (and therefore can't manually select a network). When I dial a number, it says airplane mode is on,  but it's off). I tried factory reset too, even that didn't help.\n\nThis thread makes me think that a new security patch update caused this. I got the update a week earlier and the problems started once I restarted the phone (and the update was installed).  \n\nDoes anyone recommend downgrading to the previous security patch? How? It's very frustrating and I'd really appreciate your help. Thanks!",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2019-06-22T13:52:30.647843+00:00",
-    "reply": "15 Replies"
-}

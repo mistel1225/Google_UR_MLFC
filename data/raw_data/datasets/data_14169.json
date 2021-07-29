@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/77390443/phase-2-authentication-is-missing-none-and-cant-connect-to-work-wifi?hl=en",
-    "title": "Phase 2 Authentication is missing \"None\" and cant connect to work wifi",
-    "content": "Got my new Google Pixel 5 today and in work it wont connect to the work WIFI. I have checked with my colleagues with android phones and they all need to put \"None\" as the option for Phase 2 Authentication but mine doesn't have that option. I have read other posts in the community with workarounds such as changing changing the Identity you enter to include the Domain and making the network hidden and randomising MAC and I promise I have sat here for hours trying every different way I can to log in but it just doesn't work. I have spoken to Google Support online ut they have just asked me to send them a bug report. Does anyone on here know anything else I can do? Also, yes I have spoken to my work IT team and they confirm they think I need to put \"None\" in as phase 2 authentication and they don't know a workaround.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2020-10-16T19:53:02.126481+00:00",
-    "reply": "0 Replies"
-}

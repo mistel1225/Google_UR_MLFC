@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/70690634/pixel-3a-rooting-issue-stuck-on-boot-loader-is-unlocked?hl=en",
-    "title": "Pixel 3a rooting issue, stuck on \"boot loader is unlocked\"",
-    "content": "Hello everyone, I really hope you can help me with this problem.\nI was trying to root the pixel 3a for mobile app penetration testing purposes. I followed the guide on how to root the device using Magisk, everything looked fine but after reboot the phone is stuck on \"The boot loader is unlocked and software..\" and f I move forward the phone freezes on G loading screen. Looks like I cannot do anything.\nI am not able to use fastboot commands because it says \"waiting for any device\".\nIs there a way to restore the phone?\nThank you very much",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3a",
-    "post_time": "2020-09-12T13:00:38.982939+00:00",
-    "reply": "1 Recommended Answer"
-}

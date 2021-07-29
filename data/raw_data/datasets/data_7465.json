@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/91324497/pixel-5-is-temporarily-freezing-after-deleting-a-photo?hl=en",
-    "title": "Pixel 5 is temporarily freezing after deleting a photo",
-    "content": "Hi All,\n\nI am on my second Pixel 5 now and am experiencing an issue in which the phone temporarily freezes after deleting a photo within the google camera or google photos app. \n\nSteps to reproduce are as followed:\n\n1. Open the camera app\n2. Take 4 photos\n3. Wait about 10 seconds\n2. Review the photos within the camera app\n3. Delete the 4th photo\n\nAt this point the app displays the 2nd photo ( instead of the 3rd), freezes the phone for about 3-5 seconds, displays the 3rd photo and unfreezes the phone. This is also happening with the google photos app.\n\nI have tried the following:\n\n1. Uninstall all updates\n2. Install all updates\n3. Run in safe mode\n4. Delete all cache and data\n5. Factor reset the phone\n\nNothing above solved the issue. \n\nI am not running any apps other than the ones installed by default, and this is the second Google Pixel 5 that is experiencing this issue.\n\nAt this point I'm thinking about returning the phone for a refund. Support had been back and forth on this; but has not resolved the issue. \n\nI'm hoping that someone in the community here can shed some light on this issue if they have experienced it. I've always had Google phones and this is my first phone since the Nexus 5 (it served me well). I really want to keep it; but this freezing issue is driving me nuts. \n\nThanks!",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 5",
-    "post_time": "2020-12-31T04:28:31.418873+00:00",
-    "reply": "4 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/92959571/trying-to-activate-messages-for-web-and-getting-dynamic-link-not-found?hl=en",
-    "title": "Trying to activate Messages for Web and getting \"Dynamic Link Not Found\"",
-    "content": "Since about 4PM today I've been trying to get Messages for Web to sync with my phone, but every time I click on the link in my QR Code Reader, I get a \"Dynamic Link Not Found.\" I've tried clearing the Messages cache and reinstalling the Messages app, but nothing has changed.\n\nIs Google's Firebase redirector hosed or am I missing something?\n\n\nThanks,\n-MB",
-    "is_img": 0,
-    "category": "Other, Google Pixel 5",
-    "post_time": "2021-01-11T07:58:12.624668+00:00",
-    "reply": "1 Recommended Answer"
-}

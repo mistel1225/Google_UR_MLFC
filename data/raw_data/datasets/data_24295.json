@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/25772453/how-to-get-a-new-randomized-mac-address?hl=en",
-    "title": "How to Get a New Randomized MAC Address?",
-    "content": "The built in MAC address randomization will generate a randomized MAC address the first time you log into a wifi network - and it will stick with that MAC address each time you are on that network.\n\nIs there a way to cause the phone to generate a new randomized MAC address for a network to which it has already assigned a randomized MAC?\n\nI tried \"forgetting\" the network, but the phone did not forget the previously assigned randomized MAC address.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
-    "post_time": "2020-01-15T23:23:01.673591+00:00",
-    "reply": "1 Reply"
-}

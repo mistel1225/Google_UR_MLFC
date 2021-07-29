@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/86889897/massive-performance-issues-and-crashing-after-android-10-update?hl=en",
-    "title": "Massive performance issues and crashing after Android 10 Update",
-    "content": "After the Android 10 update, my phone has been intermittently having audio issues (headphones won't work unless I restart the phone with the headphones plugged in) and repeated issues with the lock screen/home screen crashing (notably, the notification shade would be the only functional thing while the home screen or lock screen was non functional). Additionally, several apps started to suffer from occasional extreme lag. I had hoped that the final Pixel 1 update would fix the issues, but instead it made things worse, causing the phone's speakers and microphone to not work in any application, the phone app to crash when selecting a contact, and several gaming apps to fail to launch at all (some games, like Dragalia Lost, just black screen for a few seconds then crashes, while Mario Kart Tour has functional menus but consistently crashes when attempting to load a level). I have factory resetted the device, but this did not fix any of the issues. Since my device is a Verizon model, I can't unlock the bootloader and install an older version of Android.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2020-12-04T19:59:21.876873+00:00",
-    "reply": "0 Replies"
-}

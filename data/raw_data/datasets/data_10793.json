@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/87113829/recent-android-update-pixel-5-seems-to-have-messed-up-storage-permissions-and-are-not-functioning?hl=en",
-    "title": "Recent Android update (Pixel 5) seems to have messed up storage permissions and are not functioning.",
-    "content": "I first noticed this with Google Camera when I couldn't open the recent photos to view the photo I had just taken. Then I saw a notification that showed that the photo was still saving, so I waited, but after a significant amount of time, nothing changed. I force stopped the app, I wiped storage, I rebooted, I reverted the camera app to the original version, and I tried downloading another camera app, and that couldn't save photos either.",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 5",
-    "post_time": "2020-12-06T07:38:11.764425+00:00",
-    "reply": "1 Recommended Answer"
-}

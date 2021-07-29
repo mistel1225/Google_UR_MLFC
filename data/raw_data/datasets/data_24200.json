@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17872046/pixel-xl-stuck-in-boot-loop-after-android-10-update?hl=en",
-    "title": "Pixel XL stuck in boot loop after Android 10 update.",
-    "content": "Similar issue to others posted here, but some of the specifics seemed different, so thought I'd start a new post.  This is for a Pixel XL.  I updated to Android 10 several days ago with no issues.  I got notice of another update last night and installed it (I'm guessing it was an October update of some sort).  After the update was done, I used the phone a little longer before bed.  Today, I've been in a freeze and boot loop saga.  First, I noticed my home screen suddenly looked glitched and the controls were unresponsive.  I got into the recovery and did a factory reset, but the phone came back to just a boot loop.  I get the white background and Google logo, then it restarts.  Sometimes it gets to the point where the little animation plays, but then it freezes and restarts.  I can't get into the device to turn on the settings needed to fall-back to Android 9 via ADB (I've tried).  Stuck with either a paperweight now.  At least I was able to power it off from recovery so that I didn't have a glowing Google logo paperweight until the battery completely died.  Now I wait and see what Google, is going to offer up as a solution since the options which are documented aren't viable for this issue.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-10-27T22:08:44.966682+00:00",
-    "reply": "4 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/40522122/pixel-3-camera-not-focusing?hl=en",
-    "title": "Pixel 3 Camera Not Focusing",
-    "content": "I am having a problem with the camera on my Pixel 3. It was working fine yesterday, and all of a sudden, this morning it would no longer focus when taking a picture. At first I thought that this was just a random fluke, so I rebooted the phone, which didn't fix it. I went on to clear the storage and cache folder of the Google camera app, restart the phone in safe mode, force stop any apps that may have been using the camera, none of which worked. \n\nI thought at first that this could be related to the April security update I received late last night, and began talking to my friend who has a Pixel 3 XL. He mentioned that this morning, his camera also would no longer focus. However, he has had the April update for quite a while longer than I have. We tried ruling out apps that were updated or installed since last night, which included Android accessibility features, Android System WebView, and the device customizations app -- we tried uninstalling updates to these but that did not fix the issue.\n\nI was about to throw in the towel on this being a hardware issue until my buddy mentioned his phone having the same exact issue, at the same exact time. I am wondering if anyone else has experienced this issue. Unfortunately, Google Support is not exactly helpful in this scenario -- the best piece of advice they could give was to just send the phone into the repair depot or buy a Pixel 4 and trade this in.",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3",
-    "post_time": "2020-04-16T22:59:47.309243+00:00",
-    "reply": "1 Reply"
-}

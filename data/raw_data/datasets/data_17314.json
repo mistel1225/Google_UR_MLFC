@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/67725725/pixel-4a-issues-with-assistant-when-in-my-pocket-and-triggering-with-bluetooth-ear-buds?hl=en",
-    "title": "Pixel 4a issues with Assistant when in my pocket and triggering with Bluetooth ear buds",
-    "content": "I just upgraded from a Pixel 2 to a 4a, and I'm happy with it for the most part. But I keep running into one annoying problem on the 4a that wasn't an issue on the 2.\n\nWhen I leave the house with my Bluetooth ear buds on to walk the dog or go for a run or whatever, I like to use the button on ear buds to trigger Google Assistant to do various things: lock the front door, close the garage door, play some music, etc. This was never a problem with the Pixel 2. However, I am frequently running into an issue on the Pixel 4a where Assistant quickly turns off without responding when launched from Bluetooth. The cause appears to be that launching the newer version of Assistant this way always turns on the screen, and with the phone in my pocket I believe something is touching the screen and canceling the Assistant. I never have an issue when the phone isn't in my pocket. \n\nIs there any sort of setting to tell Assistant to not turn the screen on when launched from Bluetooth? I shouldn't have to take my phone or if my outfit to launch Assistant.",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 4a",
-    "post_time": "2020-08-29T03:17:38.542498+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/41122713/pixel-2-charges-more-slowly-once-it-s-been-to-sleep-even-after-waking-again?hl=en",
-    "title": "Pixel 2 charges more slowly once it's been to sleep, even after waking again",
-    "content": "I just got a USB power meter, to compare my USB-C cables, and I noticed something strange: when my Pixel 2 goes to sleep, it starts drawing less power—and then CONTINUES drawing less power, even after I've woken it up again!\n\nWhen I plug the cable in, I get about 1.5A, and as soon as I put it to sleep, it drops to around 0.7A, and then DOESN'T go up again upon wake (sometimes it'll briefly go up as high as 1.0A, but it only stays there momentarily before dropping back to 0.7A again, and staying there).\n\nMy first thought was \"maybe the sleep shut down something power-hungry in the background\", but all I have to do to get it back up to 1.5A is disconnect and reconnect the cable one more time, and it'll stay at 1.5A until its next sleep, just like before (and then stay down at 0.7A after waking again, just like before.)\n\nI've put together a video demonstrating it here, if my description isn't clear: https://youtu.be/iozZXJsrGs0",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 2",
-    "post_time": "2020-04-19T20:38:09.602123+00:00",
-    "reply": "1 Recommended Answer"
-}

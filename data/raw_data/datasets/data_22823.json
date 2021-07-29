@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/29513390/phone-app-update-kills-call-screening?hl=en",
-    "title": "Phone app update kills Call Screening",
-    "content": "I've tried clearing phone app cache, force quitting phone app, restarting phone.  The 'Screen Call' option is missing in the phone app settings - and it won't ask me if I want to screen when a call comes in.\n\nThe only thing that 'fixes' the issue is to un-install the Phone app update.  Then I can see the 'Call Screening' option in settings - and I get the 'Sceen Call' button for a phone call.\n\nBTW - there is no version number for the phone app update, so I have no way of knowing when there is a different version of the app whereas this issue might be fixed.  I have to turn OFF auto-updates, and as prompt security updates are one of the main 'features' of the Pixel phones ... this is undesirable?",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3a",
-    "post_time": "2020-02-22T18:56:02.614383+00:00",
-    "reply": "5 Replies"
-}

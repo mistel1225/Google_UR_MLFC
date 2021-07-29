@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/73270712/spotify-app-lags-when-open-in-background-after-android-11-update?hl=en",
-    "title": "Spotify app lags when open in background (after Android 11 update)",
-    "content": "Every time I listen to spotify and eventually my phone screen goes off with the app running in the background, the music starts lagging or even stops. Then, as soon as I clink the wake-up botton, the music starts flowing again. This happens with WI-FI, with mobile data and even when listening to saved songs offline.\nI have tried:\n- Restarting phone;\n- Clean reinstall of Spotify;\n- Granting spotify all permissions, including the one to run in background, unrestricted data access and everything that was possible to grant;\n- I manually chose NOT to optimize battery only for spotify;\n- I disabled the adaptive battery.\n NOTHING worked. Please help me fix this!\n\nHere's the link to Spotify community forum where other users have the exact same issue: https://community.spotify.com/t5/Android/Spotify-LAG-when-open-in-background/m-p/5041845#M168756",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3a",
-    "post_time": "2020-09-25T19:51:30.50453+00:00",
-    "reply": "0 Replies"
-}

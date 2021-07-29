@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2072130/my-pixel-3-reboots-everytime-i-turn-hotspot-on-how-to-debug?hl=en",
-    "title": "My Pixel 3 reboots everytime I turn Hotspot on. How to debug?",
-    "content": "My phone reboots around 20 minutes after I turn on the Hotspot and another device connects to it.\nI tried booting into safe mode and it still happens. I did not see it happening with no devices connected, only when my other phone (Android device) connects to it.\n\nI do not have the exact steps to reproduce as I did not find a pattern for this, but here is what causes the problem:\nOn Pixel 3:\nWifi is on (doesn't matter if connected to network or not)\nTurn on Hotspot via Quick Settings Menu\n\nOn the other device: \nTurn on Wifi\nConnect to Pixel 3 hotspot\n\nWait ~20 minutes, Pixel 3 reboots. It did happen both when I was using the phone actively and when it was on my pocket.\n\nAny suggestion here on how to find logs or any leads to help me fix this problem is appreciated.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2019-03-05T19:44:27.840646+00:00",
-    "reply": "2 Replies"
-}

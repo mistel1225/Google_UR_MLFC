@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/60859114/notifications-auto-silencing-after-1-ring-alarms-timers-phone-calls?hl=en",
-    "title": "Notifications Auto-Silencing after 1 ring (Alarms, Timers, Phone Calls)",
-    "content": "I'm incredibly frustrated with my Pixel 3.\n\nFor the past few weeks my notifications from my Google Clock and Phone apps have been broken. I've noticed the following behaviors:\n\nAlarms always automatically snooze themselves the first time they trigger. They sometimes work normally after the first snooze, other times they automatically snooze again.\nPhone calls have about a 50% chance of ringing normally, otherwise they only ring once before they silence themselves. The incoming call isn't declined, but the ring is absent\nTimers automatically stop themselves after an initial sounding, maybe 1s before they automatically turn themselves off.\n\nI've seen other users post about these issues here:\nhttps://www.reddit.com/r/GooglePixel/comments/gracvu/google_pixel_4xl_rings_once_then_goes_silent/\nhttps://support.google.com/pixelphone/thread/13803902?hl=en\nhttps://www.reddit.com/r/GooglePixel/comments/5g5ucp/disappearing_ring_and_alarm_volume_problem/\n\nI've tried clearing the app's cache and storage, clearing all app data (essentially factoring resetting every app on my device via the device settings menu), and playing with my notifications and do not disturb settings. Nothing seems to have worked. After clearing my Clock app's storage I did actually notice the problem go away for the next alarm, but then it returned the very next time after.\n\nNot sure what changed but none of the suggestions i've seen on this forum for similar issues have resolved this one. It's starting to get hard to live with.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2020-07-24T18:19:58.408135+00:00",
-    "reply": "1 Reply"
-}

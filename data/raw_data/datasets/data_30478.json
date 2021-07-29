@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2951216/pixel-3xl-does-not-wake-up-when-the-fingerprint-scanner-is-used-or-the-screen-is-double-tapped?hl=en",
-    "title": "pixel 3xl does not wake up when the fingerprint scanner is used or the screen is double tapped",
-    "content": "I have had my Pixel 3xl since early December, since friday i have noticed that it fails to recognise the fingerprint scanner when used to unlock the device. It will also fail to register when the screen is double tapped of the power button is tapped or pressed. Multiple uses of the fingerprint scanner fail to unlock the phone, but after between 1 minute and 5 minutes the phone will suddenly unlock and be active.\nThe Phone screen will also not wake up if i receive a phone call, i have no way to accept the call or to cancel it.\nOften when the phone does unlock i get the error message that \"System UI is not responding\" and would i like to close or wait.\n\nThe phone also seems to be running very slow and can take up to 10 minutes to boot from either a cold start or a reboot.\n\nSo far i have tried the following:-\nCarried out a full factory reset - result was the issue was still there\nreset app permissions - result was the issue was still there\nbooted into safe mode to see if the issue continued - issue was not present\nremoved every non google app from the device, cleared the cashes - issue still present on device.\n\nI am now out of bright ideas to try and need some advice as to what to do next\n\nThanks",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2019-03-24T17:06:24.521675+00:00",
-    "reply": "1 Recommended Answer"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/85882115/how-can-i-fix-a-device-that-has-been-corrupted?hl=en",
-    "title": "How can I fix a device that has been corrupted?",
-    "content": "I bought a google pixel 4a a few days ago and it was working fine but suddenly I can't acces it. It displays a message saying \"Your device is corrupt, it can't be trusted and may not work properly\". After looking into it I found out that I could fix it by going into the recovery mode and doing a factory reset but when I try doing that it doesn't work either. This is what it displays:\nWiping data...\nE: open failed: /metadata/ota: No such file or directory \nFormatting /data...\nFormatting/ metadata...\nWiping Titan M...\nE: can't send spi message: try again. It displays this over 20 times and then it says \"Data wipe complete\"\nSo I can't solve it by doing a factory reset. Is there anyway I can fix this? I would appreciate some advice.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4a",
-    "post_time": "2020-11-29T12:39:36.86794+00:00",
-    "reply": "1 Reply"
-}

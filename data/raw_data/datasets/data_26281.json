@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/19414270/unable-to-make-sip-calls-over-wifi-on-pixel-2-when-google-fi-account-is-inactive?hl=en",
-    "title": "Unable to make SIP calls over WifI on Pixel 2 when Google Fi account is inactive",
-    "content": "I've recently got a new Pixel 4 so I've transferred my Google Fi account from my old Pixel 2 to the new Pixel 4. I now want to retask the old Pixel 2 and use it over my local WiFI network as a handset for making SIP calls via a local server; ie no access is needed to the cellular network. This is something I've done several times in the past with previous Google phones, using the regular phone app, but I can't get it to work on the Pixel 2.\n\nWhen I try and place a call, specifying the option in \"Make calls with\" to \"Ask First\", the app asks me to \"Choose SIM for this call\" but both items on the list (the eSim and the SIP account) show as greyed out. Note if I re-enable Google Fi on the phone then both items show as enabled, and I can make the SIP calls, suggesting it's something to do with the eSim.\n\nNote that the phone DOES receive SIP calls, so it is provisioned correctly to the server. Also If I return an incoming SIP call then, the outbound call goes through - presumably because the number to dial is unambiguously a SIP number (number@server.ip).\n\nSo anyone know how to work round this using the standard dialler app? I've tried disabling the eSim. using airplane mode etc., but no luck",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 2",
-    "post_time": "2019-11-12T08:30:50.66202+00:00",
-    "reply": "2 Replies"
-}

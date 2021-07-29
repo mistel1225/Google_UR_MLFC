@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/21156782/pixel-3-upgraded-to-android-10-pin-increases-to-8-digits-ms-exchange-activesynch-set-for-6-digits?hl=en",
-    "title": "Pixel 3 Upgraded to Android 10. PIN increases to 8 digits, MS Exchange/ActiveSynch set for 6 digits",
-    "content": "I upgraded a Pixel 3 to Android 10 without issue.  PIN requirement from default Mail app was working w/6 digit PIN prior to upgrade.  Other devices continue to work with6 digit PIN configured in Microsoft Exchange/ActiveSynch.  Exchange is hosted at outlook.office.com by Microsoft.  After upgrade Mail requires 8 digit PIN to synch.  Deleting exchange account  changes requirement to 4 digit PIN.  Adding exchange account again requires 8 digit PIN.  Confirmed server setting require 6 digit PIN.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2019-11-25T21:48:17.38945+00:00",
-    "reply": "0 Replies"
-}

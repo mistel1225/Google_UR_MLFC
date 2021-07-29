@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/22396122/photos-not-recognising-wifi-is-connected-with-1-1-1-1-active?hl=en",
-    "title": "Photos not recognising WiFi is connected with 1.1.1.1 active",
-    "content": "When I'm connected to public WiFi, and I also have Cloudflare's 1.1.1.1 app connected to use their DNS, the Google Photos app doesn't recognise that I'm connected to WiFi. I have the settings in the Photos app setup to only backup when connected to WiFi, but if I take a photo and then open the Photos app to back the photo up, it tells me that it's waiting for WiFi to do the backup. As soon as I disconnect Cloudflare, the Photos app can see that I'm connected to WiFi and does the backup.\n\nPhotos app is v4.32.1.282438324 and Cloudflare app is v3.13. Phone is running latest Android 10 update.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
-    "post_time": "2019-12-09T21:37:28.429614+00:00",
-    "reply": "2 Replies"
-}

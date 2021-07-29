@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/110842719/why-does-my-sim-only-get-recognised-in-safe-mode?hl=en",
-    "title": "Why does my SIM only get recognised in safe mode?",
-    "content": "My phone's SIM only gets recognised in safe mode with a few exceptions.\nOn startup it gets recognised, (not safe mode) and then after about 30-60mins my phone says: No SIM Card on the quick settings tile and all calling options are gone.\n\nIn safe mode the SIM has never disappeared or become unrecognised and I left the phone in safe mode for multiple 12hr+ stints with no issues.\n\nThis lead me to remove the \"phone\" permission from 3rd party apps (no difference).\nI also changed to two of my other SIMs (same problem again). \nInterestingly, if I take the SIM out while the phone is still on, I can make it appear again if I insert it very slowly but this only lasts as long as 30-60mins as stated before.\n\nIf anyone has any idea what is causing this, any info would be much appreciated, thanks. :)",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 4a",
-    "post_time": "2021-05-22T21:45:58.041782+00:00",
-    "reply": "2 Replies"
-}

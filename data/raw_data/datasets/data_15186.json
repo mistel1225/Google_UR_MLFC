@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/74607278/pixel-2-xl-stuck-in-fastboot-mode?hl=en",
-    "title": "Pixel 2 XL stuck in Fastboot mode",
-    "content": "Hi guys, when I upgrade the Pixel 2 XL to android 11 with the new Android Flash Tool the phone got stuck with the android letters.\n\nBut when I rebooted the phone, I got a \"corrupted phone\" message error and every time I turn it on it turns on fastboot mode (already go to recovery mode and did whipe and reset, but nothing happens, same fastboot loop). \n\nI try to connect it to the computer but the ADB does not recognize to install a factory image. \n\nI do not know what to do.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2020-10-02T21:36:42.278136+00:00",
-    "reply": "0 Replies"
-}

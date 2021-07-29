@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/36482371/cannot-share-articles-from-google-discover-feed-via-google-amp?hl=en",
-    "title": "Cannot share articles from Google Discover Feed via Google Amp",
-    "content": "This is the same issue as Can't share from Google Assistant but  as \"This question is locked and replying has been disabled.\". I figured I would open another issue.  This is happening on both my Pixel 4XL and my wife's Pixel 3a XL.  If we clear the cache of both the Google App and Chrome, it may or may not work.  It does work after restarting the phone for a bit...  \n\nThe issue is...\n\nWhen you click on an article in your Google Discover Feed, which then opens said article via Google Amp, the Share button for Google Amp does nothing. This is rather annoying.  If I then open that article, via Google Amp, in Chrome, the Share button works as it should.  This has been happening for a while.  Clearing the Cache is not a remedy.  A fix needs to be made.",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 4 XL",
-    "post_time": "2020-03-29T15:18:20.745206+00:00",
-    "reply": "4 Replies"
-}

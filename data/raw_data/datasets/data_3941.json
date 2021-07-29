@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/103735561/after-windows-10-20h2-update-pixel-5-no-longer-appearing-as-a-device-accessible-in-windows-explorer?hl=en",
-    "title": "After Windows 10 20H2 update, Pixel 5 no longer appearing as a device accessible in Windows Explorer",
-    "content": "Prior to the 20H2 update, I was able to plug in my Pixel 5 via USB with no problem, select USB File Transfer, and see my Pixel 5 as a device with which to transfer files. But now, it's no longer appearing. When I plug in my Pixel 5, an \"Android Devices\" node appears in Device Manager, with \"Google Nexus ADB Interface\" listed. The driver for this is showing as \"ClockworkMod\" dated 8/27/2012. But I'd done nothing about this before. So I tried removing it & wiping from the registry, with no results. Previously, a node labeled \"Portable\" would appear and inside that a \"Pixel 5\" device would show. And file transfer was possible.\n\n\n\nI downloaded the latest Android USB drivers and successfully installed from \"android_winusb.inf\". But this does not change anything.\n\nMicrosoft Tech Support has not been helpful. They wanted me to roll back to the previous version of Windows, but that seems way too drastic and potentially problematic. There MUST be a way to correct this driver issue. Can anyone here help me out? Thanks.",
-    "is_img": 1,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2021-03-24T18:54:54.492275+00:00",
-    "reply": "1 Recommended Answer"
-}

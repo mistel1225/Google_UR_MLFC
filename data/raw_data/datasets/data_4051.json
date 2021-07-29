@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/104471117/pixel-3xl-has-device-is-corrupt-at-startup-even-after-ota-flashing-and-factory-reset?hl=en",
-    "title": "Pixel 3XL has \"Device is corrupt\" at startup, even after OTA flashing and factory reset",
-    "content": "The phone had been unstable for a few weeks, with random reboots and applications crashing. This night, after a random reboot, it now consistently says the device is corrupt at power-up. \n\nI flashed the latest OTA firmware by following the guide using adb command line tools. This failed the first time, but succeeded the second time. Since that did not solve the issue, I also did a factory reset. The message still persists.\n\nI'm guessing the phone has a hardware issue. Is there a way I can confirm this?\n\nExtra info: I never modified the phone in any way, just kept it pure stock.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2021-03-30T23:09:36.606203+00:00",
-    "reply": "1 Recommended Answer"
-}

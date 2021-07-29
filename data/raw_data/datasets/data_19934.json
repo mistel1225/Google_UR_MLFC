@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/56720643/data-connection-repeatedly-resets-causing-phone-restart?hl=en",
-    "title": "Data Connection Repeatedly Resets Causing Phone Restart",
-    "content": "Occasionally, the wi-fi connection drops reverting to cell data connection, and the cell data connection frequently resets (and seems exacerbated by the use of Maps). Behavior seems to make the Wi-fi connection reset as well after wi-fi returns. If the data connection resets too many times in a row, the phone will reboot itself. Can confirm that the behavior occurs in Safe Mode while using Maps - data connection disappears and then reconnects repeatedly. This makes it useless in using Maps on the road, since I need to unlock my phone after reset and it's impossible while driving.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4",
-    "post_time": "2020-07-02T13:43:14.189318+00:00",
-    "reply": "0 Replies"
-}

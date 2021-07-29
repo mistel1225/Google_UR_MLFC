@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/77304118/pixel-3-volume-automatically-increasing-and-power-button-stops-working-too?hl=en",
-    "title": "Pixel 3 volume automatically increasing and power button stops working too",
-    "content": "The volume is automatically increased, the volume drawer keeps showing and power buttons stops working too (given that this happens even if no headphones are connected) whenever I start using any media app (Youtube, Netflix, etc) and would continue to occur even if I close those apps.\n\nI had faced same issue earlier and I restarted the phone in safe mode, the problem didn't reproduce in safe mode. So, I followed a community post thread which suggested it was due to an app. I had installed Photo scanner app by google recently so I uninstalled it. After that the issue got fixed.\n\nBut, now I have again started facing the issue, and this time there is not recent app installed. I tried to open in safe mode but it started showing \"No Command\" screen.\n\nI have started facing these issues after Android 11 update. Please suggest how to fix it.\n\nThanks.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2020-10-16T12:11:15.13409+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1636403/windows-10-not-detecting-my-pixel-xl?hl=en",
-    "title": "Windows 10 not detecting my Pixel XL",
-    "content": "My Windows 10 laptop completely fails to recognise my Pixel XL. When plugged in the phone charges, but Windows doesn't make the notification sound when connecting or disconnecting, and nothing shows up in Device Manager or in my connected Devices. I'm trying to install drivers but if my device doesn't appear I can't force a driver update. USB debugging is enabled and default USB function is set to data transfer.\nI've now installed Google USB Driver via Android Studio but no change.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-02-14T09:11:52.540644+00:00",
-    "reply": "5 Replies"
-}

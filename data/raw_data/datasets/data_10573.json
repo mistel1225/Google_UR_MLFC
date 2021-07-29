@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/87509333/ota-system-updates-will-not-work-over-wifi?hl=en",
-    "title": "OTA system updates will not work over WiFi",
-    "content": "Hi\nI have a Pixel 5 on EE (UK)\nOTA system updates only seem to work for me if I disconnect WiFi and use mobile data.\nIf I look for a system update over wifi it says I'm up to date.\nIf I turn off wifi, it detects the OTA update but then it says \"Download Paused\" with a warning about \"Downloading updates over a mobile network, metered Wi-Fi or while roaming may cause additional charges\"\nI then turn on wifi, and it says \"System update, update available\" in the System menu\nIf I go into this, I just get the above \"download Paused\" message constantly, even after clicking \"Resume\"",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2020-12-08T09:31:03.83371+00:00",
-    "reply": "2 Recommended Answers"
-}

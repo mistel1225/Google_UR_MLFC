@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/43230279/new-google-assistant-doesn-t-reroute-destinations-in-maps-via-voice-command?hl=en",
-    "title": "New Google Assistant doesn't reroute destinations in Maps via voice command",
-    "content": "I've had this issue since February and contacting support has gone nowhere.  Basically the issue is this\n\n1) Start a route with google maps\n2) Use a voice command to try to change your destination\n3) Assistant confirms that the route is changed but the route isn't actually changed.\n\nIt has to do with the new assistant.  If I add a language pack where the new assistant isn't supported it works just fine.  If I minimize google maps, the voice command works fine and will actually ask if I want to end navigation before I start the new route.\n\nGoogle support has just said they would send it up the line and asked me to send feedback via the google maps app and google assistant app.  The issue still persists and I'm able to reproduce it on a freshly factory reset Pixel 4 and on other Pixel 4s.",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 4 XL",
-    "post_time": "2020-04-29T11:45:23.692829+00:00",
-    "reply": "5 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/56616066/google-assistant-accepts-hey-google-play-show-on-chromecast-but-nothing-happens?hl=en",
-    "title": "Google Assistant accepts \"Hey Google, play SHOW on Chromecast\" but nothing happens",
-    "content": "When I do a \"Hey Google, play Dark on chromecast\"\n\nI get a \"Sure, Dark from Netflix.  Playing on Living Room TV...\"\n\nHowever, nothing actually happens.\n\nIn an attempt to resolve this I have:\n-restarted the Chromecast, Phone, and network devices.\n-Turned off \"Tap to Translate\" in Google Translate.  (I had recently enabled this feature, but believe it is unrelated)\n-unlinked Netflix, and performed a factory reset of the Chromecast.  And used the Pixel 4 to setup the Chromecast again.\n\nThis used to work flawlessly, but appears to have stopped working after one of the Phone Software updates.",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 4",
-    "post_time": "2020-07-01T22:29:08.700475+00:00",
-    "reply": "1 Reply"
-}

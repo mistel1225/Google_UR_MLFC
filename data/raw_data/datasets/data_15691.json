@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/73345943/audio-only-mutes-instead-of-pausing-when-bluetooth-headphone-pause-button-activated?hl=en",
-    "title": "Audio only mutes instead of pausing when bluetooth headphone pause button activated.",
-    "content": "New problem as of Android 11. When pressing the action button on a Bluetooth earpiece device, i.e. play/pause, any audio playing *mutes* but continues playing. \nWhen paused, pressing the action button will begin playing the audio, however. The same issue occurs for youtube and other audio media. Muting occurs, but not pausing.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2020-09-26T08:12:34.818478+00:00",
-    "reply": "0 Replies"
-}

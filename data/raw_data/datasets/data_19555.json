@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13511202/auto-rotation-auto-brightness-active-edge-double-tap-to-wake-do-not-work-in-10?hl=en",
-    "title": "Auto-rotation, auto-brightness, active edge, double tap to wake do not work in 10.",
-    "content": "1. Factory reset in Android 10.\n2. Update from Pie (sensors working) to 10 (not working anymore.\n3. sideloaded 10 and factory reset\n4. Revert to Pie (all the abovementioned work again)",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2019-09-03T22:00:22.455006+00:00",
-    "reply": "1 Recommended Answer"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/70963821/unable-to-turn-off-home-screen-launcher-sideways-scroll-animations-in-android-11-on-pixel-3?hl=en",
-    "title": "Unable to turn off Home screen (launcher?) sideways scroll animations in Android 11 on Pixel 3",
-    "content": "I always turn off the animations to ensure that I have a fast responding phone.\n\nSince updating my Pixel 3 to Android 11 I have noticed that the sideways scroll animation on the home screen has retained a bounce, even when animations are turned off. To me this is unnecessary as it  makes the scroll appear as if it takes longer.\n\nMy OG Pixel 1 running Android 10, also has animations turned off, and has no bounce when scrolling side to side on the home screen.\n\nSo now - in this respect - my 2016 Pixel 1 looks faster than the Pixel 3 :-/\n\nSo far I have tried: \nUsing 'Remove animations' in Accessibility settings\nTurning off animations using Developer options (Turned off Window animation scale, Transition animation scale, and Animator duration scale.)\nChecking the Pixel Launcher app settings - I didn't find any useful settings \n\nTurning on 'Remove animations' in Accessibility settings made no change the the side scroll bounce. Using the Developer options route reduces the bounce slightly, but it's still noticeable compared to Android 10.\n\nAre there any other settings I could try?",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 3",
-    "post_time": "2020-09-13T22:40:25.920399+00:00",
-    "reply": "3 Replies"
-}

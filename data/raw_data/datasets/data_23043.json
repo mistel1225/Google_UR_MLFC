@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/9203821/panning-video-is-choppy?hl=en",
-    "title": "Panning video is choppy",
-    "content": "When taking video in either 1080p or 4K, panning causes video to be choppy or \"stutter\". This only happened within the last few updates. I'm not sure if there is an issue with read/write speed to the internal storage or software issues within the Google Camera itself. It's becoming more and more prevalent recently and detracts from taking nice clear video of those special moments. Video quality has usually been quite smooth but not recently. \n\nTo replicate, take video in either 1080p or 4K and pan slight to the right then left (or vice versa). What you see is what you get essentially. The panning live with choppy or stuttering is shown on playback. I'd expect there to be a fluid video picture as opposed to what I'm currently seeing.\n\nI'd almost describe it as slight \"jitter\". I'm taking the video indoors under daylight LED lights (which are quite bright). I've seen this happen outside in complete sunlight as well.",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3",
-    "post_time": "2019-07-03T19:13:46.34899+00:00",
-    "reply": "6 Replies"
-}

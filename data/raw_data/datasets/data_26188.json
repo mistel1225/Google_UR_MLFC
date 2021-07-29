@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/12403836/i-cannot-unlock-pin-password?hl=en",
-    "title": "I cannot unlock pin password",
-    "content": "I input the pin password and screen flash black, logcat throws an exception and reset the password page. Then I can never enter it. Although I have finger print unlock but the phone need to unlock pin password after power on.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-08-20T10:45:12.771021+00:00",
-    "reply": "5 Replies"
-}

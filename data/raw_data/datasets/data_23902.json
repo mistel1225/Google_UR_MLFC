@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/26890039/screen-not-waking-for-silenced-notifications?hl=en",
-    "title": "Screen not waking for silenced notifications",
-    "content": "Notifications from apps that have been \"Silence\"d do not wake the phone's screen.  Is this the intended functionality?  I don't want any app at all but the phone and alarm to make any sound or pop-up, but I do want the notification to appear as usual on the notification bar and drop-down shade, and I also want it to momentarily wake the screen in Ambient Mode.  Does the \"Silence\" toggle turn off wake-up in addition to sound?\n\nFor example, I want to be notified each time an email comes in through the Gmail app.  But I absolutely want no sound, LED flash, or on-screen popup.  However, if the screen is off, I still want the notification in question to quickly fade on and then fade off.  Will that only work for non \"Silence\"d apps?  Is my only option to un-Silence Gmail, set it to notify, but select a notification sound of \"None\" or \"No Sound\"?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2020-01-27T20:00:01.12493+00:00",
-    "reply": "0 Replies"
-}

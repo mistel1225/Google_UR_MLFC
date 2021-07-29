@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2701270/camera-autofocus-stuttering?hl=en",
-    "title": "Camera autofocus stuttering?",
-    "content": "Hello there!\n\nI have recently noticed an issue with my Pixel 3 camera where the focus will \"stutter\" repeatedly while I'm framing a shot or taking a video. The behavior is most obvious whenever I shift focal distance in a significant way, but can be seen happening every few seconds otherwise. It seems like something is wrong with the autofocus or one of the supporting sensors.\n\nAn example of this odd behavior can be seen here at 0:05.\n\nAny idea what might have caused this? Did I inadvertently rough up some of the internals recently via a small drop or something and now something's out of balance inside the phone?\n\nAndrew",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3",
-    "post_time": "2019-03-20T03:12:54.092944+00:00",
-    "reply": "1 Recommended Answer"
-}

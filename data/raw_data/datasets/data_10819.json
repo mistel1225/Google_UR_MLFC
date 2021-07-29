@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/86619957/pixel-3a-system-update-december-2020?hl=en",
-    "title": "Pixel 3a system update december 2020?",
-    "content": "Yesterday, December 1st 2020 1900 GMT approx, I noticed an icon in the status bar which I didn't recognise. When I dragged it down It was a message saying something like 'press continue to restart after system update'. I wish I'd paid more attention.\n\nThe icon from memory was a vertical rectangle with top and bottom thirds solid, middle blank.\n\nI tapped and the phone restarted.\n\nThere is no update to system - still shows November update.\nGoogle Play Protect scan shows no errors. \n\nI can't find any audit log. I have connected with adb and can see the file structure, but my skills aren't up to finding any logs to check.\n\nAny ideas what the update was or if there are any logs anywhere I can check?\n\nThanks",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2020-12-03T11:03:34.289565+00:00",
-    "reply": "1 Recommended Answer"
-}

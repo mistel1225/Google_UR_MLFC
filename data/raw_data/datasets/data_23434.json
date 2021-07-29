@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2437932/battery-stays-at-50?hl=en",
-    "title": "Battery stays at 50%",
-    "content": "My phone battery stays at 50% after I fully charged it over night. I already tried a factory reset and fully dischargeing it but nothing helps.\nIt showed the low battery icon when it was empty, but as soon as I put in the charging cable it displayed 50% again.\n\nThe weird thing is what I noticed while I tried everything to get it back to normal, that the custom recovery TWRP shows the correct battery status.\n\n\nFor more infos: it happened after I updated to the Android q beta (I'm now on p again) and I didn't unlock my phone until the problem happened.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3 XL",
-    "post_time": "2019-03-15T07:11:08.01485+00:00",
-    "reply": "4 Recommended Answers"
-}

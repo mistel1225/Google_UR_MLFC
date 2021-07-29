@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/4687450/i-have-a-soft-bricked-verizon-pixel-xl-it-stuck-on-bootlogo-while-booting-is-there-any-way-to-fix-it?hl=en",
-    "title": "I have a soft-bricked verizon pixel xl... It stuck on bootlogo while booting... Is there any way to fix it",
-    "content": "I tried to install new ota via adb sideload and it shows installation completed. but again it stuck on bootlogo.\n\nI tried to wipe data/factory reset. It faild with some errors",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-04-22T19:02:38.407571+00:00",
-    "reply": "1 Recommended Answer"
-}

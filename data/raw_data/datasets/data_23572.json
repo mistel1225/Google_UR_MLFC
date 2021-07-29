@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/22617507/how-do-i-setup-dsds-on-pixel-4xl-instructions-are-incorrect?hl=en",
-    "title": "How do I setup DSDS on pixel 4XL? Instructions are incorrect.",
-    "content": "I am attempting to setup Dual Sim Dual Standby (DSDS).\n\nThe guide here: https://support.google.com/pixelphone/answer/9449293 is not helpful. It contains incorrect information for my build number.\n\nDetails:\nPhone Model: Pixel 4 XL\nAndroid Version: 10\nKernel Version: 4.14.111-gaee1b336488dd-ab5882136\nBuild Number: QD1A.190821.014\n\nI was able to get an esim on the phone, and I have a physical sim. I rebooted 10-15 times and tried different activation orders.  I was never able to find or be prompted to activate DSDS.\n\nPlease assist,\n\nThank you in advance, \n\nDewayne",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
-    "post_time": "2019-12-12T07:15:01.286885+00:00",
-    "reply": "5 Replies"
-}

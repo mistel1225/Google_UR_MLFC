@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/14909582/pixel-xl-restarting-constantly-after-android-10-update?hl=en",
-    "title": "Pixel XL restarting constantly after Android 10 update",
-    "content": "I successfully upgraded 10 Android 10 on my Pixel XL, which had some issues (not downloading app updates, not being able to answer calls, etc.), but all of those resolved themselves.  Suddenly early this week the phone started restarting constantly and nothing I have been able to do has been able to get it to stop.  It is inconsistent when it restarts, most of the time it makes it to the Google or G logos freezes and then restarts.  Other times it makes it all of the way into the OS for a while.  I can make it through initial OS setup but I have to fight through restarts.\n\nI tried factory resetting it, I sideloaded the OTA update with ADB, I used fastboot to flash the factory image of Android 10, I even flashed the factory image of Android 9.  No matter what installation method or OS the freeze persists.\n\nI contacted Google Support and since it is out of warranty due to being a replacement for my defective Nexus 6P they told me to take it to a repair shop, so I took it to ubreakifix, and was told they have seen this issue several times, but haven't been able to fix any of them.\n\nI'm running out of ideas, I need my phone to work again, as I have no alternative and live alone.  Open to suggestions.\n\nThanks.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel",
-    "post_time": "2019-09-21T02:35:44.884417+00:00",
-    "reply": "7 Replies"
-}

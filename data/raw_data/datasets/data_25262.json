@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/23132257/my-pixel-3xl-was-not-detected-in-bootloader?hl=en",
-    "title": "My pixel 3xl was not detected in bootloader",
-    "content": "I just bought 2nd hand pixel 3xl. and i found out that the bootloader is unlock. i decided to flash factory image and re-lock the bootloader. When i run \"fastboot devices\" none of my device appeared(already in bootloader state). I try to turn on my device and put into usb debugging mode. When i type \"adb devices\" in cmd is shown that my devices is detected. how to make it detected in \"fastboot device\" too?\n\n*i already installed latest driver.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-12-17T22:37:15.289017+00:00",
-    "reply": "0 Replies"
-}

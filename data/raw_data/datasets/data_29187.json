@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/10426672/pixel-1-xl-reboot-loop-after-security-update-pq3a-190705-001?hl=en",
-    "title": "Pixel 1 XL reboot loop after security update PQ3A.190705.001",
-    "content": "My Google Pixel 1 XL was working great and all of a sudden it it froze. It restarted by itself and but then it couldn't even finish restarting before it froze again and restarted again. This became an infinite loop.\n\nI went into the boot menu and tried to get into recovery mode but when I selected recovery mode option the Google logo would just show up and then again turn off and restart. I tried it about 5 times and I was only able to get into recovery mode once, the device finished starting but again it froze and restarted again and the loop continued.\n\nOnce out of 20 restarts it actually starts but then about 5-15min in it freezes again and the restart loop begins all over again.\n\nLast time I got into the settings I saw the PQ3A.190705.001 was the current build but whenever it restarts it seems to be trying to finish installing something (The Google G appears with a progress bar on the bottom), so I'm not sure if the issue is in fact with PQ3A.190705.001 or a new update.\n\nHas anybody had issues with this so far?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-07-22T21:39:03.525395+00:00",
-    "reply": "2 Replies"
-}

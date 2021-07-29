@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/113488856/volte-not-working-how-to-update-carrierconfig-in-stock-android?hl=en",
-    "title": "VoLTE not working. How to update 'carrierconfig\" in stock android.",
-    "content": "Hello dear all!\n\nSeems that Pixel phones doesn't have IMS APN of my country's carriers, and the reason for that is that Pixel devices are not officially sold in it (Russia). So my question is,  \"Is there a way to modify \"carrierconfig\" to add Access Point Name of my local carrier without Rooting my device?\"\nOr I can forget about VoLTE/WiFi calling support :D\n\nI'm sure this issue was addresed before by someone, but I just want to make it clear.\n\nAny reply is appreciated, thanks in advance.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
-    "post_time": "2021-06-14T07:09:22.623681+00:00",
-    "reply": "2 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/4380886/google-assistant-alarm-error?hl=en",
-    "title": "Google Assistant Alarm Error",
-    "content": "I am trying to set an alarm through the Google Assistant on my phone by saying \"Wake me up at...\" or \"Wake me up in...\". I repeatedly get the following error message: \"An error occurred while scheduling 1 action, so some actions may not occur when intended.\"\n\nHowever, when I try to set alarms by saying \"Set an alarm...\", it works perfectly. I have tried experimenting on the original issue by trying different times, deleting the data caches, uninstalling updates and restarting the phone to no avail.",
-    "is_img": 1,
-    "category": "Google Assistant and Voice Actions, Google Pixel 3 XL",
-    "post_time": "2019-04-17T16:34:35.383207+00:00",
-    "reply": "1 Reply"
-}

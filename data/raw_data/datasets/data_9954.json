@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/89453832/device-corrupted-ota-cannot-be-done-no-usb-debugging-stuck-in-bootloader?hl=en",
-    "title": "Device corrupted, OTA cannot be done, no USB Debugging, stuck in bootloader.",
-    "content": "My device ist corrupted... I am stuck in the bootloader. I tried factory reset, did Not work. I cannot load a new firmware (OTA?) as my device cannot be found on my computer (usb Debugging not enabled).\n\nWhen I try to start up, first I get the corrupted msg, then, when clicking start, the screen turns white with Google Logo and nothing happens. In recovery, a factory reset did not work, and there are no other options as there is no as card slot. Bought the phone in Germany, living in Austria -> lockdown, no way to return it.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4a (5G)",
-    "post_time": "2020-12-19T16:03:45.658441+00:00",
-    "reply": "1 Reply"
-}

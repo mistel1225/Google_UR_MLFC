@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/82073406/gmail-notification-doesn-t-work-i-receive-notification-only-if-pixel-4a-is-charging-or-not-standby?hl=en",
-    "title": "Gmail notification doesn't work. I receive notification only if pixel 4A is charging or not standby",
-    "content": "Sorry for my english.\nIf the pixel 4A is charging, gmail notifications arrive instantly; if it is not charging and the screen is on, notifications arrive instantly. If it is not charging and the screen is off (standby), notifications will not arrive, or arrive very late.\nMy settings:\nadaptive battery OFF;\nbattery optimization (for gmail) OFF;\nnotifications for every new message ENABLED;\nbackground data ENABLED;\nclear the cache of gmail app;\nOS updated;\ngmail app updated;",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4a",
-    "post_time": "2020-11-10T14:07:57.925113+00:00",
-    "reply": "20 Replies"
-}

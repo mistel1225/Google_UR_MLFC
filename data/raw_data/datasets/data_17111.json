@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/68733793/pixel-3-xl-reflects-incorrect-battery-percentage?hl=en",
-    "title": "Pixel 3 XL reflects incorrect battery percentage",
-    "content": "Hello, \n\nI have had a Google Pixel 3 XL for about a year and a half now. \n\nA couple months ago, my Pixel died and wasn't charging or powering on. After about 48 hours on the charger, it turned on. Everything worked fine. \n\nA few weeks after the phone died and turned back on, the phone shut down again, but this time I was able to power it back on after a few minutes of charging, which brought it back up to about 75% (oddly swift). Shortly after powering up the phone and pulling it from the charger, I watched as the percentage dropped from 75% to 1% in only a few seconds. \n\nAfter some charging and use, I realized that the battery itself is actually fine. The phone remains functional through my regular use, and for about as long as it always did, before the percentage drop issue. \n\nI've done all of the troubleshooting steps, including an FDR. I've noticed that the percentage begins it's cascade any time I receive an in-bound notification. I tampered with notifications a bit, including turning off notifications entirely. I had my lady send me a few messages, and even when I've got notifications off, the percentage drops.  \n\nI'm happy the phone is still functional. However, it's frustrating that I never actually have an accurate reflection of the battery life. I've tried some battery apps, and even searched through apps and services to make sure nothing fishy is on the phone. \n\nAny advice or information would totally be helpful, and appreciated. \n\nThank you!",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3 XL",
-    "post_time": "2020-09-03T04:12:10.078631+00:00",
-    "reply": "1 Reply"
-}

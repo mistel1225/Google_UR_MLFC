@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/107912748/pixel-4a-s-camera-stopped-working-torch-greyed-out-displaying-camera-in-use?hl=en",
-    "title": "Pixel 4a's camera stopped working, torch greyed out displaying 'Camera in use'",
-    "content": "Hi, as the title says, my pixel's 4a rear camera doesn't work since yesterday, it only works the front one. For some reason the torch cannot be toggled because the camera is running somehow. I already checked background processes inside developer options but I haven't seen anything that could be related with the use. The phone is in pristine condition, just for the sake of not talking in mind hardware related uses.\n\nIs the gcam bugged because of any update of the camera or Android 11 itself? Everything worked flawlessly till yesterday night when I tried to take a photo of nightsky and the rear camera displayed a black screen. As of today the rear camera doesn't even display in the gcam nor any other app, including QR ones. How do I may proceed? The phone is 2 months old so I would not think it's hardware related, but who knows. I'll attach a couple of pictures displaying the problem.",
-    "is_img": 1,
-    "category": "Camera, Google Pixel 4a",
-    "post_time": "2021-04-28T16:10:52.710482+00:00",
-    "reply": "9 Replies"
-}

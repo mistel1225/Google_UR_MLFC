@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/25175263/contacts-merging-not-correct?hl=en",
-    "title": "Contacts merging not correct",
-    "content": "I've 3 GSuite accounts, WhatsApp & Telegram.\nContacts in GSuite accounts are full synchronised ower contactsplus.com.\n\nI have some problem with this device:\nnot all contacts were merged correctly between GSuite accounts - about 15-20 from 1200 not merge (all frequently used)\nPixel merging WhatsApp/Telegram contact with not merged GSuite contacts randomly, for example, Contact1(GSuite1) merged with WhatsApp, but Contact2(GSuite3) merged with WhatsApp.\nSometimes on incoming call I see contact without a photo, I think this is a corporate directory contact but not my contact.\n\nPixel provides a merge action in the menu only if contacts from the same account.\n\nHOW CAN I MANUALLY MERGE CONTACTS FROM DIFFERENT ACCOUNTS AND CORPORATE DIRECTORY?",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 4 XL",
-    "post_time": "2020-01-09T19:47:49.627836+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13665630/notification-s-not-working-from-some-apps-hangouts-whatsapp-and-symantec-vpn-access?hl=en",
-    "title": "Notification's not working from some apps - Hangouts, WhatsApp and Symantec VPN Access",
-    "content": "I've noticed the following since the last Android 10 beta and now the official release. Certain apps, mainly Hangouts, WhatsApp and others will not alert me consistently with push notifications while on Data (seems to work on wifi) - I've followed all guidance and checked various settings and the apps are allowed to use background data and I've removed them from battery optimisation.\n\nSome notifications seem to work straight away others take hours and hours. Clearing application cache and restarting the device may kick start it for a while but sooner or later it reverts to not working.\n\nHas anyone else had similar issues? Or is there something in the bug tracker that I couldn't find?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-09-05T19:20:01.651604+00:00",
-    "reply": "4 Replies"
-}

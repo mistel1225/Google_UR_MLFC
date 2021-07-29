@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/82327612/pixel-5-visual-voicemail-not-working-on-telstra-australia?hl=en",
-    "title": "Pixel 5 Visual Voicemail not working on Telstra (Australia)",
-    "content": "After a few weeks of having the Pixel 5, I've only just realised that my voicemail has gone from being delivered as an audio file into Messages on my Pixel 4XL to now getting a text from my carrier (Telstra - Australia) asking me to call their voicemail number (101) to retrieve my voicemail manually.\n\nAfter scouring Telstra's support site, there was a lot of conjecture about RCS and it not working and being a cause / contributing factor to Visual Voicemail also not working. It appears this has now been fixed by the rollout of \"Chat features from Google provided by Jibe Mobile\". \n\nHowever this has left the Visual Voicemail in limbo as Telstra is saying that as they are no longer supported by Google to provide the RCS from their end, they can't offer visual voicemail anymore.\n\nFollowing Google's own support articles, the settings to turn it on are simply not showing.\n\nIs there anyone out there that has had any solution here?",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 5",
-    "post_time": "2020-11-11T18:05:35.621546+00:00",
-    "reply": "1 Recommended Answer"
-}

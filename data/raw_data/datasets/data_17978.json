@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/64457192/how-do-i-get-pixel3-to-authorize-in-adb?hl=en",
-    "title": "How do I get pixel3 to authorize in ADB?",
-    "content": "Everytime I connect my pixel to PC and command line ADB devices, I get\n89LX0XXXX   unauthorized\nTried adb kill-server\nHave latest USB driver, but no matter how I install driver, in device manager it is labeled Samsung Android Phone.",
-    "is_img": 1,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2020-08-12T21:44:27.194828+00:00",
-    "reply": "4 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/103500403/my-mobile-network-data-lte-is-not-working-sim-is-working-in-other-phones-pixel-can-see-network?hl=en",
-    "title": "My mobile network data (LTE) is not working. SIM is working in other phones. Pixel can see network.",
-    "content": "Despite having mobile network, it does not have any data. \nThe SIM has data in other phones. \nI have:\nReset network setting,\nEnabled Mobile Data\nEnsured no flight mode\nNo data limit\nSet prefered network type to LTE\nSet Network to 'Automatically select network' (also tried manually)\n\nIt is able to see the correct network. However no data.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
-    "post_time": "2021-03-23T11:22:22.371388+00:00",
-    "reply": "3 Replies"
-}

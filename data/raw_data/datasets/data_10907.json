@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/86649236/my-belgian-telco-provider-claims-they-enabled-volte-and-wifi-calling-however-both-are-disabled?hl=en",
-    "title": "My Belgian Telco provider claims they enabled VoLTE and Wifi calling. However, both are disabled",
-    "content": "Hi,\n\nMy Belgian Telco provider claims they enabled VoLTE and Wifi calling. However, both options are still disabled (*#*#4636#*#*). My Telco provider claims this is because my phone does not support VoLTE and Wifi calling.\n\nIndeed, officially my Telco provider only sports iPhones and several models from Samsung and Huawei; not Pixels (which, I have to add, cannot be bought in Belgium; I ordered mine in Germany).\n\nWhen I put my sim in my wife's iPhone, VoLTE indeed gets enabled but Wifi calling does not (which does work through her Telco provider which is different from mine).\n\nThe above - as far as VoLTE is concerned; we cannot draw any conclusions for Wifi calling - makes me wonder:  does a Telco provider know what phone you're using and can they enable features based on the phone you're using?\nOR\nDo I need any Telco specific firmware and/or config on my Pixel in order for VoLTE to work? And if so, what would I need to request from my Telco provider in order for that firmware and/or config to make it onto my phone?\n\nThanks a lot in advance for anyone who can provide any clues!\n\nRené",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 4 XL",
-    "post_time": "2020-12-03T14:51:02.844434+00:00",
-    "reply": "2 Recommended Answers"
-}

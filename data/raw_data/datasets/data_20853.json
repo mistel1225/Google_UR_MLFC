@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/42635648/issue-when-reverting-back-to-apr-factory-image-from-android-11-dp3?hl=en",
-    "title": "Issue when reverting back to Apr factory image from Android 11 DP3",
-    "content": "i have issue while reverting back to factory image with Apr update in the face unlock (Face enrolment didn't work)\ni had to go back to factory image with Mar update to get face unlcok working\nas of now, face unlock is working either with Mar or DP3 and not working anymore with Apr factory image.\ni even tried to update to Apr after flashing Mar factory image through OTA (with working face unlock), and after update to Apr, face unlock will stop working and giving the following error (Can't verify face. Hardware not available).\ni am now stucked with Mar update to have face unlock working, and can not update to Apr.\n\nthe issue is reported to XDA community and many others has the similar issue\nhttps://forum.xda-developers.com/pixel-4-xl/help/issue-reverting-to-apr-factory-image-t4088655\n\nhttps://forum.xda-developers.com/pixel-4-xl/how-to/android-11-developers-preview-available-t4053597/page16\n\nthe issue is reported to both Pixel 4 and 4 XL",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4",
-    "post_time": "2020-04-26T19:39:08.469543+00:00",
-    "reply": "2 Recommended Answers"
-}

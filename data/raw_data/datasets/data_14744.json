@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/14477635/android-10-broke-usb-charging-and-file-transfer?hl=en",
-    "title": "Android 10 broke USB charging and file transfer",
-    "content": "About a week after updating to Android 10, my pixel 2 xl suddenly stopped charging with fast charging, but then after a few days it fixed itself. It is now charging but Android auto and file transfer aren't working. I don't get the charging via USB notification, and I have USB debugging enabled and have set the default USB configuration to file transfer/Android auto. I'm not sure why it's not working, and I'm very sure it's not a hardware issue with the USB port.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2019-09-16T03:18:31.415802+00:00",
-    "reply": "99 Replies"
-}

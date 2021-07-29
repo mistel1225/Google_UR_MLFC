@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/106032721/at-a-glance-weather-only-appears-when-on-wifi?hl=en",
-    "title": "At a glance weather only appears when on WIFI",
-    "content": "Weather in At a glance only appears when I'm connected to my home WIFI network. When I switch to the mobile data network, it always disappears after some time (a few minutes to 15 minutes). When I reconnect to my home WIFI network and add the At a glance widget of the Google app, the weather reappears in the At a glance widget (both of them). Then I remove the second At a glance widget and as long as I am connected to my home WIFI, the weather is there and refreshes properly. When I disconnect from the home WIFI again, the weather disappears and so on. Please help. What I've tried: updating and downgrading the Google app, cleaning cache of Google app and Pixel launcher, resetting the Pixel launcher and Google app - nothing helped - this behavior is always present.",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 4a (5G)",
-    "post_time": "2021-04-13T12:55:49.1317+00:00",
-    "reply": "3 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/19737000/connection-problem-or-invalid-mmi-code-error?hl=en",
-    "title": "Connection problem or invalid mmi code error",
-    "content": "I am in China. Both my pixel XL and pixel2 XL cannot using USSD command (like *#06#) now. It works well maybe one year ago, I cannot remember exact time.\nNow, after sending USSD command, I can see the network indicator shows the network changed from Lte for several seconds, then the error message shows \"Connection problem or invalid mmi code error\"\n\nI thought it may be something wrong with the system, so I just flashed my pixel XL with marlin-qp1a.191005.007.a1-factory-c27241e0.zip,  but the problem still exists.\n\nI tired to modify \"Prefered network type\" to Lte, it does not work at all.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2019-11-14T04:50:47.980391+00:00",
-    "reply": "0 Replies"
-}

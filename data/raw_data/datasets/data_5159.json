@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/102521830/touch-screen-for-part-of-a-screen-does-not-work?hl=en",
-    "title": "Touch screen for part of a screen does not work",
-    "content": "The touch screen stopped working for some areas of the screen. It started right while I was using the phone (a reading app) with a random ghost slide-down of a notification panel. Reboot calmed the panel, but the touch screen stopped working for the top of the screen (25%) and strips around 15% height in the upper half (see the attachment).\nTried everything from the list https://support.google.com/pixelphone/answer/6010316?hl=en\nNothing helped.  \nIs it firmware or hardware?\nThe last thing that I could try is to downgrade the firmware (according to https://developers.google.com/android/ota ). Should I try or there are other possible options I could test?",
-    "is_img": 1,
-    "category": "Device Performance, Google Pixel 4a",
-    "post_time": "2021-03-16T18:34:43.512193+00:00",
-    "reply": "1 Recommended Answer"
-}

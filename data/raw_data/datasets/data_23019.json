@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17680308/chrome-and-android-system-webview-won-t-update-on-new-pixel-4?hl=en",
-    "title": "Chrome and Android System Webview won't update on new Pixel 4",
-    "content": "When the Pixel 4 I've just received installs updates for the pre-installed apps, the installs for updates to Google Chrome and Android System Webview fail (all the other updates - two or three dozen of them - succeed). I've tried a) clearing cache and storage for Play Store app and running it again, but the problem is the same as before, and b) I performed a complete system reset on the phone and set it up from new rather than copying settings and apps from my existing Pixel 2 - this had exactly the same problem with the same two updates. All other pre-installed apps on the phone updated without any problem, and I can install any apps I want from the Play Store without any problem.\n\nAny suggestions on a fix?",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4",
-    "post_time": "2019-10-25T11:23:47.847569+00:00",
-    "reply": "68 Replies"
-}

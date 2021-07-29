@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/88923863/pixel-4-hotspot-not-working?hl=en",
-    "title": "Pixel 4 hotspot not working",
-    "content": "The mobile hotspot feature hasn't worked for months now. I used to be able to do it on Android 10 and the 11 beta, but my ability to use the hotspot feature hasn't worked at all since getting to Android 11. Things I've tried.\n1) Full phone reset. This does nothing. You turn it on as soon as everything settles and no internet sharing.\n2) Turn bluetooth off and restart phone. Worked for a hot second, but can't repeat success.\n3) Go to APN settings and change from IP4 to IP4/IP6 connection and turn on hotspot. Works once, then never again.\nI've owned a Nexus 4 (Dead digitizer even if phone looks like new) and OG Pixel (Replaced due bad antennae reception. Otherwise works and also looks like new). This phone hasn't had a hardware issue, but it's frustrating that such a crucial feature this year is broken on a high end phone more likely than not because of bad software.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
-    "post_time": "2020-12-16T13:56:46.561926+00:00",
-    "reply": "0 Replies"
-}

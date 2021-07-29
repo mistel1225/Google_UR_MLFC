@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/90156883/why-does-the-logcat-still-show-the-proximity-sensor-still-working-after-you-disable-all-sensors?hl=en",
-    "title": "Why does the logcat still show the proximity sensor still working after you disable all sensors?",
-    "content": "The setting to disable all sensors works for almost everything and even seems to work for the proximity sensors but the logcat shows it's still fictional, why?\n\nOnce the setting is clicked I'd assume waving my finger back and forth over the proximity sensor shouldn't be recognized but indeed it is, the phone doesn't seem to respond to the input but the device sensor is not off.",
-    "is_img": 1,
-    "category": "Battery and Power, Google Pixel 2",
-    "post_time": "2020-12-23T21:01:35.688266+00:00",
-    "reply": "0 Replies"
-}

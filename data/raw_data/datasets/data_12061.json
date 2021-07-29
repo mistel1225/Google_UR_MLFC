@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/81874954/pixel-4a-bad-gps-reception?hl=en",
-    "title": "Pixel 4a bad GPS reception",
-    "content": "Does anyone else experiencing bad GPS signal reception on Pixel 4a?\n\nI'm almost unable to use any navigation app incl Google Maps because every 10 to 30s the signal is lost.\n\nYes, I did factory reset already.\n\nYes, advanced location using mobiles network, WiFi, Bluetooth and sensors is activated.\n\nGoogle location service working.\n\nWhen I launch GPS Test app form Play store I can clearly see that the GPS signal is low. And the GPS fix is list every minute. And that happens even when I'm outside, open terrain, good weather with clear sky. In these conditions the signal is approx 35%. The highest value I saw for a second was 48%.\n\nI made a test using my old Pixel 3a. I put both devices next to each other and in the same conditions I'm getting 78% GPS signal on Pixel 3a.\n\nSo 30% difference between devices. I find it way to much.\n\nAnyone experiencing same issues? Or it's just my device? Hardware issue?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2020-11-09T14:20:57.770352+00:00",
-    "reply": "3 Replies"
-}

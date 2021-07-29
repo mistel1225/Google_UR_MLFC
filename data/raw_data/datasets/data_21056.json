@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/48645085/no-service-after-security-update-of-may?hl=en",
-    "title": "No service after security update of May",
-    "content": "The security update causes multiple problems\n\n1. I cannot connect to LTE anymore, it shows no service\n2. But the SIM have no problem on another phone\n3. Factory Reset or Safe mode does nothing\n4. And the phone are not able to connect with USB any more, it does not recognize it at all, changing any default settings does not help, the PC does not recognize it anyways, which blocked me to downgrade the android\n5. when go to safe mode, aeroplane mode and Bluetooth are enabled by default, which should be abnormal\n6. I cannot turn off the phone now, it will always start itself, both using normal power off or the force power off by holding all buttons \n7. Due to USB have no response, it does not charge at all too",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2020-05-23T12:23:28.701372+00:00",
-    "reply": "1 Reply"
-}

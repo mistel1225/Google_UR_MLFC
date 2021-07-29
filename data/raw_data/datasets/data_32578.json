@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/3335362/request-for-an-sms-message-api-to-store-messages?hl=en",
-    "title": "Request for an SMS Message API to store messages",
-    "content": "Request for an SMS Message API to store messages.  When assigning a different app to SMS, the files are still stored under a system default message folder and cannot be altered.  I'm requesting an API to all the SMS app to determine where to write those files with a default stub to go to the system message folder.\nSpecifically, Signal cannot save SMS messages to the message thread because it doesn't write to the default SMS folder.  It can send & receive but sent files are not visible.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-03-31T16:25:32.032361+00:00",
-    "reply": "1 Reply"
-}

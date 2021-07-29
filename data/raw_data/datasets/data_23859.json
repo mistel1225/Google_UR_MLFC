@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/26676346/pixel-2-sluggish-performance-after-jan-security-patch?hl=en",
-    "title": "Pixel 2 : Sluggish performance after Jan Security Patch",
-    "content": "After receiving the January Security Patch, my Pixel 2 has been acting up in many ways:\n-Lags several seconds to change apps\n-Many apps restart when focus is changed to them ( Whatsapp and Instagram show their splash screens, Chrome refreshes the curreent tab)\n-Gboard lags up to 10 seconds to come up (leaving a black rectangle where it should be) when a text field is selected\n-Swipe input doesn´t work (the lines break mid swipe)\n-Voice input doesn´t work, recongizing only tiny parts of what was said.\n\nI´ve read similar issues over the Oct patch, and treid doing what was recommended: Restarting the device; booting in safe mode (performance just barely improves); wiping cache.  No success.\n\nNow I´m trying to sideload the OTA. But once the ADB sideload command is given, nothing comes on my PC´s command prompt, while on my device only this:\nFinding update package...\nOpening update package...\nVerifying update package...\n\nI´ve given it time (left it overnight), tried different cables and ports, confimed the checksum of the OTA file... But I just won't go past that.\n\nAm I missing something? Is there something else I should do?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2020-01-25T13:26:38.838468+00:00",
-    "reply": "1 Recommended Answer"
-}

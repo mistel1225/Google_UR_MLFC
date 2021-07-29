@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/102544871/horizontal-level-detector-is-off-by-19-degrees?hl=en",
-    "title": "Horizontal level detector is off by 19 degrees",
-    "content": "When taking a picture in landscape mode, the horizontal level indicator is out of level by 8-10 degrees.  I believe that the internal detector needs to be recalibrated or reset, but I can't find any setting to do this.\n\nNote, this is not just the camera setting.  Other apps that use the sensor misreport \"level\" as well.",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3",
-    "post_time": "2021-03-16T23:08:54.671871+00:00",
-    "reply": "0 Replies"
-}

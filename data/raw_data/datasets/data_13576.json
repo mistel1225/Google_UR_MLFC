@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/78791539/my-phone-randomly-enters-driving-mode-for-no-reason?hl=en",
-    "title": "My phone randomly enters driving mode for no reason",
-    "content": "I have a pixel 3a, only a couple of months old. I have a weird issue where my phone will suddenly enter driving mode for no obvious reason (and open Android Auto as per my settings). Strangely, it seems to always be when I am in the middle of typing out a text message. And it happens when I am sitting still, in my house (so the phone should certainly not be detecting \"driving\" movement as described here). My settings for turning on Automatic Driving Mode are as follows: \n\nWhen connected to Bluetooth: OFF\nWhen driving is detected: ON\nAsk before turning on driving mode: OFF\nTurn on Bluetooth automatically: ON\nPocket detection: ON\n\nBluetooth trigger is off so can probably rule out that. I do like that Android Auto launches when I start actually driving so I'm not going to disable the feature. Just wondering why the phone would think I am driving when I am sitting on the couch texting.\n\nEdit: the problem seems to have gotten worse and happens more often. Not just texting but typing in other apps. Seems like it might be related to maps or location somehow: once when it happened I was using the Google keep app. It randomly launched android auto, when I swiped from the bottom to get back to previous app, there was an instance of maps in between keep and Android auto. Indicating that maps was used just before Android auto even though I never opened it.\nGoing to try enabling the 'ask before turning on driving mode' setting.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2020-10-23T23:53:18.337294+00:00",
-    "reply": "0 Replies"
-}

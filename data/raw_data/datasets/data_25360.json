@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/7291216/temperature-units-change-randomly-on-lock-screen?hl=en",
-    "title": "Temperature units change randomly on lock screen",
-    "content": "I have a Pixel 2 running the latest 5 May 2019 patch level of Android 9. Lately I have noticed that the temperature reading that shows on the lock screen sometimes shows the temperature as °F rather than °C (we use Celcius here in Australia). And sometimes there is no temperature shown at all. I haven't been able to see any pattern to why it changes. Yesterday morning it was showing °F, later in the day it was °C, and this morning the temperature is completely missing. Any suggestions? I don't see how it can be a setting on the phone if it keeps changing with nothing changed on the phone. The problem has only started happening quite recently - I never noticed it prior to a couple of weeks ago.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-06-02T20:45:19.532533+00:00",
-    "reply": "15 Replies"
-}

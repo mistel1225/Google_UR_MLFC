@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/89606435/nasty-kernel-loaded-on-device?hl=en",
-    "title": "Nasty kernel loaded on device.",
-    "content": "I am trying to remove persistent kernel.  I have factory reset.  Didn't work.  I have bogus CAs on device.  This is just above my skill level.  It seems that I have multiple vms running on device each with its own virtual interface.  It seams to collect keystrokes, metadata, and send them of on uf8 files.  I don't know how to do a kernel dump but certainly would.  Any help would be appreciated.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 5",
-    "post_time": "2020-12-20T16:20:23.659736+00:00",
-    "reply": "1 Reply"
-}

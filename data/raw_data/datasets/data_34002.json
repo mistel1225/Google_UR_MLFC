@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1799142/issues-sending-sms-messages-to-select-iphone-users?hl=en",
-    "title": "Issues sending SMS messages to select iPhone users",
-    "content": "On several occasions now, I've had trouble sending SMS texts to various iPhone users.  The text will show that it was sent on my end with the SMS tag under the text, but nothing being received on the iPhone user's end.  I even tried switching to a different texting app (Textra), and had the same results.  It says it sent, but nothing was received.  The only way I have been able to communicate in these instances is by using Signal, which doesn't even use SMS to send messages.  But it's not all iPhone users, only select ones.  And I have not had this issue with an Android user yet.  I even sat down with several of them to ensure that for some reason I was not being blocked on their phone.  In one instance, I was able to get texting to work again by deleting my conversation thread in Google Messages, and starting a new conversation.  But this hasn't worked in all instances.  Clearing cache/data also does not seem to have an effect.\n\nAlso... the iPhone users in question can text me without a problem, and I will receive their texts.  However, when I reply, it shows it's sent... but it is never received on their end.\n\nAnyone else experiencing this strange issue?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-02-22T14:17:05.527371+00:00",
-    "reply": "5 Replies"
-}

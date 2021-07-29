@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/73590196/pixel-4xl-photo-names-are-all-offset-by-4-hours?hl=en",
-    "title": "Pixel 4XL Photo Names Are All Offset By +4 Hours",
-    "content": "Since I've upgraded to Android 11, the photo/video naming convention has changed, and not for the better. I see that it has PXL_YYYYMMDD_HHMMSSxxxx.jpg. I don't know what those last 4 digits are. Anyway, since the update, the HHMM has been offset by +4 hours, and there's no way to change it. I've tried manually changing time zones, changing the time on my device manually... nothing. If I take a photo at 6am, the name of the file will read 1000 for HHMM. It's incredibly aggravating.\n\nI've tried turning off location globally, turning it off in the Google Camera app itself, still nothing. It's like the camera app is pulling my time zone data from somewhere else.\n\nI should also add that the timestamp in the metadata shows the correct time for when the photo was taken. It's just the actual filename that is offset.\n\nI've also tried using a different app, like Open Camera, and the filenames are correct. The problem seems to only be with Google Camera.",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 4 XL",
-    "post_time": "2020-09-27T17:42:11.8591+00:00",
-    "reply": "7 Replies"
-}

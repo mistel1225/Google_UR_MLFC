@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/42772091/pixel-3xl-bug-using-gesture-navigation-on-android-10-happening-since-android-10-release?hl=en",
-    "title": "Pixel 3XL bug using Gesture Navigation on Android 10. (Happening since Android 10 release)",
-    "content": "Do we still not have a resolution to this bug?\n\nOriginal thread where I found about how to replicate the bug.\n\n[https://support.google.com/pixelphone/thread/13553491?hl=en&dark=1](https://support.google.com/pixelphone/thread/13553491?hl=en&dark=1)\n\nBasically what happens is that when I'm using the \"Gesture Navigation\" from the System Navigation settings, whenever I swipe up to open the app drawer and exit out swiping from the right of the screen. The 5 main icons on the home screen become unresponsive and do not respond accurately to touch at times. When I do the same thing but exit out swiping to the left part of the screen instead, the issue never happens. Also, this is one way of fixing the issue whenever it happens.\n\n&#x200B;\n\nI've recorded videos to help visualize the issue.  They're basically the same, but I made one while on safe mode and after a reset.\n\n[https://www.youtube.com/watch?v=URGlfZlnCvw&feature=share](https://www.youtube.com/watch?v=URGlfZlnCvw&feature=share)  \\- safe mode\n\n[https://www.youtube.com/watch?v=1r9LNINohHA&feature=share](https://www.youtube.com/watch?v=1r9LNINohHA&feature=share)  \\- factory reset\n\n&#x200B;\n\nYou don't have to press the buttons at the start to replicate the bug. That is for me to show support what's that tapping the home icons works without issues before doing the bug. \n\n\nAny help is appreciated. Thank you in advance.",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel",
-    "post_time": "2020-04-27T12:22:40.251432+00:00",
-    "reply": "2 Recommended Answers"
-}

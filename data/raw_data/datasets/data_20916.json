@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/49735632/issue-entering-passcodes-on-conference-calls-services?hl=en",
-    "title": "Issue Entering Passcodes on Conference Calls Services",
-    "content": "For conference calls when I need to enter the meeting passcode, often the passcode ID is not recognized and requires multiple attempts or is ultimately unsuccessful. This issue has been duplicated on conference call services.\n\nSeems to be a DTMF accuracy issue where keys are being interpreted as being pushed twice. It looks like certain keys (particularly 7 and 2) are more problematic than others.\n\nAny help would be appreciated!",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2020-05-28T17:15:41.020667+00:00",
-    "reply": "1 Reply"
-}

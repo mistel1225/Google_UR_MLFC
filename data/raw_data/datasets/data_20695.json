@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/52715848/personal-safety-app-sends-invalid-url?hl=en",
-    "title": "Personal Safety app sends invalid URL",
-    "content": "Personal Safety app Safety Check message contains an invalid URL via text message.  The URL is a correctly formatted https://map.apps.goo.gl/... except it has a newline in the middle of it, \n\nAlso, Personal Safety app dies with \"app not responding\" right after sending its first Safety Check message.\n\nKeep up the testing.  Getting there.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2020-06-11T04:17:44.267079+00:00",
-    "reply": "1 Reply"
-}

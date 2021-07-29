@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/75541731/chrome-still-stuck-in-dark-mode?hl=en",
-    "title": "Chrome still stuck in dark mode",
-    "content": "I turned on dark mode for Chrome on my Pixel 3 back when it was first announced by setting the experimental flags.  Ever since, no matter what I do it has permanently been in dark mode. Text and images are inverted and often pages end up with white text on white backgrounds or black text on black backgrounds so they're illegible. I've followed every guide, I've changed every setting, opened the flags and changed them manually, reset all flags to default, manually forced light theme in every setting on the phone including the Contacts glitch, I've restarted the phone, I've performed a factory reset, upgraded the OS to a new Android version. Absolutely nothing will clear it. Unfortunately my phone is the Verizon locked version or I'd root and see if I could dig around until I figure it out but that option isn't available to me. Does anyone have any other ideas? Has anyone else experienced this?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2020-10-07T22:26:08.437375+00:00",
-    "reply": "1 Reply"
-}

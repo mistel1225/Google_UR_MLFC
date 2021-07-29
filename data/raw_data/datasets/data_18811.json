@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/61273394/gsam-and-better-battery-stats-giving-me-issues?hl=en",
-    "title": "Gsam and Better Battery Stats giving me issues",
-    "content": "I've used GSAM and Better Battery Stats for years. Recently I'm having an issue with both of them. Gsam won't let me see the individual apps' performance.  That is even with all the proper ADB setting set. Once in a while it works and then it doesn't work again.\n\nI tried reinstalling better battery stats that I used to use, and it was calculating for at least 3 hours before I just decided to kill it.\n\nAny ideas if this is some compatibility issue? also note that I normally only charge the phone to 80%. I haven't had a problem with doing that before, but maybe have to do that for a while some statistics get confused or something?\nThank you",
-    "is_img": 0,
-    "category": "Battery and Power",
-    "post_time": "2020-07-27T03:57:35.515517+00:00",
-    "reply": "0 Replies"
-}

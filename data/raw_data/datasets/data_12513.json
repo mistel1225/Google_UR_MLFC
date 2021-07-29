@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/79776941/does-the-pixel-5-hide-subfolders-in-the-android-folder?hl=en",
-    "title": "Does the Pixel 5 hide subfolders in the Android folder?",
-    "content": "I use Avast! Antivirus for mobile. It works great, but when I select the \"file scanner\" option, the scan will crash. I narrowed down the files that were causing the issue, and it is two folders in the Android folder, \"data\" and \"obb\", both of which appear to be empty. I got in touch with Avast and they couldn't determine the issue. There don't seem to be any performance issues and all the other scans seem to work fine. I have a feeling that any app that tries to access those two folders, at least on the phone itself is booted by the phone. Does anyone know of this is this case? Thanks",
-    "is_img": 1,
-    "category": "Device Performance",
-    "post_time": "2020-10-29T11:02:48.140457+00:00",
-    "reply": "1 Reply"
-}

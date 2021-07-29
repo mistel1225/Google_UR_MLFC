@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1265464/pixel-2-says-connected-no-internet-on-wifi?hl=en",
-    "title": "Pixel 2 says \"Connected No Internet\" on wifi",
-    "content": "My wife's Pixel 2 stopped connecting to the internet through our home wifi. Our home wifi has two devices, providing dual-band signals. One is our cable modem, provided by Spectrum. It is an Arris device the provides digital phone wifi and 4 other LAN ports. The other device is an ASUS RT-AC66U connected to the ARRIS via LAN. The Pixel fails on both devices, while there are multiple tablets and game consoles using the wifi and getting internet. My own Droid Turbo 2 can move back and forth between both devices and get internet.\n\nI have reset the modem and router and updated firmware where needed. The Pixel 2 has been factory reset after nothing seemed to be working. I reset the DHCP to static per instructions found online. Even went on the router to bind the IP.\n\nThe Pixel 2 connects to the internet on LTE. The messages saying that our data was used up is what got our attention.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2019-01-25T01:19:18.827946+00:00",
-    "reply": "1 Recommended Answer"
-}

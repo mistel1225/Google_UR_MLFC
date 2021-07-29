@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/98195349/playing-digital-radio-using-assistant-routines?hl=en",
-    "title": "Playing digital radio using Assistant/routines",
-    "content": "I'm trying to set up a routine to automatically play a radio station through the phone speaker. Either:\n> The phone tells me Apple Music isn't installed so it can't play (I don't use Apple Music, don't want it, and don't understand why Google would default to it. I can't seem to remove it from the alternative providers list in Music settings); OR\n> I tell it to 'ask Simple Radio' to play the FM station, but get bad interference when played through Assistant, which isn't a problem in the Simple Radio app itself; OR\n> I manage to get it to use BBC Sounds to open the BBC radio station, but it won't actually *play*, it just displays the station home screen.\nI can't find any more options or defaults to tweak. Why can't Assistant open *and play* a web stream of a radio station?\nI'm using Pixel 4 with a Pixel Stand.\nThanks for any observations!",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 4",
-    "post_time": "2021-02-15T10:52:35.909127+00:00",
-    "reply": "1 Reply"
-}

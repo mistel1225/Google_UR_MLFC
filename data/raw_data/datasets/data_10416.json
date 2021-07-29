@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/88129430/refurbished-pixel-4a-has-an-unlocked-bootloader-should-i-worry-about-that?hl=en",
-    "title": "Refurbished Pixel 4a has an unlocked bootloader, should I worry about that?",
-    "content": "Whenever I power up my device I get this message \"The bootloader is unlocked and software integrity cannot be guaranteed. Any data stored on the device may be made available to attackers. Do not store any sensitive data on the device. Visit this link on another device: g.co/ABH\"\n\nI read another forum post and it was recommended to \"flash a factory image on the phone\" using the steps found here https://developers.google.com/android/images . However I just got confused when looking through the steps. Like right off the bat it says it's easier and safer to \"sideload the full OTA image\", so I followed that link and one of the first steps says \"Don't forget to either add adb to your PATH environment variable or change into the directory containing the executable.\" Suffice to say I have no idea what that means.  So is it really recommended to do this (what are some of the possible repercussions I don't?) and if so is there a video or some other guide anyone knows of that I can follow?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4a",
-    "post_time": "2020-12-11T16:52:04.061387+00:00",
-    "reply": "1 Recommended Answer"
-}

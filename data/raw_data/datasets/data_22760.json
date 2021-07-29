@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/16876945/problem-with-recent-apps-view-after-updating-to-android-10?hl=en",
-    "title": "Problem with \"Recent Apps\" view after updating to Android 10",
-    "content": "This issue tracker post describes it the best:\n\nhttps://issuetracker.google.com/issues/137310926\n\nEssentially, clearing out apps in the \"Recent Apps\" view doesn't actually clear them when you reopen \"Recent Apps\". And if you tried to open a previously cleared app from the \"Recent Apps\" view, it throws an error message saying that the app isn't available.\n\nIt isn't resolved even with the latest October security patch even though it is marked as fixed. The issue persists for both pill button navigation and gesture navigation. Any suggestions for a fix I could try or should I wait for another update?",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 3",
-    "post_time": "2019-10-15T16:42:07.0066+00:00",
-    "reply": "11 Replies"
-}

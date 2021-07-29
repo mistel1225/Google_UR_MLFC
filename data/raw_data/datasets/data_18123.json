@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/63991073/pixel-3a-bluetooth-car-connection-not-supporting-phone-calls?hl=en",
-    "title": "Pixel 3a Bluetooth car connection not supporting \"phone calls\"",
-    "content": "I am encountering an issue with Bluetooth connectivity on my car.\n\nWhen the Pixel 3a initially auto-connects to the car, the car is able to see call and SMS history. However, in the phone's BT settings, the \"phone calls\" option does not appear. Consequently, I am unable to make / receive calls through the car. If I disable and then re-enable BT, the \"phone calls\" option appears in the settings and the car's phone operations work as expected.\n\nI need to understand why this is happening and what could be done to resolve it. I've forgotten the connection, cleared cache, played with settings in dev options and it still happens. \n\nAny assistance would be greatly appreciated.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2020-08-10T15:17:05.254883+00:00",
-    "reply": "0 Replies"
-}

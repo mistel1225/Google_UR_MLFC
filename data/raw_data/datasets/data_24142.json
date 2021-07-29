@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/23554829/how-and-what-do-i-backup-to-my-computer?hl=en",
-    "title": "How and What Do I Backup to My Computer?",
-    "content": "Yesterday, I wandered through my Pixel 3 XL's Settings to System > Backup and noticed the Backup button was grayed out and the status of everything under Active Backups was Waiting to Backup.  I found this:\n\nhttps://www.xda-developers.com/android-backup-google-drive-broken-how-to-fix-manager/\n\nwhich gives a solution to that and mentions that this problem has been around for months (at this point, I believe it's been around for about a year).  I can no longer trust Google and this phone.  What I'd like to do is manually back all my non-rooted, non-bootloader-unlocked phone's data up to my computer.  Can anyone point me in the right direction for someplace that talks about how to do that and what to back up?  I've already got all my photos off Google Photos, but don't know what to do about the rest.  It would be nice if I could just plug my phone into my computer and drag a few folders from one place to another. But, for some reason, I don't think it's going to be that easy.  And, of course, I don't want to unlock the bootloader on the phone since that will erase all my data.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-12-22T17:55:26.63653+00:00",
-    "reply": "2 Replies"
-}

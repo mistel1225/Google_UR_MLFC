@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1499148/resizing-portrait-mode-photographs-with-imagemagick-almost-no-reduction-in-file-size?hl=en",
-    "title": "Resizing portrait mode photographs with ImageMagick -- almost no reduction in file size.",
-    "content": "I'm trying to reduce the size of some photographs for publication online.\n\nI'm using this command with ImageMagick:\nconvert -resize 800 -quality 50 $p $p-small.jpg\n\nThis yields an image approximately 10% of original's file size -- with the exception of portrait mode images. Those images have a size and quality reduction, but their overall file size is still massive -- around 8MB for a low quality 800x600 shot.\n\nIs there a recommended way to strip the extra data that these kinds images must be storing?",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 2",
-    "post_time": "2019-02-07T00:08:31.227218+00:00",
-    "reply": "2 Recommended Answers"
-}

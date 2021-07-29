@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/105389006/wifi-calling-intermittent-failures?hl=en",
-    "title": "Wifi calling intermittent failures",
-    "content": "This is happening on multiple Pixel 5 units on T-Mobile.\nIt does not happen with a Pixel 2 or 3 on the same network  (location) & also t-mobile.\nThe issue manifests when wifi calling is enabled (either mobile  or wifi preferred). Note that if I set mobile preferred the phone chooses wifi almost always (even though mobile is working fine if I disable wifi).\nwifi calling works perfectly if I enable airplane mode and then enable wifi.\nAfter doing #4 wifi calling works for a day or so once airplane mode is disabled. Service then reverts.\nIssue when it occurs is that audio stops in one direction only (varies between tx and rx). It *seems* that one direction is flipping to mobile and the other is remaining on wifi. I have no equipment to test that hypothesis. \nThis issue has occurred since I purchased the phone. I have previously reached out to google support; then t-mobile support; now back to you.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 5",
-    "post_time": "2021-04-07T19:28:03.588563+00:00",
-    "reply": "5 Replies"
-}

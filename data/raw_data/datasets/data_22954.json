@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/14944394/severe-issues-after-android-10-upgrade?hl=en",
-    "title": "Severe Issues After Android 10 Upgrade",
-    "content": "After upgrading to Android 10 two days ago:\n1. The Play Store keeps crashing when trying to update apps. Restart pixel in safe mode and all pending updates are gone and it shows \"no updates\". Restart again to normal mode and all pending updates are gone too.\n2. Camera app cannot take photo. Touch the screen and hear the photo taken sound, but cannot find new photos in the Google Photos app. All old photos before the upgrade are still there. Tried to clean up the cache and storage of Camera app and that does not help.\n3. Multiple apps, including slack, weChat, etc which used to have access to photos can no longer load local photos any more. Restarting, cleaning cache and storage do not help.\n4. Significant delay when starting and running apps like Chrome etc.",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-09-21T13:59:54.192632+00:00",
-    "reply": "1 Recommended Answer"
-}

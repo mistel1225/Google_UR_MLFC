@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1734364/battery-percentage-is-not-displayed-when-charging-phone-in-powered-off-state?hl=en",
-    "title": "Battery percentage is not displayed when charging phone in Powered off state",
-    "content": "Steps:\n1. Power Off the device\n2. Insert USB to charge the phone\n\nActual:\nWe see only Battery Animation with level of battery charged\n\nExpected:\nWe are not seeing the charged percentage (0-100%)",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3",
-    "post_time": "2019-02-19T11:26:31.268401+00:00",
-    "reply": "3 Replies"
-}

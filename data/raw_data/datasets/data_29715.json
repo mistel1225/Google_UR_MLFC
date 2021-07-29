@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/9655443/boot-issue?hl=en",
-    "title": "Boot issue",
-    "content": "After installing Android Q beta, my Pixel 3 Xl stuck in a black screen with “Can’t find valid operation system” message. Have tried fastboot but no help since the bootloader is locked. \nIs anybody know how to fix this issue?\n\nThanks in advance",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2019-07-11T02:24:53.153101+00:00",
-    "reply": "1 Reply"
-}

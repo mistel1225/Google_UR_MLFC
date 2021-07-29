@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/71439187/custom-launchers-partly-broken-with-android-11?hl=en",
-    "title": "Custom launchers partly broken with Android 11",
-    "content": "I'm a long-term user of Nova Launcher (if you're curious, because of how limited and google business driven the default launcher is). After update to Android 11 there are at least two serious problems:\nSwiping up to access the running apps no longer works at all from the home screen.\nSwiping up from an application works, but if you return to home screen from it, you'll end up with the google launcher until you lock the phone and unlock it again.\nIs this problem known to Android developers?",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 3a",
-    "post_time": "2020-09-16T09:05:21.178986+00:00",
-    "reply": "1 Recommended Answer"
-}

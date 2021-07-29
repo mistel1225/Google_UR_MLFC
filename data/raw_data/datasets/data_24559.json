@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/23409949/pixel-3-screen-flashing-but-only-with-always-on-display-enabled?hl=en",
-    "title": "Pixel 3 Screen flashing, but only with Always On Display Enabled",
-    "content": "I have a Pixel 3, that was out of warranty the end of October.  I have contacted support and they had me walk through checking in safe mode, checking in the boot loader, and finally factory resetting it.\n\nWhen the flashing started, it only flashed when turning the screen off.  By the time I contacted support it was flashing constantly, on all screens, in all apps. Troubleshooting, it would still flash in safe mode, but not in the boot loader.\n\nWe factory reset it, and it would only flash when turning the phone off. I had the idea to disable Always On Display, and for the last 24h I have not seen any flashing at all. \n\nAnyone have any ideas on how to prove is this is a hardware or a software issue?  Google phone support tells me my only option is to get a 3rd party to run diagnostics.  The 3rd party (over the phone) told me it was like $280 to replace the screen/digitizer because maybe the phone was bent. I'm a software guy, so I might be biased, but it seems like if it was hardware and a bent phone it would happen all the time, and enable/disable of a software feature wouldn't fix anything. \n\nI'm really disappointed that this seems to be a known issue with Google, yet they have no interest in doing anything about it after that magic 12 month warranty is up.  For the price of these devices, and the money made from apps, they would offer a little more support then this.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2019-12-20T22:27:30.907525+00:00",
-    "reply": "1 Reply"
-}

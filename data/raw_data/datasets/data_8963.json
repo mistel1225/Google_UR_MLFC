@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/92104701/help-pixel-xl-boot-looping?hl=en",
-    "title": "Help: Pixel XL boot looping",
-    "content": "My mom has a Pixel XL device, and recently it started to boot loop.\nIn the beginning it says \"Your Device Cannot Be Checked for Corruption\" and then it shows Google logo for a few seconds and then restarts.\n\nI succeeded reaching bootloader mode using power-button and volume-down-key, but when I choose to go to recovery mode it just starts to boot to the OS instead.\n\nI tried to re-flash the firmware (from here ) , while removing the `-w` part (to avoid wiping, as I want to recover the data even if I will do factory-reset), but it still reached boot-loop (despite seeing that it flashed fine).\n\nTalking with some smarphones-lab (without letting them check it out yet), they said that many times a boot loop is a hardware issue (the CPU, meaning the SOC ), and that if that's the issue, there is no way to restore anything.\n\nIs it true?\nHow can I fix this and also restore the data? Some of the things on the device didn't get a backup for some reason (for a long time), including for Google Photos.\n\nPlease help",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel",
-    "post_time": "2021-01-05T14:22:06.739471+00:00",
-    "reply": "7 Replies"
-}

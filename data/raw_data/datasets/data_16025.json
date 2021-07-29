@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/72740985/no-sound-on-pixel-4a-presumably-caused-by-google-assistant?hl=en",
-    "title": "No sound on Pixel 4a, presumably caused by google assistant",
-    "content": "No any sound on pixel 4a. Even no sound with earphone.\nThis issue happened 2 times on my phone. I have checked all phone settings. I am sure it is a bug.\n\nthere are 2 ways so far to temporarily resolve the issue :\n1. reboot the phone\n2. ask google assistant to set an alarm\n\nThe second one is interesting, which indicates it might be the cause.\nI guess when you call Google Assistant and get interrupted (close the tap or app crash)\nYour phone might stuck in the session so audio get occupied by Google Assistant.\n\nPhone audio won't come back until you call the Google Assistant to do the same task again.\n\n  I'm trying to reproduce the bug. If anyone encountered similar case, please give some information.\n\nThanks",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 4a",
-    "post_time": "2020-09-23T05:38:32.361947+00:00",
-    "reply": "0 Replies"
-}

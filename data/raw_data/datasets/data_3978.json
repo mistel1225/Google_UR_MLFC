@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/104641740/restore-images-from-google-pixel-after-factory-reset-without-backup?hl=en",
-    "title": "Restore images from Google Pixel after factory reset without backup",
-    "content": "I accidentaly deleted DCIM foder from the phone while being connected via USB to my PC. As backup function wasn't active on my phone - I tried a set of third-party recovery applications but most of them required root to interact with internal memory(where DCIM was). So I factory reset my device and root it. Found nothing. Also tried Google Takeout - found nothing.\n\nSo my question is - Do I have any chance to restore files that were lost under these circumstances? I don't have backup of my photos and backup of my previos image of the phone. But maybe Google collects images that were taken with Camera app somewhere else even with backup function swithed off?\n\nP.S. There were a lot of pictures of my 7month old baby  so I'd really want to restore them ;(",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2021-04-01T10:37:17.919393+00:00",
-    "reply": "1 Recommended Answer"
-}

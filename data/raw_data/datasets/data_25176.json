@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/4796774/my-pixel-xl-is-bricked?hl=en",
-    "title": "My Pixel XL is Bricked",
-    "content": "I was having issues with battery life on Android P DP5, so I decided to do an adb backup, wipe the phone, and restore the backup.\n\nWhen I tried erasing, however, I started getting odd messages, as can be seen here. Rebooting the phone would only bring me to the erasing screen. and after a minute or two, back to that error screen. Factory resetting from recovery mode would return the same issues.\n\nAfter speaking to numerous people, I finally was able to flash DP5 again (as it did not work at first for some reason), and things changed. Booting the phone brought me to the Google screen, although the Pixel has been sitting there for roughly an hour.\n\nI was told to try factory resetting from recovery mode again, but now I get the following messages:\n\nE:/sbin/mke2fs_static failed with status 37.\nE:format_volume: Failed to make ext4 on /dev/block/platform/soc/62400.ufshc/by-name/userdata: No such file or directory\nDate wipe failed.\nE:Failed to clear BCB message: failed to write /dev/block/platform/soc/62400.ufshc/by-name/misc: I/O error\n\nUnfortunately for me, while I once had OEM Unlock enabled. I turned it off, so now I cannot even unlock the bootloader so as to flash a factory image.",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-04-24T11:51:54.053687+00:00",
-    "reply": "1 Reply"
-}

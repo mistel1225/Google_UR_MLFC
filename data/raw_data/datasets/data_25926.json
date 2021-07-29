@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/18677377/i-m-having-problem-with-ipv6-connectivity?hl=en",
-    "title": "I'm having problem with IPV6 connectivity.",
-    "content": "Some of my apps stopped working.  I was enable to load files from my Google Drive, images wouldn't load in Pinterest app and other shopping apps like Wayfair or Touch of Modern. Also, my Google agenda was taking forever to sync.\n\nI've tried everything and reboot my phone from factory twice.  This problem drove me crazy for weeks.  Then I've tried to disable IPV6 connectivity on my network and everything is working fine again.\n\nI'm suspecting that Pixel have issues with IPV6 connections.  If you feel that some apps aren't loading fine and that every other non-Android device works fine, try to disable IPV6 connectivity on your router and it might resolve your problems.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2019-11-06T02:58:29.930987+00:00",
-    "reply": "4 Replies"
-}

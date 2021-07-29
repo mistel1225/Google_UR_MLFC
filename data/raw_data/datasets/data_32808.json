@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2752267/i-can-t-boot-my-og-pixel?hl=en",
-    "title": "I can't boot my OG Pixel",
-    "content": "I left my phone on the charger and found like this\nIt showed completely messed up bootloader screens, here are a few(if i press the power button, it changes):\nhttps://ibb.co/c1GXMDw\nhttps://ibb.co/T0Z0BqV\nhttps://ibb.co/vLTnnct\n\nIf i long(20s) all the 3 buttons, I'm able to get to this working menu(bit the reboot and the power off button takes me back to the messed up screen, and the recovery menu button takes me to a white screen wich says: unable to load recovery menu):\nhttps://ibb.co/74myDDB\n\nI have tried a few thing with adb, but i couldn't achieve anything:\nhttps://ibb.co/Mk7Kpg6\nhttps://ibb.co/kqXWFQ2\nhttps://ibb.co/59Tc1zF",
-    "is_img": 1,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-03-20T23:23:26.960016+00:00",
-    "reply": "1 Reply"
-}

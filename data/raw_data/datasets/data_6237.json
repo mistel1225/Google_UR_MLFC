@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/99559625/i-cant-seem-to-be-able-to-not-use-ca-certificates-when-connecting-to-wifi-is-there-a-way-to-disable?hl=en",
-    "title": "I cant seem to be able to not use CA certificates when connecting to wifi.Is there a way to disable?",
-    "content": "I've looked at other question similar to mine and some were talking about a security update that locks the option to disable it to force the network host to update their wifi, but I highly doubt the wifi I'm trying to connect to will update any time soon :/. If I can't disable that option, could I rollback the security update?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2021-02-24T16:18:14.048669+00:00",
-    "reply": "1 Reply"
-}

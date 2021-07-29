@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/80319336/pixel-4-battery-indicator-has-reached-100-but-battery-isn-t-full-actually?hl=en",
-    "title": "[Pixel 4]Battery indicator has reached 100% but battery isn't full actually.",
-    "content": "I noticed that my Pixel 4 SoT decreased heavily recently, only 4.5 hours approximately. And AIDA64 told me Charge Counter was only 2587 mAh when battery was 'full' while capacity is 2800 mAh. I don't think battery is not health because sometimes it can be charged to 2628mAh or higher. I have an idle Pixel 2 which SoT is only 3 hours but Charge Counter is almost equal to capacity (2700mAh) when battery is full. My Pixel 4 has been used for 10 month. Is that a system problem?",
-    "is_img": 1,
-    "category": "Battery and Power, Google Pixel 4",
-    "post_time": "2020-11-01T09:08:02.539475+00:00",
-    "reply": "1 Reply"
-}

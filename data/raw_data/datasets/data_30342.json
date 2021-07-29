@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/7797491/i-receive-3-6-overlapping-notifications-dings-for-each-push-notification?hl=en",
-    "title": "I receive (3-6) overlapping notifications dings for each push notification .",
-    "content": "I'm not sure when this started exactly, maybe two months ago, I receive many dings for each notification. There's no debounce on this, every notification causes it. I've not tweaked any settings or done any factory restoration. I wish you could hear this because it's annoying. Any ideas? I read about a recent bug related to Bluetooth causing multiple notications but disabling my Bluetooth hasn't remedied this. It's also worth noting that with the notifications on vibrate I only receive a single vibration but this may not really mean anything. I have also just now discovered that dnd is being ignored by at least one app but it's the only I've I got a notification on before updating this thread.",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-06-11T01:45:13.412825+00:00",
-    "reply": "0 Replies"
-}

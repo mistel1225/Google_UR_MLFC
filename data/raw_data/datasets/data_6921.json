@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/97761088/3-contacts-with-same-phone-main-for-all-2-display-the-3rd-s-name-3rd-displays-its-own?hl=en",
-    "title": "3 contacts with same phone # (main # for all). 2 display the 3rd's name. 3rd displays its own.",
-    "content": "Three contacts share the same main number, call them A, B, C.  Each contact was entered separately, that is, they are not 'grouped' in any way (I don't know how to do anything like that). In Contacts, when I tap on A or B, each displays C's name. C properly displays its name. I created test contacts for 3 names with the other fields matching. Works fine. \nJust before posting this, I thought about those other fields. A and B have the same info in all fields. But C does not. I added the other fields to C and everything works perfectly. Then I removed those fields and again everything works perfectly. Very strange.\nFinally, my questions are:  Is there anything I might have done wrong in entering the contacts?  And if it happens again, is there a more direct way of correcting such a problem beyond guessing which parts were the problem?  Or is this 'simply' a bug?",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3",
-    "post_time": "2021-02-12T05:14:24.296252+00:00",
-    "reply": "0 Replies"
-}

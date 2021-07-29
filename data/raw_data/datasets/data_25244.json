@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/23169761/my-pixel-2-xl-keep-randomly-rebooting-after-dec-2019-update-due-to-mobile-network-lost?hl=en",
-    "title": "My pixel 2 XL keep randomly rebooting after Dec 2019 update due to Mobile network lost",
-    "content": "After December 2019 update, my p2xl keep randomly restarting, sometimes once a day, or can be multiple times. I think the restart only happens when Mobile Network Signal is low. Mainly in Lifts or in Supermarket where there are spots where mobile signal is very low or is not available. I am on Voxi Vodafone UK network if that makes a difference. Tried going into safe mode and factory reset without restoring apps but same thing happens. Anyone has similar issue or have a fix.\n\nMaybe not relevant but each reboot, my battery seem to dip or increase. I blame this on bad battery but after calibration, that seem to have been fixed. One thing odd is that the battery usage graph is showing outside of the graph area (graph X axis are around 50days) even though I have just calibrated. (Happens after random reboot). I checked sysdump batterystat and the info shows from today's date to 1970-01-01 so the random reboot must have messed with the batterystat recorded time.\n\nHelp?",
-    "is_img": 1,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-12-18T09:30:09.595507+00:00",
-    "reply": "2 Replies"
-}

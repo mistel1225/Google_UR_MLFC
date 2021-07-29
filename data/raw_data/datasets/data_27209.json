@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17063668/issue-in-the-developer-options-bluetooth-audio-ldac-codec-playback-quality-on-android-10?hl=en",
-    "title": "Issue in the developer options Bluetooth audio LDAC codec: Playback quality on Android 10",
-    "content": "Back in Android 9, the option would provide instant feedback as you selected an option and would keep your selected option saved until you disconnected your Bluetooth device.\n\nIn Android 10, selecting the option does nothing and simply going to the app drawer will reset the option back to default. It resets with or without any music playing and simply never changes the default behavior when it comes to the bitrate.\n\nIs there a different way to manually select the playback quality for the LDAC codec or a way to fix this issue?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
-    "post_time": "2019-10-17T20:29:30.705307+00:00",
-    "reply": "1 Recommended Answer"
-}

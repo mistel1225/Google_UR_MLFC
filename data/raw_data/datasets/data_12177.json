@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/80843731/pixel-5-fast-charging-bug?hl=en",
-    "title": "Pixel 5 Fast Charging Bug",
-    "content": "Hello, I am trying to use a PD 3 fast charger (non-google) with my Pixel 5, but the problem is the charge connects and disconnects over and over, probably half second gaps in between. \n\nI've done as many debugging steps as I can, and I am certain this is a bug. \n\nRoot issue: charger connects and disconnects over and over. \n\nTests: Pixel 3 charges fine with same cable/charger. Wife's iPhone charges fine with her usb-c to Apple connector. My Pixel 5 charges fine with same cable but OEM charger. My Pixel 5 will not charge with OEM pixel cable but after market charger. \n\nI've tried to narrow down a bad charger or cable, but in all scenarios I am not able to do that. Everything works fine individually or with a different phone. The non-oem PD 3 charger simply doesn't play nicely with my Pixel 5, but works with all other devices. The cable I am using works great with the OEM charger block so I know the cable is good. Both new charger and cable work with my old Pixel 3 with no problems. \n\nThanks.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 5",
-    "post_time": "2020-11-04T00:49:48.351549+00:00",
-    "reply": "7 Replies"
-}

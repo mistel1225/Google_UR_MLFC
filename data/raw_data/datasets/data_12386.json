@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/81962586/when-connected-to-car-using-aux-cord-streaming-services-stop-responding-randomly?hl=en",
-    "title": "When connected to car using aux cord, streaming services stop responding randomly.",
-    "content": "I've tried different services to make sure it wasn't the apps (spotify and youtube music). It looks like since the past weekend it has been randomly choking and causing the apps to become unresponsive as well as the phone for a few seconds since it won't let me use the fingerprint reader, go back, or restart the song for a second when it freezes up. Bluetooth works fine though. \n\nAlso this issue only appeared after I continued setting up my phones google features and such. The most noticeable setup I did was the emergency contact and car crash detection. Maybe one of the sensors for the detection is not liking the audio cable connection while it's trying to detect so it's causing apps to choke?\n\n\nDid some more testing, kinda. I was sitting at work listening to spotify using my headphones connected by cable and have had no issues. So I'm thinking it is something with location services and car crash detection. Is that just a limitation of Pixel 4a? Should I maybe turn off location features while I drive?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4a",
-    "post_time": "2020-11-09T21:58:13.016871+00:00",
-    "reply": "0 Replies"
-}

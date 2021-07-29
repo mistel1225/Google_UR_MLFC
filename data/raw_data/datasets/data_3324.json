@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/106331688/i-tried-to-install-today-s-android-update-on-my-pixel-3xl-failed?hl=en",
-    "title": "I tried to install today's Android update on my Pixel 3XL. Failed",
-    "content": "It booted to a black screen that says:\n\nFastboot Mode\n\nAfter various details, it says:\nDevice state: locked\nBoot slot: b\nEnter reason: reboot bootloader\n\nIn the upper right, it defaults to Start, and if I hold the power button, it restarts without the update.\n\nAfter starting back up, there's a notification:\n\nCouldn't update\nInstallation problem\n\n(but no details)\n\nI hit the Try again button with the same result.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2021-04-15T18:26:17.972868+00:00",
-    "reply": "1 Reply"
-}

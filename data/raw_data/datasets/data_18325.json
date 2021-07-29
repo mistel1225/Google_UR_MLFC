@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13519859/pixel-2-official-android-10-update-issue-stuck-on-g-logo-loading-page?hl=en",
-    "title": "Pixel 2 official Android 10 update issue: Stuck on G logo loading page",
-    "content": "I've just downloaded the official Android 10 update on my Pixel 2. After the installation, it prompt me to restart the phone. I proceed to restart my phone and now it's stuck in the G logo loading page, and would not get into the home screen. I've tried a couple of things, and listed the outcomes below.\n\n1) when holding down power button for long duration, \n- it just keep looping the Google and G logo page.\n\n2) when holding power + volume down buttons,\n- Start: goes back to G logo loading page\n- Restart bootloader: back to Bootloader page\n- Download mode: back to bootloader page\n- Recovery mode: a quick google page then goes straight to \"No command\"\n- Barcodes: showed 3 barcodes\n- Power off: phone shut down\n\nWhat should I do now? FYI I'm from Australia.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-09-04T01:02:56.035449+00:00",
-    "reply": "1 Recommended Answer"
-}

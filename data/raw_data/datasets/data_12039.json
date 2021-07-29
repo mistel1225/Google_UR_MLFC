@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/82503329/major-video-playback-bug-with-trimmed-videos-on-pixel-5?hl=en",
-    "title": "Major video playback bug with trimmed videos on Pixel 5",
-    "content": "When trimming videos using the built in tool on Pixel 5, the resulting video plays back with over saturated colours and bad contrast. The same videos play fine on other devices (iPhone, laptop) but for some reason Google Photos messes up. This behaviour occurs with exported videos from other apps too (Inshot, Power Director).\n\nPlease see examples below:\nOriginal vs trimmed",
-    "is_img": 1,
-    "category": "Camera, Google Pixel 5",
-    "post_time": "2020-11-12T12:37:09.224852+00:00",
-    "reply": "1 Reply"
-}

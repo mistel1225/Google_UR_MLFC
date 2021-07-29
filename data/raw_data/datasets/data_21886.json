@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/3086868/sensors-not-working-on-pixel-3-xl?hl=en",
-    "title": "Sensors not working on Pixel 3 XL",
-    "content": "Already submitted bug report on https://issuetracker.google.com/issues/129361805 but checking if there's anyone else had same issue.\n\nI got new Pixel 3 XL last Saturday. Finished all settings and apps as usual, then enrolled Android Q beta, OTAed from latest Pie build of 20190305. \n\nFirst I noticed that auto rotation and Active edge is not working, so I downloaded Sensor Lab and Phone Test from play store and run a test. As you can see from attached screenshots, the result of these two apps along with GPS status' sensor test shows that accelerometer, gyroscope, compass and step counter are not working. \n\nMy first thought is it's a bug in Q beta because before installing OTA everything worked as expected. Then I did a hard reset via recovery, downloaded latest Pie factory image (190305) and flash-all. However this operation did not help. Those sensors are still dead.\n\nI had several Nexus/Pixel devices, tried many beta images and 3rd party ROMs but this issue is new to me. Since I'm in mainland China it's difficult to just call customer service and get a new handset. Looking for help here.\n\nP.S Base on my experience as a software developer I tend to believe it's not a hardware issue, but is it possible that I really need to get a new phone since the bug made some permanent damage?\n\n\nThanks a lot.",
-    "is_img": 1,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-03-27T03:51:28.04786+00:00",
-    "reply": "1 Recommended Answer"
-}

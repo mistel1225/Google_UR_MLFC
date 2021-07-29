@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17496315/face-enrolment-didn-t-work-face-unlock-malfunctioning-on-new-pixel-4-can-t-configure?hl=en",
-    "title": "\"Face enrolment didn't work.\" Face Unlock malfunctioning on new Pixel 4, can't configure.",
-    "content": "My new Pixel 4 arrived last night, so I started setting it up, transferring things over from my Pixel 2, etc etc.\nI got through the Face Unlock setup, where everything behaved pretty well, and it was all smooth and quick and nice.. until this morning.\nThe face verification just completely stopped working.\nI noticed it first with 1Password, but everything else on the phone that used it stopped working too.\nGiven that I was setting up lots of things, and logging in to all sorts of apps, websites, etc, I was using the biometric unlock feature in the 1Password app a lot and probably doing the face unlock dozens of times per minute as I bounced between 1Password and other things.\nNext, I tried to delete the face data in Settings > Security and go for a clean slate, but after I pressed the \"delete face data\" button, it popped up the little rounded notification at bottom-centre of the screen and just said something like \"can't verify face\" while I was trying to delete the malfunctioning face data.\nAfter that, I did a complete factory reset, and when it came back around to the Face Unlock setup section, I got this:\n\n\"Enrolment was not completed.\nFace enrolment didn't work.\"\nA screenshot as taken from my Pixel 2\n\nIt just popped up that error straight away and didn't even bother trying to go through the setup again.\nSo now I don't know what to do next. Does anyone have any suggestions? Thanks in advance!",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4",
-    "post_time": "2019-10-23T08:23:15.975172+00:00",
-    "reply": "126 Replies"
-}

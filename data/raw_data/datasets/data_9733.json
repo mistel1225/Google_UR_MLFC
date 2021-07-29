@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/90011093/google-photos-lag-and-delay?hl=en",
-    "title": "Google photos lag and delay",
-    "content": "Just got the Pixel 5 recently vs having a Pixel 2.  Since the software version 11 update I've been having significant problems.  I just took some photos for the first time since the update and went into Google Photos to edit, delete, etc.  Here are my issues:\nWhen deleting a photo there is a significant lag between hitting the \"trash can\" delete button and it asking for permission to delete.  The lag is usually in the form of a swirling circle in the middle of the screen.  Also, after giving permission to delete there is also lag deleting the photo and sometimes does not delete at all.  The more photos deleted the longer the delay.\nWhen moving from the home screen of google photos to \"Library\" at the bottom right there is a tremendous lag before it pulls up \"Photos on device\" and \"Albums.\"  When I say lag I'm talking about a minute or more.\nWhen capturing photos there is a delay from when captured to when they appear in Google photos both in the main section and the camera section in the library.  These should pics should be saved immediately to the phone's memory.  Why a delay?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 5",
-    "post_time": "2020-12-23T03:43:40.314589+00:00",
-    "reply": "1 Reply"
-}

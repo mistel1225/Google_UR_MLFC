@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/49125668/apps-disappear-from-the-recent-apps-list-over-time?hl=en",
-    "title": "Apps disappear from the recent apps list over time",
-    "content": "Steps to reproduce:\nTurn on safe mode\nClear out recent apps and open 10 apps\nLeave the device alone for some time (I do this overnight)\nCheck if the 10 apps are still in your recent apps list\nExpected behavior:\n10 apps in the recent apps list\n\nActual behavior:\n~4 apps in the recent apps list\n\nI've been through 2 replacement pixel 3's and they all have the same issue.\n\nThe issue also happens on pixel 3a.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2020-05-25T21:39:28.441201+00:00",
-    "reply": "3 Replies"
-}

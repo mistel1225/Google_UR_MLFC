@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/43029966/google-pixel-3-stuck-in-fastboot-mode-device-state-locked?hl=en",
-    "title": "Google Pixel 3 stuck in Fastboot mode.. device state: locked",
-    "content": "Hi All, \nOver the weekend I dropped my pixel 3 and it has a small dent on the lower volume button. I noticed I couldn't use the lower volume button on the side of the phone and then I find my phone in this fastboot mode with\n device state: locked\nboot slot: a \n\nI can't access anything on the menu as clicking the power button just results in cycling through the menu. I can only assume this is because of the lower volume button damage? though it seems strange physical damage would result in one button taking the job of another\n\nAnyway because of this I can't boot the thing into recovery mode and instead only cycle through the options (start,power off,bar code,rescue mode, recovery mode, restart bootloader.)\n\nany help or advice appreciated",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2020-04-28T14:42:27.784831+00:00",
-    "reply": "1 Reply"
-}

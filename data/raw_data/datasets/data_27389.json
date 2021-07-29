@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/16799164/pixel-3-group-messages-defaulting-back-to-mass-text-instead-of-group-mms?hl=en",
-    "title": "Pixel 3 Group messages defaulting back to Mass Text instead of Group MMS",
-    "content": "Description: \nPixel 3\nAndroid Version: 10 \nProvider: Project Fi\n\nMy group messages keep defaulting to Mass Text instead of Group MMS. \n\nSteps: \n1. I am going into Settings > Advanced > Group Messaging > Group MMS. \n\nResult: \nSettings will default or 'timeout' back to mass text instead of Group mms. \n\nExpected Result: \n Should Keep settings change. \n\nP.S. (additional suggestions) \n1. It would be helpful to have an 'apply' or 'done' button when selecting a group setting, so that the pop up screen goes away. This will also help ensure that the setting changes have been made. A button adds to the user experience and gives them peace of mind that their changes have been saved. \n\n2. Default should be group mms since I can't think of a reason you would want to send mass texts in a singular fashion. I get that some users use this feature, but I can only see it hindering some from using this default app because of the inconvenience of getting group messages one txt at a time, instead of as one mass txt.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2019-10-14T18:03:09.990433+00:00",
-    "reply": "1 Reply"
-}

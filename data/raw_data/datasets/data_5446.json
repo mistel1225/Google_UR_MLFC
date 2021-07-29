@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/101225694/usb-mtp-problem?hl=en",
-    "title": "USB MTP problem",
-    "content": "I cannot transfer files from my Pixel 5 to my Windows 10 pc. Even the stock OTG dongle is not working. Everytime I'll plug my device to my computer, the phone is just charging.\n\nI already tried the methods recommended like USB debugging turned ON and USB preferences etc.\n\nDuring OTG, my phone is trying to charge the attached flash drive instead of accessing the files in it.\n\nI am getting frustrated that a \"flagship\" phone cannot even do the simplest job of transferring files.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2021-03-08T02:33:14.510893+00:00",
-    "reply": "6 Replies"
-}

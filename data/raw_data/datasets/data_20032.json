@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/56471683/voice-match-stops-working?hl=en",
-    "title": "voice match stops working",
-    "content": "On my Google Pixel 3, periodically Google Assistant voice match stops working (sometimes daily).  The fix that works for me is to go to \"Adjust settings for the Assistant on this device\", unchecking \"Hey Google\", and then rechecking it.  I can't seem to see the pattern.  But I feel it started when I got my Google Pixel Buds 2 so it may be related to how the buds respond to voice match and when they're disconnected form the phone, the Pixel 3 is not picking it back up?  It is just a shot in the dark.\n\nAnyone else seeing this?",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 3",
-    "post_time": "2020-07-01T04:53:42.879215+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/106075753/hold-for-me-not-in-settings?hl=en",
-    "title": "hold for me not in settings",
-    "content": "We have 2 phones, both Pixel 3as, both running OS 11, March update, Google Phone, latest version (63.0.364655934), both on Google Fi service.\nOne phone's (\"Good\") settings include \"Hold for Me\" and \"Spam and Call Screen\".\nThe other phone's (\"Broken\") settings do not include those 2 settings, only has the \"Caller Id and Spam\" setting.\n[see images]\nHow the hell does that happen???\nOnly difference I'm aware of is that the Good phone uses eSim and the Broken phone has a physical Sim.\nClearing cache on the Broken phone did not change anything.\nBefore I try Clear Storage, what Phone data is deleted when you do \"Clear Storage\"?? - Appears that all the data in the Phone app is backed up to the cloud so should be okay to clear storage - is that correct??  \n[Why is there no document that describes what data in each app is deleted when clear storage is done????  Oh I forgot, no one at Google actually uses their software!]\nHas anyone seen this and have a solution?\nThanks\n\nGood:\n\n\n\nBroken:",
-    "is_img": 1,
-    "category": "Device Performance, Google Pixel 3a",
-    "post_time": "2021-04-13T18:36:14.71889+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/60081136/why-do-my-internet-browsing-apps-all-give-me-a-security-error-message?hl=en",
-    "title": "Why do my internet browsing apps all give me a security error message?",
-    "content": "My Pixel 2 XL connects just fine to my home WiFi, and most apps that use internet (Gmail, Facebook, etc.) seem to work properly. However, a couple of days ago, all of my internet browsing apps (Chrome, Samsung Internet, Firefox) started giving me security error messages - like they are blocking me from sites - although the sites are legit. For example, my \"home\" is set to Google, yet as soon as I open the app and it starts loading Google, it gives me a \"Your connection is not private - Attackers might be trying to steal your information... NET::ERR_CERT_AUTHORITY_INVALID\" message. I can't figure out how to keep these apps from \"blocking\" legit sites. My device says the system is up-to-date (running Android 10). I've tried restarting it multiple times. I've tried uninstalling and reinstalling those apps. A few weeks ago I installed Norton Mobile Security on my phone (we upgraded our Norton subscription from 1 device to 5 devices so we could have it on my phones and tablets - my wife and I were recently victims of identity theft). But those browsing apps had been working just fine, even with Norton on there, for weeks. Plus, this security message doesn't seem to be coming from Norton. Any thoughts on what's going on? Suggestions?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2020-07-20T17:20:57.995006+00:00",
-    "reply": "4 Replies"
-}

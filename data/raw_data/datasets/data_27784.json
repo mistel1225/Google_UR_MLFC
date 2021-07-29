@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/15655450/google-fit-distance-tracking-not-accurate?hl=en",
-    "title": "Google Fit distance tracking not accurate",
-    "content": "My Pixel 2 XL has a problem when tracking workouts on Google Fit, it will measure distances much longer than actual. Today I went on a 7.9km outdoor run, but Google Fit reported it as 9.85km. Double checking by measuring distance on Google Maps shows the length of my route at 7.9km. It will record time and steps accurately and will plot the run on the map accurately, but the distance (and therefore my pace) is way off. It seems to roughly report 1km for every 800m. \n\nI have all permissions for Fit (Location, Physical Activity, Storage) set to Allow (or Allow all the time). My run is outdoors with clear skies for the GPS, I wear my phone on my arm strap, and my route is a long street run (i.e. not laps of a small track). I am running Android 10 (QP1A.190711.020).\n\nThe problem roughly began around the time of upgrade to Android 10 a few weeks ago, but I can't be certain if it was exactly at that time. Fit used to track distances accurately in the past and this has not previously been an issue.\n\nAny advice appreciated!",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2019-09-30T06:43:32.303886+00:00",
-    "reply": "2 Replies"
-}

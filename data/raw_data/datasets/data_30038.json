@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/8745849/recovery-mode-from-fastboot-doesn-t-load-any-other-options?hl=en",
-    "title": "Recovery Mode from Fastboot Doesn't Load. Any Other Options?",
-    "content": "A few days ago, my Pixel 3 began to randomly freeze and restart, going into a boot loop. I was able to get out of it by booting into safe mode, but the same behavior happened even in safe mode. Overnight, however, it turned off and won't restart. Instead, the white Google screen comes on for about 10 seconds, then the phone shuts off again. I can boot into Fastboot, but when I select Recovery Mode, it instead launches the white Google screen for about 10 seconds, then shuts off. Are there any other options, or is the phone hard bricked?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2019-06-26T12:50:48.120492+00:00",
-    "reply": "1 Reply"
-}

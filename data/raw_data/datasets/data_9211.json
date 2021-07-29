@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/91664413/google-directions-aren-t-working-how-do-i-stop-emergency-alerts-on-my-pixel-3a-android-11?hl=en",
-    "title": "Google directions aren't working - how do I stop emergency alerts on my Pixel 3a / Android 11",
-    "content": "An emergency weather alert appears to be stuck on my lock screen and home screen. (edit:  There actually IS an active alert right now)\n\nI've done this:\n- tried the directions about 'Control emergency broadcast notifications' but it didn't work.\n- disabled 'Notifications on lock screen' ( - don't show ANY notifications )\n- turned off:\n          all notifications from Google app\n          Wireless emergency alerts\n          Carrier Services\n          Google Maps\n          Pixel Launcher\nI restarted the phone and it's still there on both lock screen and home screen.\nIt appears on the home screen first and then about a minute later on the lock screen.\nWhen I doubletap on one of the alerts it takes me to google.org/publicalerts/alert?aid= ... &source=wweather\n\nThanks\n\nedit:\nThe extreme weather has passed so the alert is gone.  \nThis is a good example of how to fatigue your customers.\nI understand that some emergencies do necessitate long form alerts, but something on the order of a weather alert isn't one of them.\nI also understand that Samsung devices have better control over the alerts, so they've just moved to the top of the list for consideration next time I upgrade the phone.  I'm probably not alone.\n\nAlso, if other folks are irritated by this lack of control over features, please don't forget to leave feedback.  Be constructive and not just belligerant, though a good portion of each may be better.\n\nGood luck all, and Happy New Year!",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2021-01-02T17:32:19.789695+00:00",
-    "reply": "0 Replies"
-}

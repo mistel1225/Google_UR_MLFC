@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/83651849/certain-ble-devices-not-showing-up-on-pixel-5?hl=en",
-    "title": "Certain BLE Devices not showing up on Pixel 5",
-    "content": "Hi,\n\nSince I switched from my Pixel 4 to the Pixel 5 I had some Problems with BLE.\nIn a App used to see all BLE devices that are near the phones I see a big difference between the two phones (Both phones on Android 11). I tried multiple apps and I always see the same difference between the phones. Even in my own App with debugging active I couldn't see the reason for that difference.\n\n\nNow my question: Is that a hardware/Firmware issue on Google's side or is thee something major that changed between the two phones?\n\nWhat I tried:\nRestarting the Phone\nTurning off/on Bluetooth (as far as killing the Bluetooth Service)\nDebugging with Android Studio to see if the Logs would help identify the issue",
-    "is_img": 1,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2020-11-18T10:45:40.231475+00:00",
-    "reply": "1 Reply"
-}

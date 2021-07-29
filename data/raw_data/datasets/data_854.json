@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/112637439/photo-file-names-use-utc-time-instead-of-local-time?hl=en",
-    "title": "Photo file names use UTC time instead of local time",
-    "content": "Recently, the file naming scheme for my photos changed. It used to be date and time per local time zone. Now it is date and time by UTC. Therefore, pictures taken later in the day have a filename with the date of the following day.  This is very annoying for sorting photos on my laptop, since I usually sort them by day, and now half my photos have the wrong day.",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3a",
-    "post_time": "2021-06-07T03:11:07.65543+00:00",
-    "reply": "1 Recommended Answer"
-}

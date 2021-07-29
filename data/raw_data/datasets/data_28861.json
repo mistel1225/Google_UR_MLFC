@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/12175049/pixel-shutting-down-when-connecting-to-hard-drive?hl=en",
-    "title": "Pixel shutting down when connecting to hard drive",
-    "content": "Disclaimer: Currently my phone is operating with Android Q beta 6 but the problem also existed when it operated with Pie. \n\nI recently bought a segate portable hard drive of 1 TB. I reformatted it in my computer to NTFS and then I connected it to my phone with the USB A to usb C adapter I got when I bought the phone. The phone told me I need to format it to be able to use it. When I clicked the format button it was stuck on 20% for a while and then rebooted and then finished. After that I passed some thing to the hard drive and connected it to my phone and everything was fine, I was able to use it but since then Everytime I connect the hardrive I get a notification that it is being checked and then my phone suddenly powers off and powers on again stuck on the loading \"G\" of the Google logo untill I pull the hard drive off.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2019-08-17T04:57:02.112398+00:00",
-    "reply": "1 Reply"
-}

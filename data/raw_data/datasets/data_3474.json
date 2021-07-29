@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/105891956/pixel-4a-stuck-in-boot-loop-black-screen-g-logo-and-it-s-loading-but-nothing-is-happening?hl=en",
-    "title": "Pixel 4a stuck in boot loop. Black screen \"G\" logo and it's loading but nothing is happening",
-    "content": "I have tried restarting the device by holding the power button for up to 30 seconds\n\nI've tried to restart by pressing the power button and the volume UP button. It then shows be a dead android figure with the text \"No command\"\n\nTried holding power button and volume down. It then opens Fastboot mode. I've tried all options:\n- BarCode\n- Rescue Mode\n- Recovery Mode\n- Restart Bootloader\n- Start\n- Power off\n\nAgain, I'm seeing the \"no command\" screen or the \"G \" logo with a bar that seems to be loading but isn't actually loading.\n\nWhat can I do?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4a",
-    "post_time": "2021-04-12T09:34:22.14176+00:00",
-    "reply": "1 Reply"
-}

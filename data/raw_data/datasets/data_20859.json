@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/26760466/pixel-2xl-shows-zero-signal-bars-on-3g-only?hl=en",
-    "title": "Pixel 2XL shows zero signal bars on 3G (only)",
-    "content": "Pixel 2XL shows zero bars reception on 3G (4G is fine) since November OTA update. \n\nNo change following December update. Google Support replaced the device in January which worked fine for one week until catch-up November OTA reduced 3G reception again to zero bars. All other functions appear OK (except for dropped and missed calls). \n\nOn \"3G preferred\" setting phone connects, shows applicable number of bars (signal strength) for location but reverts to zero within 1 or 2 seconds & remains at zero bars \"hunting\" continually for a better signal. If it finds another cell, it connects as above then reverts almost immediately to zero bars. Cell Info app confirms both initial connection strength & the reversion to zero. \n   Google Support has offered to replace the device (again) but it seems highly unlikely given the sequence of events that a replacement device will fix this.\n\nHas anyone else encountered this?\n\nI have requested escalation for this issue; the response from Google Support say it has been forwarded but there's been no feedback from software support to them.  \n\nFor info:\nAndroid 10 latest security & devices fixes have been applied \nNetwork settings reset\nVarious SIMs tested no difference\nHTC 10, Samsung S7 tested with this SIM all work fine\nAP settings confirmed (& 4G works fine)",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2020-01-26T12:26:03.845287+00:00",
-    "reply": "3 Recommended Answers"
-}

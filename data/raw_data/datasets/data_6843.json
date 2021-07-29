@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/97059165/pixel-5-fingerprint-sensor-suddenly-not-working?hl=en",
-    "title": "Pixel 5 fingerprint sensor suddenly not working",
-    "content": "Yesterday (6 Feb 21) the fingerprint sensor on my Pixel 5 (purchased 12 Jan 21), which I have been happily using without problems, suddenly stopped working: it didn't recognise my fingerprint at all.  I cleaned the fingerprint sensor with a damp cloth, several times, no difference.  I tried rebooting into safe mode, no difference.  I deleted my finger print to add a new one but I can't get past the \"Touch the sensor\" screen to add a fingerprint, it never detects my index finger being present at all.\n\nCuriously, if I enable \"scroll notifications with fingerpint sensor\" that does work, just not the detection of my actual fingerprint, at all, ever.  So it seems like the HW of the fingerprint sensor is not dead to a gesture but is somehow dead to a fingerprint.\n\nSystem says Android v11, security updated 5 January 21; I've just manually updated it to 5 Feb 21 to see if that helps but it hasn't.\n\nAny other suggestions for fixes?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 5",
-    "post_time": "2021-02-07T16:04:57.007539+00:00",
-    "reply": "1 Recommended Answer"
-}

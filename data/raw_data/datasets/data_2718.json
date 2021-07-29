@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/108069847/pixel-3-usb-c-port-picky-about-orientation?hl=en",
-    "title": "Pixel 3 - USB-C port picky about orientation",
-    "content": "I have a Pixel 3 and just bought two USB 3 cables (type A to type C) from Amazon Warehouse Deals. After receiving them I tested them with my Pixel 3. Weirdly, the first one would only connect in USB 2/High Speed mode. Until I inserted the USB-C plug the other way around in my Pixel. Suddenly it was connected with Super Speed/USB 3. What?\n\nOn my wife's Pixel 3a the orientation does not matter, it is always only USB 2 (but I think that is one of the points where the 3a has lower specs than the 3).\n\nSo I tried some other cables. I have any Icy Box IB-CR401-C3 USB-C card reader. It is only recognized in one orientation in my Pixel 3. Unlike the cable A-to-C, it is not only a question of speed - the phone will not see it at all in one of the orientations. On the Pixel 3a, it works both ways.\n\nI also tried the heavy duty USB-C cable (both ends) that normally connects a Chromebook to my screen. While the orientation on the PC's UBC-C port does not seem to matter, it only connects with Super Speed in one orientation on the phone. Flip the connector on the phone side by 180°, and it is only USB 2. I am very confused.\n\nI tried cleaning the phone's port from pocket lint, but as the connection does work (at USB 2.0 speed), has a snug fit and charging works fine as far as I can tell, I am not sure that is the issue anyway. The port looks clean, but the issue persists.\n\nHas anyone else noticed this? You can check with USB Tree Viewer under Windows or under Linux with\n\nlsusb\n\nto identify Bus and Device number and\n\nlsusb -t\n\nto see the connection speed by Bus/Port/Device.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2021-04-29T20:30:50.656618+00:00",
-    "reply": "1 Reply"
-}

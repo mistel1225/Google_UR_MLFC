@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/27238964/pixel-1-bootloop?hl=en",
-    "title": "Pixel 1 bootloop",
-    "content": "My much-loved Pixel 1 is stuck in a bootloop - it loads up the Google logo, occasionally gets as far as showing the G, and then loops again. It has occasionally started up before crashing and bootlooping. I can get into the recovery screen, and once I'm there the phone is stable. This is what I've tried:\n- Tried restarting plugged into a charger, to rule out battery problems. Didn't work.\n- I've done a factory reset from the recovery screen, which didn't fix it.\n- I sideloaded the latest OTA image from Google - which gave me a tantalising 15mins of my phone restoring settings etc, and then it has got stuck in a bootloop again.\n- Left powered off overnight, in case it was overheating. Didn't work.\n\nAnything else worth trying before I give up the ghost with the phone? I was hoping that the fact I can get the recovery screen up means it's a software issue, but I know some of these phones have a bootloop caused by hardware problems :(",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2020-01-31T10:07:46.480154+00:00",
-    "reply": "5 Replies"
-}

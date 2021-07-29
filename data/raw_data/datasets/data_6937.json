@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/97110406/pixel-4a-suddenly-draining-battery-while-idle-96-in-10-hours-idle?hl=en",
-    "title": "Pixel 4A suddenly draining battery while idle (96% in 10 hours idle)",
-    "content": "The phone is draining battery fast, but there's no apps/services draining it according to the Battery settings. This happened one time before - that time I read some post about deleting cache in Play Services. After that it was working normally again (not sure if that was actually what fixed it though).\n\nAnyway, now it's back again, and I have tried deleting cahches in various Google services. But still, it's draining.\n\nSee screenshot. As you can see, there's no apps or services using the battery. 96% of the battery is used, but Andoid system only used 19% and the rest basically nothing.",
-    "is_img": 1,
-    "category": "Battery and Power, Google Pixel 4a",
-    "post_time": "2021-02-07T20:36:45.78157+00:00",
-    "reply": "5 Replies"
-}

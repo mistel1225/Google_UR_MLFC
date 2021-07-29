@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/32194957/google-app-force-closes-during-paste-function?hl=en",
-    "title": "Google App force closes during paste function.",
-    "content": "Google app version 10.98.10.21.arm64\nPixel 3 - build QQ1A.200205.002 (10)\n\nCurrent is is similar to some other posts, but also very different.  Part of this works fine, but there is a force close issue towards the end.  When I click on the quick search input field in the bottom of the stock launcher, it pops up google search.  This part works fine, and in fact it shows history just fine and i can type in the search just fine and see results fine, but if I long press in the search bar, in order to paste anything, it force closes the google app/search and goes back to the launcher.\n\nAgain, this only happens when I attempt to paste something.  And this is been happening for probably 4-6 months, so I've gone through many updates, I've flushed the Google App cache, etc.  Seems like something as simple as a paste shouldn't cause this to force close, curious if anyone else has seen this.\n\nThanks.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2020-03-03T17:47:05.040242+00:00",
-    "reply": "2 Replies"
-}

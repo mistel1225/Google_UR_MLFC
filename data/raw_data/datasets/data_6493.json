@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/98890409/no-data-tranfer-via-usb?hl=en",
-    "title": "No data tranfer via USB",
-    "content": "I'm a happy owner of a pixel 2xl phone but i've been having issues with Data transfer via USB cable.\nNow we don't have any more updates i unlocked the phone, set usb debug... and then realized my PC, my work's PC, my laptop, a linux server (running ubuntu) and my wife's mac CAN'T detect my phone, and of course \"adb devices\" prompts nothing.\nI tried 4 different cables, 3 usb A - Usb C , and my original usb C - usb C cable, factory reset  my phone (run smooth now...yeay!), i also physically cleanen the usb C port on the phone... but the problem persist... the cable only charges.\nI don't know what else to try (i also tried turning on and off the bluetooth, reset the PC while USB cable still conected).\nPlease... any help?\n\nThanks in advance",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2021-02-19T21:24:00.216089+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/15950601/pixel-xl-128gb-rebooting-even-after-factory-reset?hl=en",
-    "title": "Pixel XL 128GB rebooting even after factory reset",
-    "content": "My Google Pixel XL 128GB was working fine... I was making a film and suddenly the phone rebooted and start in a bootloop... After that night, it does not keep more than 5 mins without a restart.\n\nI tried to factory reset it and after each factory reset, the phone comes back (boot properly). But for a short period.\n\nI tested in safe mode and the reboot is still happening... It looks that the safe mode does not do any difference in my issue.\n\nI already did a downgrade of Android even with Android 8 (I was with Android 10). I tried several versions in https://developers.google.com/android/images\n\nI am from Brazil and I am really worried. Can anyone help me?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-10-03T20:00:52.636357+00:00",
-    "reply": "3 Replies"
-}

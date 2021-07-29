@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/15479521/proximity-sensor-seems-to-work-incorrectly?hl=en",
-    "title": "Proximity Sensor seems to work incorrectly.",
-    "content": "I have a pixel 3a running Android 10.\nI am one of the many people who seem to have problems with the proximity sensor.\n\nThe sensor hardware seems to be working properly – when I move my finger toward the top of the screen the display turns off. I have run an AndroSensor app and it shows the normal value for the sensor is 2.0 and I suppose it goes to 0 when I move my finger to the top of the screen and the display turns off.\n\nBut, the sensor turns off the display whether I am in a phone call or not. That doesn't seem right.\n\nThe display should only be shut off when I'm in a phone call using the earpiece speaker.\n\nThe auto off should be disabled if I'm in a phone call using the speaker-phone speaker.\nThe auto off should also be disabled if I'm not in a phone call.\nIt would also be nice to have a setting which disables the auto off function altogether.\n\nI have seen in other threads that there is a way, via developer options, to disable all sensors. There should really be a separate way to disable only the proximity sensor.\n\nI have read that there are Android software problems with the proximity sensor. What is the intended way for the sensor to operate?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3a",
-    "post_time": "2019-09-27T21:06:50.112173+00:00",
-    "reply": "1 Recommended Answer"
-}

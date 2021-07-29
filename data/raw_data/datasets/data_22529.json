@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13586679/pixel-2-hall-effect-sensor-not-working-with-android-10-are-there-settings-i-need-to-change?hl=en",
-    "title": "Pixel 2 Hall effect sensor not working with Android 10. Are there settings I need to change?",
-    "content": "I keep my Pixel 2 in a flip case with a magnet on the cover to trigger the Hall effect sensor. This blanks the display when I close the cover and turns it on when the cover is opened. Since upgrading to to Android 10, the first part no longer works. The display still turns on when the case is opened, but it stays on (until it times out) when the case is closed. Is there a setting I need to change to get this to work? Or is it simply a bug?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2019-09-04T20:10:58.030842+00:00",
-    "reply": "65 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17677180/pixel-3-home-button-and-mobile-data-not-working-after-force-restarts?hl=en",
-    "title": "Pixel 3 Home button and Mobile Data not working after force restarts",
-    "content": "I have a Google Pixel 3, updated a couple of weeks ago to Android 10. Following 2 \"force restarts\" in rapid succession, I immediately started to have 2 significant problems and a number of minor ones:\n\n1. The Home button/gesture no longer goes directly to the Home screen or shows recent apps when I tap or swipe it. This affects 2-button, 3-button and gesture navigation. The Recent Apps button on the Accessibility menu doesn't work either. So I can only switch apps by using the Back button/gesture repeatedly until I get back to the Home screen - which means I lose my place in the previous app.\n\n2. Mobile data access isn't working. The Mobile Data switch in Settings appears to come on when I tap it, but no indication of mobile data appears in the bar at the top of the screen. And if I navigate away from the Mobile Network screen (either forwards or backwards) and immediately go back to it, the the Mobile Data switch now appears in the \"off\" position. Wi-fi access is fine, though.\n\n3. A number of things appear to have been reset to their default settings. For example, the wallpaper had changed and app permissions for things like Location, Storage, Contacts etc had been switched off for some apps - I think just the 3rd party apps.\n\nI should be able to deal with number 3. I mention it only in case it gives a clue to what is causing 1 and 2.\n\nI've tried Safe Mode, but that has the same problems.\n\nCan anyone help? Thanks.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2019-10-25T10:29:40.072507+00:00",
-    "reply": "1 Recommended Answer"
-}

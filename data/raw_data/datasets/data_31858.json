@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/4686008/pixel-3-xl-widevine-level-3-locked-bootloader?hl=en",
-    "title": "Pixel 3 XL Widevine level 3 locked Bootloader",
-    "content": "Hey guys,\nwhen I got the P3XL I unlocked the bootloadeer immediately. Widevine level was still on L1 even though I've installed a custom rom. Then I had to try something, flashed another rom and also flashed the latest factory image and it changed to L3.\nNow even after flashing the factory image and completely locked the bootloader, it still says L3...So in amazon prime and netflix only HDR/UHD works... but not HD for shows and movies which are not netflix/amazon originals.\n\nDid someone had the same issue?  If yes is there a fix to it or maybe Google is aware of it already? Some people reported that after a while their Widevine level changed to L3 with custom rom/custom kernel, but it should be back to L1 with completely locked bootloader and full stock rom. It does that way for all other phones (htc U12+, essential PH-1 and many many others)",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-04-22T18:37:29.505996+00:00",
-    "reply": "1 Reply"
-}

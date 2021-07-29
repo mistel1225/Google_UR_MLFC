@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/6252622/google-pixel-won-t-turn-on?hl=en",
-    "title": "Google Pixel won't turn on",
-    "content": "I have tried connecting the phone to a charger and computer. Computer detects it as QUSB_BULK which seems to be some sort of last resort recovery. Screen is always black and the only thing power button does it to reset the QUSB_BULK mode - it disconnects from USB for a sec and reconnects. I've been trying to send a message before this happened and it rebooted, it started up normally, then within a minute rebooted again and then last time it shut off it went dead with above symptoms.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel",
-    "post_time": "2019-05-16T14:26:48.336108+00:00",
-    "reply": "2 Recommended Answers"
-}

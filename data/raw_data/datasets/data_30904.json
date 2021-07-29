@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/6415934/i-upgraded-my-pixel-3a-to-android-q-beta-but-i-want-to-rollback-but-it-s-impossible-to-unenroll?hl=en",
-    "title": "I upgraded my Pixel 3a to Android Q Beta but I want to rollback but it's impossible to unenroll.",
-    "content": "I have tried to sideload install the official OTA file from Pixel 3a from Google's website but I receive an error (please see below) in the verification process.\n\nFailed to verify package compatibility config_netfilter_xt_match_qtaguid",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3a",
-    "post_time": "2019-05-19T13:16:46.952298+00:00",
-    "reply": "1 Recommended Answer"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/73194395/gboard-colors-the-entire-keyboard-when-a-different-style-color-is-chosen?hl=en",
-    "title": "Gboard colors the entire keyboard when a different style color is chosen",
-    "content": "Hello everyone, I've noticed that after setting up a new style personalisation (I just changed the color of the quick toggles from blue to orange, because of fall) the Gboard stops coloring the light mode keyboard white and colors the entire keyboard the accent color. However, if I disable the style personalisation I've created and go back to one of Google's defaults, the problem disappears and the keyboard goes back to functioning properly.\n\nI do notice going to dark mode the keyboard does change to dark so that is good. But it would make more sense to keep the keyboard white in light mode and change ACCENTS on the keyboard not the entire thing! Now it doesn't match the screen.\nWhy is this coded this way??",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4",
-    "post_time": "2020-09-25T13:01:55.995468+00:00",
-    "reply": "0 Replies"
-}

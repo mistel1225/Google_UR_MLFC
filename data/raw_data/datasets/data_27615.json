@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/16086554/momentum-tw-earbuds-playback-at-48000khz-not-44100khz-why?hl=en",
-    "title": "Momentum TW earbuds playback at 48000kHz, not 44100kHz. Why?",
-    "content": "I have some Sennheiser Momentum True Wireless earbuds.  They play back my FLAC files in 48000kHz, not CD standard 44100kHz.  Is there a way to make the correct sampling rate a permanent adjustment with my phone?  Going into Developer Options all the time is getting annoying.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
-    "post_time": "2019-10-05T15:17:29.553596+00:00",
-    "reply": "4 Replies"
-}

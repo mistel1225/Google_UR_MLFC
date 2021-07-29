@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/101988569/brand-new-pixel-4a-5g-no-longer-starts-after-official-updates?hl=en",
-    "title": "Brand new Pixel 4a 5G no longer starts after official updates",
-    "content": "Hello,\n\nI received my Pixel 4a 5G today and just set it up briefly and did the system updates. And total crap: after the 3rd update (1 update to Android 11 and two security updates) the phone no longer starts. Only the Google icon is displayed. I really have never experienced anything like this before! I really did nothing but install the official updates. This can't be true!!!\n\nI have tried everything to get it working again: Tried to fix it via Rescue Mode and Google Pixel - Update and Software Repair (https://pixelrepair.withgoogle.com/), unfortunately it always tells me that I have selected the wrong \"carrier\", no matter which one I select (I don't have a carrier at all, because I bought the Pixel without a contract...)...Booted into Recovery Mode and reset the Pixel via that; brings nothing...Tried to sideload OTA, but there it shows that the phone version is more recent than the OTA. Flashing is also not possible, because the bootloader is locked and I can not unlock it, because I would have to activate the option \"OEM Unlock\" in the developer settings, which does not work, because the phone no longer boots.\n\nDoes anyone have any other ideas? I do not want to send it back.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4a (5G)",
-    "post_time": "2021-03-13T01:22:49.434639+00:00",
-    "reply": "1 Reply"
-}

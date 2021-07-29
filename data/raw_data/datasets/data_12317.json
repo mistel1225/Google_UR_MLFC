@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/82152078/getting-an-error-code-while-doing-a-hard-reset-on-pixel-4?hl=en",
-    "title": "Getting an error code while doing a hard reset on Pixel 4.",
-    "content": "While doing a hard reset on my Pixel 4 I'm getting an error code like this:\n\nFormatting /Data...\nFormatting /metadata...\nWiping Titan M\nE:can't send spi message: Try again\nE:can't send spi message: Try again\nE:can't send spi message: Try again\nData wipe complete\n\nI've never seen this before while doing a hard reset on any device until now. Does this mean something is corrupt? Is it actually wiping the data? \nAfterwards when I reboot it acts as of it has been reset, I have to go through the process of setting it up for the first time like normally done after a reset.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4",
-    "post_time": "2020-11-10T20:31:14.906332+00:00",
-    "reply": "1 Reply"
-}

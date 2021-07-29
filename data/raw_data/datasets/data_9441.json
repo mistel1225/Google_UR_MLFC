@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/90913969/call-screening-script-is-poorly-phrased?hl=en",
-    "title": "Call screening script is poorly phrased",
-    "content": "As soon as actual callers hear \"Hi, the person you are calling...\" they immediately hang up because it's phrased the same as a disconnected number message or generic voicemail, and uses a close approximation of the same voice.\n\nWould it be possible to A) start the script with something else, like \"This is a screening service from Google...\" and B) use a voice that sounds less robotic/generic?\n\nI've had exactly one person realize what was going on and actually have their call connected since this feature was deployed 2+ years ago, and numerous others with whom I needed to speak that hung up.\n\nIt's critical that the important part is front-loaded to avoid hang-ups:\n\"This is a screening service from Google.  Go ahead and say your name and why you're calling.  A transcript will be delivered to the person you're trying to reach.\"",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 4",
-    "post_time": "2020-12-28T23:05:55.168674+00:00",
-    "reply": "1 Reply"
-}

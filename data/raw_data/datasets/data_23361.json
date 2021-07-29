@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/28401918/wi-fi-control-why-do-apps-need-this?hl=en",
-    "title": "Wi-Fi Control: Why do apps need this?",
-    "content": "I just noticed I have a ton of apps that have Wi-Fi Control turned on. They supposedly allow each app \"to turn Wifi on or off, scan and connect to wifi networks, add or remove networks, or start a local-only hotspot\"\nI thought my phone was supposed to scan / connect to wifi -- not individual apps.  This seems like a security risk (and potentially use battery from all the scanning). Why do I need apps to individually have this feature? What happens if I remove permissions?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2020-02-11T17:02:46.523542+00:00",
-    "reply": "6 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/93669259/the-top-speaker-crackling-at-low-frequencies-pixel-4a?hl=en",
-    "title": "The top speaker crackling at low frequencies. Pixel 4a",
-    "content": "This is only noticeable at a certain low frequency. I don't know which one. \n\nIf you turn on a regular track without amplifying the bass, then everything is fine. Normal trap without software bass processing. \nBut if some smart guy decided to twist a certain frequency, then the crackling is audible.\n\nPlease google find out what the frequency is and fix it. I understand that the device costs 350 dollars, but that's a lot of money in Russia.\n\nI also found an interesting bug when I tested and wrote this appeal: When a track is played entirely consisting of low frequency bass. The top speaker seems to compress the bass, but that's not the point. The main thing is that at the moment the screen flips, the upper speaker hangs for a microsecond and crackles.\n\nThe main thing is to fix the crackle problem. I don't care about bass.",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 4a",
-    "post_time": "2021-01-15T23:03:50.172653+00:00",
-    "reply": "1 Recommended Answer"
-}

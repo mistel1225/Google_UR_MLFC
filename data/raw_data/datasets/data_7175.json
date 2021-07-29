@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/97056739/proximity-sensor-issue-with-pixel-5?hl=en",
-    "title": "Proximity Sensor issue with Pixel 5",
-    "content": "My Pixel 5 phone is having an annoying issue with proximity sensor:\nafter small touch at the screen it stops working and is stuck in \"detected\" state. This is quite annoying already but even worse is the fact that it goes to \"free\" state with every next touch. \nSo it basically unlocks the screen, so your ear is welcome to mute, hold or stop the calls.\n\nissue is present since Oct 2020. None of the SW updates helped so far (Feb 2021 release in use right now) even Dec release should have addressed sensor problems.\n\n\nyou can see the issue here",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 5",
-    "post_time": "2021-02-07T15:40:57.62219+00:00",
-    "reply": "1 Reply"
-}

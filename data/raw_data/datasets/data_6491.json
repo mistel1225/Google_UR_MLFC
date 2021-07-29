@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/98893692/android-11-pixel-phone-online-certificate-status-options-when-using-802-1x?hl=en",
-    "title": "ANDROID 11 PIXEL PHONE ONLINE CERTIFICATE STATUS OPTIONS WHEN USING 802.1X",
-    "content": "POSTING IT AGAIN!!! THIS QUESTION IS \"NOT\" RELATED TO THE DOMAIN FIELD WHEN CONNECTING VIA WIFI TO A 802.1X SSID.\n\nTHIS QUESTION IS ABOUT (ONLINE CERTIFICATE STATUS PROTOCOL) AND HOW IT WAS IMPLEMENTED ON ANDROID 11 VERSION / PIXEL. This is what I understood from the ONLINE CERTIFICATE STATUS FIELD.\n\nCan anyone explain what means each option when we select the ONLINE CERTIFICATE STATUS of a 802.1X (EAP/PEAP) WIFI connection?. I am using an Android Pixel Phone version 11.\n\nThere are 4 options: \n1.-Do not validate\n2.-Request Certificate status\n3.-Require Certificate Status\n4.-Require all non-trusted certificates statuses\n\nOption 2 and 3 for example looks similar. \n\nI tried OPTION 1 and OBVIOUSLY worked because there is NO OCSP being done. \n\nI want to understand HOW the Android 11 device can validate the status of the WebServer / Radius AuthC Server Certificate if IT IS NOT connected to the WIFI Network yet when using Options 2 to 4 above.\n\n\nthanks",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2021-02-19T22:07:49.873227+00:00",
-    "reply": "0 Replies"
-}

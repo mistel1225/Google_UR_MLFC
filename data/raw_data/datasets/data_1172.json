@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/112295408/welcome-screen-stuck-on-copy-apps-and-data-page-on-android-12?hl=en",
-    "title": "Welcome screen stuck on Copy Apps and Data Page on Android 12",
-    "content": "The Welcome Screen is stuck on Copy apps and data section after factory reset, if I choose don't copy, it asks me to enter the earlier passcode, which I do, and then it goes back to the Copy Apps & data section and the loop goes on.\n\n---\n\nI applied for the Android 12 beta program, and everything was working perfectly for about 3 weeks. Recently when switching to the recent apps menu, the phone froze, and a message stating that the Pixel Launcher had stopped working error message popped up, restarted the phone, and the error popped up again until eventually stating that a factory reset was necessary, so I went ahead.\n\nBut now, the error I have stated is not letting me go on and activate my device. My Pixel is connected to the Internet and the system language has been selected. It is only when is select \"Don't Copy\" on the Copy Apps and data section, when is asks me to enter the earlier passcode or login with Google. When I go ahead, it takes me back to the Copy Apps & data section and the loop goes on.\n\nI feel this is an Android 12 bug, and I'm wanting to leave the beta as well, but I cannot unless I set up the phone, which is exactly what I cannot do. \n\nI've sideloading Android 11, but that won't work since that is an older version of Android. I've also restarted the phone several times and didn't not work.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4a (5G)",
-    "post_time": "2021-06-04T04:05:20.680696+00:00",
-    "reply": "1 Reply"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/65919774/record-misb-compliant-video?hl=en",
-    "title": "Record MISB-compliant video",
-    "content": "Dear all,\n\nplease don´t you know if Pixel 4/4a can record MISB-compliant video? So the video with metadata containing GPS (longtitude,latitude), camera oriantation (from gyroscope and accelometer) - angles for where the camera is pointing known at tip, tilt and heading and sensor field of view (FoV).\n\nThank you.\n\nVilem",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 4",
-    "post_time": "2020-08-20T07:43:12.799855+00:00",
-    "reply": "5 Replies"
-}

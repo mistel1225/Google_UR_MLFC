@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/88412941/oem-unlock-on-refurbished-non-carrier-pixel-2-impossible-prevented-by-google?hl=en",
-    "title": "OEM unlock on refurbished, non-carrier, Pixel 2 (impossible? prevented by Google?)",
-    "content": "There have many posts about this but they all seem to reach no conclusion and become locked (un-commentable). I have a non-Verizon, non-carrier, Google version of a Pixel 2.\n\nWhile I should be able to unlock the bootloader from the OEM toggle in the dev tools, it is grayed out and locked. This feature was present in every Google variant of the Pixel 2 when it was released.\n\nNo one seems to have a clear understanding of why these devices are appearing locked - there has been no official statement. The only possible suggestion is that Google is locking them arbitrarily during some refurbishing process, or is scanning listings for IMEI numbers of resold Pixels and locking them that way.\n\nThis is likely not exclusive to the Pixel 2 line, but a process that takes place with every Pixel phone. Therefore, I see this as a fairly big mystery/controversy for end-users who want to develop with the non-contracted, non-carrier devices they have purchased.\n\nAny new thoughts on this would be great, especially from anyone that works in or with Google.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2020-12-13T15:22:28.827007+00:00",
-    "reply": "1 Reply"
-}

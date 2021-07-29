@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1459518/third-party-apps-not-working-with-wifi?hl=en",
-    "title": "Third Party apps not working with Wifi",
-    "content": "I keep reading of the issue of third party apps not working over wifi and I only see workarounds of modifying the wifi MTU to make it work but I have not seen any indication that google is making a software fix for the phone. It will be good to know if google has acknowledge the issue and if a fix is in the works.\nIn my case I do not have access to my wifi access point and cant make any changes to it. I know its a pixel 3 issue as I have 3 other phones and apps such as Amazon and Twitter work fine on those phones but in both of my pixel 3 they do not work.\n\nTo recap: The issue is that while I'm connected to my home wifi (also happened on a friend wifi) apps like Amazon or Twitter do not work. They act as if there was no internet.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-02-04T21:48:05.131114+00:00",
-    "reply": "1 Reply"
-}

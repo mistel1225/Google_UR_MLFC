@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/16528942/pixel-2-xl-charging-stuck-at-99?hl=en",
-    "title": "Pixel 2 XL charging stuck at 99%",
-    "content": "My 2 XL is only a month old. There is no complain about charging before. It was normal. Hit 100% everytime. Until several days ago, I woke up in morning and my phone does stuck at 99% with charging rapidly status. I've tried to drain the battery and fully charge, try to flash factory image, but the problem still exist. The phone does charge normally from 20-90, then getting slow and more slow when hit 95, it takes very long time to get to 99, then it stuck for hours. I'm using app called AccuBattery, just want to monitor the current. And there it is, the phone stop the charging at 99%, charging current shows -1 or 0, so basically the phone cut the power input when hitting 99% although the status still not fully charged. Until I rebooted the phone then it will hit 100%.\nSo what happened to my phone? I'm using original charger from the box. Is it software or hardware issue? Thank you\n\nThe first image is when stucked on 99% and the charge speed show -1. After that I rebooted the phone then charge speed increasing, not -1 anymore at 99%. The second image is when the phone says fully charged at 100% and charge speed back to -1, which is normal if the phone already fully charged. ",
-    "is_img": 1,
-    "category": "Battery and Power, Google Pixel 2",
-    "post_time": "2019-10-11T04:14:18.330712+00:00",
-    "reply": "0 Replies"
-}

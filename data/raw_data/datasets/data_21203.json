@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/47087800/pixel-2-not-making-receiving-phonecalls?hl=en",
-    "title": "Pixel 2 not making/receiving phonecalls",
-    "content": "When attempting a call from this Pixel 2, device is quiet for a while (no ringtone) and then just stops the attempt. When calling this Pixel, phone can't be reached (meaning switched off or outside of mobile network coverage). SMS and mobile data work fine. It is only about traditional calls. Have tried with two SIMs from different operators with identical results. These SIMs work flawlessly on other devices. Have restored factory settings, reset network settings and tried safe mode and hard reset number of times without effect. Have also experimented network settings behind *#*#4636#*#* without effect on functionality. Only difference is that if I restrict network only to for example GSM or LTE, other devide calling this Pixel gets fail response faster. If I understand terminology correct, Pixel in question is \"global unlocked\". Anyway a device without operator or geographic restrictions/bindings.\nI think problem came on \"slowly\", sometimes calls were successful and sometimes not, but now it is 100 % fail. I also experienced random mobile data and SMS problems on the same time this call issue arised but they seem to be past now. Pixel 2 has been used for 11 months, first 10 or so without any problems.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2020-05-16T09:25:41.424396+00:00",
-    "reply": "1 Recommended Answer"
-}

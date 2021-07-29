@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/32379688/google-photos-keeps-backing-up-my-screenshots?hl=en",
-    "title": "Google Photos Keeps Backing up my Screenshots",
-    "content": "So I've had this issue and I've looked all around but it doesn't seem to be happening to anyone but me. I have both Google Photos and Dropbox set up to backup and upload my photos, but I want only the photos taken by the camera to be uploaded meaning only photos in DCIM/Camera/. However, every time I take a screenshot it keeps getting uploaded to my Google Photos and Dropbox libraries.\nNow before someone jumps at me, I already disabled all folders under \"Back up device folders\" including the Screenshots folder. So I don't understand why it insists on backing up the screenshots.\nThe folder where the screenshots are stored is: /storage/emulated/0/Pictures/Screenshots\nWhich is the default screenshot folder for my Pixel 4 XL. I used to have a Pixel 2 XL and I had this problem too. So I don't really get it.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2020-03-05T07:39:22.131997+00:00",
-    "reply": "1 Reply"
-}

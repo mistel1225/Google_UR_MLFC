@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/32096302/pixel-3-xl-sensor-issue-after-android-10?hl=en",
-    "title": "Pixel 3(XL) Sensor issue after Android 10",
-    "content": "In September of 2019, some Pixel 3(XL) owners reported that the sensors stopped working on their devices after upgrading to Android 10, which was captured in our external issue tracker: b/140476661. \n\nGoogle investigated the issue and discovered that it was affecting devices with 3rd party recovery tools installed. The sensors are calibrated in the factory and the data is unique to each device. These recovery tools were causing the sensor calibration data to become corrupt/overwritten. A fix was released in the October 2019 software update.\n\nWe have started to get reports of similar issues on Pixel 1, Pixel 2, Pixel 3a, and Pixel 4, but they are unrelated to the original issue.  If you are experiencing a similar issue please contact our support by clicking Contact Us at the top right of this page or via Settings > Tips & Support on your Pixel.  We will help you solve the problem!",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2020-03-02T21:30:56.687495+00:00",
-    "reply": "0 Replies"
-}

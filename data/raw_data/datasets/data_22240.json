@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/34847457/birthday-entries-before-01-01-1970-on-latest-android-pixel-3-not-synced-via-exchange-kopano-z-push?hl=en",
-    "title": "Birthday entries before 01.01.1970 on latest Android Pixel 3 not synced via Exchange Kopano Z-Push",
-    "content": "I have since several years a Kopano (Zarafa) Exchange at home. I used to have an Apple device since one year I'm a Pixel 3 user. Since this switch and not only on my account I missed birthday entries. I updated to the latest kopano version and also Z-Push version.\nUnfortunately I still don't see all birthday entries. With the developer of Z-Push I found out that this is a general Pixel problem (or Unix problem).\n\nI respect google and the Android coders it's not against you. I have just invested again several hours of searching and trying. A few facts about this case. I also thank you for any help and ideas and of course maybe a bugfix?\n\nFacts:\nI see birthday later than: 01.01.1970\nI don't see any birthday befor 01.01.1970\nI use the latest Android version for Pixel 3\nI use the default Android Exchange API\nI don't use any 3 party apps concerning calender and e-mail and I have never installed one\nThis problem is not seen on IOS\nIt's 22.03.2020 and I work in a software company as a software project manager and this issue can't be real at this date. Unix has been developped for more than 50 years and we still have baby bugs.\nI have googled this issue and it's not new.\nInstall an extra app is not a solution.\nIf Unix can't handle that then google has to fix that in Android",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3",
-    "post_time": "2020-03-22T06:41:53.650426+00:00",
-    "reply": "1 Recommended Answer"
-}

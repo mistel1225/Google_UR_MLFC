@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/6731076/i-have-a-pixel-3-call-quality-is-a-huge-problem-do-you-have-an-update-to-handle-this?hl=en",
-    "title": "I have a Pixel 3. Call quality is a huge problem. Do you have an update to handle this?",
-    "content": "Previously spoken with Google technical support, list of trouble shooting included below.\nCheck for latest updates, then power cycle.\nTake off any cases and make sure nothing is in the way of the microphone.\nTurn off Bluetooth.\nEnsure the volume on the handset is up.\nReboot into Safe Mode.\nFactory reset.\nTo address these: \n1. Phone running 5th November update, power cycling has no effect on issue.\n2. Issue present straight out of box, with or without case, in multiple call configurations (headset, handset, speaker).\n3. Bluetooth setting has no impact (and it should not have impact, anyway).\n4. Handset volume has no impact, and is irrelevant anyway as issue is for call receiver.\n5. Safe Mode makes no difference.\n6. Factory reset has no effect on issue, and issue present straight out of the box.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2019-05-24T18:48:11.840693+00:00",
-    "reply": "1 Reply"
-}

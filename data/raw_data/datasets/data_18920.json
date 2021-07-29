@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/60583879/dialer-stuck-in-dark-mode?hl=en",
-    "title": "Dialer stuck in dark mode.",
-    "content": "Running 10 July update.  As the title says, my dialer app is stuck in dark mode.  This is true even though the phone page with contacts, recents, etc. are in light mode.  My contacts app is also in light mode.  I have disabled dark mode in every area of the system that I know about including turning off the battery saver mode.  I also have the developer options \"over ride force dark\" is off.  I have reverted both apps (contacts and phone) back to original, cleared all data, restarted the phone multitudes of times and still the dialer comes up in dark mode.  This occurs whether making or receiving calls.  This is problematic due to the inability to see dialer screen outdoors in sunlight.  Need some help with this...",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3",
-    "post_time": "2020-07-23T09:51:30.67911+00:00",
-    "reply": "2 Recommended Answers"
-}

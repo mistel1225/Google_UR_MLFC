@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/46654243/pixel-4-auto-brightness-doesn-t-respond-to-outside-sun-daylight-exposure?hl=en",
-    "title": "Pixel 4 auto-brightness doesn't respond to outside sun/daylight exposure",
-    "content": "Indoor, my Pixel's brightness level is at around 30%. But when I go outside in bright sunlight, this is insufficient and my phone's brightness isn't automatically adjusted. I have to manually adjust it - but it is very difficult because it is impossible to see anything as the screen acts like a mirror in the sunlight.\n\nOnce I do increase the brightness - by going indoor somewhere - I can see the screen outside. However, I wouldn't call this a fix.\n\nAt the time of this post, my Pixel has the following options under \"Display\" settings:\nBrightness level: 29%\nDark theme: On and never turn off automatically\nNight light: Off and will never turn on automatically\nAdaptive brightness: On\nScreen timeout: 30 seconds\nScreen attention: Off\nAuto-rotate: On\nColors: Adaptive\nAmbient EQ: On\nSmooth Display: On\nIncrease touch sensitivity: Off\n\nIf you need more setting info, please let me know.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4 XL",
-    "post_time": "2020-05-14T12:13:06.451705+00:00",
-    "reply": "1 Recommended Answer"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/8095062/pixel-3xl-wont-start-or-reset-after-update?hl=en",
-    "title": "Pixel 3XL wont start or reset after update",
-    "content": "After downloading a recent update my phone stopped accepting my pin saying wrong pin any time it was entered, however my fingerprint was still able to unlock my phone. Then yesterday it told me \"pin required for additional security\" when I tried to use my fingerprint. Of course it didn't accept my pin and effectively locked me out of my phone.\n\nI then tried to do a hard reset through fastboot. When I went to do the reset it just turned the screen black and did nothing. I tried several more times to the same effect. I noticed that i was also getting a \"device state:error!\" message on the fastboot screen. I came back to the phone later in the day to try again and now I cant even enter fastboot. The screen doesn't turn on through any combinations of button presses nor does plugging it into charge seem to do anything.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3 XL",
-    "post_time": "2019-06-15T21:47:00.659528+00:00",
-    "reply": "3 Replies"
-}

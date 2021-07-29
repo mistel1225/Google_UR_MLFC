@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/7834841/google-pixel-dualshock-4-v2-via-bluetooth-doesn-t-work?hl=en",
-    "title": "Google Pixel + DualShock 4 v2 via Bluetooth doesn't work",
-    "content": "I had successfully connected and used my DualShock 4 (CUH-ZCT2E) via Bluetooth with my Google Pixel about 2-3 months ago. Now in May and June updates my gamepad connects but doesn't work and applications do not detect it at all. It works fine via USB though. Also the gamepad works via Bluetooth with another devices (I tried PlayStation 4 and Nokia 8.1 with the latest May update)\nWhat I've tried to do:\n- rebooting the phone\n- forgetting gamepad via Settings and pairing it again\n- resetting the gamepad using the button on its back and pairing it again\n- force stopping and clearing Bluetooth system application data, after that rebooting and pairing again\nWhat can I do to fix this problem (aside from flashing previous Android version)? I use Bluetooth very rarely so the Bluetooth shouldn't be faulty.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2019-06-11T15:55:21.454063+00:00",
-    "reply": "0 Replies"
-}

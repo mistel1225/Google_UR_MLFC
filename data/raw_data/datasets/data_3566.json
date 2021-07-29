@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/105710330/my-app-stops-running-in-the-background-even-with-battery-optimization-turned-off?hl=en",
-    "title": "My app stops running in the background even with battery optimization turned off",
-    "content": "I need my app to run while in the background, so I tried setting the app to \"Not optimized\" for battery. This worked, but only while the app was connected to power. Once I disconnected the phone, the app stopped running in the background. Specifically, the app starts a timer and when the app went into the background, the timer paused after several minutes and restarted only after the app returned to the foreground. By the way, the power level was at 100% when the phone was disconnected.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2021-04-10T15:50:52.706848+00:00",
-    "reply": "0 Replies"
-}

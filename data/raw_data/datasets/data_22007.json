@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/38155221/photos-and-videos-wiped-from-device-after-clearing-cache?hl=en",
-    "title": "Photos and videos wiped from device after clearing cache",
-    "content": "Hey I had issue with my pixel 2xl since android 10. My backup was on every night, but due to the way google backup is working it only capable of backing up photos and not videos on slow Internet connection. \n\nSo today I cleared cache (I did not clear cache for Google photos app knowing that it is unreliable from past experience). Then all device photos and videos were gone. They still show up in the gallery, though can't be sent anywhere and videos do not play. Any attempt to use the files shows that it cannot be opened /is not found /unknown format. Also phone memory got lots of free space since photos are gone. \n\nThis is second time it happens on this phone. First issue occurred when I updated this phone to android 10. Then Google photos prompted me to clean up space by deleting backed up photos. Then instead of deleting backed up ones it just got rid of everything. \n\nCopying my earlier reply here in hope to get any advice. Happy to send logs to developer team. Does anyone know who to contact to get this bug fixed? \nAnd I am guessing Google won't move a finger to help me recover all the wiped memories. So at least can this be addressed so I can actually use the phone.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2020-04-05T19:35:15.774385+00:00",
-    "reply": "1 Reply"
-}

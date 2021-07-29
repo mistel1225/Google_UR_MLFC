@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/41782802/android-recovery-message-occurred-when-pixel-2-power-on?hl=en",
-    "title": "\"Android Recovery\" message occurred when Pixel 2 power on",
-    "content": "When my Pixel 2 was powered on, the following message shown up:\n\n\" Android Recovery\ngoogle/Walleye/Walleye\n10/QQ2A.200405.005/6254899\nuser/release-keys\nUse volume up/down and power\n\n(the following statements are translated from Chinese which are shown on the screen)\nCan't load Android system. Your data may be corrupt. If you continue to get this message, you may need to perform a factory data reset and erase all user data stored on this device\"\n\nIn fact, there are two options shown on the screen, 1. Try again 2. Rest factory data\n\nIt's obviously useless to try again. I can take risks to rest factory data, but can not afford to lose my personal data. Is there any way to save the personal data from a frozen Pixel 2 before I rest factory data?\n\nPlease help and tanks a lot.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 2",
-    "post_time": "2020-04-22T17:59:03.44731+00:00",
-    "reply": "2 Recommended Answers"
-}

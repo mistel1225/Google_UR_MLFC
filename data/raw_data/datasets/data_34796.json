@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1529480/pixel-2-xl-won-t-connect-to-lte-b28-from-claro-paraguay-despite-device-supporting-that-band?hl=en",
-    "title": "Pixel 2 XL won't connect to LTE B28 from Claro Paraguay, despite device supporting that band.",
-    "content": "The carrier Claro Paraguay (744, 2) just deployed support for Band 28 (700 APT) for LTE-A, but the device only connects to the Band 4. The download speeds didn't improve. The Pixel 2 XL specs shows support for both Band 4 and Band 28 and also LTE-A, CAT 15 (800 Mbps DL/75 Mbps UL), 3x DL CA, etc..\n\nI tried configuring a new APN settings, changing the SIM card from the carrier, but I still didn't found a way to enable LTE-A. I hope to find a fix.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2019-02-08T16:03:07.257952+00:00",
-    "reply": "0 Replies"
-}

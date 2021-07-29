@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/23173181/pixel-3-with-pixel-stand-charging-very-slowly-since-december-update?hl=en",
-    "title": "Pixel 3 with Pixel Stand charging very slowly since December update",
-    "content": "Since the December update, I've noticed the battery on my Pixel 3 is often running low.  Prior to the December update, and certainly prior to Android 10, charging on the Pixel Stand was quite quick, but it's not now.  Right now, it says \"30% - Charging wirelessly (8 hours until full)\"\n\nIn the past when experiencing problems, others have solved it by unplugging the power from the Pixel Stand, which I've tried, or clearing the cache on the Pixel Stand App.  This app is no longer available, so I'm not sure if it's possible to clear its cache.  It seems since Android 10 the Pixel Stand app has been integrated into the OS.\n\nI did notice a couple of days ago it seemingly randomly asked me to verify the stand, I clicked Verify and seemingly nothing happened... I think that happened twice or three times.\n\nHave tried removing the Pixel Stand from the Connected Device list, which caused it to go through its setup questionnaire again, which interestingly did not include the question about verifying, but seemed OK.  But the problem remaining.\n\nDoes anyone have any ideas?",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3",
-    "post_time": "2019-12-18T10:25:17.620669+00:00",
-    "reply": "1 Recommended Answer"
-}

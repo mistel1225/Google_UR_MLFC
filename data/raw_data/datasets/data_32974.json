@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1932596/usb-c-to-c-not-working-unless-device-is-switched-off-when-plugged-in?hl=en",
-    "title": "USB C to C not working unless device is switched off when plugged in.",
-    "content": "I have a Pixel XL. Charging with a USB A to C cable is fine, but in order to get a C to C cable working I need to first switch off the device. When plugged in the battery thing shows on the screen and the phone remains charging after switching it back on. \n\nI downloaded the latest firmware from Google and used the C to C cable to flash it. No problems with that. My phone is currently \"Charging rapidly\" while connected to my PC's USB C port, but I need to switch off the device every time I plug it in for it to do anything.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel",
-    "post_time": "2019-02-28T11:27:47.200754+00:00",
-    "reply": "1 Reply"
-}

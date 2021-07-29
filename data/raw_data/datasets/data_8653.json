@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/93209191/044-prefixed-to-phone-numbers-when-they-send-mms-but-not-sms?hl=en",
-    "title": "044 prefixed to phone numbers when they send MMS but not SMS",
-    "content": "Since going to Mexico 1+ year ago, some contacts' # were randomly being prefixed with 044 (eg 301-555-5555 would be 044-301-555-5555).  Over the past month or more (maybe since an update? I'm not sure), it happens EVERY time to those same contacts when they 1) send me an MMS (pic, gif, etc) or 2) are on a groupt text.  I can send texts normally, but the problems arise when they respond.\n1)  Weird thing is their SMS and MMS normally shows up in the same text thread (almost like there's 3 ppl in the group) and sometimes shows up as a separate thread, but either way the SMS shows up as them (ie their contact pic, correct contact info), but the MMS texts just show up as the 044 # as if it's a stranger.\n2) When I create a group text (2+ people) it goes out normally, but when anyone on the thread responds, it creates a new thread with the 044 # instead of the contacts real #.\n\nI called Verizon and had a nice guy help with trying to research but he was just google searching like me.  I've tried the below to no avail:\n1) Erasing the contact completely from my phone & from contacts.google.com\n2) IT 101 stuff: making sure OS is up to date, restarting device (I really don't want to \"factory reset\" without good logic behind that, grr)\n3) checked the \"region\" settings. It's set to \"automatic\" and says  \"Automatically Detected (United States)\"\n\nThanks in advance for help! I saw there's another thread like this, but 1) the delete, recreate contact fix didn't work for me and 2) they didn't seem to have the MMS vs SMS issue.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3 XL",
-    "post_time": "2021-01-12T20:34:35.130766+00:00",
-    "reply": "0 Replies"
-}

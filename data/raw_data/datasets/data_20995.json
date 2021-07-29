@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/49466375/pixel-will-not-connect-to-wifi-2-4ghz-band-when-it-has-the-same-ssid-as-5ghz?hl=en",
-    "title": "Pixel will not connect to Wifi 2.4GHz band when it has the same SSID as 5GHz",
-    "content": "I see somes issues similar to mine, but I don't think they touched this item exactly like I did.\nMy wifi access point is an Ubiquiti Unifi uap-ac-pro.\nWhen I setup the both 2.4GHz and 5GHz to use the same SSID, the pixel phone will refuse to connect to 2.4GHz band even if 5GHz is too low or not available, I disabled all settings in my AP to force 5GHz connection, and I also tried setting an RSSI to force the client disconnection from the 5GHz band when its signal is low, but it didn't help (it disconnects from the 5GHz but doesn't connect to 2.4GHz). I basically gone through all settings in my AP and it didn't help.\nIf I set the 2.4GHz band to a different SSID, the phone connects fine to it. It is a workaround, but I'd prefer for using the same SSID because, at least in my testing, even doing this way, the phone would not change automatically to the 2.4GHz SSID and go back to 5.0GHz when signal is good again.\n\nI'm posting this because it apparently a bug in the Pixel software. I tested using a Google Pixel 3 and Pixel 2. Both are using Android 10 with May 2020 Security update (it also happened with previous updates).\n\nI also tested using a Samsung Galaxy S10e and an iPhone 11 Pro, and both didn't have the issues mentioned above.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2020-05-27T13:08:47.012093+00:00",
-    "reply": "5 Replies"
-}

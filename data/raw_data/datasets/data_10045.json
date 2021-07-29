@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/81027203/can-t-turn-off-sound-for-missed-call-notification?hl=en",
-    "title": "Can't turn off sound for \"missed call\" notification",
-    "content": "New problem that just showed up in the last day or so on my Pixel 3 with Android 11:\n\nIt plays a sound every time there's a \"missed notification\" call. I get a lot of these because of spam callers. The phone isn't ringing or anything because I have it set to screen them. I just get a \"missed call\" notification out of the blue, and a distracting sound. It sounds like the same sound used for \"low battery\" notifications.\n\nWhen I slide the notification to the side and click on the gear, it says \"These notifications can't be modified\":\n\nI can go into the notification settings and go into the detailed settings for \"Missed calls\":\n\n \n\"Sound: None\" would seem to imply that it should play no sound.\n\nEarlier today the Vibration switch was on, but I wasn't getting vibrations with these notifications. I turned it off, and still get the sound.\n\nThe \"Silent\" button at the top is disabled.\n\nIt's also not possible to disable all phone notifications, if I go back out one level from this screen.\n\nI've looked at settings within the Phone app, and can't find anything relevant, except I guess \"Ring & notification volume\" (I don't want to silence phone rings all the time) and \"Do Not Disturb\" (same). There's a \"Default notification sound\", but that's set to a completely different sound than the one I'm getting.\n\nGetting pretty annoyed by this. I'm guessing it's just a bug.",
-    "is_img": 1,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3",
-    "post_time": "2020-11-04T22:08:27.562931+00:00",
-    "reply": "2 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/84951655/camera-app-crash-after-notified-internal-storage-full-during-video-recording?hl=en",
-    "title": "Camera app crash after notified \"internal storage full\" during video recording",
-    "content": "Camera app crash after notified \"internal storage full\" during 4K video recording. After that, I tried to re-open camera app, but can't find the video I was recording, what's even worse, internal storage is still full instead of status before recording. I've tried uninstall both Google Photos and Google Camera app, or clean internal storage cache, but none of them helped. I don't want to do factory reset, is there any other way to delete the \"temporary\" file created while video recording?",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 4 XL",
-    "post_time": "2020-11-24T02:47:57.423914+00:00",
-    "reply": "0 Replies"
-}

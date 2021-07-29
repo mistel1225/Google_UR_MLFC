@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2013933/caller-id-shows-country-code-how-do-i-stop-it?hl=en",
-    "title": "Caller ID shows country code, how do I stop it",
-    "content": "When I receive an incoming call it shows the number as +1 xxx-xxx-xxxx. I don't want the \"+1\" displayed, so how do I tell the phone not to do that? Reason is, if I want to save that incoming number as a contact it puts the +1 in front, I have to go to the phone number field and backspace over it. Then when I save it the phone number appears as xxx-xxx-xxxx. If I want to save the number as (xxx) xxx-xxxx I figured out I have to save the contact with the +1 included, then edit the contact and remove the +1, now it will appear correctly.\n\nThat's a big pile of BS steps and a hassle.\n\nAnyone know how to force the Pixel default to ignore the +1 right from the get-go?",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3",
-    "post_time": "2019-03-03T18:13:41.39143+00:00",
-    "reply": "2 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/15237977/google-photos-sync-all-folders-inside-dcim-as-camera?hl=en",
-    "title": "Google Photos sync all folders inside DCIM as Camera",
-    "content": "All photos that I take with the Camera go to DCIM > Camera and Google Photos sync and show all as pictures I took, great!\n\nBut, usually I download pics from Facebook and all these images go to DCIM > Facebook. And that's is the problem, the Google Photos app treats all pictures inside this folder as picture I took from Camera. Also, there's any folder Facebook in Google Photos app (because all pictures in inside Photos).\n\nI moved the Facebook folder outside DCIM folder and works well. I can see this folder inside Google Photos app and all pictures is not in the Photos section anymore. But when I download a new pic from Facebook, it will be storage at DCIM > Facebook. :/\n\nI know the facebook app doesn't follow all the Google/Android rules and guidelines. This sucks and it ends up hurting us users. But, there's some way to make Google Photos sync only pictures inside DCIM > Camera and not all folders inside DCIM?\n\nThanks! :)",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3",
-    "post_time": "2019-09-25T02:58:02.228231+00:00",
-    "reply": "1 Recommended Answer"
-}

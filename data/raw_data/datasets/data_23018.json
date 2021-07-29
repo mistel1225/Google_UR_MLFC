@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/28325333/android-not-restoring-after-factory-reset-and-pin-verification-why?hl=en",
-    "title": "android not restoring after factory reset and pin verification. Why?",
-    "content": "reset a pixel 3xl running latest android 10 and during initial setup the phone is not restoring from the correct backup in Google Drive.\n\nIn Google drive there are 2 backups with the same name. One is the older one that has all the call history, device settings, etc., that is the one that i want and it has a Google One icon behind it........and the second newer backup was created after the phone was reset with no device settings, call history, etc.\n\nDuring initial setup i chose to restore from the cloud and activated with the correct PIN that was being used when that backup was created.  Due to a minor problem, i had to reset the phone and create a newer pin and that is what has created the 2nd restore backup that has the same name but is smaller in size.  Also, not sure if it matters, but the 2nd backup does not have the Google One designation.\n\nI tried erasing the 2nd backup from google drive before doing a new reset and initial setup but it did not choose the correct backup. I used the correct PIN also.\n\nHow do i force the correct backup to be restored?\n\nHow can i distinguish between the 2 backups when they have the same name: Pixel 3 xl backup?  It only gives me 1 option to restore from, Pixel 3 xl backup from the cloud but it always is not the backup that has all of the device settings and call history.\n\nthanks for any help",
-    "is_img": 0,
-    "category": "Other",
-    "post_time": "2020-02-10T23:59:38.797543+00:00",
-    "reply": "6 Replies"
-}

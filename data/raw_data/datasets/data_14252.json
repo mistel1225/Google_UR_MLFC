@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/73895932/always-on-display-never-turns-off?hl=en",
-    "title": "Always On Display never turns off !",
-    "content": "In Settings \\ Display : Advanced \\ Lock screen \\ WHEN TO SHOW : Idle lock screen\n\nI have 'On when you're nearby' set, which, in the past has been working as expected. The screen would go blank after a few seconds of no movement after pressing the power button ( I also have 'Reach to check phone' on).\n\nNow, after updating to Android 11 this no longer works. What happens is when I press the power button the screen is blank briefly then the  AOD appears and never disappears after that. Also, I have noticed that if I reach for the phone or touch the phone the lock icon appears then a few seconds later it disappears and the screen dims (AOD still on) then after approx 3 seconds the AOD briefly turns off then on again like it is trying to go blank (no AOD) but cannot. No matter how long I leave the phone the AOD is always on. Under battery usage 'Ambient display' tops the list.\n\nWhen using the new Bedtime mode (Android 11) [I have the beta version installed as this has contains the 'Keep the screen dark' option] I have the option 'Keep the screen dark' set to ON. This works. After I press the power button my screen is blank,  AOD is shown. Now when I reach for the phone AOD turns on.\n\nSo it seems the option  'Reach to check phone' is broken and not working when Bedtime mode is not active.\n\nAnyone experiencing these issues?",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4",
-    "post_time": "2020-09-29T10:39:42.884031+00:00",
-    "reply": "1 Recommended Answer"
-}

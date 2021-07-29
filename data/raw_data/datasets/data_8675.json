@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/92938577/cant-edit-contacts-or-change-default-contact-after-update?hl=en",
-    "title": "Cant edit contacts or change default contact after update",
-    "content": "I recently updated my Pixel 3 XL to Android 11 then the latest security update. And cant change contact information anymore. Not sure if the issue was Android 11 or the security update, I rarely make contact changes on the phone. I can see all the info in the contacts to dial numbers, send texts, and send emails with it. I if change contact info on Office 365, the new contact data syncs to the phone. If I click edit contact on the phone or click the create new contact button, then the screen is blank. If I go into contact settings and click default account, there is none, and the option to choose one is blank. If I click your info, it is also blank. See screen shots. I tried uninstalling contacts updates and re-updating, cleared the cache, and the storage. Removed my email account and added it back. Started in safe mode. I have not done a factory reset, to avoid reinstalling and resetting up the phone. Contact app version is 3.36.3.346104542, Phone build # RQ1D.210105.003, thanks. ",
-    "is_img": 1,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3 XL",
-    "post_time": "2021-01-11T03:18:39.803329+00:00",
-    "reply": "4 Replies"
-}

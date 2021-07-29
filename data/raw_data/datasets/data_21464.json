@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/43787495/system-doesn-t-properly-recognize-network-status-using-a-vpn?hl=en",
-    "title": "System doesn't properly recognize network status using a vpn",
-    "content": "Hi,\n\nI've noticed that using a vpn some apps doesn't work properly. Even if I'm connected using wifi Play store doesn't update apps if automatic updates are set only on WiFi networks and  likewise Google photos doesn't backup photos if the backup is set on WiFi.\n\nIs like using a vpn the device doesn't recognize that is connected under WiFi, even if it is.\n\nI have a Pixels 4 runners the last Android release.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
-    "post_time": "2020-05-01T21:55:45.207463+00:00",
-    "reply": "7 Replies"
-}

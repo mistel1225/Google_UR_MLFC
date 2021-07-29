@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/72912647/android-11-update-causing-pin-failure?hl=en",
-    "title": "Android 11 update causing PIN failure",
-    "content": "I updated to Android 11 today, and now my pin can't be used to sign into the phone. \nOddly, I was able to use it the after the phone had updated to log into the phone after the reset, but now it is telling me I have the wrong pin. \n\nIs there any way other than a factory reset through the command menu to fix this?\n\n9/28 Update: A factory reset removed this issue",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 3a",
-    "post_time": "2020-09-24T01:05:44.755446+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/81979249/photos-not-backing-up?hl=en",
-    "title": "Photos Not Backing Up",
-    "content": "My photos stopped properly backing up weeks ago, and I thought that maybe updating the Photos app would finally cure this problem. However, since I've updated the app I still remain stuck with a growing backlog of photos which simply aren't backing up. I left the phone alone for 24 hours when it began a backup yesterday (on a solid 5 gHz WiFi connection), but it only completed about 1/8 of the process before reverting back to the spinning circle icon with \"preparing to backup\" being displayed.\n\nI've restarted my phone, I've cleared the Photos app cache, I've forced it to stop, switched the backup off and on again, all to no avail. Therefore, I'm at a loss for what I can do. My goal is to backup these photos within the unlimited original quality photos parameter of my Pixel device, so I don't know if backing it up via computer would workout.\n\nThank you for helping me out here.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2020-11-10T00:29:52.623535+00:00",
-    "reply": "1 Reply"
-}

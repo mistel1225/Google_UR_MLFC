@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1359725/phone-number-marked-as-suspected-spam?hl=en",
-    "title": "Phone Number Marked as Suspected SPAM",
-    "content": "We have a contact center that calls users on an opt-in basis.  In the new OS there is a feature to mark calls as SPAM and we've noticed that our calls from this number are being marked as \"Suspected SPAM\".  We deliberately don't hide the number via CallerID so people can call back if required and these are legitimate calls.\n\nFrom what we can gather this is a crowd sourced feature and that if enough users are marking a number as SPAM it is alerted for all.  Is there a way to provide a rebuttal to these calls being marked as SPAM?\n\nAny help or guidance would be appreciated.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3 XL",
-    "post_time": "2019-01-30T06:09:37.293058+00:00",
-    "reply": "2 Replies"
-}

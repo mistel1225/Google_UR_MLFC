@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1470445/wifi-not-connected-when-no-internet-and-data-is-on?hl=en",
-    "title": "Wifi not connected when no internet and data is on",
-    "content": "Apparently Pixel phones does not route connections correctly. I have an issue with a wifi device in my car. My car connects to phone through wifi for music and other services but since this wifi has no internet, my phone automatically keeps data on. When this happens, the car app does not detect the connection because apparently the Pixel phone routes all data through only the \"Active connection\" which is cellular in this case, if i turn off data, then the app works. This is a petty as its' working fine with other phones like Samsung or iPhone.\nAlso the car actually needs the data connection on my phone for navigation, update, etc... and with this scenario, it does not work.\nI made a test at home with a router. I connected the phone to router which has no internet connection, i then opened chrome and put the gateway address and it did not open the router page. I then disabled data and it was able to open the router page. Again, this is only with the pixel; other phones work even if i don't disable data.\n\nAny thoughts or nothing can be done with this pixel phone.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2019-02-05T14:13:09.198329+00:00",
-    "reply": "1 Recommended Answer"
-}

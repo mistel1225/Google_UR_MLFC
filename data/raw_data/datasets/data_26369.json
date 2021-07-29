@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17468702/hi-we-observed-that-pixel-3-reboots-when-aruba-ap-sends-link-measurement-request-802-11k?hl=en",
-    "title": "Hi, We observed that Pixel 3 reboots when Aruba AP sends Link Measurement Request (802.11k)",
-    "content": "Hi,\n    We observed that Pixel 3(Android 10) reboots when Aruba AP sends Link Measurement Request (as part of radio Measurement in 802.11k).I can share air captures and adb shell(logcat) logs when the Pixel reboots.\nThe issue is consistently seen.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2019-10-22T22:57:45.198873+00:00",
-    "reply": "1 Recommended Answer"
-}

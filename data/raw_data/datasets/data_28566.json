@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13178147/can-t-connect-to-wifi-in-every-network-when-i-try-to-reconnect-i-get-%E2%80%9Cfailed-to-save-network%E2%80%9D?hl=en",
-    "title": "Can't connect to wifi. In every network, when I try to reconnect, I get “Failed to save network”",
-    "content": "Without any app installed or OS update, the device stopped being connected to any wifi network. When I try to reconnect the available networks, it asks for password and after it shows “Failed to save network” followed by “failed to connect to wifi network”.\n\nI've, so far, done the following:\n1. Rebooted the device, with Wifi On and Wifi Off\n2. Tried to connect to several different Wi-Fi networks ( home, office, other phone sharing hotspot )\n3. Performed \"Reset Wi-Fi, mobile & Bluetooth\"\n4. Booted in safe mode and tried reconnecting\n\nNone worked.\nStill haven't made a complete device reset because if it still won't be able to connect to wi-fi, I won't be able to get it up and running as it currently is.\n\nAs remarks, it seems a software problem because it shows the networks available and understands the type of connections available. When it tries to stores the network data it then fails.\n\nIs there any way of checking if the wpasuplicant conf file ( or similar ) is corrupted?\nIs there any way of doing other test or reboot to the wi-fi system?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-08-30T11:46:49.765738+00:00",
-    "reply": "2 Recommended Answers"
-}

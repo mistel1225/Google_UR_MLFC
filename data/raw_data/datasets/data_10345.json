@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/77247368/help-adb-sideload-error-adb-exe-sideload-requires-an-argument?hl=en",
-    "title": "HELP! ... ADB Sideload Error: adb.exe: sideload requires an argument",
-    "content": "The Android 11 update gave my Pixel 4 the black screen of death.  I'm trying to sideload now and I am using the Command Prompt \"adb sideload\" along with the file location.  I did check if it can find my device and it can and displays the serial number.  But when I run the sideload command, I get the following error: \"adb.exe: sideload requires an argument\".\n\nNow I literally taught myself how to do all of this just now, in the last few hours.  I'm a novice and surprised I got this far, but after searching for a while, there is very little info out there about what this error means and how to correct it.\n\nAny help would be appreciated, but please remember I'm no developer, just trying to save my phone because I have some important stuff that is not backed up and Google just wants to replace it.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4",
-    "post_time": "2020-10-16T04:20:20.083007+00:00",
-    "reply": "4 Replies"
-}

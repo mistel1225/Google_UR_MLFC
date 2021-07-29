@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/109691204/solved-how-to-add-esim-to-my-pixel-5-without-the-button-next-to-the-mobile-network-tab?hl=en",
-    "title": "Solved: How to add eSIM to my Pixel 5 without the '+' button next to the 'Mobile network' tab?",
-    "content": "I want to add an eSIM to my Pixel 5, but I don't have the '+' button next to the 'Mobile network' tab in 'Network and Internet' that all the tutorials show. Did anyone see this and was able to resolve it? I bought the phone directly from Google, so it shouldn't be locked.\n\nEdit: this was solved on reddit. I needed to turn the developer settings on, which is strange since adding an eSIM is advertised as a feature of the phone. Leaving this up incase anyone else has the same issue.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2021-05-13T13:57:36.298221+00:00",
-    "reply": "1 Reply"
-}

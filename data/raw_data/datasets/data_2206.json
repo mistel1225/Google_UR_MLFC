@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/109250182/alarms-from-clock-app-no-longer-silence-when-snoozed-or-canceled?hl=en",
-    "title": "Alarms from Clock App no longer silence when snoozed or canceled",
-    "content": "Integration with YT Music seems to be not responding correctly to the alarm/clock app.  When I \"snooze\" or \"dismiss\" an alarm that uses sounds from YT Music, the sound will not stop playing.  To get it to stop, I have to open the YT Music app and stop it manually from there.  (In some cases, the sound may show up in the notifications and it can be paused from there.)  Additionally, any kind of network error occurring that prevents the selected YT Music song from playing causes a loud 4-beep noise instead.  This often can not be shut off, and continues even if other sounds are played or alarms go off.  It does not appear to be playing through the YT Music app, and the only way I've found to stop that alarm is fully restarting the phone.  I like the feature, and it worked fine a few months ago, but it has now become utterly useless.  Any suggestions?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2021-05-09T21:14:09.627461+00:00",
-    "reply": "3 Replies"
-}

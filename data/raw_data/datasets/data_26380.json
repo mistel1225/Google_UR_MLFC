@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/19631223/my-location-changed-to-specific-location-when-no-gps-signal?hl=en",
-    "title": "My location changed to specific location when no GPS signal",
-    "content": "Hi guys, \nI'm still facing a weird bug regarding my location. When my phone is not able to receive GPS signal, my location will \"jump\" to a specific location that I've \"mocked\" to back in June. When I'm outside where GPS signal is strong, my GPS sensors will pick up my current location again. I know this via my Google Location History.\n\nI noticed this behavior when I first updated to Qbeta3. Back then the problem was overshadowed by the issue with corrupted \"persist\" folder (which caused the all the sensors to stop working) so I didn't point this out. I thought this issue is solved so I never bothered to check my location history until now.\n\nThe weirdest part is, this jump to specific location is observable even without setting up to my google account after I performed factory reset, which makes me believe that it is stored somewhere in the device, probably within data that survives full wipe such as persist folder.\n\nThe question is: What can I do to stop this behavior? and if possible, how do I delete this GPS data of this specific location from my phone?\n\nI appreciate Google's support teams in the past in helping me on various issues, but I'd consider myself as advanced user, so help from more knowledgeable person is welcome.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2019-11-13T15:03:15.072282+00:00",
-    "reply": "0 Replies"
-}

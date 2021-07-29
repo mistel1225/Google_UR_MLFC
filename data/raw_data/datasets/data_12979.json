@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/71881744/timestamp-for-videos-is-incorrect?hl=en",
-    "title": "Timestamp for videos is incorrect",
-    "content": "Videos taken on my Pixel 3A have an incorrect time stamp - four hours ahead of when they were actually taken. For example, I took a video on 2020-09-17 at 12:00:07 but the time stamp on the video file is 2020-09-17 - 16:00:07 with a file name of PXL_20200917_160007814.mp4.\n\nI have \"Use network-provided time\" set to On. I have \"Use network-provided time zone\" set to On. I have \"Use 24-hour format\" set to On.",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3a",
-    "post_time": "2020-09-18T15:48:46.815812+00:00",
-    "reply": "3 Replies"
-}

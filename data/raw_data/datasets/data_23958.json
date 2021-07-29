@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/20963749/unable-to-charge-phone-notification-always-shows-charging-connected-device-via-usb?hl=en",
-    "title": "Unable to charge phone, notification always shows \"Charging connected device via USB\"",
-    "content": "As of a few months ago, the Pixel 2 XL wouldn't charge with the boxed TC G1000-UK A/C charger and boxed USB-C to USB-C cable.\n\nA workaround was to use a Samsung ETA-U90UWE A/C charger (uses USB-A) and a USB-A to USB-C cable bought on Amazon.\n\nRecently, that cable became damaged and there is currently only access to the boxed USB-C to USB-C cable, so the Samsung charger can no longer be used.\n\nWhen the boxed charger and boxed USB-C to USB-C are used, the phone does nothing.\n\nA permanent notification (including when the phone is unplugged) from Android System states: \"Charging connected device via USB\". It can not be swiped away.\n\nTapping on the notification displays USB Preferences. It states that USB is controlled by \"Connected device\".\n\nWhen trying to change it to manually to \"This device\", \"Switching...\" shows, then \"Couldn't switch\".\n\nThe charge port appears appears to be gunk-free and I don't believe there has been past water damage.\n\nWhen I connect the phone to a computer, USB Preferences automatically selects \"This device\" and it starts charging without issue (though, of course, slower than with a fast-charging A/C charger).\n\nRunning Android 10 (November 2019 security patch).\n\nAny ideas?",
-    "is_img": 1,
-    "category": "Battery and Power, Google Pixel 2",
-    "post_time": "2019-11-24T00:00:11.759567+00:00",
-    "reply": "5 Replies"
-}

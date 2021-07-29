@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/39411917/device-state-error-on-pixel-3-xl?hl=en",
-    "title": "Device-State: error on pixel 3 XL",
-    "content": "Hi, right after 3 days I installed April 2020 security update on my pixel 3 XL, my phone's screen turns black and i can't unlock my phone. So i reboot my phone then it enter fastboot mode and it displayed \"device state error\". I try using the Volume keys to scroll until Recovery Mode but it's still going to fastboot mode (Device- State: error). The start, recovery mode, and rescue mode options all just go back to the fastboot menu with \"failed to load/verify boot images\".\n\nI followed Muhammed Zaid Alam's solution but unfortunately it didn't worked. The solution that leave the device on the fastboot mode screen until it die and plugging it back while holding the power button doesn't work for my phone. I also try plug my phone into a different charger and USB-C cable but still it doesn't work.\n\nAny help guys, what should i do ? Thank you very much.\n'",
-    "is_img": 1,
-    "category": "Battery and Power, Google Pixel 3 XL",
-    "post_time": "2020-04-11T15:39:18.610147+00:00",
-    "reply": "4 Replies"
-}

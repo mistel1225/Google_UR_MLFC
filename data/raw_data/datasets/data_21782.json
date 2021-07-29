@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/36769240/microphone-over-bluetooth-too-soft?hl=en",
-    "title": "Microphone over Bluetooth too soft",
-    "content": "Note: I have a Pixel 2 XL (it wasn't on the list when I created this new post)\n\nThe issue I'm having is that whenever I use a Bluetooth audio device -- be it sports earphones with built-in mic or a proper headset -- my voice is barely audible. People tell me I'm super quiet,  almost muted, but they do hear me. I tested and confirmed this with a test using my spouse's phone. \n\nIf I use the phone without Bluetooth, then it's fine. When I tested my Bluetooth devices on my laptop, the microphones are fine. \n\nI tried messing with the Bluetooth settings in the Developers Options per recommendation in other posts. Still nothing.\n\nThe audio (output audio) over Bluetooth is fine. It's only the speech (input audio) that is soft. It's also not an app issue because it's soft with any app: video conferencing apps, WhatsApp audio recording, Google's own voice recorder, even the standard phone app.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2020-03-30T15:53:49.101924+00:00",
-    "reply": "1 Reply"
-}

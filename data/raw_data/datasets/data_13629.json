@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/76248850/pixel-4a-camera-when-deleting-photo-it-jumps-to-another-photo?hl=en",
-    "title": "PIxel 4a camera when deleting photo, it jumps to another photo",
-    "content": ">when I open the camera app\n>takes 3 photos (let's say in the order photoA, photoB, photoC)\n>view the latest photo (photoC)\n>deletes the latest (photoC)\n>wants to delete photoB next, BUT\n>it jumps to photoA\n>I can't press the delete button for photoA\n>after a few seconds, it jumps to photoB\n>then I can delete photoB\n\ntook a screen recording of it: https://drive.google.com/file/d/1-iYrtfPEE2fjDEWDj4YZFOUKJxNnxPrF/view?usp=sharing\n\nTried updating system, updating camera, clearing cache, clearing storage. Nothing worked",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 4a",
-    "post_time": "2020-10-11T08:23:16.209365+00:00",
-    "reply": "2 Replies"
-}

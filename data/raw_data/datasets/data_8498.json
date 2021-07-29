@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/93625910/trusted-locations-not-using-my-actual-location-doesn-t-work?hl=en",
-    "title": "Trusted Locations not using my actual location - doesn't work",
-    "content": "Android 11.\n\nGPS is on.  I've refreshed my location in google maps.  Yep, I'm in the right place.  I've re-selected the saved location multiple times with no success. Every time I do \"Edit Address\" it shows the main part of the townhouse area here.  I drag the pin to THIS location or touch the GPS icon, it goes to where I am, I hit \"Select this location,\" then message saying \"this place is already trusted\" appears. I go in to edit the location again, but the pin is NOT where I am, and it's left me OUTSIDE of the effective radius. It must be using the office address and NOT this townhouse, even though I've shown it where I am multiple times.  Software FAIL. What's the deal?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4a (5G)",
-    "post_time": "2021-01-15T17:03:12.514897+00:00",
-    "reply": "1 Reply"
-}

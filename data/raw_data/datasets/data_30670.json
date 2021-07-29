@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1384558/pixel-xl-1-bluetooth-le-not-working-on-android-pie-9?hl=en",
-    "title": "Pixel XL 1 - Bluetooth LE not working on Android Pie 9",
-    "content": "Ever since the update to Android Pie 9, I have not been able to sync my Fitbit Versa or use my Bluetooth Media Button. These are the only two Bluetooth LE devices I currently have. Every other Bluetooth device I have works fine, car, headphones, speakers, gamepads, mice and keyboards.\n\nIs there anything being done to fix this? I am worried since I can't upgrade for a while yet and need my Pixel 1 to keep working fine for a while.\n\nSteps I've taken:\n\n1- Remove and reinstall Fitbit App. \n2- Remove both the Versa and Media button from Bluetooth\n3- Reset Bluetooth and Wifi settings\n4- Wipe phone through factory reset settings\n5- Wipe phone and flash latest factory image via adb\n\nCurrently, my Pixel 1 is on the latest official build but these two Bluetooth LE devices still do not work.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2019-01-31T15:19:28.296992+00:00",
-    "reply": "2 Recommended Answers"
-}

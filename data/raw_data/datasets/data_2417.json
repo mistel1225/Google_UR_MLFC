@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/109020039/issue-with-built-in-native-notification-audio-effects-of-apps?hl=en",
-    "title": "Issue with built-in native notification audio effects of apps",
-    "content": "Hi,\n\nMany Android apps come with their own notification audio effects, for example the eBay Cha-Ching notification sound when you've sold something.\n\nBut on my Pixel 4a 5G, apparently not a single app plays its supplied sound effects, instead all apps are using default audio effects from the notification sound pool provided by the Pixel itself.\n\nThis means that I can no longer hear from a distance which app is asking for attention, since everything sounds the same now, which means I have to physically unlock the phone and check notifications.\n\nI can't find a way to activate the app's built-in audio effects. I can assign downloaded sound effects to apps and their different notification types, but that would be very time-consuming and tedious.\n\nMy older Android devices do play these distinct notifications sound just fine, so how can I fix this on my new Pixel?\n\nThanks in advance for any tipps!",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4a (5G)",
-    "post_time": "2021-05-07T17:45:25.528443+00:00",
-    "reply": "1 Recommended Answer"
-}

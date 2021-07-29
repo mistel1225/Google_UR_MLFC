@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/14780069/using-smart-lock-phone-remains-unlocked-when-it-should-be-locked?hl=en",
-    "title": "Using \"Smart Lock\", phone remains unlocked when it should be locked",
-    "content": "I'm using my home address as a trusted place and my car stereo as a trusted bluetooth device. I have found on 2 occasions that when I was away from home (well beyond the 80m radius of the trusted location) and not connected to the stereo my phone was unlocked. There's text at the bottom stating \"Kept unlocked by Smart Lock\". It absolutely should have been locked.\n\nI've had many issues with Smart Lock over the years (I even started this long thread a few years ago). I haven't had this particular issue for a while, and it is most definitely a serious security bug.\n\nToday, I actually had to use my phone in the car (starting a playlist). I was probably within the range of the trusted place as well. This might have been the root issue of the phone not locking when it should have.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-09-19T14:18:52.601698+00:00",
-    "reply": "1 Reply"
-}

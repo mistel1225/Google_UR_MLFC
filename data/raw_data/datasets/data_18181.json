@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/63765361/bluetooth-media-controls-problem-volume-play-w-bose-soundlink?hl=en",
-    "title": "Bluetooth media controls problem (volume/play w. Bose Soundlink)",
-    "content": "Since I got my Pixel 4 (about a month and a half ago), I 'm having problems using the media controls of my Bose Soundlink Mini II.\nEach time I turn on my Bose speaker, I will have separate controls for the volume (I need to adjust the volume on both the Pixel and the speaker) and the play/pause button won't work.\nTo temporarily fix the problem, I need to turn off then turn on the bluetooth in the Pixel settings, and once the Bose speaker is connected again, the controls will (more or less) work properly: the volume on the speaker will be linked to the phone volume (no need to adjust the volume on both devices) and the play/pause button will work, though very ofter I will have to press the button twice so that the action is registered  (my BT headphones have that problem too and I often need to push twice to play/pause ).\nIf I turn off the speaker and then turn it on, to get it to work properly, I have to start the forentioned procedure all over again.\nMy Bose Soundlink Mini II is updated to the last firmware (1.1.14) and I never had that problem with my previous phones (Pixel 3, Galaxy S7).\nI read that the June update created some problems with the bluetooth, is it linked ?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
-    "post_time": "2020-08-09T10:35:01.935213+00:00",
-    "reply": "0 Replies"
-}

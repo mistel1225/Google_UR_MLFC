@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/72795223/pixel-4-xl-not-ringing-since-android-11-update?hl=en",
-    "title": "Pixel 4 XL not ringing since Android 11 update",
-    "content": "Since the update (first day), my phone will not ring for incoming calls.  The vibrate/notification still works, but no ring.  Do Not Disturb is off, and all settings are the same as before the update when it worked.  The ring is a Pixel ring.  No new applications have been installed. \n\nThe phone does ring if booted in Safe Mode.  Turning bluetooth and wifi off does not make a difference.\n\nPlease don't suggest doing a factory reset as I have no intention of going that route.\n\nedit:  FYI I did have Zedge installed to use their sounds.  Thinking that was the issue, I had uninstalled it to use the default Pixel sounds.  This uninstall was before the I posted (and tried safe mode reboot) so that's definitely not the issue.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 4 XL",
-    "post_time": "2020-09-23T12:50:49.111701+00:00",
-    "reply": "1 Recommended Answer"
-}

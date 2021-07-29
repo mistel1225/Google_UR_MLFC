@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1519962/i-am-unable-to-get-my-pixel-2-to-connect-to-my-apple-macbook-pro-2018-usb-c-ports?hl=en",
-    "title": "I am unable to get my Pixel 2 to connect to my @apple MacBook Pro 2018 (USB C ports).",
-    "content": "I have tried both C to C and C to A but my Pixel doesn't show up in Finder nor with adb. I have dev/USB debug enabled. Nothing works. Please help\n\nEdit: I have already tried File Transfer, both downloading the application and setting that on the Pixel.\n\nI have also tried restarting both devices",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-02-08T02:19:44.763184+00:00",
-    "reply": "3 Replies"
-}

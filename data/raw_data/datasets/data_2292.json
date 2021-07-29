@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/109382135/missed-alarms-don-t-repeat-after-snoozing?hl=en",
-    "title": "Missed Alarms Don't Repeat After Snoozing",
-    "content": "My Pixel 4a(5g) uses the default Clock application for setting alarms.  My settings for alarms are set to silence after one minute of ringing and to snooze for five minutes.\n\nCase experiences\nWhen alarm is triggered and manually snoozed, it works as intended with the next alarm five minutes later.\nWhen alarm is triggered and rings for one minute, the alarm stops and notification of \"Missed alarm\" is displayed and no further alarms are triggered, which is not as intended, even after five minutes or later after that first alarm.\n\nIs there a setting to have the Clock application's missed alarms continue ringing per the setting's snooze period as if manually snoozed?\n\nThanks.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4a (5G)",
-    "post_time": "2021-05-11T00:18:19.728949+00:00",
-    "reply": "0 Replies"
-}

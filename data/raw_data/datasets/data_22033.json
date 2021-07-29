@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/35965626/screen-bug-on-android-10?hl=en",
-    "title": "Screen Bug on Android 10",
-    "content": "I bought my Pixel 3a XL several weeks ago and everything was fine. It shipped with Android 10 (i think it was 2019-12 build), and updated to the latest build (2020-03). And it also worked fine. But this week I rebooted the phone (i think it was the first reboot after the updating). And now I have several screen related issues.\n\nMy issues:\n1. Always On Display (AOD) not working.\n2. If both AOD and 'New Notifications Wake Screen' features are enabled then notification do wakes the screen and then AOD appears but AOD display brightness will be maximum and the display will not response to light/proximity sensors changes.\n3. If I change the brightness level manually by swiping on the slider from left to right, then brightness level will not increase gradually, it will have one point with very dimmed screen (at about 87%).\n4. Display colors are unsaturated and washed out though colors in fastboot/recovery/etc are correct.\n\nI checked my proximity and light sensors with different apps and it seems they work. 'Sensor Lab' app shows that proximity and light sensors are fine.\n\nI tried to reboot in Safe Mode and tried to Factory Reset the phone but it did not helped. I also tried to flash different version of Android Factory Images (andoid 9, 10, 11 by flash-all.bat).",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a XL",
-    "post_time": "2020-03-27T13:02:42.242065+00:00",
-    "reply": "1 Reply"
-}

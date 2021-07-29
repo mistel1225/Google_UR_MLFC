@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1364981/contacts-dialer-prompting-to-select-between-two-identical-numbers?hl=en",
-    "title": "Contacts/Dialer prompting to select between two identical numbers",
-    "content": "I have a Pixel 3.\nMy contacts are all in Google Contacts and synced to my Pixel 3. I'm using the stock Android dialler and Contacts apps.\nFor some contacts, when I add them as a Favourite and tap on them from within the dialler or contacts app, I am prompted with the 'Choose how to call Bloggs, Joe' screen, giving me a choice between two identical numbers.\nThe problem seems to pervade into Bluetooth aswell. When I use my Chevrolet MyLink handsfree and say 'Call Joe Bloggs Mobile', it asks me 'Joe Bloggs mobile has multiple numbers' and the screen in my vehicle prompts me to pick between two identical numbers.\n\nThe contacts causing his problem do not have multiple or duplicate numbers.\n\nI worked with Google support via the Settings-app chat on this issue. We tried the following steps:\n- Remove all updates to Contacts app, clear cache and data, reboot\n- Remove and re-add Google account, reboot\n- Reboot into Safe mode\n\nNothing works. I cannot get rid of the problem.",
-    "is_img": 1,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3",
-    "post_time": "2019-01-30T14:00:34.784207+00:00",
-    "reply": "30 Replies"
-}

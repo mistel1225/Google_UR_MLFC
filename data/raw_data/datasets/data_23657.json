@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/27578553/pixel-4-camera-30-fps-video-has-more-detail-than-60-fps?hl=en",
-    "title": "Pixel 4 - Camera: 30 fps video has more detail than 60 fps",
-    "content": "I have Pixel 2 and Pixel 4. Both devices have similar issue.  I am working with 1080p.\n\nWhen selecting 30 FPS to shoot a video, the quality is better than selecting 60 FPS.  The 30 fps file has better overall detail(look at texture for example).  I took few sample videos with 30 and 60 fps and they came out with consistent results. The 60 fps does have better frame rate but lacks in quality/details of the content being shot.  I have checked file details and 60 fps file shows better bit rate which is about 6K+ more than 30 fps.  This is not isolated to my devices or the lack of app/system updates.\n\nI am personally forced to select 30 fps because of the above.  The issue is present since owning Pixel 2 and I thought Google did something to make 60 fps as the name implies.\n\nIf we don't have 4K 60 on Pixel phones, then please make 1080p better!",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 4",
-    "post_time": "2020-02-03T22:53:41.548995+00:00",
-    "reply": "3 Replies"
-}

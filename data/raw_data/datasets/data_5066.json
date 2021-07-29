@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/102798595/blurry-photos-using-far-focus-mode-in-night-sight?hl=en",
-    "title": "Blurry photos using \"Far\" Focus mode in Night Sight",
-    "content": "In Night Signt, with focus set on \"Far\", pictures will be consistently blurry: instead of being correctly focused on far items, the camera will be correctly focused for objects at a 1 meter distance approximately.\n\nThis brings the main problem: when in astrophotography mode, it is very hard to correctly focus on the sky using autofocus, intuitively I would lock the focus to \"far\": this however makes all photos consistently blurry as the focus is not being correctly applied, by the app, to infinity.\nSome pictures for example:\n\nTaken with Night Sight + focus set to \"far\"\n\n\nTaken with Night Sight + focus set to \"auto\"\n\nLeft: Taken with Night Sight with Astrophotography + focus set to \"far\" (on a tripod)\nRight: Taken with Night Sight with Astrophotography + focus set to \"auto\" (on a tripod)\n\n\n\nThis seems to be a software issue with the camera (it assumes it is focused to far when set to \"far\" while it is not. How should I do to fix this problem?",
-    "is_img": 1,
-    "category": "Camera, Google Pixel 4a",
-    "post_time": "2021-03-18T16:32:42.247667+00:00",
-    "reply": "0 Replies"
-}

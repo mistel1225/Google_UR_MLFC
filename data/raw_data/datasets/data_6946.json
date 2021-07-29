@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/97653086/pixel-3-stuck-in-logo-mode-after-feb-2021-updates?hl=en",
-    "title": "Pixel 3 stuck in logo mode after feb 2021 updates",
-    "content": "Feb 2021 updates were applied today and phone is stuck in boot mode at G logo.\nTried to reboot, launched recovery mode -> reboot device, restart bootloader but its stuck in fastmode mode.\nAny help! I dont want to do factory reset.\nTried to use adb tools to apply jan 2021 update but laptop is not detecting the phone. I guess the required setting for adb to detect is not turned on the phone.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3",
-    "post_time": "2021-02-11T14:25:53.737158+00:00",
-    "reply": "2 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2779294/pixel-3-corporate-wifi-issues?hl=en",
-    "title": "Pixel 3 Corporate WiFi issues",
-    "content": "Hi everyone,\n\nI have been having issues since the March security update with Corporate WiFi connectivity.\n\nMy phone can connect to any WiFi, that be without password or regular WPA2 but when I try to connect to a Corporate WiFI (WPA2 Enterprise) the phone shows that it is connected but no internet connection available.\n\nI have tried this at 3 different networks and talked with their administrators and I should have internet access without problem. Furthermore everyone else is able to connect. to those networks.\n\nI have tried resetting the connectivity settings, Safe Mode, Factory Reset but none worked.\n\nIs anyone else experiencing this same problem? Is there anything else to be done or tried?\n\nThanks in advance!",
-    "is_img": 1,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2019-03-21T12:40:33.289493+00:00",
-    "reply": "4 Replies"
-}

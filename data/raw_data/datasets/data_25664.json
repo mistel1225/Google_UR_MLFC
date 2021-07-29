@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/5828752/every-time-i-restart-my-phone-it-asks-for-an-permission-to-send-messages?hl=en",
-    "title": "Every time I restart my phone it asks for an permission to send messages",
-    "content": "Recently upgraded to Android 9 security patch dated May 5 and started getting several requests of \"[insert random name here] would like to send a message to 45567\"  from the following so far: \n\nCom.android.sdm.plugin \nConnectivity manager \nOemdmtrigger\ncom.qualcomm.data\n\nIs something broken with the latest update on my phone?\n\nOn Freedom mobile too.\n\nUpdate (I can't seem to reply to my own post): I've sent a Twitter message to freedom. Will keep this thread advised.\n\nEdit: it seems like disabling visual voicemail  solved the problem by hiding it for now and it will do while waiting for Freedom to fix the issue, i guess.",
-    "is_img": 1,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-05-10T00:39:11.833276+00:00",
-    "reply": "1 Recommended Answer"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/46949406/pixel-2xl-stuck-in-boot-loop?hl=en",
-    "title": "Pixel 2XL stuck in boot loop",
-    "content": "My Google Pixel 2XL died one morning so I left it to charge. When I turned it on, it was stuck in a boot loop (didn't get passed the google logo screen). After searching for ways to fix this online I found that applying a Rescue OTA to the device has solved a few people's issues. I followed the instructions here, that detailed how to do this. However, when I type the commands fastboot devices and adb devices  into my terminal (I'm using a mac), it didn't list any devices.\n\nI have no idea how to fix this. Google customer supports only suggestion was that I factory reset my phone but I haven't backed up my photos and was hoping to do that after I've exhausted all my other options.\n\nI found  this post with a similar issue where the person said they installed the wrong ADB driver but the answer to this didn't help me either. This person mentioned that their phone was stuck in a boot loop due to \"over-full memory\" and if this is so, I believe my phone might be stuck in a boot loop for the same reason (I've used over 90% of my storage).",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 2",
-    "post_time": "2020-05-15T17:22:56.138924+00:00",
-    "reply": "3 Replies"
-}

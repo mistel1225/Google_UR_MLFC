@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/98328847/pixel-5-still-has-apps-crashing-after-factory-reset-what-else-to-try?hl=en",
-    "title": "Pixel 5 still has apps crashing after factory reset, what else to try?",
-    "content": "Since I got it in November I've had problems with the device restarting sporadically and apps crashing until I restart the phone. All kinds of apps are crashing (Youtube, Pixel launcher, Chrome etc) not just 3rd party apps.\nYesterday I tried a factory reset to see if that should solve the problem but after only a few hours the problems started again with Youtube and Google News crashing.\nI've done an \"adb logcat\" where I see logs like:\nlibc    : Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 30053 (initCrit3-1), pid 30029 (android.youtube)\nlibc    : Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 30380 (DISK #1), pid 30330 (.apps.magazines)\nlibc    : Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 30585 (.android.gms.ui), pid 30585 (.android.gms.ui)\netc\nAny suggestions on what do do next?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 5",
-    "post_time": "2021-02-16T08:20:08.674982+00:00",
-    "reply": "4 Replies"
-}

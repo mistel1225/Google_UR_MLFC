@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/40449682/storage-media-stopped-working-after-android-11-upgrade?hl=en",
-    "title": "\"storage media stopped working\" after android 11 upgrade",
-    "content": "hi, today I updated my pixel 3a to the latest version of android 11 via sideload. During normal use a \"storage media stopped working\" pop up continues to come out and I cannot access to the internal memory, so I tried to install the latest OTA but unfortunately it gives me this error \"\nadb: sideload connection failed: closed \nadb: trying pre-KitKat sideload method ... \nadb: pre-KitKat sideload connection failed: closed \". \nwhat should I do, wait for a new update?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2020-04-16T15:36:49.017393+00:00",
-    "reply": "1 Recommended Answer"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/71538285/pixel-3a-has-major-charging-problems-after-android-11-update?hl=en",
-    "title": "Pixel 3A has major charging problems after Android 11 update",
-    "content": "my pixel 3a was working flawlessly with a wide range of USB chargers under Android 10.  \n\nI've had all sorts of problems since the Android 11 upgrade a few days ago.  \n\nI get weird error notifications talking about incompatible analog devices, or it asks me if the USB device is allowed to control the phone, etc etc.    yet, sometimes it charges fine on the same charger.    My favorite USB C chargers are Anker PowerIQ 3, both wall plugs and 12V automobile adapters, these have always rapid charged every USB C device I own including the Pixel 3A, but I'm also having  issues with older USB \"A\" chargers that are rated at 2.1 A, these always worked with Android 10 but now are nearly as flakey as the C \"PD\" chargers.   I've used numerous USB A-C and C-C cables, no differences.    Once in awhile, the phone charges, more often with a slow USB A 2.1A charger, so with a lot of persistence, I've been able to keep it charged.\n\nSometimes when I plug it into one of the USB C PD chargers, the phone cycles charging (not charging) charging (not charging) every few seconds for a few minutes, then quits.   unplugging, and replugging the charger doesn't help.     rebooting the phone doesn't help.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3a",
-    "post_time": "2020-09-16T18:58:01.491641+00:00",
-    "reply": "1 Recommended Answer"
-}

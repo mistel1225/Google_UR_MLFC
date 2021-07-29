@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/106333006/april-2021-security-update-bricked-my-pixel-5-phone?hl=en",
-    "title": "April 2021 security update bricked my Pixel 5 phone",
-    "content": "My Pixel 5 is completely unusable after installing the most recent security update, won't turn on at all. \n\nYesterday (April 14, 2021) I got the notification about the security update. My phone was 100% charged, under a year old, purchased directly from the Google Store in November 2020, had no physical damage of any kind, running on Android 11, and was working fine.\n\nAs soon as I installed the security update, it completely bricked my phone. Briefly showed the wrong screen lock (Pattern instead of PIN) for a minute, then got permanently stuck in FastBoot mode and showed red \"error!\" text next to \"Device-State\" field with error reason \"Failed to load/verify boot images.\" \n\nI tried using the volume and power buttons to try to get into Recovery mode but it kept returning to red FastBoot mode. I tried everything that Google Support recommended over chat and nothing worked, so now I have to get a replacement phone.\n\nHas this happened to anyone else recently? I see that this has happened to other people with past Security Updates over the years immediately breaking some Pixel 2, 4, etc phones, so I thought there would be a solution for this by now? Thanks!",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 5",
-    "post_time": "2021-04-15T18:41:00.165542+00:00",
-    "reply": "5 Replies"
-}

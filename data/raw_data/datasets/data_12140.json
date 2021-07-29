@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/79698786/pixel-4a-android-11-update-issue-auto-rotate-wifi-calling?hl=en",
-    "title": "Pixel 4A/Android 11 Update issue: Auto-Rotate & WiFi Calling",
-    "content": "(Using a Pixel 4A)\n\n1. Ever since the update to Android 11, I've found that my auto-rotate function only operates about 60% of the time. Chrome and YouTube seem to be the primary ones affected, but I've had issues with Telegram, regular Messages, Facebook, Twitter...major apps that, one would think wouldn't be negatively affected to this extent by an upgrade. The app also rotates and will get stuck, and not rotate back. Usually it just refuses to rotate. Anyone else run into this issue?\n\n2. WiFi Calling - I was quite perplexed when my phone calls would \"randomly\" drop after 40-50 minutes, almost without fail. In doing a little reading, it turns out this could be an issue with the phone switching back and forth from WiFi to mobile network calling, and not being able to maintain the phone call when that happens. Has this happened to anyone else before? It's utterly maddening, though fixed since I turned off WiFi calling (turned on, it appears, by default).",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4a",
-    "post_time": "2020-10-28T23:15:34.963843+00:00",
-    "reply": "2 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/70210365/separate-notification-volume-from-ring-volume?hl=en",
-    "title": "Separate notification volume from ring volume",
-    "content": "We still do not have the ability to control notification volume and ring volume separately. I know since Lollipop, the ring volume controls both, but that is simply not enough for us, Android users. There has been so many threads opened for this, and closed without resolution. We will require this functionality again and again until we get it, so please raise our concern to the appropriate developer team. Other brand's android operating  systems are implementing this (e.g. LG, Samsung) so why cannot the AOSP include this as well?\n\nThe use case is simple: we don't want all our notifications to be at full volume for example when we're chatting someone, because that is annoying for everyone around us. But if we set the ring volume to a low level, then we won't be able to hear our phone ringing when we leave it somewhere in the house.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2020-09-10T06:23:30.441474+00:00",
-    "reply": "0 Replies"
-}

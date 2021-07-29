@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/95676776/camera-shows-i-m-tilted-but-i-m-not?hl=en",
-    "title": "Camera shows I'm tilted but I'm not",
-    "content": "Hi all,\nI recently flashed my Pixel 3a XL using stock image and Android Flash Tool from https://developers.google.com/android/images \n\nBefore I flashed my phone, there's nothing wrong when I took photos. But after I flashed it, I found it weird that even though I'm not tilted, the camera app says I'm tilted. If I tilt the phone, it says I'm not tilted.\n\n\n\nAnd I also use the \"bubble level\" tool in Google search, it shows my phone is tilted even if I put it on the ground.\n\n\nSo far I have already tried reboot, reboot into safe mode, uninstall camera app update and reinstall the update, none of them fix the issue. I also contacted Google support and they can't fix it.\n\nHow can I get it fixed ?",
-    "is_img": 1,
-    "category": "Camera, Google Pixel 3a XL",
-    "post_time": "2021-01-29T14:17:23.731655+00:00",
-    "reply": "0 Replies"
-}

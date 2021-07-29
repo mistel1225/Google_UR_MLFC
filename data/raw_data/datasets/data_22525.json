@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13989722/wifi-settings-creating-reboot-loop?hl=en",
-    "title": "WiFi settings creating reboot loop",
-    "content": "Hi there,\nI've had my Pixel 3A for over a month now and it's been great and I've upgraded to Android version 10 successfully. \nHowever I've noticed a potential bug when today I've tried to connect to my works WiFi network. They have certain manual settings to be able to connect, which are below, but when I try to connect after about 1 min it reboots my phone and then after that reboot I go back into WiFi and try to connect again, the same thing happens after about 1 min in. I then turn off WiFi after this and phone is all good and I deleted the work WiFi profile for now. \nOther regular WiFi networks work fine including my home network.\n\nBuild version QP1A.190711.020\n\nEAP method: PEAP\nPhase-2 Authentication: MSCHAPV2\nCA certificate: Do not validate\n\nCould these settings be conflicting with the Pixel 3A hardware? \nPrevious versions of Android work on my works WiFi network.\n\nThanks\nBen",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3a",
-    "post_time": "2019-09-10T00:12:51.903256+00:00",
-    "reply": "57 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/33332056/pixel-2-bluetooth-earbuds-very-quiet?hl=en",
-    "title": "Pixel 2 bluetooth earbuds very quiet",
-    "content": "I have a Google Pixel 2 and the bluetooth volume is very quiet.\n\nWhen I connect my bluetooth earbuds to my Chromebook the volume is significantly louder.\n(For example: The earbuds will on 100% volume on my Pixel 2 sounds like 50% on my chromebook) \nI've done these steps to try and solve the problem but no fix so far: \n - disabled absolute volume in developer options\n - Set bluetooth AVRCP version 1.6\n - Restart my phone\n - Disconnected my bluetooth and reconnected it. \n\nCan someone advise me on what to do with this issue? \n\nThanks,\nEnoc \n\nI'm using:\n - Google Pixel 2, Android 10\n - Soundcore Liberty Air bluetooth earbuds",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2020-03-13T01:14:20.313837+00:00",
-    "reply": "6 Replies"
-}

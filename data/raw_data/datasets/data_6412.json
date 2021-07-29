@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/99111610/pixel-4a-android11-bt-intermittency-during-wear-os-watch-setup?hl=en",
-    "title": "Pixel 4a Android11 BT intermittency during Wear OS watch setup",
-    "content": "I'm attempting to connect a Fossil Sport smartwatch to a Pixel 4a running Android11. During setup the phone pairs with the watch initially, but the setup stalls after the first cm or so of the progress bar and hangs and times out after several minutes. When checking the Pixel 4a's BT connections in Settings, the watch frequently (every few seconds) moves from \"Previously Connected Devices\" to \"Other Devices\". I have done all the suggested remedies I can find (delete WearOS app, clear cache, reboot both devices, reset watch, etc) with no success. As a debug step, I also tried connecting the same watch to a MotoOne Hyper running Android10 which worked fine (no issues at all, completed the setup in about 5 mins).  So - there seems to be some incompatability between the watch and either the Pixel4a and/or Android11 and the WearOS setup. \nAppreciate any thoughts on how to remedy.\nThanks.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
-    "post_time": "2021-02-21T16:53:11.653844+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/104466344/multitouch-does-not-work-only-one-touch-is-recognized?hl=en",
-    "title": "Multitouch does not work, only one touch is recognized",
-    "content": "Hello everyone!\n\nOn my pixel 4a, after flashing from custom firmware to the official one, multitouch stopped working.\nI tried:\nFollow THESE instructions\nFactory reset\nFlashing to factory firmware\nFlashing back to custom firmware\nReboot to Safe Mode\nDowngrade to android 10 (Multitouch works only on this version of android, but the touch screen has become strange to perceive touches in the center of the screen, as if I press very often instead of drawing a line)\nUpdate to android 11 (Multitouch stopped working again, the touchscreen became normal)\nFlash official firmware with bootloader lock\n\nAll of the above did not help.\nI do not know what else can be done, so I ask for help from you. If I can provide any additional data, then I am ready to provide them.\n\nThanks in advance!\n--Leonid",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4a",
-    "post_time": "2021-03-30T21:54:24.109976+00:00",
-    "reply": "1 Reply"
-}

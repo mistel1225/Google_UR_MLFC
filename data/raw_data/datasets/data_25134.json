@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/22259872/google-phone-app-latest-update-dialer-will-not-show-up-during-call?hl=en",
-    "title": "Google Phone App Latest Update: Dialer will not show up during call",
-    "content": "Latest update (December 7, 2019 update) broke the phone app, specifically I cannot use dialpad only while in a call. I confirm this issue is isolated to the latest update of this app, because when I factory reset the phone app the dialpad is able to appear again while in a call. \n\nTo describe the issue in detail: During a call, the icon to toggle the dialpad is there, but tapping on it just highlights the dialpad icon and the actual dialpad never shows up. For example, this means I can't key in an extension or the passcode to access my voicemail while in the call. Other google phone users have reported the same experience under recent reviews for this app on the play store, presumably after having updated to the latest version of the phone app.\n\nI'm on a Pixel 2 running Android 8.1.0. The issue could be limited to this version of Android, but phone users who are stuck with Android Oreo, e.g. Nexus 6P users, would have no recourse to fix this unless they are able to factory reset the app.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 2",
-    "post_time": "2019-12-08T09:20:53.309979+00:00",
-    "reply": "3 Recommended Answers"
-}

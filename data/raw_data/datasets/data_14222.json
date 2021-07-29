@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/77282696/pixel-4a-notification-loop-on-usb-c-headphones?hl=en",
-    "title": "Pixel 4a notification loop on usb c headphones",
-    "content": "When I'm using my usb-c headphones on the pixel 4a sometimes the notification for a received message instead of ringing once keeps going on forever, this doesn't stop even when plugging out headphones and only stops with a reboot\n\nExample:\nPhone is not on do not disturb and is either on loud or on vibrate\nA starred contact writes to me on whatsapp\nI hear the notification as normal but then the same notification sound starts playing as a media in a loop\n\nI can lower it by lowering the media audio (not the notification volume) but as soon as I raise it the sound continues\n\nEven unplugging headphones the sound continues until I reboot the phone\n\nThis ring also happens when phone is set to vibrate but not in do not disturb, in do not disturb I hear no notification sounds even when I should\n\nThe sound is the custom notification associated with the contact, if I change the custom notification it changes the sound played on repeat\n\nThis only happens with usb-c headphones, I have tested with (non-google) bluetooth headphones and it works as normal\n\nThis started happening from the first time I ever used the usbc headphones on a brand new pixel 4a (5 minutes after first turn on)\n\nUpdate: I tested without custom notification and the same issue still occours",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4a",
-    "post_time": "2020-10-16T09:19:00.976349+00:00",
-    "reply": "0 Replies"
-}

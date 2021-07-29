@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/48908311/pixel-3a-backup-still-not-working-with-security-pin-password-enabled?hl=en",
-    "title": "Pixel 3a - Backup still NOT working with security pin/password enabled",
-    "content": "VERY DISAPPOINTED WITH GOOGLE RESPONSE TO FIX THIS BUG!\n\nI purchased a Pixel 3a in 2019 and the BACKUP function is stuck in the \"waiting state\" until I turn off all security locks (pin, password). Then it works.  I have reported this in 2019 and so have others.  I am VERY disappointed that Google has not yet fixed this BUG in the code.  I just update to Android 10 and checked that I am up-to-date but the bug still remains.  I noticed the bug has been reported as far back as 2018.  Why can't Google fix a bug that would allow backup to GOOGLE Drive?  Great phone but disappointed in the support for fixing a simple bug. \n\nDo others have the same problem with Pixel 4 XL?   \n\nWith Security enabled:\nAutomatic BACKUP - not working\nManual Backup - button grayed out (not working)\n\nWithout Security enabled:\nAutomatic Backup works\nManual Backup - button Blue and working\n\nAgain, Google is always reporting other companies' bug/security gaps but ignores one of its known bugs for 2 years.\n\nNote: Any time the security is enabled the backup will NOT work.\n\nThis bug is VERY old and NOT being FIXED see:\nhttps://support.google.com/pixelphone/thread/1520722?hl=en\n\nPixel Backup to Google Drive - Backup Now button greyed out shows Waiting to Backup\n\nNO FIX  -  just work arounds --- Why can't Google fix this bug?  Google is still selling phones with this bug and NO fix and people are still buying a bugging phone.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2020-05-24T19:26:17.532967+00:00",
-    "reply": "6 Replies"
-}

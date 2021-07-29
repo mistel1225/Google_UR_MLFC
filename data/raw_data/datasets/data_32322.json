@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/3743237/backup-of-data?hl=en",
-    "title": "Backup of /Data",
-    "content": "Hi all,\n\nI'm looking for a method to take a complete backup of the phone (including the /data/data folder) on a non-rooted, stock device.  I have no interest in rooting/unlocking the bootloader (can't anyway- this option is disabled), since I am not trying to modify the files.  This is strictly for forensic research. Adb pull results in \"permission denied\" due to non-root status, and \"run-as\" also is not an option in this instance. \n\nIt seems like Autopsy and OSForensics only pull logical copies, bypassing the /data partition.  Anyone else encounter this and discover a workaround?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-04-07T14:21:10.029107+00:00",
-    "reply": "4 Replies"
-}

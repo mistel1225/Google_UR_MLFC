@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/29223236/fixed-alarms-not-going-off-on-your-pixel-3-under-android-10-ways-to-fix-it?hl=en",
-    "title": "[FIXED] Alarms not going off on your Pixel 3 under Android 10? Ways to fix it!",
-    "content": "Are you going nuts with random alarms not going off? You are sure you set it, you don't remember turning it off, and suddenly you're half an hour late?\n\nFound the solution for me.  The Pixel has a 'flip to shh' setting in do not disturb, which sets it to DND when it is flipped downward.  I had disabled alarms in do not disturb.\n\nThis is located by long pressing the do not disturb button.  Then either enable alarms, or disable the flip to shh setting in 'schedules'.  Which is very non-intuitive.\n\nOr just keep your pixel face up to have alarms go off., and still be able to set a DND while watching a movie.\n\n(I had reset the app in safe mode, installed three different ones, check that it wasn't on blocked notifications, etc. Posting it a lot of places for visibility. Lots of people having this problem of a feature they forgot about.)",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3 XL",
-    "post_time": "2020-02-19T21:32:46.87268+00:00",
-    "reply": "1 Reply"
-}

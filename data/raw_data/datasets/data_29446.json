@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/10384264/i-am-having-issues-with-all-sensors-on-pixel-3-including-auto-rotate-active-edge-light-sensor?hl=en",
-    "title": "I am having issues with all sensors on Pixel 3, including auto-rotate, active edge & light sensor",
-    "content": "Autorotate, gyroscope, light sensor and squeeze are not working. All these options are enabled in the settings. I installed Sensor lab, and everything apart from network activity is flatlined.\n\nI have tried everything described in the posts below, including:\n- resetting Google app cache\n- resetting app settings\n- swapping sim card\n- rebooting in safe mode\n- last resort of a factory reset.\n\nNone of these make a difference. \nThis has been happening for a few months now, and is quite frustrating always ot have to adjust brightness and not being able to take photos and videos in landscape. Once, after a reboot around a month ago, all sensors started working again, but on the next reboot everything stopped again, and I haven't managed to get them working again. \n\nThese are the posts I checked, none of which provided a solution:\nhttps://support.google.com/pixelphone/thread/3086868?hl=en\nhttps://support.google.com/pixelphone/thread/3194922?hl=en\nhttps://support.google.com/pixelphone/thread/1717632?hl=en\n\nDevice is less than 1 year old and under warranty.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2019-07-22T08:53:09.752796+00:00",
-    "reply": "1 Recommended Answer"
-}

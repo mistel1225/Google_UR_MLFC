@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/89102560/pixel-4a-5g-file-transfer-not-working?hl=en",
-    "title": "Pixel 4a 5G File Transfer Not Working",
-    "content": "I couldn't figure out how to allow my Pixel 4a 5G to transfer files from my pc. Every time I tried it came up with an error. However, I solved this problem after much searching - the issue is that Google has file transfer via usb turned off by default. Why they do this is anyone's guess, but it was a pain in the ass to figure out so I'm posting this here to let others know how I fixed it. You have to go into Settings, type USB Preferences, and then plug your device in and click \"File Transfer / Android Auto.\" That will do it - if you need to see it, this site has a demonstration: https://deviceguides.vodafone.co.uk/google/pixel-4a-5g-android-11-0/connectivity/transfer-files-between-computer-and-phone/",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4a (5G)",
-    "post_time": "2020-12-17T14:23:02.300241+00:00",
-    "reply": "1 Reply"
-}

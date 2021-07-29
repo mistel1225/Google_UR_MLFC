@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/113342955/pixel-4a-camera-crashes-gallery-shows-no-pictures-files-shows-no-media?hl=en",
-    "title": "Pixel 4a: Camera crashes, Gallery shows no pictures, Files shows no media",
-    "content": "Since the last update to the Camera, Files and Gallery App I have the following bugs:\n\n- When I take a picture the camera app crashes approx 2 seconds later after the picture get's shown in the gallery preview bubble in the bottom right corner\n- Same when I take a video, however there the app crashes before the video appears in the preview bubble\n- Gallery app does not show any pictures\n- Files app does does not show any media (pictures, videos, audio -> all with 0 bytes) -> however when I navigate to the respective folders of course all files are still there\n- In Files -> Settings -> Show hidden files -> Then all of a sudden the media files appear and also the file sizes are calculated correctly. However the camera still crashes / Gallery does not show the photos from the devices\n- When checking the file locations I noted files called \".pending-162....balbal\" and the files cannot be opend and also files with the marker \"RESTORED\" in their filesnames\n- Other apps (WhatsApp, Telegram) cannot show the preview pictures in their respective message windows\n\n- I deleted the caches and data of all of these three apps -> did not help\n- I uninstalled all updates and went back to the base verison of all apps -> did not help\n- I just updated the phone with the latest security update -> did not help\n- I took all permissions and re-granted them -> did not help\n- Build-Number: RQ3A.210605.005\n\nI really want to prevent a factory reset ...",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 4a",
-    "post_time": "2021-06-12T19:04:57.190228+00:00",
-    "reply": "2 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2193275/voicemail-dialer-settings-return-to-default?hl=en",
-    "title": "Voicemail dialer settings return to default",
-    "content": "I went into Phone>Settings>Voicemail>Advanced Settings>Setup>Voicemail Number and added my voicemail pin to the phone number. So it is now saved as *86,XXXX# (where the comma is a 2 second pause and the Xs represent my PIN).\n\nWorks fine, and all I have to do is tap the notification to dial my voicemail and enter the PIN.\n\nUntil I have to re-boot the phone, when the number gets re-set to *86. Every time I set it back up and restart the phone it returns to the default (tested and confirmed multiple times, including with Google support mirroring my display).\n\nPhone is on Verizon, Google TS says nothing is wrong with my phone they say it's a Verizon issue.\n\nAnyone?",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3",
-    "post_time": "2019-03-09T17:48:24.345805+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/70194326/device-setup-is-broken-on-pixel3a-android-11-missing-data-restore?hl=en",
-    "title": "Device setup is broken on pixel3a android 11 missing data restore...",
-    "content": "After flashing the factory image for android 11 I noticed there is no option in the device setup to restore data. When I get to the copy apps and data screen and hit next it goes straight to the screen telling me to connect to another device through a cable and never even gives me the option to restore from a backup or the cloud.. Something is clearly broken in this build for the device setup and they failed to catch it before releasing it..\n\nIs there any way to restore sms after setup??",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3a",
-    "post_time": "2020-09-10T04:18:40.935781+00:00",
-    "reply": "1 Reply"
-}

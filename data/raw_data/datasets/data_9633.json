@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/90254242/pixel-4-xl-battery-will-not-charge-while-powered-on-or-off-plugged-in-can-t-charge-right-now?hl=en",
-    "title": "Pixel 4 XL - Battery will not charge while powered on or off. \"Plugged in, can't charge right now\"",
-    "content": "This issue started after the November update that brought Adaptive Battery to the Pixel 4. At that point, the device would not charge on occasion, but would again after a restart. In the last 2 days, the issue has progressed to the point that it will not charge at all, even after restart or when powered down. When plugged in it displays \"Plugged in, can't charge right now,\" under Settings -> Battery.\n\nThis is using the cable the device was shipped with, and after trying all suggested troubleshooting found on this site (including plugging into a PC for 10-15 minutes, and all the way to a factory reset). Google support was unhelpful, stating the device was 1 month out of warranty and I was free to try a repair location or buy a new device.\n\nFor others having a similar issue, the workaround that is working is shutting the phone down and starting into Fastboot mode. To do so, power down, and then hold the power button and volume down button together for 5+ seconds until it powers on. Do not select any of the following options (Rescue, Recover, Start, etc). The device charges while in the Fastboot state (with the screen permanently on), but only in that state.\n\nMy hope is that this is an issue which can be corrected in an update. If there are any better fixes that are known, that information would be greatly apprecaited.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 4 XL",
-    "post_time": "2020-12-24T14:52:40.524966+00:00",
-    "reply": "1 Reply"
-}

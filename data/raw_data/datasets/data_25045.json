@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/6715714/notification-sounds-playing-in-vibrate-and-do-not-disturb-pixel-3?hl=en",
-    "title": "Notification Sounds playing in Vibrate and 'Do Not Disturb' - Pixel 3",
-    "content": "Greetings!\n\nI have this issue where my Pixel 3 would still play a notification sound in vibrate and/or do not disturb.\nA reboot fixes the issue, but once I reconnect to my bluetooth headphones (WH-1000XM3) which has google assistant (but NOT activated), the issue comes back.\n\nI have tried:\n- reboot (temporary fix)\n- adjust volume (still plays in vibrate/DND)\n- put phone in mute (still plays sound)\n- Safe Mode (same thing)\n- remove/unpair bluetooth headphones (issue persists)\n- factory reset (issue persists)\n\nAlso if not in vibrate, the notification sounds plays Twice, one loud volume same as my media volume and the other is quite faint.\n\nIf there is anything else I could provide.\nThank you and regards,",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2019-05-24T13:50:45.827411+00:00",
-    "reply": "1 Recommended Answer"
-}

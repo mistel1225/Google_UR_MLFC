@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/78977081/pixel-4a-media-volume-adjusts-twice-with-single-volume-key-press-when-coupled-with-bose-headphones?hl=en",
-    "title": "Pixel 4a media volume adjusts twice with single volume key press, when coupled with Bose headphones",
-    "content": "I am currently listening to music on my Pixel 4a, via my Bose Quietcomfort headphones.\n\nWhen I adjust the media volume by pressing the volume up or down keys on either my phone or my headphones, a single press causes the volume to be adjusted twice, as though I had pressed the volume button twice. The process is as follows:\n\nPress the volume key up once on either my phone or my headphones.\nThe volume goes up one increment.\nA split second later, the volume automatically goes up another increment.\nPressing the volume down button once also leads to the volume being incremented twice.\n\nThis issue is annoying because my ability to fine tune the volume is reduced, and it is difficult to find the comfortable volume level.\n\nIt seems to me that the Pixel 4a is performing a kind of automatic volume adjustment. However, I cannot find any relevant options to disable this feature in either the sound or accessibility settings. This is probably not related to any high-volume safety features, because I do not listen at a high volume with my headphones.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4a",
-    "post_time": "2020-10-25T03:32:42.706726+00:00",
-    "reply": "2 Replies"
-}

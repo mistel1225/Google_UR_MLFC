@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/3008967/trapped-on-bootloader-slot-unbootable-device-state-locked?hl=en",
-    "title": "Trapped on bootloader, Slot Unbootable, Device State locked",
-    "content": "Hi, today I woked up to my Pixel 2 on bootloader mode, I tried recovery but then it showed \"ERROR: Slot unbootable: Load error\" and it won't enter into recovery mode again.\n\nThis phone has stock android, I'm a techie and have rooted android phones in the past so I researched how to sideload a stock image back again but the phone's device state is locked and when I tried unlocking it using fastboot it says \"FAILED (remote: 'Flashing Unlock is not allowed')\". Since I can't boot to enable dev tools and unlock the option I'm trapped at the bootloader screen.\n\nIs there any command to unlock using fastboot? I read that there are OEM commands that might need a token to do that.\n\nAny help provided will be much appreciated, It's not a cheap phone and it really hurts me to loose it and all the time and hustle to repair it and time spent without a phone is really annoying.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-03-25T18:27:00.311377+00:00",
-    "reply": "2 Recommended Answers"
-}

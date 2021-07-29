@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/76837002/pixel-3a-reliably-rebooting-in-the-same-physical-location-when-handing-off-between-wifi-networks?hl=en",
-    "title": "Pixel 3a reliably rebooting in the same physical location when handing off between wifi networks",
-    "content": "Phone companies in Korea maintain interlocking groups of WiFi networks with the same name that use SIM EAP verification. These networks are on subway trains and at train stations - as you access a closer, more powerful network with the same name and verification, it's supposed to seamlessly hand off your connection between those networks.\n\nMy Pixel 3a and my girlfriend's Pixel 3a both reliably reboot in the same physical locations right at the handoff zones between these networks. If WiFi is disabled, the phones do not reboot. \n\nHow can I record or submit detailed logs that can be used to fix this issue?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2020-10-14T06:23:40.485446+00:00",
-    "reply": "1 Reply"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/28817263/stock-phone-app-not-syncing-from-contacts-app-pixel-2xl-android-10?hl=en",
-    "title": "Stock Phone app not syncing from Contacts app (Pixel 2XL android 10)",
-    "content": "Phone app contacts in device are not entirely synced with Contacts app (which retrieves info from Contacts.google.com).\nThis causes multiple unwanted contact information from other Accounts such as Whatsapp or Telegram or alternate gmail accounts (synced from first adding of account to phone before unticking 'Sync contacts').\nOr perhaps there is no way to select which account to show the contact information from.\n\nI have tried the following to no avail:\n- Deleting cache and storage (data) from the Phone app does not appear to wipe it clean.\n- There is also no option to select multiple contacts for deletion or sync the list from Contacts app\n- I have used other apps to delete all contact information. This however, appears to access and delete contact information from accounts and not device.\n- The above seems to have deleted the unwanted contact information from the device somehow. The contacts still appear in the Phone app but when 'clicked', it shows an error message \"The contact doesn't exist\".\n- I have also tried to delete data from system apps such as 'Call Management', 'Call Log Backup/Restore', 'Phone Services', and the cache from 'Phone and Messaging Storage'.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 2",
-    "post_time": "2020-02-15T18:42:23.615924+00:00",
-    "reply": "0 Replies"
-}

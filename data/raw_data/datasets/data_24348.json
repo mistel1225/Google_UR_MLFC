@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/25669464/apps-keep-crashing-after-sideloading-ota?hl=en",
-    "title": "Apps keep crashing after sideloading OTA",
-    "content": "Hello,\n\nMy google Pixel 3 out of the blue crashed today and kept looping and booting into recovery mode. I went through a long process of sideloading an OTA through the adb tools. Now loads of apps keep crashing. Some I've fixed by deleting the cache for the respective apps.\n\nAny idea why so many apps are crashing?\n\nThanks,\nJames",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2020-01-14T22:19:35.444486+00:00",
-    "reply": "0 Replies"
-}

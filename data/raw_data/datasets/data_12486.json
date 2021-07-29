@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/81632144/why-can-t-i-send-texts-to-some-contacts-following-the-android-11-update-on-my-pixel-3?hl=en",
-    "title": "Why can't I send texts to some contacts following the Android 11 update on my Pixel 3?",
-    "content": "Following the Android 11 update, the Messages app (or the underlying database) isn't working on my Pixel 3 phone with Google Fi as my carrier.  Some of my contacts aren't receiving my texts; I can send individual texts to two contacts, for example, but neither will receive a group text made up of the same two contacts; a search result when looking for an existing conversation will start the scroll focus at the beginning of the conversation (5 years ago) and will only contain about a year of the conversation thread; if I start a new thread, then it will bring up the previous conversation with the scroll focus correctly at the end.  I have tried deleting old conversations, starting new ones, and I've done a factory reset.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3",
-    "post_time": "2020-11-08T04:02:06.0474+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/102461056/pixel-5-no-sound-on-calls-whatsapp-unless-i-turn-the-speaker-on?hl=en",
-    "title": "Pixel 5 - no sound on calls / WhatsApp unless I turn the speaker on",
-    "content": "Hi everyone,\n\nGot my new Pixel 5 less than a month ago. Transferred all the data from Pixel 3. Couple weeks ago I encountered the following problem: I can't hear any sound when on the call except when I turn the speaker on. My counterpart can hear me fine. The same issue seems to be happening with any other messenger (e.g. WhatsApp).\n\n- Boot in safe mode, this helps so the problem should be in one of the apps. I uninstalled all the recent apps, doesn't help\n- Removed permissions to access \"Phone\" from all the apps (except for the system ones from which I cannot remove it). Didn't help.\n- Reboot helps but just for some time. Several hours later the problem is back. So the \"internal speaker\" itself seems to be ok.\n- Not related to bedtime / do not disturb as I turned it off.\n\nSo far very disappointed. All the same apps were working fine on my Pixel 3.\n\nHas anyone experienced anything similar?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 5",
-    "post_time": "2021-03-16T14:08:34.628534+00:00",
-    "reply": "7 Replies"
-}

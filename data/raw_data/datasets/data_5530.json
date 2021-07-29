@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/101554187/multiple-compass-apps-are-reporting-low-accelerometer-accuracy-despite-calibration-how-do-i-fix?hl=en",
-    "title": "Multiple compass apps are reporting low accelerometer accuracy despite calibration. How do I fix?",
-    "content": "Have recently upgraded from an old Pixel XL where I never had a problem with reported sensor accuracy that a calibration would not fix.\n\nNow using the same compass apps (\"Digital Compass\" by Axiomatic & \"Compass\" by melon soft) on my Pixel 4a 5G I am finding the accelerometer accuracy is constantly reported as low/bad. I have tried calibration (figure 8 thing) as well as using these apps with the phone in airplane mode. The accelerometer accuracy is never reported as anything other than low/bad. Not just these apps either, if I go to the calibration section of Google Maps the accuracy is also regularly (almost daily) reported as low.\n\nHow do I fix this or is it likely the accelerometer is just faulty?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4a (5G)",
-    "post_time": "2021-03-10T07:09:10.075611+00:00",
-    "reply": "0 Replies"
-}

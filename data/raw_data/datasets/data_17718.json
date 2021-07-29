@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/65667270/unable-to-see-data-usage-on-pixel-3a-with-android-10?hl=en",
-    "title": "Unable to see data usage on Pixel 3a with Android 10",
-    "content": "at https://support.google.com/pixelphone/answer/2819524?hl=en\nCheck your mobile data usage\nOpen your phone's Settings app.\nTap Network & internet  Data usage.\nUnder \"Mobile,\" you'll see how much total data you use.\nTo see graphs and details, tap Mobile data usage.\nTo pick a time period, tap the Down arrow .\nTo see how much data each app uses, look below the graph.\n\nBUT on my phone Network & Internet doesn't show Mobile.  Here's the list I see:\nWi-Fi                                 ON\nAirplane Mode                OFF\nHotspot & tethering       OFF\nData Saver                       OFF\nVPN                                   None\nAdvanced (Private DNS)    Automatic\n\nWhat do I have to do to get access to mobile data usage when the menu doesn't include \"Mobile\", as noted in the help article?",
-    "is_img": 1,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2020-08-19T03:53:00.081357+00:00",
-    "reply": "8 Replies"
-}

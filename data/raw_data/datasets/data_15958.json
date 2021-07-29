@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/72873390/camera-qr-code-reader-bug?hl=en",
-    "title": "camera QR code reader bug",
-    "content": "I found a bug in the camera app QR code scanner (android 11, camera app version: 7.5.107):\n\nIf you have a QR code with url:\nhttp://somthingnet.hu the camera reads it wrong: http://something.net.hu\n\nIt adds an extra dot in front of the \"net\" word.\n\nThe same happens:\nk3net.hu -> k3.net.hu\nastronet.hu -> astro.net.hu\nmetnet.hu -> met.net.hu",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3",
-    "post_time": "2020-09-23T19:21:50.623568+00:00",
-    "reply": "0 Replies"
-}

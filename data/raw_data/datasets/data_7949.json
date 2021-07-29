@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/94963970/how-to-ssh-to-my-pixel-from-mac-terminal?hl=en",
-    "title": "How to ssh to my Pixel from Mac Terminal",
-    "content": "I want to ssh into my Pixel phone via my mac Terminal.. \n\nI know the default \n\nUser is admin\npassword is admin \n\nput when ssh from my mac it throw error that my port is closed in my phone..\n\nis there away to open it or use a 3rd party",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
-    "post_time": "2021-01-24T21:21:02.598608+00:00",
-    "reply": "2 Recommended Answers"
-}

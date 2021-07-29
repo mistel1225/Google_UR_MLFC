@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/70342792/android-11-media-controls-often-don-t-show-up-when-using-google-podcasts?hl=en",
-    "title": "Android 11 Media Controls often don't show up when using Google Podcasts",
-    "content": "Hi,\n\nSince the upgrade to Android 11, I have noticed that the Media Controls in Android 11 often to not show up when I have an actively playing podcast in Google Podcasts. To be clear, they usually work correctly after I initiate playback, but a short period of time later, despite the fact that the podcast remains playing, the Media Controls are not present underneath the Quick Settings without dragging down the shade a second time.\n\nThis only seems to happen with Google Podcasts. Other applications, like YouTube Music, work perfectly. In fact, one way to get the Media Controls to function correctly again is to launch YouTube Music, start playing a song, and then switch back to Google Podcasts to resume the podcast. After doing this, the Media Controls will be correctly present for a while, although they will once again fail to appear correctly after a few minutes.\n\nI have tried to provide a clear explanation, but I have also used the screen recorder functionality to capture this interaction. The video includes device audio to make it abundantly clear when there is a podcast or song playing.\n\nhttps://youtu.be/R8XnXZLgwHs",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2020-09-10T18:39:51.415958+00:00",
-    "reply": "1 Recommended Answer"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/82337624/has-pixel-phone-support-for-omacp?hl=en",
-    "title": "has pixel phone support for OMACP?",
-    "content": "My Mobile operator is trying to configure the APN via OMACP, but it doesn't work.\nCan anybody confirm if pixel has support for OMACP?\n\nMore info at:\nOMA Client Provisioning (CP) https://www.openmobilealliance.org/wp/\nhttps://www.openmobilealliance.org/release/ClientProv/\n\nIf not, it's possible to configure the apn downloading a file via wifi ?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2020-11-11T18:55:28.25097+00:00",
-    "reply": "0 Replies"
-}

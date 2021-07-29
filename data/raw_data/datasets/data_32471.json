@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/3543189/pixel-2-stuck-in-boot-loop-recovery-mode-not-working?hl=en",
-    "title": "Pixel 2 Stuck in Boot Loop - Recovery Mode Not Working",
-    "content": "So my Pixel 2 suddenly rebooted, and now is totally nonfunctional. Here's a recap of what happened:\n\n1. Spontaneously restarted. Booted normally, and I was able to unlock the device. I opened the menu to turn the brightness down, and the phone restarted again.\n2. Phone gets to the white \"G\" screen and then shuts down and spontaneously reboots\n3. White \"Google\" screen shows, phone shuts down after about 3-4 seconds.\n4. Repeat step #3 infinitely (this is where I'm currently at)\n\nI am able to get the phone into the bootloader, but attempting to boot into recovery mode simply gets me the white Google screen that immediately shuts down without giving me the ability to do a factory reset, and the phone continues to reboot itself.\n\nSeriously stumped here. There were no recent app downloads, and no recent drops or damage.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2019-04-04T03:39:55.545685+00:00",
-    "reply": "0 Replies"
-}

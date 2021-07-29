@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/71853602/google-pixel-3a-xl-high-cpu-usage-idling-at-20-30-and-any-screen-usage-hits-90-100?hl=en",
-    "title": "Google Pixel 3a XL high CPU usage (idling at 20-30% and any screen usage hits 90-100%)",
-    "content": "I understand the Snapdragon 670 is a more budget minded CPU, but I did not expect the device to be hitting 100% CPU usage while scrolling settings lists or navigating between home screens.\n\nThe main issue it is presenting is when playing Pokemon GO, where the game hitches and lags.  It has crashed a few times as well.\n\nI have used other Android devices with lower end Snapdragon units and haven't experienced these kind of issues.\n\nIs there any way to diagnose what might be hogging the CPU, or why this might be occurring?\n\nIs it possible to send an image of the phone for diagnosis?  The phone is only 25 days old, and was performing this way from the beginning.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3a XL",
-    "post_time": "2020-09-18T13:01:31.223011+00:00",
-    "reply": "3 Replies"
-}

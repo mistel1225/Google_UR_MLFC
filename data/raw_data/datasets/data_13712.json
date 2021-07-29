@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/77619560/pixel-4a-battery-software-drain-reboot?hl=en",
-    "title": "Pixel 4a Battery software drain... reboot.",
-    "content": "After about two days, my new 4a started losing battery rapidly (about 1-2% per minute). After a restart or a 0% shutdown, the phone shows the real value again, only for it to drop.\n\nFor example, I start my phone on 100%, and it quickly drains to 0%. It restarts. It is on 92% and quickly drains to 0%. It restarts. It is on 84%. \n\nAnd so on....\n\nA factory reset seemed to help for a das, but it's quickly become worse again. \n\nI am on my wit's end because this problem seems unheard of, but from what I gather, it seems like the phone isn't displaying the real battery capacity. Could this be a hardware issue? \n\nThe phone is factory, never dropped or anything.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 4a",
-    "post_time": "2020-10-18T03:52:53.414575+00:00",
-    "reply": "3 Replies"
-}

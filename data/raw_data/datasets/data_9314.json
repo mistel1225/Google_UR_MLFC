@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/91324762/pixel-5-videos-not-loading-or-slow?hl=en",
-    "title": "Pixel 5: Videos not loading or slow",
-    "content": "In instagram, facebook, or even trying to video chat through Viber, videos will spin and not load. Wifi or data is the same, speedtests show the connection is not the issue. Internet pages load just fine. It has something to do with the buffering of video. \nI cannot for the life of me figure out how to address this. I have no pending updates, shut the phone down and restarted. It is not a single app issue. I have 70-80% memory utilization.\nI checked in the dev tools, no app seemed out of wack on its usage (memory leak?).\nI don't understand what would affect videos only, across multiple apps. Is it a graphics driver issue on the pixel 5?",
-    "is_img": 0,
-    "category": "Device Performance",
-    "post_time": "2020-12-31T04:32:29.801861+00:00",
-    "reply": "1 Reply"
-}

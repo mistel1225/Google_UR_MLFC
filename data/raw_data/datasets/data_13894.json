@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/78010502/sensors-completely-stopped-working-on-pixel-3-in-android-11?hl=en",
-    "title": "Sensors completely stopped working on pixel 3 in Android 11",
-    "content": "My sensors jus started failing one by one. First it was the ambient: while docked on a pixel stand my phones's screen always turns off and now it doesn't. Then my proximity and double tap to wake not working. And lastly my rotation and edge not working neither at all. I tried rebooting it into safe mode and none worked. Then rebooted it again into normal and just edge and rotation worked for a few minutes and then they shut off again. Then rebooted it into safe mode again and only rotation and edge worked, then back in normal none of them worked again and there's where I'm currently at. I see this has been and issue with pixel devices but I guessed not in Android 11. Well I was wrong.\nI appreciate any help",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2020-10-20T04:28:01.809328+00:00",
-    "reply": "0 Replies"
-}

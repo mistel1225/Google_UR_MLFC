@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17630965/pixel-crashes-when-making-receiving-calls?hl=en",
-    "title": "PIXEL crashes when making/receiving calls",
-    "content": "Hello,\n\nI updated my PIXEL to Android 10 and since then have been unable to make or receive phone calls.  Every attempt to do so results in the phone crashing.  Additional issues that occurred around the same time include the inability to record audio in videos, audio not working with the assistant, excessive lag, UI crashes, and occasional connectivity issues with both bluetooth and WIFI that result in crashes.  Most issues occur 50% or less of the time, while the phone issue occurs around 95% of the time.  I have managed to make one or two outgoing calls, but all inbound calls cause a crash when answered.  \n\nThese issues started immediately after applying the update.  I've tried booting my phone in safe mode, removing apps, and doing a factory reset.  No action has resulted in a noticeable change.  \n\nIt seems to me that there is a bug in the update, however I don't know how to revert to Android 9.  Any advice would be appreciated.\n\nThanks,",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel",
-    "post_time": "2019-10-24T19:32:00.392108+00:00",
-    "reply": "5 Recommended Answers"
-}

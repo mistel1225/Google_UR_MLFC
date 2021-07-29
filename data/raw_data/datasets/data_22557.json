@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/32698800/how-can-i-restrict-wifi-cell-data-access-by-app?hl=en",
-    "title": "How can I restrict wifi/cell data access by app?",
-    "content": "On prior phones that I have owned, Huawei, Samsung, etc. there has always been a simple menu that listed the apps and allowed one to toggle on/off access for wifi and/or cell data.  The only remotely similar function i have found on the pixel is to restrict background data.  The problem is that I need to be able to do this for each app in the foreground.  As an example there are many games with ads that I would like to play while still being able to use cell data for other apps but do not want to waste cell data on ads.  With my prior phones I often blocked access to Youtube to keep videos from playing with browser windows.  Others have recommended Netguard but I discovered this program requires a local VPN to be created but I cannot use that option because I already use a VPN to access my worksite.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2020-03-07T23:12:23.68765+00:00",
-    "reply": "2 Replies"
-}

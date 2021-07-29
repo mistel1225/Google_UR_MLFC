@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/7738405/pixel-2xl-will-no-longer-connect-to-hidden-wifi-network?hl=en",
-    "title": "Pixel 2XL will no longer connect to hidden wifi network..?",
-    "content": "I do not broadcast my home wifi SSID.  Until the last few days my Pixel would connect to the hidden network as soon as I pulled into the driveway.  The last few days I noticed it would not connect.  After trying all the suggestions online I decided to enable SSID broadcasting on my router and suddenly it connected (after resetting all network settings, forgetting the network a number of times.).  I've tested it multiple times and I am 100% certain, the phone will no longer connect to my wifi network unless it is broadcasting the SSID.  When I disable broadcasting it once again drops and can no longer see the network.  I have many other wifi devices in the the house and my wife has my exact same phone and no other device in the house is having this issue.  Any ideas?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2019-06-10T03:20:29.465607+00:00",
-    "reply": "1 Reply"
-}

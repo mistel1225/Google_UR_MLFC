@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/104207110/widevine-oemcrypto-level1-is-broken-on-latest-stable-sunfish-build-rq2a-210305-006?hl=en",
-    "title": "Widevine (OEMCrypto) Level1 is broken on latest stable sunfish build (RQ2A.210305.006)",
-    "content": "As the title says, latest update breaks oemcrypto Level1 support rendering streaming of DRM-protected HD content impossible.\n\nDevice has a locked bootloader with official OS installed.\n\nLogcat fragment with wvcdm L1 initialization where oemcrypto fails: https://0bin.net/paste/SBbWByY3#RFgOn4XMCviHTN3uWkU7gYtz46NqxbbMlR6z81a4kHk\n\nI can also provide full bugreport if needed.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4a",
-    "post_time": "2021-03-28T17:13:16.0026+00:00",
-    "reply": "1 Reply"
-}

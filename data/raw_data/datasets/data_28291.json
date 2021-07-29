@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1654550/pixel-screen-not-updating-colors-inverting-and-static-screens-intermittently?hl=en",
-    "title": "Pixel screen not updating, colors inverting and static screens intermittently.",
-    "content": "I've had a problem the past couple days where my Pixel's screen will stop updating or responding for extended periods of time. The screen has no apparent damage and the thumbprint reader and power buttons work fine. I can even take screenshots that don't show the problems I experience.\n\nProblems that happen:\n- Screen freezes in app, keeps displaying static screen even when it should do so etching else (e.g. scrolling through Twitter feed will freeze, but I can still interact with objects on the screen or a YouTube video will get stuck on one screen)\n- Screen gets all staticy, like an old analog TV snow signal but not animated, always the same.\n- Screen goes solid white or gray or black.\n- Screen \"inverts\" colors. It looks like if you did an invert filter in an image editor, but accross the entire screen.\n- Screen teselates into four or so subscreens each showing the same thing.\n\nI have no idea what's going on. These problems suddenly appeared a couple days ago. It's making my phone near unusable when they happen, though thankfully they're intermittent.\n\nThroughout all of these issues, touchscreen still responds and haptic feedback suggests that inputs are being registered regardless of the state of the display.\n\nI have not done a factory reset yet because I'm not convinced that'll help since it seems like a hardware issue. But I have tried in safe mode and problems persisted. Has anyone experienced anything similar?",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-02-15T07:14:00.337255+00:00",
-    "reply": "7 Replies"
-}

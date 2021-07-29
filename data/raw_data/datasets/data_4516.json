@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/103436744/google-search-bar-issue?hl=en",
-    "title": "Google Search Bar Issue",
-    "content": "When I attempt to search from the Google search bar widget at the bottom of the screen on my Pixel 3 it doesn't let me type and the app crashes.  This coincided with several other apps on my phone (Amazon, IMDB, and the game Summoner's War) crashing when I attempted to open them.  I was able to reinstall those apps and get them to work briefly but that only momentarily fixed the issue, as they are now crashing again.  Given that the Google search bar is preinstalled on my phone, I cannot uninstall it, but I cleared the cache, force stopped the app, and disabled then reenabled the app to no avail.\n\nAny tips for how to troubleshoot or fix the issue?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2021-03-23T01:52:58.776598+00:00",
-    "reply": "1 Recommended Answer"
-}

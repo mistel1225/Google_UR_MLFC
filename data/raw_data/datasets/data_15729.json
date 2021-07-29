@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/72733498/clock-app-no-longer-plays-songs-from-device?hl=en",
-    "title": "Clock app no longer plays songs from device",
-    "content": "I just updated to Android 11 yesterday and noticed when my alarm (using the native Clock app) went off this morning that it could no longer access the music file I previously had it pointing to, and when I tried to set it back up there is no longer an option to choose a file on the device to play; the only option currently available is selecting a file from google drive, youtube music, or spotify. Is this an oversight? Is there a workaround? I added the music file to my YouTube music library but there isn't actually an option to select a file from my library; I am currently only able to select from items listed in my \"favorites\" and then a bunch of recommended stuff. Is that an oversight? What's the point if I can't select music from my library?\n\nCan we please just have the option to select local files back?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2020-09-23T04:33:16.151211+00:00",
-    "reply": "1 Reply"
-}

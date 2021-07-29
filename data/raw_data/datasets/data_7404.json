@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/96434423/new-pixel-4a5g-charges-slowly-or-not-at-all?hl=en",
-    "title": "New Pixel 4a5g charges slowly or not at all",
-    "content": "Hello,\n\nI believe this charging issue is different from the Android 11 update battery issue which is a known issue.\n\nAbout a week ago (so 2+ months from the Android 11 release), my Pixel 4a5g began showing a number of charging issues:\n1) It sometimes becomes very hot while charging\n2) It charges very slowly (e.g. 6+ hours to reach ~50%)\n3) It refuses to charge past 50% to 60%\n4) Sometimes, it will not charge at all (e.g., leave it plugged in all night, and it is at the same battery percentage (e.g. 16%) as it was when I went to bed\n5) It consumes battery rapidly (i.e., the phone has gone from lasting for two days without a charge to about 3-4 hours from 50%)\n\nI have checked the battery settings and it does not look like any one app is causing this issue.\n\nHowever, I have found that the phone regains its previous charging speed if I charge it while powered off, or charge it immediately after a power off/restart sequence.\n\nDoes anyone have any suggestions for diagnostics I could perform to try to figure out what is going on? Thank you!",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 4a (5G)",
-    "post_time": "2021-02-03T13:53:31.752665+00:00",
-    "reply": "2 Replies"
-}

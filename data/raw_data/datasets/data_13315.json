@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/74992599/chrome-for-android-crashing-immediately-after-launching?hl=en",
-    "title": "Chrome for Android crashing immediately after launching",
-    "content": "Chrome crashes immediately after opening and continues to crash on subsequent attempts to open.\n\nBehavior can be seen here:\nhttps://www.youtube.com/watch?v=BZHahyAvbeg\n\nHave tried:\nclearing cache\nclearing storage\nuninstalling Chrome to the base version and updating again\n\nThe crashing can be avoided for at least a few hours (usually less than 1 day) by restarting the phone.\n\nThe crashes don't happen if I don't turn on sync.\n\nI can provide logcat output.\n\n\nPlease help, this problem is driving me bonkers, and keeping sync turned off is not a solution.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2020-10-05T06:35:52.531766+00:00",
-    "reply": "4 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/57638124/google-pixel-xl-3a-losing-cell-connection-revisited?hl=en",
-    "title": "Google Pixel XL 3a losing cell connection (revisited)",
-    "content": "This is a post commenting\nhttps://support.google.com/pixelphone/thread/48196459?hl=en&msgid=48196459\n\n\nHi, found the problem. Tried using a Pixel 3a and it had exactly the same issue.\nContacted my cell provider and had them looking at my connection info.\nMy phone seemed to become unreachable quite often.\nThe issue is related to when receiving a phone call (or a sms), the phone reconnects using 3G. This does not always happen with Pixel 3a XL ( or Pixel 3a). Changed my phone to only use 2G (EDGE), and no problem at all.\n\nTested with 2 phones (Pixel 3a and Pixel3a XL).",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a XL",
-    "post_time": "2020-07-07T16:32:50.048092+00:00",
-    "reply": "0 Replies"
-}

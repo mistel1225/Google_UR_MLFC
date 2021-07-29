@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/86279971/notifications-delay?hl=en",
-    "title": "Notifications delay",
-    "content": "Hi,\n\nI have several issues with my new Pixel 4a. Since day one I have at least 2 minutes delay on any kind of notification, sometimes I receive it after 10-15 minutes.\nI tried to restore my pixel to default, tried to downgrade to Android 10 but without success.\nI also tried to install on a complete clean Android an app called \"push notifications tester\"  and notifications still delay. Also tried to deactivate adaptive notifications, adaptive battery, optimize battery for certain apps, changed values in \"app in standby\" in developer mode to \"active\".\nThe problem persists on different wifi and in 4g too.\nI noticed it probably depends by \"deep idle\" status, because running \"adb shell dumpsys deviceidle disable\" I resolved but until the reboot.\nIt can't be the solution because I can't run adb after every reboot and because probably this will impacts the battery life. I also noticed that \"deep idle\" time is very high than my old phone, the pixel is in that status more than 90% time.\nI really don't know how to resolve, any help is appreciated.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4a",
-    "post_time": "2020-12-01T13:36:09.890768+00:00",
-    "reply": "3 Replies"
-}

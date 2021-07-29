@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/110683571/stuck-in-set-up-mode-after-factory-reset?hl=en",
-    "title": "Stuck in Set Up Mode after Factory Reset",
-    "content": "After joining the Beta Programm for Android 12 i choose to do a factory reset because the device started crashing right after booting and logging in (i think the issue was with the pixel launcher) and one option that was offered was the factory reset.\n\nNow after booting i get to the set up menu. After logging in with my SIMcard i get offered to either connect the pixel to one of my previous phones via USB connection, or update it via my google account. \n\nSince i dont have my old device i usually update via my google account. But i cant get there. The phone asks me to put in my phones old lock code, and then gets me back to the \"connect your old phone\" menue. \n\nI am not experienced enough to flash the phone with an older version of android, as the browser tool can't connect to my phone and i am not 100% sure if i activated USB debbuging when it worked last time.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4a",
-    "post_time": "2021-05-21T14:16:44.652754+00:00",
-    "reply": "1 Reply"
-}

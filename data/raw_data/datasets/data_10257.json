@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13569854/after-updating-to-android-10-wi-fi-hotspot-feature-has-no-internet-connectivity?hl=en",
-    "title": "After updating to Android 10, Wi-Fi hotspot feature has no internet connectivity.",
-    "content": "Yesterday, after updating to Android 10, everything went smoothly but my devices, when connected, show no internet access.  So far I've tried a Windows 10 laptop and another phone.  I have done a Network Setting Reset on my phone, but it did not help.  Any other ideas I could try?  This is the same across bluetooth, usb tether, and WiFi using Android 10 OS.  If I use pdanet's functionality it works, but my carrier kicks me off after about 20 minutes.  I confirmed with my provider I have tethering and hotspot on my account (AT&T).",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2019-09-04T16:03:49.646557+00:00",
-    "reply": "77 Replies"
-}

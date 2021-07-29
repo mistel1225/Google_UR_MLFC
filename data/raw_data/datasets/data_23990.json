@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/11835304/pixel-3-camera-not-working-with-third-party-apps-until-a-phone-restart?hl=en",
-    "title": "Pixel 3 camera not working with third party apps until a phone restart",
-    "content": "This just started after the aug 1 update. My pixel 3 camera, front facing only, is crashing after taking about 3 pictures with third party apps. After a phone reboot it works again but only for 3-4 pictures with third party apps.\n\nThe selfie camera does not encounter this issue.\n\nWhen attempting to take a picture with a third party app the screen will remain black for about 20 seconds and the app will crash. On re-oppening of the app it will state \"camera in use by another application\"\nReboot fixes this issue.\n\nSafe mode does not fix this issue, factory reset does not fix this issue.\n\nThanks,\nDan",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3",
-    "post_time": "2019-08-12T15:41:25.730971+00:00",
-    "reply": "10 Replies"
-}

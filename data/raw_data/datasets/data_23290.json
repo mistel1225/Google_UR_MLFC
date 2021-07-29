@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/25455090/pixel-1-device-unable-to-connect-to-5ghz-wifi-networks?hl=en",
-    "title": "Pixel 1 device unable to connect to 5Ghz WiFi networks",
-    "content": "Hi everyone,\n\nFor the last few weeks I've been having problems with sporadic connections to networks that use both 5 and 2.4 Ghz and as of today my Pixel is fully unable to connect to my home 5Ghz network (a Pixel XL I borrowed from work using Android 10 as well is able to connect to it just fine). My device also says the WiFi signal strength is about a degree or two poorer than the XL I held right next to it.\n\nMy device has the latest security update Google released (and the last one they ever will) from December. I've tried to connect to the network over Safe Mode and after turning flight mode on. I've tried forgetting the network as well. I've restarted the devices multiple times and from the recovery screen as well but nothing seems to help.\n\nIs this the end for my device's high-speed connectivity or does a lab/repair shop have a chance at solving this type of issue? Will a factory reset even do anything technically speaking that my previous steps hadn't?\n\nAny feedback is appreciated.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2020-01-12T18:50:30.332265+00:00",
-    "reply": "6 Replies"
-}

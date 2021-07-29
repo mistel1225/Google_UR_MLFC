@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1261612/cannot-get-device-locator-to-ring-pixel-3xl-when-in-wind-down-mode?hl=en",
-    "title": "Cannot get Device Locator to ring Pixel 3XL when in Wind Down mode",
-    "content": "Lost phone when device was in wind down mode. Attempted to ring device using Android Device locator. Could not hear device. Attempted several more times to no avail. Eventually found phone while it was still \"ringing\" (according to the notification) despite the device being silent. After disabling wind down mode, and ringing the device again, it sounded normally. Does Wind Down mode potentially override any attempt to ring the device from Device Locator?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-01-24T21:53:42.520812+00:00",
-    "reply": "2 Recommended Answers"
-}

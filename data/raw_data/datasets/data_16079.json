@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/72295536/how-to-upgrade-android-on-new-pixel-before-copying-everything-from-old-pixel?hl=en",
-    "title": "How to upgrade Android on new Pixel before copying everything from old Pixel?",
-    "content": "I received a replacement for my Pixel 3 and copied all settings / data from old Pixel 3 to the new one (using cable method) and followed all prompts and waited until the new phone set-up was complete.\n\nSadly though, some of the apps were missing on the new phone, some settings were wrong too and my wallpaper / display settings were incorrect (all set to defaults).\n\nI then realised my old phone was on Android 11 and the new replacement I'd received was on Android 10.\n\nSo I upgraded new phone to Android 11, then did a Factory Reset,  then went through the entire set-up process again and this time all apps / settings and wallpaper were copied over fine.\n\nIt would be cool if the set-up process detected the Android mismatch and gave an option to upgrade Android on the new phone BEFORE set-up does its stuff...... but meanwhile, as a suggestion.....\n\nPerhaps you could amend your help pages (e.g. https://support.google.com/android/answer/6193424 ) to.....\n\ndescribe how to ensure new phone Android version is greater than or equal to Android version on old phone BEFORE starting set-up, then (if needed)\ndescribe how to exit set-up and do Android upgrade beforehand\n\nMight save some confusion and having to run set-up twice.\n\nCheers all",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3",
-    "post_time": "2020-09-21T01:45:13.75045+00:00",
-    "reply": "1 Recommended Answer"
-}

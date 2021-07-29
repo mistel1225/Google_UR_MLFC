@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/12465178/when-i-try-to-edit-reminders-i-get-an-invalid-link-page?hl=en",
-    "title": "When I try to edit reminders, I get an invalid link page.",
-    "content": "So essentially, I've been able to reproduce this through the Google Assistant and through tapping on a notification reminder. With Google Assistant, I ask to see all reminders, then tap on the reminder, then the edit button (screenshots of that process included). \n\nEither way, it takes me into Google Chrome and gives me some invalid link page instead of letting me edit my reminder. \n\nI'm not using any third party apps for reminders or anything, I set this reminder using Google Assistant.",
-    "is_img": 1,
-    "category": "Google Assistant and Voice Actions, Google Pixel 3",
-    "post_time": "2019-08-21T03:55:23.487592+00:00",
-    "reply": "3 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/11530075/out-of-box-pixel-charger-not-working-with-pixel-2xl?hl=en",
-    "title": "Out of box Pixel charger not working with Pixel 2XL",
-    "content": "The original charger (usb-c to usb-c) that came out of the box does not work with my Pixel 2XL (plug in and nothing is detected). But 3rd party chargers work fine (usb-c to usb-a). Strangely enough, the charger that does not work with my phone works fine on my Galaxy S9+. This means that the charger is not faulty, as it works with other phones, and my phone port is not faulty, as it works with 3rd party chargers.\n\nAs far as I can remember, this problem started after I tried plugging my phone into my computer using usb-c to usb-c, and nothing was detected.\n\nI've also tried using my Pixel 1 charger (usb-c to usb-c) and it does not work with my Pixel 2XL.\n\nSo it seems my Pixel 2XL is rejecting all original pixel chargers (even though the chargers work fine with other phones) and is only accepting 3rd party chargers (usb-c to usb-a).",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 2",
-    "post_time": "2019-08-08T04:15:41.43167+00:00",
-    "reply": "1 Reply"
-}

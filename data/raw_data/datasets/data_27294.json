@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/11004383/bricked-by-ota-update-boot-loop-in-bootloader-error-slot-unbootable-load-error-any-fixes?hl=en",
-    "title": "Bricked by OTA-update. Boot loop in bootloader: ERROR: Slot Unbootable: Load Error. Any fixes?",
-    "content": "My Pixel 2 phone got OTA-update after which it is unable to start. All I get is boot loop to bootloader with message\n\nERROR: Slot Unbootable: Load Error\n\nDevice is OEM locked and unable to get any progress with fastboot-tool. Is there any possibility to retrieve data from phone?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-07-31T14:59:58.151553+00:00",
-    "reply": "2 Recommended Answers"
-}

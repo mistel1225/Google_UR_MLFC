@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/109042333/how-to-disable-developer-hubris-features-and-unwanted-behaviour?hl=en",
-    "title": "How to disable developer-hubris features and unwanted behaviour",
-    "content": "Started out just looking for a way to make sure volume buttons on the phone only control media volume instead of constantly but not consistently muting notifications.\n\nGoogle help pages describe this glitch/bug/issue but without a suggested solution:\n\"When you press a volume button, the volume that changes depends on what you're doing. For example, if you're watching a movie, the movie volume changes. If you press your volume buttons when you're not listening to anything, your media volume changes.\"\n\nBesides the obvious mistake that movie volume and media volume are the same thing... 🤦🏼\nIt seems to be saying there is a glitch that causes the OS to exhibit unwanted behaviours in the form of \"developer-hubris\" features that try to guess what I want the device to do instead of what I was telling it to do.\n\nAny way to disable this unwanted-behaviour-generating algorithm?\nOr at the very least is there a way to set the volume keys to only mute media volume and not proactively disable notifications?",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4a",
-    "post_time": "2021-05-07T22:34:35.908447+00:00",
-    "reply": "1 Reply"
-}

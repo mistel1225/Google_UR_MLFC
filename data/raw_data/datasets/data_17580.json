@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/66334485/pixel-3a-doesn-t-go-past-google-logo?hl=en",
-    "title": "Pixel 3a doesn't go past Google Logo",
-    "content": "Hi all,\n\nYou guys might have some more insights. \n\nI did enter the recovery mode and sideloaded the latest OTA sargo for my device found here :\n\nhttps://developers.google.com/android/ota\n\nThe phone won't boot past google logo then turn off.\n\nThe bootloader is locked and I don't know how to unlock since I can't access the OS.\n\nI was thinking about flashing it with a stock image from Google found here\n\nhttps://developers.google.com/android/images\n\nbut the fastboot command won't work since the bootloader is locked and again, don't have access to the OS. \n\nI can use adb or fastboot. \n\nAny help is much appreciated.\nThanks",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2020-08-22T07:42:40.027844+00:00",
-    "reply": "1 Recommended Answer"
-}

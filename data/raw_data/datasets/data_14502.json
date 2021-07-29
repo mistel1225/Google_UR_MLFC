@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/76668791/trying-to-access-upload-audio-recorder-files-in-android-11?hl=en",
-    "title": "Trying to access/upload Audio Recorder files in Android 11",
-    "content": "I am trying to access Audio Recorder recordings I have made on my Pixel 4 (running Android 11).\n\nI have followed various articles, trying to find the files in the file system on a USB connection, and tried to upload/share the file to Google Drive, which doesn't do anything. Google Drive app is working and configuring on the phone, but when I try to \"Save to Google Drive\" for any of the recording files, nothing appears to happen. (I have rebooted the phone, etc. I work in IT, this should not defeat me.)\n\nTried to share the file to Gmail, but the file is larger than the 20MB limit.\n\nI simply cannot get the file off the phone in any way. Is there a way to access the root file system to get at the files? Surely having a Documents and Media file structure in the file system doesn't make this an impossible task to direct those files there...",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4",
-    "post_time": "2020-10-13T12:18:55.895691+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/10471831/restore-os?hl=en",
-    "title": "restore os",
-    "content": "I have root and unlock the bootloader \nnow I want to unroot and lock the bootloader\nthen I use adb to factory image to install the pixel stock os but I can't insatll\n\nthe problem is\nwhen I try to install then the code \nsaid 'active does not contain 'boot ' (and order)\nhow to fix active does not contain?\n\nI want to back stock rom for google pixel please help!!!!!!!!!!",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-07-23T14:23:47.079452+00:00",
-    "reply": "1 Recommended Answer"
-}

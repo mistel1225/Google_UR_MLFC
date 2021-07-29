@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/111620239/i-tried-google-pixel-5-to-downgrade-to-android-10-after-sh-flash-all-sh-step-device-is-not-startin?hl=en",
-    "title": "I tried Google Pixel 5 to Downgrade to Android 10, after sh flash-all.sh step. Device is not startin",
-    "content": "I tried Google Pixel 5 to Downgrade to Android 10, after sh flash-all.sh step. The device is not starting and even charging is not happening\nnothing is coming on scree after pressing Power and Volume Rocker Down Button together for more than 20 seconds.\n\nDevice was in developer mode and OEM was unlocked from Developer Options\nand below commands i ran on adb terminal\n\nadb reboot bootloader\nfastboot flashing unlock\nsh flash-all.sh \non last step device is got blank",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 5",
-    "post_time": "2021-05-29T10:19:02.616447+00:00",
-    "reply": "2 Replies"
-}

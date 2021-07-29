@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17228564/pixel-1-can-t-hear-be-heard-on-calls-post-android-10-update-not-on-verizon?hl=en",
-    "title": "Pixel 1. Can't hear/be heard on calls post Android 10 update (not on Verizon)",
-    "content": "Pixel 1 working without issue up until upgrade to Android 10. \nImmediately post upgrade phone unable to make or receive phone calls.\nCall will connect but unable to hear person on other end and vice versa.\nSame problem whether using default phone app or 3rd party (eg whatsapp).\nNo other apps installed in past 3 months. \n\nSeems unlikely to be a hardware issue as the phone works normally immediately after a restart and I’m able to make a single call. However problem returns within a few minutes. Audio is also working fine with other applications.\n  Things I have tried without success:\n- Clearing phone cache/data\n- Restart in safe mode\n- Factory reset\n- Disabling google play services permissions for phone\n\nThank you for your suggestions.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel",
-    "post_time": "2019-10-20T00:09:14.78389+00:00",
-    "reply": "1 Recommended Answer"
-}

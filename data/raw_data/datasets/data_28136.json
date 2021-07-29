@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/14581708/frustrating-issue-with-pixel-2xl-camera?hl=en",
-    "title": "Frustrating Issue with Pixel 2XL Camera",
-    "content": "Hi, a few weeks back the camera on my Pixel 2XL stopped working, the app closes instantly and on the off-chance that it does open, I cannot get focus. I did the following:\n\n- Cleared storage/cache and uninstalled the camera updates\n- Installed Android 10\n- Updated to Camera 7.0 Beta\n- Booted into safe mode.\n\nNone of these actions solved the issue.\n\nI then resetted my phone (2 days ago) and that seemed to have solved the problem. However, starting a few minutes ago and while I was taking photos, I again lost focus in the lens and the app crashed.\n\nWhat could be the issue? Surely it isn't hardware as the camera worked for ~40 hours after resetting.",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 2",
-    "post_time": "2019-09-17T09:29:03.087841+00:00",
-    "reply": "1 Recommended Answer"
-}

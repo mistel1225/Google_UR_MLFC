@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/110200886/pixel-2-phone-cannot-switch-to-an-ap-with-stronger-signal?hl=en",
-    "title": "Pixel 2 phone cannot switch to an AP with stronger signal",
-    "content": "My wife has a Pixel 2 phone and I have iPhone 11, and our home Wifi has one SSID and two Access Points. My iPhone 11 will automatically switch to the AP with stronger signal. However, the Pixel 2 cannot do that. It sometimes attaches to the weak AP at -80dBm. Sometimes, it loses connection for a long time. This seems to be a bug in Android phone. What are the reliable ways for fixing it?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2021-05-17T18:31:39.323598+00:00",
-    "reply": "0 Replies"
-}

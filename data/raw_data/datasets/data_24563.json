@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/19756080/car-volvo-2020-model-unable-to-connect-to-internet-through-pixel-3-xl-mobile-hotspot?hl=en",
-    "title": "Car (Volvo 2020 model) unable to connect to internet through Pixel 3 XL mobile hotspot",
-    "content": "My new Volvo XC40 (2020 model) is unable to connect to the internet using my Pixel 3 XL phone as a mobile hotspot.\n\nThe car connects to the Pixel 3 hotspot ok,  but there is no internet connection. I have tried using both 2.4 and 5GHz bands and factory resetting both the phone and system on the car. I have also tried resetting the network settings on the Pixel 3. It is not possible to switch security off as the car forces security to connect.\n\nThe car is able to connect to the internet over an iphone hotspot and my home internet wifi without any issues?\n\nOther devices are able to connect to the internet over the Pixel 3 hotspot with the same configuration.\n\nInternet connection over bluetooth does not appear to work either.\n\nAny ideas? Possible DNS request refusal issue?\n\nThanks",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
-    "post_time": "2019-11-14T08:21:44.680353+00:00",
-    "reply": "5 Replies"
-}

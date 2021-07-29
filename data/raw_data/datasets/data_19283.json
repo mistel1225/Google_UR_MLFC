@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/18644209/bluetooth-audio-issues-with-pixel-4-xl-and-honda-pilot?hl=en",
-    "title": "Bluetooth Audio Issues with Pixel 4 XL and Honda Pilot",
-    "content": "Android 10 for both my Pixel 2 XL and my new Pixel 4 XL has partially broken Bluetooth audio when connected to my 2016 Honda Pilot. On the Pixel 2 XL, it would connect and work fine with Android 9 however after the Android 10 update, I started having connection issues. The exact same issues are present with my Pixel 4 XL. \n\nThe issue is that sometimes it will connect and start playing music right away as expected. Other times though the audio connection will look like its there however any music will skip for about 2 seconds over the car speakers then it will switch over to outputting sound through the phone speakers. All of the steering wheel controls work fine but the music just won't play over the speakers. I have to end up disconnecting and reconnecting Bluetooth between 1-5 times before it works properly. \n\nThis is very annoying and I was curious if anyone has the same issue or if there are any potential fixes outside of waiting for Google to fix their bluetooth stack again.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
-    "post_time": "2019-11-05T17:56:15.250941+00:00",
-    "reply": "40 Replies"
-}

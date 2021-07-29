@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/25825108/usb-c-jack-headphones-don-t-work-during-phone-call?hl=en",
-    "title": "USB-C jack headphones don't work during phone call",
-    "content": "Before few days ago, I was able to connect headphones/speakers through usb-c/jack adapter and make a phone call. My callers voice would be played via speaker, whereas my phone mic would capture my voice.\n\nRecently, this stopped working. I am still able to listen to podcasts on the speakers, but once I make a call neither my caller hears me, neither I hear what he says. If I switch to internal phone speaker, then all works. The issue is problematic to me, as I used that setup in my car. Internal speaker is not loud enough to be comfortabily used while driving. \n\nThis issue is reproducible also on a pixel 4 my friend has (so that's not my handset related). I also tried different usb-c/jack adapters (should not be adapter specific). Everytime we have the same problem. \n\nAdditionally, I can make calls via Bluetooth headset (but can't use it while driving, as I wouldn't be able to hear the outside world at all).\n\nI tried uninstalling updates to phone app and clearing it's data and cache. Got no improvements.\n\nWould appreciate any help. It's important for me to sort it out.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
-    "post_time": "2020-01-16T13:47:41.708517+00:00",
-    "reply": "1 Reply"
-}

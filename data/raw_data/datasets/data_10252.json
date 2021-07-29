@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/87638178/custom-notification-for-contacts-not-working-in-messages-on-pixel-4-xl-android-11?hl=en",
-    "title": "Custom notification for contacts not working in Messages on Pixel 4 XL, Android 11",
-    "content": "I have configured some of my contacts to have a unique notification sound in Messages. I did this by opening one of my chats with them, selecting the three-dot menu->Details->Notifications->Advanced->Sound. From here I selected the sound I want to use.\n\nPrior to Android 11 this worked without fail. However, since updating to 11, despite the fact that the setting shows the custom notification sound, any incoming messages from these contacts still alert with the default system sound.\n\nHow do I fix this?",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4 XL",
-    "post_time": "2020-12-08T23:14:52.228682+00:00",
-    "reply": "1 Recommended Answer"
-}

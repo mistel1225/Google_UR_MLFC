@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/46713233/volte-issue?hl=en",
-    "title": "VOLTE ISSUE",
-    "content": "https://support.google.com/pixelphone/thread/46575489?hl=en#\n\nI already asked. But it isn't help.\n\nHardware is supported, but not software.  \nBecause pixel is not released in Kor.\nIt is solved when I insert these 2 lines.\n\nWhen nexus released in Kor, device support TTA-VOLTE. \nBut pixel doesn't support TTA-VOLTE. Because pixel doesn't contain supporting code. \nThese 2 lines can trigger supporting TTA-VOLTE.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2020-05-14T16:53:16.649386+00:00",
-    "reply": "1 Recommended Answer"
-}

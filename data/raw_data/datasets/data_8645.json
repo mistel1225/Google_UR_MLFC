@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/93193634/multiple-apps-crashing?hl=en",
-    "title": "Multiple apps crashing",
-    "content": "I have a Pixel XL with Android 10.  (System settings says I can't upgrade to 11.)\n\nFor almost a year, I've been unable to use certain apps, most notably Chrome and other browsers.  Currently all they do is auto-close, but for most of that time, I'd get this box that says:\n\nChrome keeps stopping\n-App info\n-Close app\n-Send feedback\n\nSimilarly, in gmail I can see my list of emails, but when I click on one to read it, Gmail crashes.\n\nMany other apps that I installed now crash (Amazon, Discord, etc).  Notable exceptions (i.e. apps that still work) are Facebook and Instagram.\n\nAn employee at a local cell phone repair place told me I had an app conflict.  However, I have no idea how to diagnose exactly what the problem is, let alone how to fix it.  I don't really want to go through every one of my apps to delete it, see if the problem is fixed, and then reinstall if it isn't.  I also don't see any way to view the list of apps in reverse chronological order of when they were last updated, which would help me narrow down when/where the problem began.\n\nI have tried restarting the phone in Safe Mode, and still get the crash and/or \"keeps stopping\" window.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2021-01-12T18:14:30.924098+00:00",
-    "reply": "1 Reply"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/67144221/constant-aw-snap-error-in-chrome-only-in-google-domain-on-pixel-2-xl?hl=en",
-    "title": "Constant Aw Snap error in Chrome only in Google domain on Pixel 2 XL",
-    "content": "While using Chrome, I encounter constant Aw Snap errors and loading delays, but only within the Google domain.\n\nThis impacts any Google.com site, as well as any AMP page accessed via Google search.\nWhen I search with Google via chrome, the results page will load as expected. Then about 10 seconds later, the results page will crash with an Aw Snap error.  Subsequent searches have a long delay before loading the results, and frequently crash before loading.\n\nIf I use Firefox, all Google pages and searches load instantly and without issue.\n\nSites outside Google are not impacted.  If I click through to a direct link from a Google AMP page, it will not crash.\n\nI have tried all steps as detailed here, with no improvement.\nhttps://support.google.com/chrome/answer/95669\n\nI am running Android 10",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2020-08-26T08:37:13.979584+00:00",
-    "reply": "1 Reply"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2142707/bluetooth-disconnects-must-manually-reconnect?hl=en",
-    "title": "Bluetooth disconnects. Must manually reconnect",
-    "content": "I use my Pixel 3 with Sony WH-1000 XM3 headphones.  In several different applications, I experience the same problem. \n\n Specifically, the app will play sound perfectly to the headphones, but then I will do something simple (like skip to  the next track) and the sound will just stop.  The app itself will keep on playing;. I can watch the progress bar move.  But no sound will come from the headphones.  \n\nThe easiest way to fix the problem is to go to the sound menu and change the \"play media to\" option to \"device\" (at which point I will hear the sound come from the Pixel as if it had kept on playing) and then change it \"play media to\" back to my headphones.  Then things will work perfectly.  \n\nBut if I do something as innocuous as skip to the next track, the problem re-occurs.   This does not happen when I connect the headphones to my PC or my tev.  Just with the Pixel.\n\nAnd it happens with several different applications",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2019-03-08T05:51:18.998964+00:00",
-    "reply": "1 Reply"
-}

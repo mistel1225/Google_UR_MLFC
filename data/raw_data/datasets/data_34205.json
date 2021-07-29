@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1736811/pixel-3xl-crashed-stuck-in-boot-cycle?hl=en",
-    "title": "Pixel 3xl crashed, stuck in boot cycle",
-    "content": "My pixel 3xl is stuck in a boot loop . I tried to turn it on after it randomly shut itself off in the middle of the night. Occasionally it gets hung on the 'Google' boot screen and requires a soft reset to get it back into its boot loop. It took dozens of boot cycles for one to persist long that I could make it to the factory reset option. A reset didn't solve the problem. \n\nI eventually was able to make it through initial phone setup after the reset (after 1 reboot interruption), but the phone promptly shut itself off again and reentered its problematic state. Current battery level is 40%\n\nmy phone is now 100% unusable. Before the reset I was also able to capture the following in one of the boot cycles. Times like this make me wish that there was a genius bar equivalent where this situation could get resolved quickly. \n\nBuild: PQ2A.190205.001\nsecurity patch: feb 5 2019",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-02-19T13:50:34.80809+00:00",
-    "reply": "0 Replies"
-}

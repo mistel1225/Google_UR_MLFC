@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/105354379/what-is-office-in-accounts-list-on-my-pixel-phone?hl=en",
-    "title": "What is \"Office\" in \"Accounts\" list on my Pixel phone?",
-    "content": "I am trying to have Google Calendar show me my Hotmail calendar items - Microsoft removed Exchange support from their Hotmail service recently (March 2021) and since then I have had to re-add my Hotmail accounts as IMAP which does not then synchronise my contacts and calendar items.\n\nHaving just received a software update I thought I would go and try again - so I go to Settings > Accounts > Add account and in the list there is an new account type \"Office\" with a Microsoft Office-like logo, thought I would give it a try, I tap it and the screen shifts around a little then goes back to the list of accounts and now I have an entry \"Office\" with type \"Office\" - I didn't have to provide any account details or anything. So now I tap it and it tells me \"Sync off for all items\" but I cannot change that.\n\nWhat is this account type and has it got anything to do with being able to access my Hotmail calendar from the Google calendar app?",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3",
-    "post_time": "2021-04-07T15:13:54.715746+00:00",
-    "reply": "1 Recommended Answer"
-}

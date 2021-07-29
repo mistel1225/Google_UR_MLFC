@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/77328449/cannot-load-android-system-trying-to-solve-with-apply-update-from-adb-can-t-perform-instruction?hl=en",
-    "title": "\"Cannot load Android system\" trying to solve with \"Apply update from ADB\", can't perform instruction",
-    "content": "My battery died, when I plugged my phone and turned it on I got \"Cannot load Android system\" with two options:\nTry again\nFactory data reset\n\nI saw in this thread https://support.google.com/pixelphone/thread/17930356?hl=en&fbclid=IwAR328LdN-m8S9QdoBMteWCeD8zq7ExnjIFqWr7SvGh1z0hkyXlFF05WjSfA\nThat someone with pixel2 managed to solve it without Factory data reset by following the instructions product expert John provided for \"Apply update from ADB\".\n\nI don't have usb debugging enabled so I had to follow his instructions for getting into recovery mode without usb debugging.\nI'm able to get to the bootloader, and I have recovery mode option, but pressing it gets me to the recovery mode I got before which only has the 2 above options. \nI don't the \"No command\" page as he mentions I'm supposed to. Therefore I don't have the ability to get to the sideload menu and continue to update from ADB.\n\nWould much appreciate any help.\n\nThanks, Dotan",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2020-10-16T14:46:01.339612+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17635096/rcs-chat-not-working-on-sim-2-in-a-pixel-4?hl=en",
-    "title": "RCS (Chat) not working on SIM 2 in a Pixel 4",
-    "content": "This happened on both my wife's and my Pixel 4 XL. We're with Telstra in Australia. \nI had RCS working on my physical SIM (showing in SIM 1) while I was waiting for my number to provisioned as an eSIM. When my physical SIM stopped working I set up the eSIM (still showing in SIM 2), but then RCS stopped working. Even after removing the dead physical SIM. And I can't figure out how to disable dual SIM mode completely. \n\nWe did the reverse in my wife's phone (RCS working on the eSIM in the SIM 1 \"slot\"), but as soon as we put her work SIM in it shifted the eSIM to be SIM 2 and she lost RCS capability.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
-    "post_time": "2019-10-24T20:32:48.20105+00:00",
-    "reply": "0 Replies"
-}

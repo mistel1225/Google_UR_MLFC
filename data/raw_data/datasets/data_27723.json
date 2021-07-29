@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/15878529/cannot-locate-images-downloaded-from-google-image-search-anywhere-on-the-phone?hl=en",
-    "title": "Cannot locate images downloaded from Google Image search *anywhere* on the phone",
-    "content": "Usually, I locate the files on device using the 'Files' app, clicking the sidebar and choosing the folder where the file might be found (image subfolders, or corresponding app folders). This is the solution mentioned in all the 'how to locate files on android' queries that I found online. Except I am unable to find the file that way, so please don't reply with that. I also installed Files by Google to double check and found nothing. \n\nWhat happened: I googled an image using Google image search on Pixel 1 (with android 10), and then clicked on a preview image, clicked and chose 'download image'. The phone then showed a notification by Download Manager, saying the image name and 'Download complete'. When I click on it, I can see the image location  as /documents/8067. But afterwards, I can never find this image in Downloads, or any other image folder (that I can see) on the phone. Every time I download an image from Google Image search this happens: the images is saved in /documents/<some number>. \n\nIf I open a google image search result in Chrome and download image after that, then the image goes to Downloads folder so that's alright. But I really want to know where the already downloaded files are. If anyone can tell how to access this \"/document/\" folder, it would be much appreciated (and no, the images are not in in any documents folder access by any file manager that I have). I also connected the phone to a desktop and searched, it didn't show any document folder where I could find the images I downloaded. Thanks in advance. ",
-    "is_img": 1,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-10-02T22:16:27.628933+00:00",
-    "reply": "0 Replies"
-}

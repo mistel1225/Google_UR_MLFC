@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/76750287/pixel-2-and-android-11-problems-freezing-no-sound-huge-playback-stutters-after-factory-reset?hl=en",
-    "title": "Pixel 2 and Android 11 problems (freezing, no sound, huge playback stutters) after factory reset",
-    "content": "After the Android 11 update, my pixel 2 has become unusable.\n\n-Apps keep not responding (lots of apps, so not just one)\n\n-Sound disappears until a reboot (phone calls will sometimes not work, video and music playback will sometimes not work, etc)\n\n-Video and music playback from variety of apps will start and stop for seconds at a time\n\nI have done a factory reset, did not copy data over, so should be fresh, and it STILL has these problems before installing any 3rd party apps.\n\nSafe mode WILL fix the playback issue on youtube. Yet, a factory reset shows that is was not a 3rd party app, thus the problem is something within Android that gets disabled in safe mode.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2020-10-13T18:52:49.260324+00:00",
-    "reply": "4 Replies"
-}

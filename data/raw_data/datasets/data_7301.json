@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/96740809/why-can-t-i-allow-all-the-time-except-for-on-very-specific-apps?hl=en",
-    "title": "Why can't I \"allow all the time\" except for on very specific apps?",
-    "content": "An app I've used often requires location to be on all the time in order to work. It can't push the information I need to notifications unless it has background permissions for location.\n\nYet when I go to the permissions, the most open option I can choose is \"only when using the app\". Therefore I can only get notifications when I open the app.\n\nHow can I set this app to have location permission \"all the time\"? Why isn't the option available?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 5",
-    "post_time": "2021-02-05T10:41:53.512686+00:00",
-    "reply": "1 Reply"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/47336991/mobile-network-not-available-after-may-2020-security-update-pixel-3a?hl=en",
-    "title": "Mobile network not available after May 2020 Security Update (Pixel 3a)",
-    "content": "Has anyone else had carrier issues since the latest security updates? \n\nMy WiFi and Bluetooth work fine and it even shows that I have a solid connection to my carrier but once I go to make a call, it instantly says \"Mobile network not available\".\n\nI've tried restarting, taking out and putting in the SIM, resetting network settings, and also tried multiple APNs that my carrier wanted me to try but all have the same outcome. Full service but no actual connection.\n\nThe only thing I haven't tried is changing SIMs because I don't have another one available. My carrier doesn't seem to think it's their issue and I've seen similar security update problems on this forum so was curious if anyone else is having an issue after the latest update.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2020-05-17T14:01:12.169247+00:00",
-    "reply": "1 Recommended Answer"
-}

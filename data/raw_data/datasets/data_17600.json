@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/66219565/how-can-i-transfer-data-from-my-moto-x4-that-cannot-turn-on-due-to-broken-power-button?hl=en",
-    "title": "How can I transfer data from my Moto X4 that cannot turn on due to broken power button?",
-    "content": "I just got a new Pixel 4a to replace my Moto X4. The power/lock screen button broke on it in February; but, as long as I kept it charged, I was able to keep using it by using he fingerprint sensor to unlock it. However, eventually it lost a charge and it has been off for months.\n\nI am able to get to the Bootloader screen; but, without a functioning power button I cannot select any of the options.\n\nI tried to connect it to my 4a through the USB-C cord; however it defaults to having the USB controlled by the Moto X4 and will not let me switch that to attempt a data transfer. I've tried disconnecting and reconnecting them but nothing changes.\n\nFor some reason nothing was backed up (which doesn't make sense to me since that is how I transferred my data to that phone in the first place); so my data from that phone is lost. Is there anyway I can initiate a data transfer to recover it?",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device",
-    "post_time": "2020-08-21T16:42:16.257264+00:00",
-    "reply": "1 Recommended Answer"
-}

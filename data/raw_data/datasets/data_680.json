@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/113448941/constant-security-location-alert-emails-on-pixel-3-xl?hl=en",
-    "title": "Constant Security & Location Alert Emails on Pixel 3 XL",
-    "content": "Yesterday I Flashed Android 12 beta 2 ( I usually flash Android Betas every few months to try them). I reverted back to Version 11, June image using the full image installation procedure from fastboot.\nAfter a few minutes, one of the accounts started getting constant Security, Location and Sign out Alerts. They are sent almost every hour. All state it's from the same Pixel 3 XL. I have reset the password, re-enabled 2FA, reflashed the phone again at flash.android.com, but nothing is working. All of the activity says it is coming from my IP address. I even reset my router to factory defaults thinking it was something there, but it happens on wireless data also. Is there anyway to get Google to look into this issue? There's 3 accounts on the phone and only 1 is experiencing an issue. I think I have done everything I can think of to try and resolve this issue on my end.  Hopefully someone has some insights into a resolution.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2021-06-13T19:35:39.550324+00:00",
-    "reply": "3 Replies"
-}

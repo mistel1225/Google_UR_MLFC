@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/18538701/pixel-3-smart-unlock-via-location-google-assistant-not-working-well?hl=en",
-    "title": "Pixel 3 Smart unlock via location & Google Assistant not working well ...",
-    "content": "So I have recently invested in a smart switch (sonoff basic) to test how user friendly having a smart home would be. I've heard great things, but for me it does not seem to work well for me:\n\n\"Hey Google, Turn on the lamp\"\n\"for that you'll need to unlock your phone\"\n\nSo I unlock using the fingerprint sensor, and my lamp turns on. Kind of defeats the object of the assistant as it's not hands free.. Also it's it's quicker to unlock the phone and use the widget than via the assistant.\n\nTo try and solve this, I enabled Smart unlock for when I am at home. Google Maps shows that my location is within the pre-defined radius... still no smart unlock?! Restarted my phone, location always on, still no luck.\n\nAny suggestions, as the assistant is pretty much useless whilst the phone is locked!",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2019-11-04T15:23:29.298868+00:00",
-    "reply": "0 Replies"
-}

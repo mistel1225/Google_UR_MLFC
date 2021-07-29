@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/106337429/navigation-gets-stuck-when-playing-videos-on-landscape-mode?hl=en",
-    "title": "Navigation gets stuck when playing videos on landscape mode.",
-    "content": "Ever since the Android 11 update, YouTube will cause the navigation to get stuck in the portrait orientation while in landscape mode, and the only way to fix it is to rotate the phone. I've attached a screenshot to illustrate an example, but it's a very annoying bug that's starting to get to me. Please fix it! I'm running the latest version of Android 11 with the most up-to-date version of Google apps.\n\nAs you can see from the screenshot, the navigation is stuck in portrait mode while watching a video. It requires users to rotate the phone to get access to gestures again. It will happen about half the time, so it may take a few tries to replicate the behavior. I never had this problem on Android 10 or Android 9.",
-    "is_img": 1,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2021-04-15T19:31:39.511612+00:00",
-    "reply": "0 Replies"
-}

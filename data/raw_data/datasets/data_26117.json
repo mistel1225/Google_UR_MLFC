@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/18997509/microphone-not-working-in-messages-and-gmail-on-pixel-3?hl=en",
-    "title": "Microphone not working in Messages and Gmail on Pixel 3",
-    "content": "When I open the keyboard in Messages or Gmail, the microphone that I often use for input is crossed out. The microphone works in Google search and voice recorder. \n\nWhat I have tried so far:\n\nMade sure phone is updated to latest software\n\nRestart the phone, change voice permissions for Messages, Gmail, and Gboard apps from allow to deny, restart phone, change back from deny to allow for all three apps, restart phone.\n\nGo into System, lanuage and input, virtual keyboard and make sure that Google Voice Typing is on. \n\nFrom the keyboard in Messenger, click G then settings, and make sure that \"Use voice typing\" is on.\n\nAny help gratefully accepted. \n\nBob",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2019-11-08T16:58:13.057879+00:00",
-    "reply": "1 Recommended Answer"
-}

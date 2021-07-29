@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/84906014/pixel-3-xl-battery-drain-problem-and-battery-restrictions-usage-problem?hl=en",
-    "title": "Pixel 3 xl battery drain problem and battery restrictions usage problem",
-    "content": "Hi\n\nMy device pixel 3xl having issue of battery drain problem, particularly after android 11 update - need to know what is the root cause of this problem\n\nNext is ,having analysed battery usage ,I frequently use whatsapp and it's in top hig battery usage ,the issue is battery after full charge, having used for 5 mins active but in background it used for 1hr30mins ,so I restricted the battery usage for whatsapp ..now the twist is that battery restrictions is not working..it still consuming battery in background and showing as 2hrs.\n\nTried restarting and checked..no use\n\nPlease needed a solution for this battery drain problem\n\nAttaching sample screenshot",
-    "is_img": 1,
-    "category": "Battery and Power, Google Pixel 3 XL",
-    "post_time": "2020-11-23T19:34:19.802562+00:00",
-    "reply": "3 Replies"
-}

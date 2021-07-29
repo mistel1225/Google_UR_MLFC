@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/81150137/always-use-a-specific-sim-card-for-contacts-from-specific-google-account?hl=en",
-    "title": "Always use a specific SIM Card for contacts from specific Google Account",
-    "content": "I am the proud owner of a Pixel 5 now. I am using the Double SIM function as well. So I was wondering if there was a way to set my phone app to always use one specific SIM Card if I want to call a contact from one specific Google Account.\n\nFor example: I set SIM Card \"1\" for my \"Business\" Google Account and \"2\" for my \"Private\" Account. If I call Lily, who is saved into my Business Account, the app automatically uses SIM Card \"1\". If I call Boris instead, who is saved to my Private Account, the app automatically uses SIM Card \"2\".\n\nIs there some way to realize this? I couldn't find anything.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 5",
-    "post_time": "2020-11-05T15:20:07.391505+00:00",
-    "reply": "1 Reply"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1745205/odd-issue-with-assistant-calendar-events?hl=en",
-    "title": "Odd Issue With Assistant & Calendar Events",
-    "content": "I found a strange issue that seems be specific to mine & my wife's phones (both P3XL's) and was wondering if others are experiencing the same.\n\nTypical scenario: \nCreate an event in Google Calendar for XYZ day on a Chromebook, Win 10 machine or Android tablet. \nOn P3XL, activate Assistant and ask \"what's on my calendar for XYZ day?\" \n\nAssistant responds: \"here are the events you requested\", and lists every event twice. After scrolling to the bottom and clicking \"Show full agenda\", events are only listed once. This also happens in Android Auto with a connected screen: when given the Assistant command: \"what's on my calendar for XYZ day?\", all events will be spoken twice. (So irritating!)\n\nNone of the events are listed twice in Google Calendar whether on the phone, a Chomebook or the web page; only on the phone when prompted through Assistant. All devices are logged into the same account. Other devices in the home (4 Home Hubs and 2 Mini's) do not exhibit this behavior.\n\nI have tried clearing app cache & storage in Google Calendar and Assistant, uninstalling and re-installing; making sure not to restore app data and the issue still persists. \n\nIs anyone else experiencing the same behavior?",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 3 XL",
-    "post_time": "2019-02-19T21:28:05.980505+00:00",
-    "reply": "2 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17688876/pixel-4-xl-stuck-in-bootup-animation?hl=en",
-    "title": "Pixel 4 XL stuck in bootup animation",
-    "content": "After using the Pixel 4 XL since yesterday I've set up G Suite mobile device management on the phone as well, to add the work mode.\nI tried to use Chrome for something a few hours later and saw it didn't open properly. The screen stayed grey or it crashed when trying to open it.\n\nSo I restarted the phone and now it's stuck in the bootup animation where you see the multi-coloured \"G\" with a kind of loading bar below it.\nIt ran for ~1 hour like this and nothing happened. I tried to boot into safe mode but it didn't seem to work. I also tried playing around with the recovery mode but didn't try factory resetting yet.\n\nI've moved multiple 2FA-methods for banking over to this phone, I don't get why it should give up on me after one day of use.\nI had a Huawei Mate 10 Pro before this since its launch and not even once had a problem that made my phone unusable.\n\nDoes anyone have an idea how to get the phone going again? This is really upsetting for such an expensive piece of hardware.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4 XL",
-    "post_time": "2019-10-25T13:33:19.753385+00:00",
-    "reply": "2 Recommended Answers"
-}

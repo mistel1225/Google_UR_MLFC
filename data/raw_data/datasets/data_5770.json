@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/72002931/pixel-2-hotspot-sharing-problem-after-android-11?hl=en",
-    "title": "Pixel 2 Hotspot sharing problem after android 11",
-    "content": "On android 10 i had no troubles making hotspot from my pixel 2 (sharing cellular data). It would work for how long I wanted. After update to android 11, when I turn on the hotspot it turns itself off after about 2 ~ 5 minutes randomly. I have selected option so the hotspot doesn't turn off automatically. Tried rebooting the phone, tried safe mode, tried reseting the phone, the issue is still there and the hotspot turns off randomly.\nFound out that it happens when the screen is turned off (and the phone is locked) and I turn the screen on so it shows me the lockscreen. The hotspot just disappears\nhttps://photos.app.goo.gl/ysRA7tnAqvihEwFA6",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2020-09-19T08:00:13.83134+00:00",
-    "reply": "46 Replies"
-}

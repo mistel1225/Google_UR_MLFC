@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2936233/google-pixel-1-bootloop-w-screen-flashing?hl=en",
-    "title": "Google Pixel 1 bootloop /w screen flashing",
-    "content": "Out of nothing the screen of my Google Pixel went black while I was using Maps and played music over BT. The song played for some more seconds and then stopped. The Pixel rebooted but couldn't start properly. What I saw next and see since then is pretty weird. Pixel tries to start (white screen with centered Google logo) but this screen just comes up for a second (Google logo is anywhere on the screen, sometimes there is none at all) and then it disappears with some crazy pixels, goes black, tries again (and again and again...)\nI do get to the bootloader menu (with the options start, restart bootloader, recovery mode, barcodes, power off) but none of that helps.\n\nAny recommendations?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-03-24T10:54:59.913918+00:00",
-    "reply": "1 Recommended Answer"
-}

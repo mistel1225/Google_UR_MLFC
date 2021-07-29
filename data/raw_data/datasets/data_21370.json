@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/44908784/pixel-3-on-android-10-can-t-connect-to-mac-via-usb?hl=en",
-    "title": "Pixel 3 on Android 10: can't connect to Mac via USB",
-    "content": "Re: https://support.google.com/pixelphone/thread/13794615?hl=en\n\nSince the OG post had been locked without any kind of resolution from Google and I am experiencing the exact same problem I am reposting it here:\n\nAnyone on Pixel 3 and Android 10 have any luck connecting their device to a Mac via USB? I've been doing this for years but since the upgrade to Android 10, I can't get it connected no matter what I do. Not trying to actually transfer files — looking to run an ADB command.\n\nHave already tried the obvious stuff, including different USB cables or ports, trying with USB debugging both on and off, and also toggled the different USB modes, including File Transfer and others. File Transfer is the one that's supposed to work but when I tap it, it goes on for a second and then off and then I get a no-go message from Android File Transfer.\n\nHas anyone with this same setup been able to find a way to make this work?\n\nRunning osx 10.14.6 and Android 10 with the April 2020 security patch level. As another person commented in the OG post: \n\nWhen you've spent $1000+ on a Google Pixel phone and have to use workarounds and hacks to get files on and off your phone, maybe it's time to look at more reliable options (phones)",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2020-05-06T20:18:05.228397+00:00",
-    "reply": "1 Reply"
-}

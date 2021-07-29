@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/22594471/pixel-2016-stuck-at-october-6-2019-patch-level-after-december-update-no-cve-2019-2232?hl=en",
-    "title": "Pixel (2016) stuck at October 6, 2019 patch level after December update (no CVE-2019-2232)",
-    "content": "After performing the December 2019 security update on my Pixel (2016), the security patch level was still displayed as October 6, 2019. I know the update went through properly, since it displays the A3 build number (Dec) and not A1 (Oct). Does this mean that I do not have any of the December 1 or December 5 security patch fixes on my device?\n\nNormally, I wouldn't be concerned with being a couple months out-of-date for a security patch, but considering that the December 2019 patch is meant to be the last one for the 2016 Pixels, it would be a shame to miss out on two months' worth of vulnerability patches. The denial of service exploit CVE-2019-2232 is what concerns me the most, since it allows attackers to brick the phone (DoS) without user interaction.\n\nI have tried to check for any new updates (which I doubted would do anything), but the security patch level still remains at October 6, 2019. EDIT: other users [1, 2] have experienced this as well..\n\nIt would be unfortunate if the December 2019 update for the 2016 Pixels did not include any of the December security patches. The December patch for the 2016 Pixels doesn't seem like much of a patch if it doesn't have any new security fixes. I love my OG Pixel and I hope that this can be addressed. Thanks!!",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-12-12T00:25:09.399198+00:00",
-    "reply": "2 Recommended Answers"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/24236264/pixel-3-time-change-messed-my-phone-up-sms-not-showing-instagram-stories-missing?hl=en",
-    "title": "Pixel 3 time change messed my phone up (sms not showing, instagram stories missing)",
-    "content": "Went from EST to PST and I had to manually change time as the network time wouldn't update. I got back and reset my time -3hours, but then my Instagram stories disappeared. Googling told me it was time zone, so i clicked \"use network provided time\" but then I noticed when I got a SMS , I coudl read the preview, but they woudln't show up in my text thread. Also shows the preview as stuck to 11:42pm (which is the last text I got before I switched time in my phone)\nEven when I deselected network time, I still can't see sent/incoming text messages anymore.\nPixel 3, Android 10\nThanks\n\n*EDIT* I ended up downloading the texts, deleting the thread, and starting fresh. Texts now appear.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2019-12-30T17:56:33.905746+00:00",
-    "reply": "0 Replies"
-}

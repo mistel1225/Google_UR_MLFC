@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1619331/new-pixel-2-phone-locked-in-boot-up-screen-with-error-slot-unbootable-load-error?hl=en",
-    "title": "New Pixel 2 phone. Locked in boot up screen with \"ERROR: Slot Unbootable: Load Error\"",
-    "content": "Purchased new 8th Feb, set up by EE shop initially ok.  Rebooted following auto Pixel software update.  Now unable to boot from Error screen.  Options tried 1. \"Start\" - returns to same Error screen.  2. \"Retstart bootloader\" - returns to same Error screen with \"Device State: locked\". 3.  \"Download mode\" returns to same Error screen with \"Operation Denied\".  4. Recovery mode\" - Returns to same Error screen.  5. \"Power off\" - successfully powers off but returns to same Error screen when restarted with holding power button in. 5. tried restarting power button whilst pressing volume - same Error screen.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2019-02-13T13:26:19.363869+00:00",
-    "reply": "1 Reply"
-}

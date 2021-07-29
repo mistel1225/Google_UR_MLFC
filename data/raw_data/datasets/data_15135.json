@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/73465772/%E5%8D%87%E7%BA%A7%E4%B8%AD%E8%93%9D%E7%89%99%E5%92%8Cwifi%E6%8D%9F%E5%9D%8F?hl=en",
-    "title": "升级中蓝牙和wifi损坏",
-    "content": "连接wifi进行OTA 11更新下载，下载到10％中断，发现wifi功能无法打开。\n后续改用移动网络连接升级安装完成，使用其中无线和蓝牙再也无法打开，在系统设置里去尝试设置和打开，会卡住一会互拔设置没有响应。重新恢复出厂和降级都无法改变连接功能的情况，是不是硬件损坏，故障之前是Android 9，机体没有磕碰摔落。",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
-    "post_time": "2020-09-27T00:31:29.184594+00:00",
-    "reply": "3 Replies"
-}

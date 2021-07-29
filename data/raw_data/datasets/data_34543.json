@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1419749/my-phones-battery-power-is-fluctuating-and-shutting-down-minutes-after-unplugging-the-device?hl=en",
-    "title": "My phones battery power is fluctuating and shutting down, minutes after unplugging the device.",
-    "content": "My phone is shutting down almost immediately after unplugging the device. I need to plug it back in to turn the device on again. When I do, the battery indicator shows the phone as being out of power. When I look at the graph showing the history of the amount of power the phone has, it shows the phones power fluctuating rapidly before shutting off. When I charge the phone up again, it does it all over again.\n\nI did some research and came the conclusion that the Android operating system might be out of sync with the battery indicator, so I followed the directions and powered up the device while it was turned off, and while it was on. This did not fix the device however.\n\nPlease, someone help me.",
-    "is_img": 1,
-    "category": "Battery and Power, Google Pixel",
-    "post_time": "2019-02-02T15:18:33.428005+00:00",
-    "reply": "5 Replies"
-}

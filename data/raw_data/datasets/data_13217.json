@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/79723367/how-to-obtain-copy-the-system-event-log-found-in-get-help-report-i-think-it-s-called-mini-debug?hl=en",
-    "title": "How to obtain copy the system/event log found in Get Help/Report, i think it's called mini debug .",
-    "content": "Aside from running a shell, enabling a massive random Trace through developer options (which almost never saves for the record,) , how can i obtain the same log included in the webrtc get \"Help\" area ? Specifically the one found in most every Google App by tapping 3 dots (upper right) -> Help and Feedback --> Send Feedback && include system logs (and event log).\nI NEED that , only that copy, not any other and I've found if i make file using VT, and i save a static logcat to it, IT'S NEVER as detailed, accurate or pertinent as the one for webrtc help. \n\nIf anyone here knows something, please help me. Or I'm gonna go full CVE report Critical Severity, Defcon*, Rainbow alert... Nuking the phone from outer orbit and doing full system restore AND reflashing still leaves me with the same problems. I'm taking full remote invovations, killing processes, forcing screen to sleep, ignoring user space entirely as well as power button presses , most settings i save never persist , no matter what or stick. Sometimes a couple might (but never The one's someone really wants).\n\nAlso looks like whatever High privileged process is being released from \"Sandbox Isolation\" because \"isolation not needed\"..? Bout the only thing i can do is grab screen shots. ,😑",
-    "is_img": 1,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2020-10-29T03:08:18.464179+00:00",
-    "reply": "0 Replies"
-}

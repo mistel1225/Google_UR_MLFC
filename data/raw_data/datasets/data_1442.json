@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/111461754/gesture-navigation-suddenly-stopped-working-and-i-can-t-see-my-notifications?hl=en",
-    "title": "Gesture navigation suddenly stopped working and I can't see my notifications",
-    "content": "My phone seems to be stuck in some kind of special mode and I don't know how to disable this.\n\nGesture navigation suddenly stopped working on my phone. It's still enabled but swiping from the sides does nothing. Instead there's a small back arrow button in the bottom-left corner of the screen (I'm not sure whether it was always there or not). I wasn't in the settings menu or anything so I'm not sure how it happened.\n\nWhen I pull up the status bar there seem to be missing options and I cannot see my notifications or access the brightness slider. Interestingly, my phone still vibrates when I receive a new notification, but it does not appear in the status bar.\n\nShortcuts like double tapping the power button to open the camera also don't work.\n\nWhen I try to open the developper options it says \"Developper options are not available for this user\", which is weird because I never set up any other account (I didn't even know you could do that).\n\nPower saving mode is off\nI tried rebooting and all it did was change the theme back to light them for some reason\nI can't seem to be able to reboot in safe mode\nWhen I plug in my phone to my laptop, the folder is completely empty\n\nHere is a screenshot of my screen with the status bar. Notice that gesture navigation is enabled in the background.\n\nDoes anyone know what is going on with my phone?",
-    "is_img": 1,
-    "category": "Other, Google Pixel 4a (5G)",
-    "post_time": "2021-05-28T01:02:14.260264+00:00",
-    "reply": "1 Recommended Answer"
-}

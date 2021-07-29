@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/26277499/pixel-3-playing-music-to-bluetooth-earphones-as-call-device-not-media-device?hl=en",
-    "title": "Pixel 3 playing music to Bluetooth earphones as call device, not media device.",
-    "content": "I'm using Creative Outlier Air Bluetooth earphones, they work fine in the past. \n\nRecently, when Spotify plays songs through, my Pixel defaults to playing it as though my earphones were a \"Call Device\", not a \"Media Device\". I double checked this in the Bluetooth menu, and the volume rocker controls \"call\" volume, rather than \"media\" volume. Therefore sound quality is bad. \n\nInterestingly, Play Music seems to not replicate the issue. \n\nAdditionally, even when I disconnect, my Pixel's volume rocker still controls call volume by default, not media volume. \n\nAny ideas?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2020-01-21T11:49:07.312336+00:00",
-    "reply": "1 Recommended Answer"
-}

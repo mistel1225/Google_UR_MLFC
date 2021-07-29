@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/3864080/mobile-data-being-used-when-data-is-turned-off?hl=en",
-    "title": "Mobile data being used when data is turned off.",
-    "content": "I have had Mobile Data turned off for months on my phone. My carrier is still detecting data usage (4-32 KB a month) and I am being charged for it. I even went through, app by app, and restricted background data. When I go to the mobile data usage screen in settings, it's reporting 0 bytes used, but my carrier is reporting me using some, as described above. \n\nIs there anything else I can do to ensure exactly 0 bytes of mobile data will be sent/received from my phone?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2019-04-09T15:43:57.611247+00:00",
-    "reply": "2 Replies"
-}

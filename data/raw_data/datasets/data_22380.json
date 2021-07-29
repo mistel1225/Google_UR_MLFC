@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/33870526/can-t-find-valid-operating-system-on-bootup-bootloader-is-locked-so-i-can-t-flash-factory-image?hl=en",
-    "title": "\"Can't find valid operating system\" on bootup, bootloader is locked so I can't flash factory image",
-    "content": "I was locking my bootloader because I didn't want to have my phone rooted anymore. So, I factory reset it, set it up, and then went into the bootloader and typed \"fastboot flashing lock\". I selected yes to confirm the locking of my bootloader and then my phone rebooted. But now my phone says \"Can't find valid operating system\" and I can't boot into Android. I can't even flash a stock image, because I locked the bootloader. I can't unlock the bootloader, since I can't go into the OS and turn OEM Unlock on. Am I screwed?\n\nThanks!",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2020-03-17T00:49:13.902391+00:00",
-    "reply": "1 Recommended Answer"
-}

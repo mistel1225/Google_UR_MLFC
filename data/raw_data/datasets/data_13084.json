@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/79810513/enable-randomised-mac-address-on-pixel-xl-android-10?hl=en",
-    "title": "Enable Randomised MAC address on Pixel XL, Android 10",
-    "content": "The option to 'Use randomized MAC' under Wi-Fi settings doesn't appear to be there.\n\nI was under the impression this is a new feature of Android 10, which my Pixel XL is running.\n\nJust looking to confirm if this setting should be there, or if it's somewhere else?\n\nDoes anyone with a Pixel XL on 10 have this option?\n\nDocuments online suggest it should be in the following place;\nOpen the Settings app.\nTap Network & Internet.\nTap Wi-Fi.\nTap the gear icon associated with the wireless connection to be configured.\nTap Advanced.\nTap Privacy.\nTap Use Randomized MAC\n\nThanks",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2020-10-29T14:47:17.653377+00:00",
-    "reply": "1 Recommended Answer"
-}

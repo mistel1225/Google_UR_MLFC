@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/85731716/pixel-5-certain-notification-tones-don-t-follow-system-sounds?hl=en",
-    "title": "Pixel 5: Certain notification tones don't follow system sounds",
-    "content": "Certain notification tones do not follow the sound settings. For example, when sending a message, the tone it plays is at a volume that does not match the set volume for ring and notification. Another example, scanning an NFC tag/device. I scan my Yubikey on my device and it's almost twice as loud as my ringtone. If I turn the ringtone volume down, it's still louder than my ringtone itself. The ringtone is custom, however it is a direct mp3 from an artist I've purchased from.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 5",
-    "post_time": "2020-11-28T16:40:34.585444+00:00",
-    "reply": "0 Replies"
-}

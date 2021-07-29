@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/28914499/google-pixel-3a-xl-unbrick?hl=en",
-    "title": "Google Pixel 3a XL UNBRICK",
-    "content": "Hi friends! I need your help, my phone can’t boot after the update, I can’t get into the recovery, but I can get into the fastboot, my bootloader is blocked ... I live in Russia, and unfortunately I do not have an official Google service in my country to go there for help. I read a lot of different forums on this issue, experienced developers say that I need to download the firmware in raw format (it contains files such as prog_emmc_firehose.mbn, patch0.xml, rawprogram0.xml) and restore the phone with QPST. Where can I download prog_emmc_firehose.mbn, patch0.xml and rawprogram0.xml, or does Google carefully hide them? Why, after all, android is an open system for everyone?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3a XL",
-    "post_time": "2020-02-16T20:13:30.029732+00:00",
-    "reply": "1 Recommended Answer"
-}

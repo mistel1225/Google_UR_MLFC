@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/103149291/enable-file-transfer-android-auto?hl=en",
-    "title": "Enable file transfer/android auto.",
-    "content": "I want my phone to always select the file transfer / android auto option when I try to pair with my linux computer.  I know that I can get this to happen if I click on the  the notification sent to the phone when I try to pair and select the file transfer/android auto option there but the extra step should not be necessary (indeed it was not on my earlier phone, a Sampson j3). How do I change the default usb setting?  I looked for something in the developer options which allowed me to do this but did not find anything.  I was hoping that this changed when I went to Android 11 but it still works the same.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4a",
-    "post_time": "2021-03-21T01:53:41.591497+00:00",
-    "reply": "1 Reply"
-}

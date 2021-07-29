@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/4562149/pixel-s-os-seems-to-crashed-can-boot-into-fastboot-but-have-problem-booting-into-recovery?hl=en",
-    "title": "Pixel's OS seems to crashed. Can boot into fastboot, but have problem booting into recovery?",
-    "content": "Pixel XL is my backup phone now. I notice the screen was on by itself a few days ago. Soon I found out it stuck at the startup looting. I was able to boot into fastboot and have no problem booting into recovery and was able to see the recovery \"no command\" screen. The battery died and it didn't seem to charge, so I just left it alone as recommendations online.\n\nI started trying a few trouble-shooting suggestions yesterday. I quickly found out the status seems to got worse. When I press on power, there is no screen but there is vibration. When I try volume down + Power without connecting to my pc, I see a fully charged battery and get a vibration, but no screen. I was finally able to get into fastboot only when the phone is connected to my pc. When I try to boot into recovery now, there was a quick flash of Google startup page and vibration, then nothing no screen again. I don't see and get that \"no command screen\" now.\n\nThere seems to be suggestions that you can try adb recovery with pc, but couldn't find the recovery img for Pixel.\n\nIs it possible to get the Pixel XL recovery.img?\nOr, please help boot into recovery so I could try to a rescue OTA or simply factory reset.",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-04-20T15:37:17.111056+00:00",
-    "reply": "1 Recommended Answer"
-}

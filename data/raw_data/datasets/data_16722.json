@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/70376386/no-notifications-then-wlan-wifi-is-enabled-but-not-connected-and-mobile-data-is-active-android-11?hl=en",
-    "title": "No notifications then WLAN (WiFi) is enabled but not connected and mobile data is active-Android 11",
-    "content": "Yesterday I installed Android 11 on my Pixel 3a XL and I noticed a strange behaviour. If the WLAN (WiFi) is enabled but not connected (on the road for example) and mobile data is active, no notification are received in chat apps (WhatsApp, Signal), but Chrome, Mail or mobile Games are working. When the WiFi is switched off, notifications are received again and all went back to normal. On Android 10 and older, I never had to turn my WiFi off.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2020-09-10T22:34:42.27315+00:00",
-    "reply": "0 Replies"
-}

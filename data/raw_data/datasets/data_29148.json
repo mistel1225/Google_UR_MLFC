@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/11202552/sip-native-client-can-t-call-back?hl=en",
-    "title": "SIP native client can't call back",
-    "content": "So I have configured a SIP server and I'm not able to call back the numbers because Android automatically adds the SIP server at the end of the number like on the screenshot:\n\nnumber@SIPserver\n\nCan anybody advise how can I hide the @ part and make the numbers callable?\n\nThanks!",
-    "is_img": 1,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2019-08-03T12:07:44.664058+00:00",
-    "reply": "6 Replies"
-}

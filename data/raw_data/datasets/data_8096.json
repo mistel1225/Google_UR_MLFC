@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/94574839/google-pixel-not-turning-on-not-booting-in-recovery-mode-either-just-hangs-at-google-logo?hl=en",
-    "title": "Google Pixel not turning on. Not booting in recovery mode either. Just hangs at Google logo.",
-    "content": "Scanned lot of online posts and tried lot of things but none helped. \nI am Not able to use adb/fastboot as bootloader is locked. \"fastboot flashing unlock\" does raise promot on Pixel asking for unlock confirmation but it still remains locked even after selecting Yes.\nPlease advise.\nOnly screen, apart from hanging at Google logo, is attached. None of \"Start\", \"restart bootloader\", \"recovery mode\" options work, bring me simply back to Google logo and hangs.\n\nAny solution will be appreciated, I am fine with data loss.",
-    "is_img": 1,
-    "category": "Other, Google Pixel",
-    "post_time": "2021-01-22T05:47:23.153179+00:00",
-    "reply": "0 Replies"
-}

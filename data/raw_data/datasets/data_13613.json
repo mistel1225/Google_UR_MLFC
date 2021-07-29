@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/78628455/how-to-clear-system-storage-51gb-of-64gb-on-pixel-3a?hl=en",
-    "title": "How to clear system storage (51GB of 64GB) on Pixel 3a",
-    "content": "My Pixel 3a has rapidly filled up its 64GB storage space with 51GB of it taken up under the \"System Storage\" category i.e. not photos,etc. Unfortunately click on the category doesn't give a breakdown nor the option to break it down.\n\nI understand from some other forums that despite the title and description \"files used to run Android 11\", it does contain cached files from other apps. However I can't figure out which app (if any) is using the space, and going to a few individual apps is not helping. Does anyone know a way to find out?\n\nFYI I factory reset my phone just last week over this issue. System storage took up about 12GB post-reset, hit 34GB within a week, and is now filled up 10 days later.",
-    "is_img": 1,
-    "category": "Device Performance, Google Pixel 3a",
-    "post_time": "2020-10-23T03:25:20.577083+00:00",
-    "reply": "1 Reply"
-}

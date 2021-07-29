@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/3441489/pixel-3-screen-flashing-like-a-strobe-green-color-after-april-update?hl=en",
-    "title": "Pixel 3 screen flashing like a strobe / green color after April update",
-    "content": "I can confirm that the April patch does not address the screen flashing and green distortion problem. \n\nPROBLEM:\nThus far, all four Pixel 3 devices have consistently flickered like a strobe light and/or the screen would turn green green like an old TV trying to get a signal. \n\nWHEN DOES IT OCCUR (consistent in all devices so far):\n---This occurs in an environment that is usually in a low light setting. \n---The phone brightness is set between 10 to 80 percent. \n---It does in both night light and non night light setting.\n---The flashing/green can start at the login screen (but not all the time).\n---The flashing/green can start after you've logged in and are using the device.\n---This also occurs in safe mode.\n---Manufacture reset does not fix the problem. \n\n\nWHEN SCREEN FLASHING DOES NOT OCCUR (THOUGH NOT SOLUTIONS):\n---Generally putting the phones in gray scale and setting brightness to 100 percent has reduced the frequency but is not a solution. \n---In bright daylight the flashing rarely happens.\n\n\nI attached two pictures that show the screen flashing/green after the April update. And another screenshot of the OS. ",
-    "is_img": 1,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2019-04-02T13:03:24.492558+00:00",
-    "reply": "5 Recommended Answers"
-}

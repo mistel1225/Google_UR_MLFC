@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/7833517/pixel-device-unauthorized-no-pop-up-on-device-to-authorize-computer-for-usb-debugging?hl=en",
-    "title": "Pixel Device Unauthorized; No Pop-Up on Device to Authorize Computer for USB Debugging",
-    "content": "Hi!\n\nI'm trying to enable and utilize USB Debugging on my Pixel device. An issue I'm encountering is that there is no pop up on my device asking me to authorize my computer when I plug my device in. Without this pop up, I have no other means to authorize USB Debugging between my computer and device. When I go to the command prompt and type \"adb devices,\" it identifies my device; however, it states that it is unauthorized.\n\nI have tried:\nTo revoke previous USB Debugging Authorization\nTurned off and on the USB Debugging itself\nRestarted my phone\nRe-plugged my Pixel into the computer\nPut the device into PTP Mode\nCompleted the commands “adb kill-server” & “adb start-server” & “adb usb” in the command prompt\nDownloaded SDK Tool \"Google USB Driver\"\nInstalled the latest device drivers\nSet the USB Configurations in Developer Options as MTP (Transfer Files)\nDownloaded ADB (Android Debug Bridge) USB Debug Driver\nAnd made sure that I'm using a USB-C Cable\n\nAny help on this issue would be greatly appreciated. Thank you so much!",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-06-11T15:31:37.615922+00:00",
-    "reply": "0 Replies"
-}

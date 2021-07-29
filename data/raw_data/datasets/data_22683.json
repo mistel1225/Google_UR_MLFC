@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/26238356/pixel-3xl-sensors-only-work-for-a-few-hours-after-restart-then-stop-working?hl=en",
-    "title": "Pixel 3XL sensors only work for a few hours after restart, then stop working.",
-    "content": "After a restart, all of the phone sensors work like new. Then after a couple of hours, they stop working. I can tell immediately because Active Edge doesn't respond. Also when I take photos, the auto-rotate feature doesn't work. And I can tell the ambient light adjust doesn't work. And proximity sensor doesn't work during phone calls. I restart the phone and they all work again....for an hour or two or three...then nothing.\n\nI installed SensorLab and can confirm that everything except audio recording basically stops working. Accelerometer,  compass, light meter, gyroscope, magnetic field, proximity meter all stop. Location, fingerprint sensor, sound recorder still work.\n\nBut after a restart, all sensors work again...for a couple hours.\n\nSoftware is updated to latest - Android 10, I can provide more info if needed.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2020-01-21T00:29:14.768962+00:00",
-    "reply": "9 Replies"
-}

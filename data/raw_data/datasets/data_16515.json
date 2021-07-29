@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/71132022/i-want-to-cancel-the-snooze-of-notifications?hl=en",
-    "title": "I want to cancel the snooze of notifications.",
-    "content": "I am Japanese.\nTranslated by Google Translate.\n\nPixel 4, Android 11\n\n I want to cancel the snooze of notifications.\n\n As a result of various investigations, there seems to be no way to cancel snooze, but I will ask a question with a single hope.\n\n As a background, you can delete the fixed notification (notification that can not be deleted even if you swipe) with the application called FilterBox, but at that time, a warning message saying \"If you delete the fixed notification, it can not be displayed again\" appears.  However, if you forcibly turn it off, the notification will not be displayed again even if you restart the main unit according to the warning text.\n\n At this time,\n Settings> Apps & notifications> Notifications> Notification history\n If you check, the notification has been added to the snooze item.\n\n Originally, snooze will be canceled after the specified time has passed, but it seems that it will be registered as indefinite snooze by FilterBox.\n\n Here, I thought that if I could cancel the snooze, I could cancel the indefinite snooze registered by FilterBox.\n\n However, I searched for a way to remove snooze, but I couldn't find a way to do so, so I asked for your opinion.\n\n Thank you.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4",
-    "post_time": "2020-09-14T17:31:51.292176+00:00",
-    "reply": "1 Recommended Answer"
-}

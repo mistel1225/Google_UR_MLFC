@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/18109656/camerax-api-hdr-extension-support?hl=en",
-    "title": "CameraX API HDR extension support",
-    "content": "I'm a developer and I was looking to utilize CameraX API to incorporate Pixels excellent HDR capabilities into a workflow oriented app. Launching the built-in camera app for the picture is far from ideal. I was hoping that the Pixel would expose the HDR capabilities via the vendor extension capabilities of CameraX API. Alas, it seems, that's not the case. Other manufacturers have support for it (Samsung S10 and a few others) but not Google Pixel.\n\nIs the support for exposing the HDR capabilities in CameraX api planned? Is there a roadmap?\n\nThanks,",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3a XL",
-    "post_time": "2019-10-30T16:01:02.225268+00:00",
-    "reply": "1 Recommended Answer"
-}

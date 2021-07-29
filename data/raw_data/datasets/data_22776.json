@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13746440/any-way-to-place-back-button-on-the-right-on-android-10-when-using-2-or-3-button-navigation?hl=en",
-    "title": "Any way to place back button on the right on Android 10 when using 2 or 3 button navigation?",
-    "content": "Hi!\n\nI was able to achieve this with the adb command:\n\nadb shell\nsettings put secure sysui_nav_bar \"space,recent;home;back,space\"\n\nbut it seems like it doesn't work any more on Android 10.\n\nAny way to place the back button on the right??\n\nThanks!!",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3a",
-    "post_time": "2019-09-06T19:05:36.530366+00:00",
-    "reply": "1 Recommended Answer"
-}

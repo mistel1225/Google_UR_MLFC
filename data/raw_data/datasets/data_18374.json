@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/62368198/pixel-1-randomly-shuts-down-ok-in-safe-mode-but-can-t-back-up?hl=en",
-    "title": "Pixel 1 Randomly Shuts Down. OK in Safe Mode but can't back up.",
-    "content": "I have an original Pixel 1 phone that randomly shuts down and won't come back up unless it's connected to a charger or external battery all the time.\n\nIf you run the phone in Safe Mode, it works fine; it doesn't shut down and doesn't need to be plugged into external power. After rebooting it, I disabled all non-essential apps but that seemed to have no effect.\n\nI want to try a factory reset so I tried to back it up to Google Drive, but when I attempt that I always get the error \"Couldn't back up data. Try again later.\" Clearing the drive cache doesn't actually seem to do anything, either - it just runs forever.\n\nAny ideas on how to fix this?\n\nThanks.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel",
-    "post_time": "2020-08-01T22:28:42.124675+00:00",
-    "reply": "1 Recommended Answer"
-}

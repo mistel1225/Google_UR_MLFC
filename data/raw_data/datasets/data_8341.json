@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/94019911/touch-screen-malfunction-at-the-bottom-part-of-screen-and-gesture-navigation-is-not-working-properly?hl=en",
-    "title": "Touch screen malfunction at the bottom part of screen and gesture navigation is not working properly",
-    "content": "Touch is not working in the bottom part that too in the specific rectangular portion (as seen in the screen shot), I have switched on the pointer location from developer option and traced the pointer but it was not registering the pointer in that specific part and also single touch is getting double touch in that particular regional. Also gesture navigation is not working properly particularly swipe up gesture.\nI have tried rebooting the device and also did factory reset nothing happened ",
-    "is_img": 1,
-    "category": "Other, Google Pixel 4a",
-    "post_time": "2021-01-18T15:59:36.763832+00:00",
-    "reply": "1 Reply"
-}

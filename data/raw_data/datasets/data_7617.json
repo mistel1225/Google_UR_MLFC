@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/95901505/pixel-3a-xl-cyrillic-characters-in-sms-are-displayed-as-blanks-on-recepient-s-phone?hl=en",
-    "title": "Pixel 3a XL: cyrillic characters in SMS are displayed as blanks on recepient's phone",
-    "content": "If I am sending SMS containing cyrillic characters the message on my phone looks just fine. The recepient however receives blanks instead of cyrillic characters. Latin characters are transmitted just fine. I am using Google Messages on Pixel 3a XL with Android 11. Others SMS-apps have the same problem. German umlauts like ß or ä can be sent without any problem. As a test I've also installed and tried japanese Input keyboard:  japanese characters in SMS are also displayed as blanks on recepient's phones. I've tried different phones including Pixel 4a on the same mobile network but results were the same. Only my Pixel 3a XL has the problem with cyrillic SMS. BTW my phone receives SMS with cyrillic characters perfectly fine.\nThere are already similar cases discussed in this forum but unfortunately I have not found any solution yet. \nAny help would be greatly appreciated!",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a XL",
-    "post_time": "2021-01-30T22:10:04.846609+00:00",
-    "reply": "0 Replies"
-}

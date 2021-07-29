@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/28762279/pixel-3-stuck-in-bootloop?hl=en",
-    "title": "Pixel 3 Stuck in Bootloop",
-    "content": "My pixel 3 is stuck in a bootloop. \n\nWhen I encountered this, I realized that I should do a factory reset by going into recovery mode to fix the problem. HOWEVER, this is not possible on my phone at the moment. When you hold down the Power + Volume down button: You can see the Quickboot menu, and the prompt to use the volume buttons to change the menu. But the moment that you take your finger off of the Power Button or Volume Button, it goes back into the bootloop.\n\nEven while simply holding down the buttons, it cycles through the fast boot menu about every 10 seconds. I tried plugging in my phone to my PC, because I was going to flash the stock ROM to my phone, but even with the OEM charging cable the PC will not recognize my phone because USB debugging is not enabled.\n\nIs there anything that I can do other than paying for hardware repairs? I already tried troubleshooting this over the phone with a Google Rep as well.\n\nI attached a video here.\n\nThank you in advance.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2020-02-15T05:22:27.33353+00:00",
-    "reply": "1 Reply"
-}

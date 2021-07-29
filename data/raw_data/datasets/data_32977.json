@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2548893/morocco-abruptly-changed-their-timezone-still-not-updated-on-pixel-1-android-v9?hl=en",
-    "title": "Morocco abruptly changed their Timezone - still not updated on Pixel 1 - Android v9",
-    "content": "This October, Morocco abruptly changed their Timezone.  https://www.bbc.com/news/world-africa-45995634 Morocco is no longer GMT 0, it is now GMT 1 with no daylight savings. The Timezone tzdata has updated the zone. Apple has updated iOS with the zone Google Calendar has updated the zone.  But my Pixel 1 on version 9 has not. And the Google Calendar app has not. My appointments have been out by an hour for over a month and it’s driving me crazy. When will this be fixed?",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-03-17T10:00:27.926556+00:00",
-    "reply": "2 Replies"
-}

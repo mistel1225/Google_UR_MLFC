@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/23425760/google-photos-became-unable-to-sync-and-upload-after-december-updates?hl=en",
-    "title": "Google Photos became unable to sync and upload after December updates",
-    "content": "Google Photos on my Pixel 3 XL became unable to read online photos and upload new photos since December.\n\nI did deleting app cache & data, force closing app, reboot, boot into safe mode, removing and reconnecting my Google account from the app and phone, and factory reset and nothing among them solved the problem.\n\nThere is only one way to success backup and sync. Reverting Photos app to the factory version which is 4.17. (but this old app can't separate the months of photos correctly and continuously nags to update the app.)\n\nSo one of the latest software components below have bugs and Google should fix it.\n\n* Google Photos app v4.33.0.284040878\n* Google Play services v19.8.31\n* Pixel 3 XL Dec 5th security update\n* Pixel 3 XL Dec 1st Google Play system update (Project Mainline)\n\nI already asked Google Photos forum and sent feedback via Photos app but no solution. There is another user having the same problem with Pixel 4 XL. Google Play system update is highly suspicious because for a little time after factory reset it worked with the app 4.33. then shortly after that it became unable again. Because of Google Play system update?\n\nThe worst thing of this issue is that Google doesn't let me know whether their developers are aware of this issue(and working on it) or not. All I can do is wondering.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-12-21T03:39:47.000106+00:00",
-    "reply": "0 Replies"
-}

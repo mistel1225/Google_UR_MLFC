@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/26989457/duplicate-contacts-but-only-in-the-phone-app?hl=en",
-    "title": "Duplicate contacts but ONLY in the Phone app",
-    "content": "First I want to clear that when I open my Google Contacts app, everything is fine.\nWhen I open the Google Phone app and click on the bottom right tab Contacts (inside the Phone app), some of the contacts have duplicates. For example my wife's name is Karolina. There are two identical Karolina contacts. If I click on the top one and then try to edit it, I get the message \"Failed to open editor\". When I click on the second Karolina contact, I can edit it and everything. And if I delete the first, uneditable Karolina contact, it deletes both contacts.\nThis same thing applies to a few of my contacts and usually ones that I communicate more often with.\nI also noticed a contact that used to be named Pesho, but then a few months ago I changed the name to something else. Right now there are two Pesho contacts in the Google Phone -> Contacts tab. There is no Pesho contact in the Google Contacts app.\nAny ideas on how to clear this mess?",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3",
-    "post_time": "2020-01-28T19:43:43.165112+00:00",
-    "reply": "5 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/78192407/pixel-3xl-picture-in-picture-is-buggy-and-can-t-be-moved-around?hl=en",
-    "title": "Pixel 3XL Picture-In-Picture is buggy and can't be moved around",
-    "content": "After the android 11 update, picture in picture stopped working properly. \n1) Engage picture in picture (occurs in all video apps I have tried - YouTube, Netflix, Plex)\n2) Picture window appears overlapping the keyboard\n3a) Click the window to engage controls\n4a) Window moves below the keyboard\n3b) Drag the window to move it\n4b) Window moves below the keyboard\n\nThis results in being unable to return to full screen no matter what I do.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2020-10-21T00:59:26.222948+00:00",
-    "reply": "2 Replies"
-}

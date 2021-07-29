@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/46218378/google-search-bar-on-pixel-launcher-stays-dark-when-switching-to-light-mode-on-certain-wallpaper?hl=en",
-    "title": "Google search bar on Pixel Launcher stays dark when switching to light mode on certain wallpaper",
-    "content": "So my unlocked Google Pixel 4 XL has an issue where if I have it set to automatic light/dark mode, when my phone switches back to light mode each morning the Google search bar stays dark. The strange thing is that this only happens with certain wallpaper, but among them is Google's own Come Alive wallpapers so I don't think it's a third-party issue. Some wallpapers, such as the older \"Pixie\" wallpaper, transition into light mode with the light search bar fine. But most Google come alive wallpapers do not.\n\nSo far I've cleared cache for the Pixel Launcher and Google app, and cleared storage for the Pixel Launcher (but not the Google app, not sure what that would affect), with no change. Can someone please help?",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 4 XL",
-    "post_time": "2020-05-12T15:52:49.327409+00:00",
-    "reply": "1 Reply"
-}

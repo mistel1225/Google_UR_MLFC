@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/73314406/pixel-2-xl-random-reboots-every-5-10-minutes-after-android-11-update-problem-goes-away-with-no-sim?hl=en",
-    "title": "Pixel 2 XL random reboots every 5-10 minutes after Android 11 update. Problem goes away with no SIM",
-    "content": "Basically what the title says. When I remove my sim, my Pixel 2 XL works perfectly, so I doubt it's a problem with a 3rd party app.\n\nI'm on AT&T.\n\nWhen my sim is in there, my phone soft reboots every 5-10 minutes. I can trigger it sometimes by sending or receiving a text message. This all started after updating to Android 11.\n\nAny ideas? if not, is there a way I can view the logs in Developer settings and share them?\n\nAs a separate question, all my text messages were accidentally deleted as I thought it was a problem with texting. They've been backed up through the auto backup option in Settings. Any way to restore them? I'm using Textra as my messaging app.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2020-09-26T03:06:41.559793+00:00",
-    "reply": "0 Replies"
-}

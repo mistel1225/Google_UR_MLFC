@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/111963461/pixel-4a-5g-soft-bricked-android-12-bootloader-locked-oem-locked-enable-oem-unlocking-off?hl=en",
-    "title": "Pixel 4A (5G) Soft-Bricked Android 12. Bootloader: locked. OEM: locked. Enable OEM Unlocking: OFF.",
-    "content": "I recently flashed Android 12 Beta on my Pixel 4A (5G) with the help of the \"Android Flash Tool\" on \"https://flash.android.com/\" and selected the lock bootloader option which locked the bootloader and factory reset the device.\n\nDuring the setup process in Android 12 Beta I got stuck on the Factory Reset Protection (FRP) screen where it asked me to input the security pattern or sign in with google account however upon entering the correct pattern or trying to sign into the google account it goes back to the previous screen and asks me to enter the passcode again. \n\nThis seems to be a bug with Android 12 Beta similar to the one described in this article: \"https://www.androidpolice.com/2021/05/18/android-12-beta-is-bricking-oneplus-9-phones-heres-how-to-fix-it/\"\n\nThe bootloader and oem are locked and I cannot access developer options to enable oem unlocking as i cannot setup the device. \n\nPlease Help.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4a (5G)",
-    "post_time": "2021-06-01T12:19:30.305344+00:00",
-    "reply": "1 Recommended Answer"
-}

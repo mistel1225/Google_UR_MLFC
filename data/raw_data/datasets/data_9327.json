@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/91286816/google-assistant-disables-bluetooth-functions?hl=en",
-    "title": "Google assistant disables Bluetooth functions",
-    "content": "A few weeks back I started having a problem with music and Google assistant. Whenever I ask Google to play a song, the Bluetooth functions of the device in connected to no longer respond.\n\nTo give an example:\nI'm in my car, I open Spotify and play a song manually - no issues everything's fine.\nThen I'll use the voice control button on the car (or I'll say \"hey Google\") to activate Google assistant and give a voice command \"play X on Spotify\"\nAssistant will play the song but now I can no longer skip or pause tracks. This problem persists until I restart Spotify.\nThe same issue happens when connected to a bluetooth speaker\n\nI've already contacted Spotify and tried everything such as clean reinstall, changing permissions and changing settings to absolutely no joy.\nI tried using SIRI on an iPhone and it worked perfectly so have narrowed it down to an assistant problem.\n\nAny advice?\nThanks in advance",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 4",
-    "post_time": "2020-12-30T23:24:43.85737+00:00",
-    "reply": "0 Replies"
-}

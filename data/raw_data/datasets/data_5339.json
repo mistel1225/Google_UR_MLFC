@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/101881159/pixel-3-battery-discharges-very-quickly-when-attached-to-computer-running-android-studio?hl=en",
-    "title": "Pixel 3 battery discharges very quickly when attached to computer running Android Studio",
-    "content": "I am using this Pixel 3 to test apps I write as well as Google example code using Android Studio. Since the March update the device enters  \"Optimizing for battery health\" mode and the battery continues to discharge very quickly. If I power off the Pixel 3 it will charge back up to 100% quite fast. I just booted it up when I started to report this problem and it is already down to 96%. Is this a known bug, or is my device defective? It is in a fairly cool place and I do not leave any non-Google apps on it nor do I use it except to test code changes.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3",
-    "post_time": "2021-03-12T11:02:41.916674+00:00",
-    "reply": "2 Replies"
-}

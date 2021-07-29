@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13722000/pixel-3-android-10-update-causing-the-phone-app-stuck-on-calling-for-about-20-seconds?hl=en",
-    "title": "Pixel 3, Android 10 update causing the phone app stuck on \"Calling\" for about 20 seconds",
-    "content": "After updating the Pixel 3 to Android 10, phone app is wonky.\n\nWhen I initiate a call, it will be stuck on \"Calling <contac>\" for about 20 seconds. After that it will start ringing and display the other buttons like speaker, diapad, mute etc.\n\nThis happens for all calls and all types of phone numbers.\n\nI cleared the cache and local storage of the Phone app, restarted etc multiple time but no luck.\n\nAnybody coming across this issue?",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3",
-    "post_time": "2019-09-06T13:20:50.552655+00:00",
-    "reply": "1 Recommended Answer"
-}

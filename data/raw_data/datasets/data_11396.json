@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/84428929/files-by-google-opens-always-to-internal-storage-screen-clicking-back-arrow-shuts-down-the-app?hl=en",
-    "title": "Files by Google: Opens always to Internal Storage screen. Clicking 'back' arrow shuts down the app",
-    "content": "Google files always opens to \"Internal Storage\" screen, rather than Home. Clicking on the arrow at the top to back up to the Home screen shuts down the app. The only way to get to the Home screen is to open Files by Google in Settings, then click Open from there. Once on the Home screen, any of the options can be opened. Returning to the Home screen then does work by clicking on the back arrow -- EXCEPT for \"Internal Storage\". After going to the \"Internal Storage\" screen, clicking the back arrow always shuts down the app. Since most tasks are done from the Home screen, this \"Internal Storage\" glitch when opening the app forces a a tedious, unnecessary workaround using Settings. Since the Files by Google app is built-in, it cannot be uninstalled and reinstalled.  Tried clearing the cache - no luck.  Any help appreciated.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2020-11-21T14:05:14.955805+00:00",
-    "reply": "1 Recommended Answer"
-}

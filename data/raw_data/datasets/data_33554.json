@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2006836/pixel-2-phone-gives-net-err-connection-reset-for-https-site-that-works-on-a-laptop?hl=en",
-    "title": "Pixel 2 phone gives net::ERR_CONNECTION_RESET for https site that works on a laptop.",
-    "content": "Hi,\nA couple sites I use with https simply give me an error in chrome with \"net::ERR_CONNECTION_RESET\". On pixel 2 In chrome, in safe mode too. With or without mobile data enabled.\nYet using the same WiFi connection on my MacBook or iPad it works just fine.\nIt's frustrating because there's not a lot of advanced options for the WiFi on Android and the hub is a 3 hub mesh from Google WiFi, which also doesn't have a lot of options.\nI did try the ipv6 being on or off, and dns being either isp or 8.8.8.8, or reset the phone and WiFi routers, yet the behavior is the same.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2019-03-03T11:58:25.455549+00:00",
-    "reply": "3 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/52278196/pixel-2xl-mini-os4-test-software?hl=en",
-    "title": "Pixel 2xl mini os4 test software",
-    "content": "Hello.\nI have pixel 2xl and she start on minios 4 test mode. \nHow to exit from this mode? \n\nFastboot work but can't flash firmware bootloader lock. \nRecavery works i try flash ota via adb sideload but phone said error signature package 21",
-    "is_img": 1,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2020-06-09T06:59:58.487057+00:00",
-    "reply": "1 Reply"
-}

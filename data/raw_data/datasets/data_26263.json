@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/19350452/pixel-won-t-recharge-won-t-restart?hl=en",
-    "title": "Pixel won't recharge, won't restart",
-    "content": "As of yesterday morning, phone is stuck with an icon showing the battery with a lightning bolt in it when I plug it in.\n\nI have tried multiple plugs and cables. \n\nIf the phone is plugged in, the icon is up continuously.  If not plugged in, it comes up with I press the power. \n\nI have managed to get to the Android restart (Power+VolDown buttons). \nPowering off just returns to the above problem (as soon as I plug it in to recharge, I get the battery-lightning icon up full time).\nDoing a Recover from that screen pulls up a static Google logo that remains on the the phone whether plugged in or not. I've left that up for an hour or two, with no change.\n\nI have let the phone drain completely (with that backlit Google logo it doesn't take long), but as soon as I plug in, I get that battery-lightning icon.\n\nI've gone through the pertinent items in \"Fix a Pixel phone that won't charge or turn on,\" to no avail. And I've ... run out of things to try.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel",
-    "post_time": "2019-11-11T22:09:54.431359+00:00",
-    "reply": "5 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/73694060/rotate-screen-pop-up-button-does-not-work?hl=en",
-    "title": "Rotate screen pop up button does not work",
-    "content": "When I rotate phone to landscape and press the button to change view everything is fine but when I want to go pack to portrait pressing button does nothing. If I will click as fast as I can as soon as this button appear phone will eventually rotate but if not I should rotate it to landscape and back in order to this button to show again. I made a sensor test and all sensors including accelerometer and gyroscope is working properly. If auto-rotate is turned on it rotates properly as well, the issue occures only if I use this pop up button. Any idea how to fix this?\n\nI'm on Pixel 2 XL with latest Android 11.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2020-09-28T10:26:58.042817+00:00",
-    "reply": "0 Replies"
-}

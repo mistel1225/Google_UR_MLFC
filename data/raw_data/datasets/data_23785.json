@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13031453/how-do-i-get-data-off-of-pixel-1-stuck-in-boot-loop-caused-by-over-full-memory?hl=en",
-    "title": "How do I get data off of Pixel 1 stuck in boot loop caused by over-full memory?",
-    "content": "I got multiple warnings that my memory was becoming full while I was on vacation and taking a lot of photos, but I wasn't able to take any of the pictures off to my computer because I didn't bring it with me. One day I attempted to take a picture, my phone froze and crashed, and when I tried to restart it, it just stayed stuck on the \"G\" screen with a loading bar beneath it. It will not progress past this screen. I have tried sideloading OTA using these instructions https://drive.google.com/file/d/0Bz6x7k-VkpUJMlZ1aEliVnhMOHM/view and this OTA file \"sailfish-ota-opm4.171019.021.p1-9fe2c539.zip\". My phone is still stuck in the boot loop after sideloading and restarting. I have some very important photos on this phone that I would like to save. Is there any way to recover them? Even as far as having to dismantle the phone is okay with me. I would rather save the data than the device.\n\nThank you.",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-08-28T14:42:32.379235+00:00",
-    "reply": "2 Recommended Answers"
-}

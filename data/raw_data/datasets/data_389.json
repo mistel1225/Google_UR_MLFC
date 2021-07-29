@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/114061380/active-edge-turned-on-but-assistant-won-t-launch-i-figured-it-out-finally?hl=en",
-    "title": "Active Edge Turned \"On\" but Assistant Won't Launch | I Figured it out, Finally!",
-    "content": "Here's the miles long fix:\n1. Go to settings and select Google.\n2. then, \"Settings for Google Apps\".\n3. then, \"Search, Assistant, and Voice\".\n4. then, \"Google Assistant\".\n5. then, and you might be able to skip this step, go to \"Voice Match\" and make sure it's turned on.\n6. then go to \"General\" and turn on Google Assistant.\n\nThere you go! That fixed it for me. Previously I could only turn on Active Edge in the basic menu but it did not restore functionality. Hope that helps!",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4 XL",
-    "post_time": "2021-06-18T23:45:12.554608+00:00",
-    "reply": "1 Reply"
-}

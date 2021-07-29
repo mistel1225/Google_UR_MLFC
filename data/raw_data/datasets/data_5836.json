@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/97203316/i-am-using-adaptive-charging-on-my-pixel-5-although-displayed-my-phone-charges-still-very-fast?hl=en",
-    "title": "I am using adaptive charging on my pixel 5, although displayed my phone charges still very fast.",
-    "content": "As far as I understood, adaptive charging slows down the charging process so that the phone reaches 100% when your alarm goes off. \n\nI have setup a smart plug before my charger to automatically turn off the charger when the battery hits 80% to save battery quality. When I plug in my mobile in the evening, it displays \"adaptive charging\" and shows me when it's full in the morning, but my phone reaches 80% within an hour. \n\nDoes adaptive charging only really work for the last couple of % or does it need to calibrate and I am screwing over the calibration process?",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 5",
-    "post_time": "2021-02-08T15:51:50.330129+00:00",
-    "reply": "1 Recommended Answer"
-}

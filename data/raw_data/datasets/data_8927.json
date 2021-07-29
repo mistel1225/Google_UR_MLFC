@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/92373662/cannot-restore-pixel-backup-after-system-restore-backup-visible-in-drive-on-desktop?hl=en",
-    "title": "Cannot restore pixel backup after system restore- backup visible in drive on desktop",
-    "content": "Pixel 3A XL on Jan version\n\nI backed up my phone in phone settings and verified it was completed as I can see it in https://drive.google.com/drive/backups from my desktop. Then after a factory restore on copy apps and data i clicked next, can't use old phone, then ok (i didn't have the option to restore from cloud as shown in the help section). Then I received the dreaded message \"no backups found\". \n\ni can see \"Google pixel 3a XL backup 1\" (with the #1 being colorful 1 depicting google one) from my desktop google drive. I also see number of apps, about 0.5mb of sms data when previewing. I can also see previously installed apps in the play store so i'm thinking it's there it's just not detecting it. Any ideas?",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3 XL",
-    "post_time": "2021-01-07T05:11:23.069572+00:00",
-    "reply": "2 Replies"
-}

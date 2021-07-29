@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/25191146/portrait-mode-is-broken-identify-foreground-and-background-wrong-after-late-2019-update?hl=en",
-    "title": "Portrait mode is broken (identify foreground and background wrong) after late 2019 update",
-    "content": "After the late 2019 update to Pixel 3, Portrait mode is having difficulty recognizing foreground and background correctly. For example, in this photograph, for the figure on the left, it identifies the top part of the body as the foreground but the lower part as the background. Also, the window frame is not identified correctly.\n\nIt doesn't seem to be capturing  distance information correctly.\n\nThis issue hasn't happened before the update.\n\nPortrait mode is basically broken for me now.",
-    "is_img": 1,
-    "category": "Camera, Google Pixel 3",
-    "post_time": "2020-01-09T23:46:06.424644+00:00",
-    "reply": "1 Reply"
-}

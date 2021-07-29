@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/83007060/pixel-3a-sound-dropping-in-and-out-when-connected-to-bluetooth-speaker-only-when-screen-is-locked?hl=en",
-    "title": "Pixel 3a sound dropping in and out when connected to Bluetooth speaker (only when screen is locked)",
-    "content": "My pixel 3a has recently started cutting in and out when connected to a Bluetooth speaker and Spotify is playing (have tried multiple speakers and have tried playing downloaded music and the same issue occurs). This is only happening when the screen is locked, so I'm thinking it may be an issue with a battery saving setting. The Bluetooth does not fully disconnect, it just cuts in and out. \n\n - I have tried resetting wifi, mobile and Bluetooth settings (no change)\n - I have had the same issue on multiple speakers (UE Megaboom, JBL Xtreme, SRS-XB01)\n - I am running Android version 11.\n - Battery Saver is turned off\n - Adaptive Battery is turned off\n - Spotify has permission to use battery in background\n\nI'm not sure what the issue is but it has only recently started (was having the same problem before updating to Android version 11 but no change after updating)\n\nHas anyone else had this problem?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2020-11-15T07:06:37.265207+00:00",
-    "reply": "1 Reply"
-}

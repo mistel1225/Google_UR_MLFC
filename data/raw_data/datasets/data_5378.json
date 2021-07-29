@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/101898839/why-is-pixel-4a-5g-is-not-respecting-wifi-calling-preferred-option?hl=en",
-    "title": "Why is Pixel 4a 5G is not respecting WIFI calling preferred option.",
-    "content": "My pixel 4a 5g is refusing to respect the WIFI preferred option and continues to use mobile network.  If I go to airplane mode and re-enable wifi, it makes wifi calls as expected, but when the mobile network is enabled the phone chooses to use the mobile network EVERY time!\n\nAt the same time, my Pixel 3 works just fine at choosing WIFI over Mobile - for me eliminating my local network configuration as an issue.  What's UP?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a (5G)",
-    "post_time": "2021-03-12T14:14:05.327259+00:00",
-    "reply": "1 Reply"
-}

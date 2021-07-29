@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2260027/transferring-data-from-pixel-during-setup-by-cable-does-not-preserve-wallpaper?hl=en",
-    "title": "Transferring data from Pixel during setup, by cable, does not preserve wallpaper",
-    "content": "I set up a new Pixel 2, and wanted to move data from my existing Pixel 2. Both are on the latest Android OS (9, forgot to note the build). \n\nI've restored data between two Pixel 2s before - previously, I used the backup function on the old phone, and restored onto the new phone over wifi using the backup restore function. This preserved the wallpaper. \n\nThis time, I restored using a USB-C cable, but it did not preserve the wallpaper.\n\nIt's a small issue, but just wanted to post for awareness.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 2",
-    "post_time": "2019-03-11T17:49:13.782868+00:00",
-    "reply": "0 Replies"
-}

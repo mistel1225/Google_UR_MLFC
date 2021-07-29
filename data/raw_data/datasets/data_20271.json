@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/54740789/whenever-i-turn-on-hotspot-connection-speed-drops-to-below-1mbps?hl=en",
-    "title": "Whenever I turn on Hotspot connection speed drops to below 1Mbps",
-    "content": "Hey all.\nBeen having an issue for weeks now. Previously i'd connect my laptop (MacBook Pro) to my Pixel 4 Hotspot (using 4g). I've had no issue previously, but now as soon as I turn on Hotspot my spee d(Tested via Ookla Speed Test) drops from around 60Mbps, right down to around 0.5Mbps. \n\nI'm using Three Mobile with an unlimited data account. Three are insisting they do not slow down phones even if tethering but I can't think how it'd be a hardware issue. \n\nIf I restart the phone & turn off Hotspot it eventually goes back up to full speed, soon as turn on Hotspot again issue reoccurs. \n\nAny advice here would be great. \n\nThanks",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
-    "post_time": "2020-06-21T15:01:03.348269+00:00",
-    "reply": "5 Replies"
-}

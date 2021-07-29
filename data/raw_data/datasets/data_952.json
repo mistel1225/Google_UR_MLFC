@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/112886765/pixel-4a-camera-crash-all-apps?hl=en",
-    "title": "Pixel 4a camera crash all apps",
-    "content": "For about 10 days, all applications trying to use the camera were crashing. These included camera app, viber, whatsup, facebook messenger, google duo that I purposedly tried. I followed all steps suggested including booting in safe mode and factory reset but had the same crash always. Just today as I was about to return the phone to seller, I disabled some features from developer settings for camera including Google Lens Suggestions, Framing hints, Video stabilization and Show dirty lens warning. Then opening the camera app was a success. After reenabling all 4 features the app keeps working correctly. I suspect this is a software bug, unfortunately as I was frustrated I didnt try to disable 1 feature at a time so as to be sure which was the culprit. Has anybody experience a similar issue?",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 4a",
-    "post_time": "2021-06-08T23:48:32.259941+00:00",
-    "reply": "0 Replies"
-}

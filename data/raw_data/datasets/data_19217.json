@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/58723311/number-labels-problem-in-phone-app?hl=en",
-    "title": "Number Labels Problem in Phone App",
-    "content": "I noticed this about a week ago when I tried to use Google assistant to make a phone call from Android Auto.  The issue appears to be with the Phone app however because the number type is mis labeled in my recent calls as well.\n\nThe issue is that for at least two of my contacts their number shows as \"mobile\" in my contacts app.  However when I try to make the call using Google assistant it tells me \"I don't have a mobile number for [Name Here]\".  When I open the phone app the mobile number is displayed as \"Other\" which is why the assistant isn't able to find it.  When I go into the contacts app there is no number listed as other for the contacts and the number that is showing up as \"other\" in the phone app is clearly labeled as the \"mobile\" in the contacts app.\n\nIs this a known issue?  If not, what is the resolution?  Thanks in advance .",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 4 XL",
-    "post_time": "2020-07-13T16:30:22.824537+00:00",
-    "reply": "2 Replies"
-}

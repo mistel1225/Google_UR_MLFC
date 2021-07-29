@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/92300158/pixel-wi-fi-connection-issue-domain-field?hl=en",
-    "title": "Pixel Wi-fi Connection Issue - Domain Field",
-    "content": "My work is using WEAP with PEAP & MSCHAPV2. My credentials (Identity and Password) are correct.\n\nInitially, over 6 years, I was able to connect just fine using the credentials provided. But recently, I noted I was not longer automatically connecting. After resetting my site's credentials and trying to reconnect by forgetting the wifi network, I noticed a new field labeled \"Domain\" as a required entry. In the past, this field didn't exist, or at least never showed. What is this field? Why is it needed? Could it be the reason why I can't connect to the network? If so, how do I inquire with my site's I.T team so they understand what needs to be done to fix this issue?\n\nOn another note, I tried to see if another user with a pixel had this same field and they did not. Apple devices don't request it, nor do other android phones from what I surveyed.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2021-01-06T17:02:12.782739+00:00",
-    "reply": "1 Recommended Answer"
-}

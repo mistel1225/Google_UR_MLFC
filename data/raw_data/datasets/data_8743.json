@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/93025805/how-can-i-install-a-ca-certificate-on-pixel?hl=en",
-    "title": "How can I install a CA Certificate on Pixel",
-    "content": "I want to install a CA certificate for server authentication on my phone. I know I can trust the server since I created the certificate myself.\nI try Install a certificate\\ CA Certificate\n\nFor crt file I get: \"Private key required to install certificate\"\nFor a joined public private key p12 file I get: \"This file can'T be used as a CA certificate\" but without any additional information and also it doesn'T make sense to have to use a private key...\n\nI tried googling this but there only seem to be very weird hacks etc..\n\nAs this it not a super fancy case I wonder how to do it ....",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2021-01-11T17:07:10.885456+00:00",
-    "reply": "0 Replies"
-}

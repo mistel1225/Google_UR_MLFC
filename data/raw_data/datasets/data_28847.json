@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/12261920/google-contacts-adds-a-phone-number-to-the-wrong-contact?hl=en",
-    "title": "Google Contacts adds a phone number to the wrong contact",
-    "content": "Google Contacts insists on adding a specific phone number to the wrong contact.\n\nI have two contacts. Let's call them Alice and Barry. Alice has a phone number +44 **** ******. I added this number to Alice's contact details some time ago, though I haven't used it until today, when she asked me to contact her.\n\nBut it got really confusing, until I understood why. Google has spotted Alice's number in one of Barry's emails (we're all friends), and Google has decided that this number belongs to Barry. I cannot remove the number from Barry's details.\n\nI edited Barry's details (on the desktop) to delete the number.\nOn Android (after refreshing the contacts — I had to restart the phone!)\nWhen I view Barry's details, it shows his correct number, but also Alice's phone number. When I edit Barry's details, Alice's number is mysteriously absent.\nWhen I search for Alice's number, both Alice and Barry come up in the search results.\nOn the desktop\nWhen I view Barry's details, it shows his correct number, but also the message, \"+44 **** ****** from Gmail\", with two buttons, \"Dismiss\" and \"Add\". Pressing \"Dismiss\" shows a waiting circle for a couple of seconds, but otherwise does nothing; the message remains there.\nCuriously, when I search for Alice's number, unlike on Android, only Alice comes up in the search results.\n\nOn Android, this is confusing other apps such as WhatsApp.\n\nWhat can I do to tell Google that, no, just because Alice's number appears in one of Barry's emails, it doesn't mean that it's Barry's number?\n\nThank you",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 2",
-    "post_time": "2019-08-18T12:46:49.191075+00:00",
-    "reply": "2 Replies"
-}

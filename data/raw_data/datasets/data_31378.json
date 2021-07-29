@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/5684566/making-receiving-calls-crashes-pixel?hl=en",
-    "title": "Making/Receiving Calls Crashes Pixel",
-    "content": "As many of you, Since april 2019 Pie's update my Pixel started crashing as I received phone calls forcing me to reboot it. Same happened while trying to make phone calls too.\n\nAnother funny symptoms:\n- Whatsapp calls don't work\n- Whatsapp audios won't play\n- Audiojack stopped working\n- Mic works randomly\n- System IU crash messages appear from time to time\n\nWhat has already been tried:\n- Rebooting in safe mode doesn't work\n- Reset the device to factory settings (though I reinstalled my apps, contacts and everything back from my Google Backup account, instead of going one by one)\n- Uninstalled Digital Wellbeing updates (cleaned cache, data, and forced to stop)\n- Uninstalled Phone App updates (cleaned cache, data, and Reinstalled it)\n\nToday (5/6/19) latest security update has been installed, yet everything's still much the same.\n\nWhat I have left to try:\n- Downgrading to Oreo\n- Upgrading to Q? (better not I guess)\n\nWhat I can't do:\n- Take it to any store or mail it to Google: since I live in Argentina, I don't have any hard support down here...\n\nAny help is truly appreciated. Cheers.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-05-07T22:46:17.820928+00:00",
-    "reply": "0 Replies"
-}

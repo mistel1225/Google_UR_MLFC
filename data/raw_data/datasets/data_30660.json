@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/7066645/how-to-fix-my-pixel-3-that-doesn-t-power-on?hl=en",
-    "title": "How to fix my Pixel 3 that doesn't power on?",
-    "content": "Yesterday when I was using my Pixel 3 as usual I realized it didn't turn on, even though it was charged. I tried holding on the power button more than 30 seconds. I also plugged my phone in to the original charger. When I hold down the power button when the phone is on charge the google image pops up only for a second and goes black again, sometimes flashing the charging symbol.\nI looked up the problem online and tried to reboot the phone. I held down the power button and the volume down button and entered to the fastboot mode. I tried every option and it didn't work. When the phone is in this mode, I also tried to troubleshoot it on my computer. I got an error saying Android Bootloader Interface is an older USC device and might not work with USB 3.0.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3",
-    "post_time": "2019-05-30T09:53:48.764529+00:00",
-    "reply": "1 Reply"
-}

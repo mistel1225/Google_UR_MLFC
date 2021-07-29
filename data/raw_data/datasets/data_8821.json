@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/92823167/ifttt-location-services-issue-on-4xl?hl=en",
-    "title": "IFTTT location services issue on 4XL",
-    "content": "I cannot get consistent triggers from location using IFTTT on the Pixel4XL.\n\nIFTTT is setup to take some action when I come home  but have been either non responsive or very delayed.  IFTTT was repeatedly telling me I've just entered a location I've been sitting at for hours. One time 4 hours after arriving home and then runs three days of event\n\nAs for IFTTT I've reset  and reinstalled, cleared Cache. Downloaded the Beta version to see if there were improvements - Nope.  I've also deleted the old applets and rebuilt them.  I also purchased subscription to Pro to see if that made a difference - Nope\n\nIn settings I've given them all full permissions, allowed exceptions from battery optimization. All location settings are turned on as well, with wifi/Bluetooth usage also turned on.  Battery optimization was turned off for this app.  Rebooted device numerous times.\n\nI use Waze for my commute and it doesn't jump around, as well as no unexpected results on my daily time-line.  I have tried not running Waze and there is no change to reliability.\n\nThe IFTTT app shows that it working in the background. if check is performed in the app says it's working also when you check location on IFTTT app, show my correct location.\n\nWhat has been overlooked?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2021-01-10T06:56:52.864843+00:00",
-    "reply": "0 Replies"
-}

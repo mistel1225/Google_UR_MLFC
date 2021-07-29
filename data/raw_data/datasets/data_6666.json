@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/98458094/pixel-3xl-with-android-version-11-use-system-certificates-menu-disable?hl=en",
-    "title": "Pixel 3XL with Android version 11 \"Use System certificates\" menu disable",
-    "content": "Hello There\n\nIs anyone knows why the phone \"Use system certificates\" menu disabled? Alternatively, How Can I enable the menu?\n\n\nAfter upgrade version 11, the phone can not authenticate with WPA2 Enterprise mode \"Do not validate\" option. so try to use a certificate, However the menu itself, not able to choose. Greyed out. \n\nI also test with Samsung S20 and Andriod 11/One UI 3.0, it can choose a \"Use system certificates\" option, it works fine. \n\nThanks",
-    "is_img": 1,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
-    "post_time": "2021-02-17T03:35:22.74975+00:00",
-    "reply": "3 Replies"
-}

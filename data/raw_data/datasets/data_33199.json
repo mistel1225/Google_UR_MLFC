@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2312430/backup-still-buggy-after-google-released-a-fix-backup-now-button-greyed-out-waiting-to-backup?hl=en",
-    "title": "Backup still buggy, after Google released a fix. Backup Now button greyed out, waiting to backup",
-    "content": "The only known fix is to do an ADB backup using an USB cable. I can't connect the pixels USB cable to my older laptop. But why make it so complicated in the first place, Google? It's a know bug now for a while, still hasent been fixed. This user has the same problem:\n\nhttps://support.google.com/pixelphone/thread/1520722?hl=en",
-    "is_img": 1,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2019-03-12T23:37:05.921582+00:00",
-    "reply": "1 Reply"
-}

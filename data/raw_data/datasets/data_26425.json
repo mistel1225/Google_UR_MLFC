@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/19411302/not-able-to-connect-to-home-wifi-with-pixel4?hl=en",
-    "title": "Not able to connect to home wifi with Pixel4",
-    "content": "I have troubles in connecting to the home router. Settings are: wifi= 5GHz, channel 40, SSID Broadcast = Yes, AP Isolation = No, Password WPA = xxxx, Management Frame Protection = Disabled, WPS enabled = No.\nMany other devices connect withou problems to this network.\nI have no problem in connecting with pixel to the wifi from another mobile phone used as a router.\n\nAny suggestions of which setting in the router can be creating the problem?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
-    "post_time": "2019-11-12T07:56:21.082881+00:00",
-    "reply": "0 Replies"
-}

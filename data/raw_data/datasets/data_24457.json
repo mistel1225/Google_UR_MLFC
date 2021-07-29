@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/5750860/bluegrass-cellular-usa-carrier-setting-severe-issues?hl=en",
-    "title": "Bluegrass Cellular (USA) carrier setting severe issues",
-    "content": "Insert Bluegrass Cellular sim card into any Pixel phone. Phone loads all settings of Verizon and displays throughout the phone that I am on Verizon. The carrier label in notifications, settings etc. I am not a Verizon customer. Even the access point names menu shows the Verizon APN This greatly cripples myself to use the phone and everyone else that uses pixels on my carrier. APN is greyed out and cannot be changed so MMS will not work Up until late last year, the carrier name would show properly but the phone would still force Verizon settings. Now it's full on Verizon through the phone. Ever since I have used a Google made phone (Nexus 6 and all XL pixel generations to present) this has been an issue. I used to work around it, but it is getting more and more difficult, especially on Pie and the Q beta. I have created bug reports in the past which have gone unnoticed. I hope one day these can be looked into by someone who notices this problem or can forward this issue to the proper channels. \n\nMore explanation/info is possible if needed.\n\nMost recent bug report I have filed\nhttps://issuetracker.google.com/issues/117988573\nQ bug report https://issuetracker.google.com/issues/131779604\n\nThanks.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth",
-    "post_time": "2019-05-08T21:11:28.462624+00:00",
-    "reply": "9 Replies"
-}

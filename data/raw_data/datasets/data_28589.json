@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13260806/pixel-2-error-slot-unbootable?hl=en",
-    "title": "Pixel 2 ERROR: Slot Unbootable",
-    "content": "My pixel 2 was in the Android Beta Program for Android Q and had some performance issues so I wanted to downgrade back to pie. I followed all the steps on the google website for downloading the factory image, unlocking the bootloader and running the flash-all script. After the script was completed and told me to exit, I unplugged the phone from my PC and booted it. It booted for a second and then booted into recovery mode and says at the bottom ERROR: Slot Unbootable:  Load Error  and is now stuck. When i try to put it in download mode it says operation denied.\nWhat can I do?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-08-31T13:58:12.248465+00:00",
-    "reply": "1 Reply"
-}

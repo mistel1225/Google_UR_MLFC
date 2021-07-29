@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/85867542/pixel-4-xl-a10-wi-fi-share-doesn-t-work?hl=en",
-    "title": "Pixel 4 xl A10 wi fi share doesn't work",
-    "content": "Pixel 4 xl, android 10 last build.\nWi fi share doesn't work. \nYesterday I couldn't connect to my wifi hotspot on my PC (win10) either it said 'cant connect' or very rarely \"connected, no internet\" i thought it was something with windows so I tried some troubleshooting there with no success. But I could still connect to hotspot with my laptop. \nNow today my laptop also have similar symptoms :/ as my PC so I'm pretty sure it's either due to android 10 or due to pixel.\n(I will mention here that if I connect my phone to pc via cable and enable usb thethering then everything works fine, can't check if it also works this way on laptop since I have only usb-c usb-c cable and only my PC have type-c slot on the motherboard)\n\nI've tried using safe mode, 2.4,5ghz, with or without password but that didn't helped.\n\nUpdate to android 11 is not an option here as well as factory reset.\n\n[Edit] my other android phone could connect but says \"no internet\"",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
-    "post_time": "2020-11-29T10:25:07.471002+00:00",
-    "reply": "1 Recommended Answer"
-}

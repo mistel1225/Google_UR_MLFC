@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/28193914/can-t-restore-devices-settings-sms-etc-after-fresh-reset-with-new-pin?hl=en",
-    "title": "Can't restore devices settings, SMS, etc after fresh reset with new PIN",
-    "content": "I had to reset my phone and create a new screen lock pin and could not restore old backup during the initial setup as it was requiring the OLD pin.  So i was instructed to skip restore and do later.\n\nThe restore is not happening properly.\n\nI have the restore backup in my google drive and I'm using Google One. I can preview the restore and see device settings, sms, and everything that i want restored but it's not happening.\n\nThere was no notification to finish setup or a box in settings telling me to finish setup\n\n I have learned that I need to reinstall G One and then click restore to bring back the Photos and Media, which it is doing right now but I am still not getting the device settings and call history, SMS restored.  I have learned that is Android's Job.\n\npictures of old and new backups with preview of data i want to restore but can't\n\nHow do I direct android to restore the call history, device settings, apps, etc?  I can see it in Google drive but don't know how to activate it and it is not happening automatically as it has been 3 days since Fresh reset and new Pin was created.\n\nThis has been going on for 3 days and i now see that there is a new backup added in google drive of the reset phone (which is not useful as it is a backup of the fresh reset).  This backup does not have the Google One icon behind it as i had not installed One when this backup was created.\n\nthanks for any help",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2020-02-09T17:38:49.126958+00:00",
-    "reply": "2 Replies"
-}

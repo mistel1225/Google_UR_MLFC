@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/81218848/changes-to-safe-mode-access-after-november-2020-update?hl=en",
-    "title": "Changes to safe mode access after November 2020 update....",
-    "content": "Just installed the November 2020 Android 11 update on my Pixel 3, and I noticed that the ability to launch safe mode by long-pressing the power off icon on the \"quick controls\" screen is now absent. Previously you could hold the mechanical power button in to reach the Quick Controls screen, then long-press the Power Off icon to get the option to re-launch in safe mode. Now long-pressing the Power Off icon does nothing.\n\nYou can reach safe mode from the phone when it is already off by holding the down volume mechanical button during boot, however it looks like November 2020 update has broken access to safe mode from a running phone. Anyone else notice this?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2020-11-05T20:38:21.908768+00:00",
-    "reply": "1 Recommended Answer"
-}

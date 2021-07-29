@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/86369399/cant-sign-into-amazon-apps-shopping-music-or-audible-on-4a5g?hl=en",
-    "title": "Cant sign into Amazon apps (Shopping, Music or Audible) on 4a5G",
-    "content": "I have a Pixel 4a 5G (coming from Pixel 2XL) and I cannot sign into any Amazon apps. Shopping, Music or Audible. It loads the app and then says three buttons \"Already a customer? Sign In\" \"New to Amazon.com\" \"Skip sign on\" if I click Already a customer, it loads the sign in button for literally 1 second then goes back to the previous page and says a toast notification \"Please check you internet connection and try again.(1)\"\n\nI have cleared data/cache. I have uninstalled, restarted and reinstalled. I have allowed every permission available in App settings but it will not allow me in. If I skip sign on its goes to a dog with \"uh oh something went wrong\" page. I can force a refresh and I can see the items for sale for again literally 1 second then it goes back to the uh oh page. It does this on all the apps. I can sign in fine on Chrome as a website.\n\nI went into Amazon settings and deauthorized all the devices just to see if there was some hidden limit but it didn't help.\n\nAny ideas?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4a (5G)",
-    "post_time": "2020-12-01T22:20:16.595422+00:00",
-    "reply": "1 Reply"
-}

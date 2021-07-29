@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/62347802/automatically-connect-to-open-networks-even-if-i-explicitly-ask-not-to?hl=en",
-    "title": "Automatically connect to open networks, even if I explicitly ask not to",
-    "content": "A feature showed up on my phone recently when it automatically connected to my grocery store wifi, one I've been intentionally ignoring for years. The feature appears in network advanced settings as \"Automatically connect to open wifi networks\" and was turned on.\n\nCreepy that it was enabled with my consent, but okay. I turned it off. Two days later my phone is connected to the grocery store wifi again. I check the setting and see that it has been reenabled (again without my consent). I thought maybe I was crazy so I disabled it again, exited and went back in, and confirmed that it was now disabled and the setting was getting captured correctly.\n\nToday I'm heading into the grocery store and on a hunch I check my network advanced settings. Lo and behold - the option has been reenabled yet again (without my consent yet again).\n\nI've since reset my network options, at Google customer service's request, and will give it a few days to see if it gets reenabled (without my consent) again.\n\nI'm mostly creating this thread in case others are experiencing the same behavior and having their device connecting to arbitrary networks without their consent.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2020-08-01T19:16:00.738548+00:00",
-    "reply": "1 Reply"
-}

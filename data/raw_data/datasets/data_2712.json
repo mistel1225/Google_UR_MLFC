@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/107920749/pixel-5-connection-to-nest-wifi-router-point-is-poor-and-does-not-show-in-devices-list?hl=en",
-    "title": "Pixel 5 connection to nest wifi router/point is poor and does not show in devices list",
-    "content": "My current setup is:\n- Xfinity cable modem in bridge mode\n- Nest wifi router + 1x nest wifi point\n\nI recently had to upgrade my Xfinity cable modem, so went through the exercise of replacing the old modem, setting the new one in bridge mode and restarted the modem/router setup. After that though, while all devices are connected and working properly, my pixel 5 is behaving oddly.\n\n- Does not show up in devices lists in the google home app. Overall, looks like a lot of connected devices are not showing up in the list (like smart plugs and cameras) even though they are working fine.\n- Does not seem to connect to the wifi point even when inches away and hence shows poor/fair wifi connection --> ends up buffering or not streaming content due to poor network\n\nSo far, I have done the following:\n1) Reset network/bluetooth/wireless settings on the phone\n2) Restarted my entire network\n\nThoughts and ideas on how to troubleshoot?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2021-04-28T17:24:10.535249+00:00",
-    "reply": "1 Reply"
-}

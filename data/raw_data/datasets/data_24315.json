@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/19741757/google-play-service-location-not-working?hl=en",
-    "title": "Google Play Service Location not working",
-    "content": "I have setup my new Pixel 4 XL. And I am facing a serious issue with GPS.\n\nGoogle Map always using the network location and it is not accurate nor in time. I have to reboot my device to make it work with GPS signals, and 2 minutes later it will use network location only again. If I turn off the Google Location Accuracy, I cannot even get my location at all.\n\nI downloaded GPS Test in Google Play Store and it shows that GPS signals are great.\n\n\nI downloaded another map app called AMap, it works properly.\n\nI downloaded GPS Fix in Google Play Store, it shows below:\n\n\nApparently there are something wrong with Google Play Services, I checked Location Permissions that Google Play has all time location permission.\n\nI also tried to reboot into safe mode the issue is same.",
-    "is_img": 1,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
-    "post_time": "2019-11-14T05:44:54.715288+00:00",
-    "reply": "1 Reply"
-}

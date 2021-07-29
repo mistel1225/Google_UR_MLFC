@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/16742659/pixel-2-only-finds-5ghz-networks-if-phone-is-in-airplane-mode-with-wifi-on?hl=en",
-    "title": "Pixel 2 only finds 5GHz networks if phone is in airplane mode with WiFI on",
-    "content": "Pixel 2 phone can't find my 5GHz networks at all, other devices can find and connect without issues. I discovered that if I put phone in airplane mode and turn wifi on, it can find and connect such 5GHz networks without issues.\n\nAs soon as I turn airplane mode off and restart wifi, 5GHz networks can't be found again.\n\nAny ideas?\n\n(5GHz network is using channel 40, I have tried 36, 40, 44, 48 channels and the issue remains)",
-    "is_img": 1,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2019-10-14T01:45:48.704132+00:00",
-    "reply": "6 Replies"
-}

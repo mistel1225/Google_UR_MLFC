@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/92421061/pixel-5-only-chrome-can-access-microphone?hl=en",
-    "title": "Pixel 5 - Only Chrome can access microphone",
-    "content": "Has anyone ever seen an issue where a device (specifically Pixel 5) where only Chrome can access the microphone or bluetooth mics?  Here are the details:\n\n- Updated to January 2021 security patch seems to have caused the issue\n- No applications besides websites in Chrome can access audio\n- Can't make phone calls using phone or bluetooth headset\n- Can't record audio using phone or bluetooth headset\n- Performed factory reset at request of support, and still doesn't work\n\nAt this point, it seems related to the January 2021 security patch.  Support wasn't overly helpful except for suggesting a device swap.\n\nHas anyone else seen anything like this?  Any suggestions would be highly appreciated.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 5",
-    "post_time": "2021-01-07T12:59:22.263879+00:00",
-    "reply": "3 Replies"
-}

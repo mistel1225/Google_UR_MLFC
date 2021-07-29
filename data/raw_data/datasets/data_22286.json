@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/14222745/pixel-won-t-connect-to-nonbroadcasting-ssid-after-android-10-upgrade?hl=en",
-    "title": "Pixel won't connect to nonbroadcasting SSID after android 10 upgrade",
-    "content": "Pixel won't connect to a wifi SSID that is not broadcasting. This was working before the OS upgrade.\nI can connect to all other SSIDs on the same access point. If I make it broadcast the SSID, the phone is able to connect. As soon as I switch off the broadcast SSID option, I get network out of range on the phone.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-09-12T18:43:48.46927+00:00",
-    "reply": "2 Recommended Answers"
-}

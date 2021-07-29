@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/79939838/what-happened-fairly-new-phone-with-very-few-apps-it-looks-like-some-debug-or-test-mode?hl=en",
-    "title": "What happened fairly new phone with very few apps? It looks like some debug or test mode.",
-    "content": "It kinda seems like some debug mode is turned on...one screen is like this:\n\nMobile data & Wi-Fi\n\nSettings Storage\ncom.android.localtransport\nAndroid System\ncom.android.server.NetworkPermissionConfig\nFused Location\nInput Devices\nSettings\ncom.android.wallapaperbackup\n.\n.\n.",
-    "is_img": 1,
-    "category": "Device Performance, Google Pixel 4a",
-    "post_time": "2020-10-30T05:55:15.201462+00:00",
-    "reply": "1 Reply"
-}

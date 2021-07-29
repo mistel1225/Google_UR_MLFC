@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/7138515/this-is-more-of-a-statement-some-people-will-throw-out-they-phones-if-they-phone-not-regular-boot?hl=en",
-    "title": "This is more of a statement, some people will throw out they phones if they phone not regular boot",
-    "content": "This along with the loss of adb/fastboot (or false hard bricks) causes most people to give up and throw out phone or send it in for electrical loading of the bootloader, this in most cases is a mistake, if ur phone appears hard bricked hold the power down for up to 5 mins or untill u get a vibrantion, u may need to plug it in and just let it sit for a couple hours as well, even though my phone seemed unresponsive to the charger, I came back a couple hours later held down power and it came back to life soft bricked, and if adb/ fastboot doesn't seem to function it is most likely corrupt on the computers end, restore that mofo to an earlier time or check ur environment variable even if it's not directly path with any adb/fastboot, computers are bishes and everything touching everything else some ways, anywho just give it a day first and try what I said, I bet 90% of u come back on only soft brick",
-    "is_img": 0,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-05-31T14:09:02.85758+00:00",
-    "reply": "1 Reply"
-}

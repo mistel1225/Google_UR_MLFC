@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/96152449/screen-won-t-respond-after-unlocking?hl=en",
-    "title": "Screen won't respond after unlocking",
-    "content": "It doesn't happen every time, but in the last couple of weeks or so, I'll unlock my phone using the facial recognition and the touchscreen doesn't respond at all. The power, volume and assistant (squeeze the bottom) buttons all work, but the touchscreen does nothing. I've been able to fix it by squeezing and telling the assistant to open an app or by locking and unlocking the phone, but this does not always work the first time. I've restarted and opened up in safe mode. The restart does not help, and I could not get it to replicate the issue in safe mode. I've also uninstalled recent apps, but the issue persists.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4",
-    "post_time": "2021-02-01T17:41:20.420578+00:00",
-    "reply": "1 Reply"
-}

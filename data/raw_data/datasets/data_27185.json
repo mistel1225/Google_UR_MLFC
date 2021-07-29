@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17250113/is-battery-saver-actually-functioning-well?hl=en",
-    "title": "Is Battery Saver actually functioning well ?",
-    "content": "Having Android 10, the battery is not much better. Normally I get less than 4 hours SOT in a day.\nI am trying Battery Saver mode, and didn't find it useful either. Many apps still running in background.\n\nEG the popular Facebook app with Background restriction. Active use 46 mins, background 5 hours 24 min. Many apps which I didn't open, also have many background process.\n\nFurther, I found out the phone drains battery very fast after unplug cable from charging. It seems like all the apps are doing \"things\" in background, draining ~ 5~10% battery in abnormal pace.\n\nPlease do not recommend to factory reset / reboot phone / clear cache, etc.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3 XL",
-    "post_time": "2019-10-20T08:15:30.693111+00:00",
-    "reply": "1 Reply"
-}

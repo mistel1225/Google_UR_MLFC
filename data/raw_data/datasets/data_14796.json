@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/75681345/mr-12-will-not-load-onto-pixel-3-3a-xl-4xl-or-4-xl?hl=en",
-    "title": "MR 12 will not load onto Pixel 3, 3a XL, 4XL, or 4 XL",
-    "content": "Cannot load T-Mobile Pixel 3, 3a XL, 4, and 4 XL MR12 using adb. Looks like it loads, but then adb reports \"adb: failed to read command: No error\", which is fine, but then when I do a factory reset on the devices and then power them back up they still have the previous software version. Any ideas as to why MR 12 won't load? Also notice during the factory reset the devices scroll \"E: can't send spi message: Try again\". Have never had any of the devices scroll this after any other updates I've done.\n\nWas able to update 3a and 3 XL to MR 12 without any problems.\nMR 11 loaded without issue so the devices are on 11. Have used adb to load all of the MRs on these devices since they've been out and I've had them.\n\nThanks",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2020-10-08T15:57:40.696304+00:00",
-    "reply": "0 Replies"
-}

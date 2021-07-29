@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/84094450/pixel-4a-drops-call-immediately-after-dialing-cannot-receive-any-calls-too-reboot-fixes-the-issue?hl=en",
-    "title": "Pixel 4a drops call immediately after dialing. Cannot receive any calls too. Reboot fixes the issue.",
-    "content": "I use Pixel 4a on RedPocket GSMA (AT&T) network. I've been facing this issue since I got Pixel 4a / Android 11. Every now & then, I would be unable to make calls. When I dial anyone, the call drops immediately. At that time, no one can reach me either. All incoming calls get routed to voicemail & the phone doesn't show notifications for the new voicemails either. \n\nToggling Airplane mode doesn't fix the issue, but rebooting the phone fixes the issue. The issue appears again in around a week's time. The biggest problem is I do not know when the issue starts, and miss multiple calls. I realize the issue has started only when I make a call. \n\nThe issue is exactly the same issue reported for Pixel 5 in the below thread. There is a response that a fix will be rolling out next week. Can you please confirm if the fix will be rolled out to Pixel 4a as well? \n\nhttps://support.google.com/pixelphone/thread/81013955?hl=en&msgid=84081837",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
-    "post_time": "2020-11-19T23:34:44.870224+00:00",
-    "reply": "14 Replies"
-}

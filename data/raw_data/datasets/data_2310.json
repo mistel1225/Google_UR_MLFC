@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/109293818/pixel-5-android-12-developer-preview-ota-sideload-failed-at-94-and-now-it-says-no-operating-system?hl=en",
-    "title": "Pixel 5 Android 12 Developer Preview OTA Sideload failed at 94% and now it says no operating system",
-    "content": "I tried to install Android Developer Preview 12 on my Pixel 5 via OTA Sideload but it failed at 94% and now it says, \"Can't find valid operating system. The device will not start.\"\n\nI tried going into recovery through bootloader but it shows the same message.\n\nUnfortunately I had not enabled OEM unlocking in the developer options before trying to install the Developer Preview, which is now not letting me unlock the bootloader.\n\nPlease help me fix the issue or help me find a way to unlock the bootloader without enabling OEM unlock.\n\nThanks in advance.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 5",
-    "post_time": "2021-05-10T08:46:37.123039+00:00",
-    "reply": "8 Replies"
-}

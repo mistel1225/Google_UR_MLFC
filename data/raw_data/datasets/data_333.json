@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/84208431/pixel-4a-5g-dropping-connections?hl=en",
-    "title": "Pixel 4A 5G Dropping Connections",
-    "content": "Got the T-Mobile Pixel 4a 5G yesterday.  The device is consistently dropping connections - both mobile network and WiFi are seemingly losing signal and reconnecting multiple times a minute.  If I restart my phone, it stays solid for about 3-5 minutes and then begins the cycle again. \n\nSo far, I've done a full system reset, reset my home network (Nest Wifi with 40+ devices connected with no issues) and swapped SIMs from a different phone that was working to rule that out.  I also took the SIM from the Pixel and moved it into another phone and it retained the connection with no issue.  \n\nEverything points to a bug or issue with my hardware.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a (5G)",
-    "post_time": "2020-11-20T13:54:08.2073+00:00",
-    "reply": "49 Replies"
-}

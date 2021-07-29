@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/4403651/pixel-3-and-lte-band-46?hl=en",
-    "title": "Pixel 3 and LTE Band 46",
-    "content": "I am looking to use the Pixel 3 as an endpoint on a private LTE network using Band 46 (unlicensed 5GHz spectrum).\n\nCan the handset operate in 5GHz only, which is the Multefire specification, or is it restricted to LAA for offload only, thereby requiring a main licensed LTE connection?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2019-04-17T23:53:29.640326+00:00",
-    "reply": "0 Replies"
-}

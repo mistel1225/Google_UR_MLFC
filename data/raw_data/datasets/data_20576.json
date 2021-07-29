@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/53884965/doesn-t-work-telegram-incoming-calls-in-do-not-disturb-mode-with-enabled-override-dnd?hl=en",
-    "title": "Doesn't work Telegram incoming calls in Do Not Disturb mode with enabled \"override DND\"",
-    "content": "I've faced the problem of Telegram incoming calls in Do Not Disturb mode. The problem is when I turn 'override DND' on for Telegram incoming calls, there is no call sound. And when I have missed call, override DND becomes disable.\n\nTo reproduce this bug you need:\n1. Enable DND mode;\n2. Turn 'override DND' on for Telegram incoming calls in Android notification settings;\n3. Call yourself from someone else's phone (there will be no sound - this is the bug);\n4. Check Telegram incoming calls in Android notification settings (there will be disabled 'override DND mode' - this is the bug).\n\nHere's the video I recorded to demonstrate you this bug - https://photos.app.goo.gl/nToCKJ8zzquuzLcw8.\n\nDoes someone else faced this bug? Is that Telegram bug or Android DND mode? Can it be fixed?\n\nP.S. Sorry for my grammar mistakes, I keep learning. :)",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 2",
-    "post_time": "2020-06-16T20:12:03.38703+00:00",
-    "reply": "1 Recommended Answer"
-}

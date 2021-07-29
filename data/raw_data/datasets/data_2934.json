@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/107033111/how-can-i-get-out-of-fastboot-mode?hl=en",
-    "title": "How Can I Get Out Of Fastboot Mode?",
-    "content": "My Pixel 3 XL is recently experiencing some odd behavior. Keep in mind, I've had this phone for a little over two years. Just this morning, I restarted my phone but would not bring up the usual Google animation. Instead, it suddenly went to the Fastboot menu. I tried using all of the options it had; start, rescue mode, recovery mode, power off, nothing worked. It only brought me back to the menu with the device state of \"error\" and the reason is that it failed to load/verify boot images.\n\nNone of the steps I found online brought me any closer to figuring out the problem or even fixing it. I have not brought it into a store for tech support to look into yet, but I'm wondering if there was a way I can fix it without doing anything major.\n\nDoes anybody have anything that can help?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2021-04-21T16:15:58.658213+00:00",
-    "reply": "1 Recommended Answer"
-}

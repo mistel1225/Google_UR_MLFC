@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/49798869/what-sites-are-used-on-a-pixel-when-undertaking-the-internet-connection-test-on-a-wifi-service?hl=en",
-    "title": "What sites are used on a Pixel when undertaking the internet connection test on a WiFi Service",
-    "content": "We have a captive portal on the business network that users must authenticate to before gaining access to the internet.  The Android phones will connect to the WiFi no problems but then advise there is no internet on that connection as they cannot access the internet as they have not authenticated via the captive portal.\nI assume the Pixel handset undertakes a test to specific sites to see if there is internet access, i am trying to find out what they are so we can allow them through the firewall so the phone then thinks it has a connection and then will bring up the captive portal.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
-    "post_time": "2020-05-29T01:01:03.533531+00:00",
-    "reply": "2 Recommended Answers"
-}

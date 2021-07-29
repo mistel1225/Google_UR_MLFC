@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/50882095/dont-skip-screen-lock-pixel-3?hl=en",
-    "title": "Dont skip screen lock Pixel 3",
-    "content": "Hey people! I've been trying to find out if there is a way to use fingerprint but stay in the lockscreen but I didn't find any answer.\n\nWhat I would like to be able to do is to unlock content of notifications from lockscreen without going to home screen, kind of how face recognition works.\n\nHas anyone ever tried this? Is there any module or adb command that would make this possible?\n\nThanks in advance.\n\nPs. Im using a Pixel 3 running Android 10",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3",
-    "post_time": "2020-06-03T01:31:43.214298+00:00",
-    "reply": "1 Reply"
-}

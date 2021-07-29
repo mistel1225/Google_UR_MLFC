@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/23975425/cannot-get-past-security-certificate-screen-for-corporate-outlook-pixel-3?hl=en",
-    "title": "Cannot get past security certificate screen for Corporate Outlook--Pixel 3",
-    "content": "Essentially, I work for a company (Celgene) that uses an app called Airwatch Intelligent Hub, which manages their employees' device access to such things like Outlook.  In other words, Intelligent Hub gets installed from the Play store, which then automatically installs locked down versions of Outlook, Excel, etc.  User is required to select/approve a bunch of certificates, which I have.  Then, when I go to log in to Outlook app, I get an error message that says I need to choose a higher level of security in order to log into the MS Exchange authentication process.  However, no security certificates get presented... as if a popup is being blocked.  My company says it's a known issue with Google Pixel phones.  They say the app developer Airwatch is aware.  But I'd like to know if anyone else has this issue with their corporate-managed Outlook, or if anyone has a solution??  Thanks.",
-    "is_img": 1,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2019-12-27T18:33:24.310384+00:00",
-    "reply": "1 Recommended Answer"
-}

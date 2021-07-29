@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/41247140/app-is-not-available-on-pixel-4-even-though-publisher-says-it-should-be?hl=en",
-    "title": "App is not available on Pixel 4 even though publisher says it should be",
-    "content": "I go to https://play.google.com/store/apps/details?id=com.freestylelibre.app.ch, click Install and then I see the Pixel 4 listed but disabled \"This item is not compatible with your device.\"\n\nI called the technical team and they told me the only requirement of the app is Android >= 5 and an NFC sensor. Pixel 4 has both so our conclusion was that it's a Google Store issue.\n\nSince the \"FreeStyle LibreLink - CH\" app is specifically for Switzerland, they directed me to check on the phone in Google Play > Account and I confirm the country is \"Switzerland\".\n\nCan anybody from Google help to figure out why the app is not available?\nIs there a different better channel for contacting Google about this?\nWould it be more easy for the publisher to do this than me, a nobody user?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4",
-    "post_time": "2020-04-20T12:08:36.130099+00:00",
-    "reply": "1 Recommended Answer"
-}

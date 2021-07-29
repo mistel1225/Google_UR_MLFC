@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/11995004/my-pixel-usb-c-earbuds-register-false-button-presses?hl=en",
-    "title": "My Pixel USB-C earbuds register false button presses",
-    "content": "I have two pairs of Pixel USB-C earbuds (ones that came with my Pixel 3 and an extra pair I purchased at the same time). Both exhibit the same issue: they register false button presses (volume up being held, volume down being held or middle assistant button being held).\n\nThis occurs when working out. The buttons are not being physically touched, though sweat may be a factor. Unplugging and plugging back in the usb-c doesn't fix the issue. Rebooting the phone temporarily fixes it (or seems to, may be red herring), but that's problematic since I tend to be using gps tracking for my workout.\n\nI can remove google assistant, but the volume keys are still active. When using a (google) usb-c to headphone adapter I don't have any issues, so the usb port isn't a factor.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2019-08-14T18:01:53.674747+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/77699254/pixel-5-running-temperature?hl=en",
-    "title": "Pixel 5 running temperature",
-    "content": "Hi all,\n\nUsing a new Pixel 5. The phone isn't in a case, and isn't charging at the same time I use the apps. If I charge the phone with the supplied charger it heats up quickly.\n\nDuring regular use e.g. browsing internet or YouTube app, the phone gets warm - but not hot, and doesn't throttle. After 10 minutes, the CPU is 30c and battery is 27c.\n\nNetflix - after 10 minutes, the CPU is 36c and battery is 33c. Phone is running warm but not hot.\n\nUsing the below apps, the phone is hot to touch very quickly:\n\nDiscord - very quickly, CPU is 39c and battery is 35c.\nRecording 4k - after 8 mins: CPU is 40c, battery is 36c. The phone seems much slower, juddering and has loading screens when launching apps.\n\nWhen I tried to charge the phone after using Discord or recording 4k with the above temperatures, the battery % didn't increase. I had to unplug the charger and then plug it in again after a while to charge.\n\nDoes the high temperature disable the USB port?\n\nIs the above expected behaviour? My previous device didn't have these temperature issues.\n\nThanks",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 5",
-    "post_time": "2020-10-18T15:29:31.755031+00:00",
-    "reply": "10 Replies"
-}

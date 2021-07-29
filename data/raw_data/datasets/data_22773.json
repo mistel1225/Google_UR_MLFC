@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/29816190/dnd-settings-forgets-my-exceptions-and-reverts-to-default-preferences?hl=en",
-    "title": "DND settings *forgets* my exceptions and reverts to default preferences",
-    "content": "My issues seems to be different than what I have I have found other users reporting here (and has been deemed fixed) on issues tracker.\n\n1. In DND exceptions, I select\n\na. \"allow calls from starred contacts only\" \n\nand\n\nb. \"allow messages from starred contacts only\"\n\n2. However, the next time I enable DND, it forgets my exceptions and reverts to the default behaviors of allow calls \"From anyone\" and reverts messages to \"Don't allow messages from anyone.\"\n\nThis directly contradicts what I'm trying to accomplish with the exceptions rules in that I *always* want calls and texts to come through from starred contacts during DND, so I'm wondering if the reversal of my exceptions is considered a feature that most users want, because it's just an annoyance for me to have to check the same exceptions every time I enable DND as well as being potentially dangerous if I forget to check to see if my exceptions have been reverted and miss a text by a starred contact that I explicitly wanted to be allowed through.\n\nI experienced this on my Pixel 2XL and was surprised it still appeared on my brand new 4XL with latest patches.\n\nI posted this on issue tracker as well as searching here and didn't find others posting the exact problem I'm experiencing so that made me wonder if this behavior or reverting to defaults is by design.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4 XL",
-    "post_time": "2020-02-25T19:21:02.673212+00:00",
-    "reply": "4 Recommended Answers"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/73120503/dropbox-offline-files-no-longer-visible-to-other-apps-after-android-11-update?hl=en",
-    "title": "Dropbox offline files no longer visible to other apps after Android 11 update",
-    "content": "I keep my own digital music library on dropbox and I use the \"make available offline\" feature in the dropbox app so that these files can be discovered by my music player, poweramp. When I upgraded my pixel to android 11 poweramp reported that there were no longer any files available to it. I searched with the files app for the dropbox folder and it is no longer there. It's as if the latest version protects applications data folders from other applications where previously this wasn't happening.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2020-09-25T02:17:16.244522+00:00",
-    "reply": "1 Recommended Answer"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13755684/pixel-3xl-no-longer-makes-or-receives-phone-calls-on-t-mobile-after-android-10-update?hl=en",
-    "title": "Pixel 3XL No longer makes or receives phone calls on T-Mobile after Android 10 Update",
-    "content": "I am trying to receive or make calls from my Pixel 3 XL now that I upgraded to Android 10 and it no longer works.  The signal indicator switches from LTE to H+ during the attempt, but ultimately switches back to LTE with no phone call placed or received.  I dont understand how Google can release an update that takes away the core functionality of a phone away from my phone.  Speed test looks good for data (40Mbps ovs LTE up and down) so it's not a connectivity issue but rather It's a phone call issue.  Oddly, Skype and Google Voice are also unable to make calls.  Booting into safe mode I have no cell signal but if I connect to WiFi, then WiFi calling works fine.\n\nUpdate 6:00pm:\nClearing the cache and user data did nothing at first.  Then I uninstalled all updates and went to the factory default version of the phone app and then cleared user data and cache again.  Now calling is working again.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3 XL",
-    "post_time": "2019-09-06T21:41:50.072273+00:00",
-    "reply": "1 Recommended Answer"
-}

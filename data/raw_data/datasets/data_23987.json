@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/22376350/camera-broken-after-december-update?hl=en",
-    "title": "Camera broken after December update",
-    "content": "After a security update in December 2019, the main camera stopped working. When I start the Google Camera application, it closes. When using external applications, the front camera only works, the rear one gives the error \"Cannot connect to the camera.\" I updated the application, rolled back the update, reset the cache and wipe data of the Camera application, completely reset the phone - nothing helps, the camera crashes.\n\nI recorded a video: https://youtu.be/4Uo4awKrpWY\n\nI collected the logs using adb logcat: https://pastebin.com/Lxn9Y8JL\n\nThe phone did not drop, the camera broke itself",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3 XL",
-    "post_time": "2019-12-09T17:13:41.077785+00:00",
-    "reply": "1 Recommended Answer"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/75310228/where-is-ramdump-collected-on-a-pixel-phone?hl=en",
-    "title": "where is ramdump collected on a pixel phone?",
-    "content": "Collecting ramdump since device goes into badstate often. Enabled ramdump mode but looks like ramdump is collected in different location for different phones. Couldn't find the RAMDUMP_OUTPUT where it is supposed to be according to web, so needs to find where it is collected inorder to pull it for debugging.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4",
-    "post_time": "2020-10-06T18:58:17.150644+00:00",
-    "reply": "0 Replies"
-}

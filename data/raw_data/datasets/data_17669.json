@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/65659531/ringtone-file-isn-t-converted-to-ogg?hl=en",
-    "title": "Ringtone file isn't converted to ogg",
-    "content": "When I put .mp3 ringtone files in the Ringtones folder, they appear in My Sounds in Settings, and if I select them they play and they show up under Ringtone in the Settings/Sounds dialog. All should be well. However, they don't work when I get calls.\n\nI discovered that all ringtones selected from the ones that came with the phone are converted to .ogg files after selecting and appear in the folder Android/media/com.google.android.soundpicker/Ringtones with the form sound_picker_track_239.ogg (with different numbers for different ringtones). However, custom ones that I add are not converted to .ogg files and put there. I have tried .mp3, .wav, and even .ogg files. They continue to show up in the My Sounds category in the Ringtones picker, but the phone isn't converting them to a usable .ogg file and placing them in the soundpicker folder. \n\nOne of the ringtones I tried was downloaded from the web several years ago and used since then on other phones. When that one wouldn't work, I found the same one from another source and downloaded and tried it, but that file wouldn't work either.\n\nSo something is keeping Pixel from converting these custom files to .ogg format and placing them in the appropriate folder. Any ideas why or what I might do to force it to work?",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 2",
-    "post_time": "2020-08-19T02:56:50.56082+00:00",
-    "reply": "8 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/27942410/which-dns-server-is-preferred-in-the-dot-dns-over-tls-service?hl=en",
-    "title": "Which DNS server is preferred in the DoT ( Dns over TLS ) service?",
-    "content": "Private DNS selection \"automatic\"\n\nMy Pixel 4 wifi gets DNS1(Primary) through DHCP is 8.8.8.8 DNS2(Secondary) is 1.1.1.1, but DNS uses DNS2 1.1.1.1:853 (DoT Service), why Not DNS1 8.8.8.8:853 (DoT Service).",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
-    "post_time": "2020-02-07T06:13:56.877385+00:00",
-    "reply": "3 Replies"
-}

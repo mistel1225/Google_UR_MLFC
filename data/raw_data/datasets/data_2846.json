@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/107602044/phone-in-bootloader-is-invisible-to-my-computer?hl=en",
-    "title": "Phone in bootloader is invisible to my computer",
-    "content": "I want to downgrade to android 9 in order to install ubuntu touch on my phone. When i try to unlock bootloader via fastboot, my computer doesn't recognise my device and i can't unlock bootloader. I tried reinstalling my adb, fastboot drivers and i tried different computer, i ran into the same issue.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2021-04-26T09:37:51.11608+00:00",
-    "reply": "1 Reply"
-}

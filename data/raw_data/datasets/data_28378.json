@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13605095/home-scrn-swipe-right-doesn-t-display-google-feed-as-expected-it-is-properly-enabled-reboot-fix-it?hl=en",
-    "title": "Home scrn swipe right doesn't display Google Feed as expected-it is properly enabled.Reboot fix it.",
-    "content": "The following attempts to fix work for a single test swipe but fail on second swipe.\n1) toggle home screen setting for Google Feed off and back on\n2) reboot\n3) launch from icon",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel",
-    "post_time": "2019-09-05T02:23:47.303083+00:00",
-    "reply": "2 Replies"
-}

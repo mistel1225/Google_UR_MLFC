@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/85346442/pixel-5-screen-is-flickering-in-apps-with-dark-background?hl=en",
-    "title": "Pixel 5 screen is flickering in apps with dark background",
-    "content": "It happens only in 90 Hz. I assume because of pixel trying to optimize battery usage, and jumping between 60 and 90 Hz.\nTherefore, switching permanently to 60 Hz in Settings fixes the problem.\n\nHowever, that's obviously a software bug which needs to be fixed.\n\nThanks in advance!",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 5",
-    "post_time": "2020-11-26T07:42:14.182714+00:00",
-    "reply": "0 Replies"
-}

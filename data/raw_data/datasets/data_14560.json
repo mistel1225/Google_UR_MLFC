@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/76526796/pixel-4-xl-android-11-breaks-initialization-of-astrophotography-mode?hl=en",
-    "title": "Pixel 4 XL >>> Android 11 breaks initialization of astrophotography mode",
-    "content": "After this summer with the Neowise comet and plenty of clear nights, I've become well acquainted with astrophotography mode. I've got a tripod and have dozens of fantastic images. But, when I updated to Android 11, astrophotography has failed to be as reliable as it once was. After setting night shot (with tripod), it will occasionally show astrophotography mode activated, but only for a few seconds, almost as if it thinks my phone is moving. If I switch from 4:3 to 16:9 images or vice versa, it will almost always activate night mode, again only for a moment or two. After clearing cache/master reset failed to improve the situation, I was concerned my hardware sensors was the fault, but numerous apps confirmed normal operation. To verify it was software related, I flashed back to Android 10, and it's working flawlessly. Anyone else confirm this issue? Found a fix for 11?",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 4 XL",
-    "post_time": "2020-10-12T17:40:43.86251+00:00",
-    "reply": "0 Replies"
-}

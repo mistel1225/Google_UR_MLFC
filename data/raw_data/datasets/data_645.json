@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/113007835/4a5g-suddenly-no-audio-and-system-ui-isn-t-responding?hl=en",
-    "title": "4a5G Suddenly No Audio and \"System UI Isn't Responding\"",
-    "content": "Phone was working fine before bed last night. I rebooted as I hadn't done a reboot in several weeks.\nWoke up with no audio from any application. Trying to take a video with native camera app gives warning  along the lines \"Cannot record audio. Another app is using the mic.\"\n\nCleared app cache, rebooted.\nSame issue.\nTried safe mode.\nSame issue, and also gets stuck in safe mode boot loop.\nInstalled a recent available security update.\nSame issue.\nFactory reset (several times)\nInterestingly, same issue, and System UI error message immediately appears after phone boots after factory reset. Also gets stuck in regular boot loop.\n\nSupport chat is issuing me a new handset but I feel like this is an issue with a recent OTA update or build and worry this will affect my new handset as well.\n\nUpdate: Tried flashing various previous public builds from past few months and issue persists so may be hardware related.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4a (5G)",
-    "post_time": "2021-06-09T22:53:49.333806+00:00",
-    "reply": "1 Recommended Answer"
-}

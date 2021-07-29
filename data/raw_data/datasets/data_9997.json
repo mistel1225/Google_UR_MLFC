@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/88820606/voice-to-text-message-a-message-appears-when-attempting-to-use-voice-to-text?hl=en",
-    "title": "Voice to text message. A message appears when attempting to use Voice-to-text",
-    "content": "Updated OS, and apps\nrestarted phone...still happens\nVoice-to-text works fine on most apps, but on at least one app the following message appears:\n\"Voice typing\nTo use voice input, you must download and install Google Voice Search\"\nOf course, it is installed and it works fine in other apps.\nThe app I know Voice-to-text error message appears in is Microsoft Outlook.\nIt has failed to enter any text while otherwise appearing to work without a message in other apps.\nIn the Amazon web page on Chrome the voice window opens and my words appear in the window but are not entered into the Amazon search bar.\nThe same thing happens in the eBay web page...and on every other webpage using Chrome with a text entry bar.\nFirefox is also not getting any output from the Google Voice window.\nMicrosoft Edge will receive output but web pages open in Edge do not get the text output.\nGmail appears to use its own keyboard (not Swiftkey) and receives the Voice-to-text data from the last failed app.\n\nAnybody else having similar problems or a solution?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2020-12-15T21:30:07.308746+00:00",
-    "reply": "1 Reply"
-}

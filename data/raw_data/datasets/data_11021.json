@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/86566971/pixel-5-crash-and-reboot-whenever-the-phone-is-connect-to-specific-wifi?hl=en",
-    "title": "Pixel 5 crash and reboot whenever the phone is connect to specific wifi",
-    "content": "Whenever I went to mall and the phone connects to my carrier mall free wifi, pixel 5 reboot instantly. (not in rebooting loop but reboot once)\nI tried the the following but didn't help.\nreset wifi, mobile and bluetooth -->  still rebooting\nerase all data (factory reset) --> I tested without install any new apps (pre-install app only from google), still rebooting\nboot into safe mode --> the phone even reboot at safe mode when connected to carrier wifi\n\nIt's not a deal breaker but I believe it's a bug. (or my carrier wifi setting?)\nThe online support told me to get a replacement unit but I believe it's a software bug.\n\nAnyone has the same problem? or an isolated problem? or I'm missing some connection setting.\n\nThanks in advance.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2020-12-03T02:05:01.282521+00:00",
-    "reply": "1 Reply"
-}

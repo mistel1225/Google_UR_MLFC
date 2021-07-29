@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2860122/pixel-3-xl-how-to-stop-apps-closing-while-actively-using-them?hl=en",
-    "title": "Pixel 3 XL - How to stop apps closing while actively using them?",
-    "content": "My Pixel 3 XL recently started to close apps while in use, this has happened with multiple apps open during multitasking, as well as when just using a single app such as maps for driving on it's own on a freshly rebooted phone.\n\nI've tried a fresh start on the device returning it to factory settings and then only installing a select few apps - it still randomly closes apps and specifically Google Maps when being used for voice based driving directions. This is a consistent problem using maps for directions but occurs across nearly any visually intensive app as well (everything from chrome to YouTube to Pokemon go will just close fully while in use)\n\nOn opening the app again, it will start fresh as if it was evicted from RAM. I'm at wits end, I know these phones have memory management issues but I wasn't aware or told the applications would close DURING active usage.\n\nEdit: I should mention that the regular Google Pixel 3 XL Memory Management Errors do occur as well, background apps are unable to keep their active state (or in the case of a music based background usage such as play music or pocketcasts - it will close them as soon as you switch to a new activity no matter how many apps are \"open\" in the task list). This is NOT fixed by turning off or changing any adaptive battery settings, the issue is the same regardless of any settings in adaptive battery settings.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2019-03-22T21:16:03.504838+00:00",
-    "reply": "44 Replies"
-}

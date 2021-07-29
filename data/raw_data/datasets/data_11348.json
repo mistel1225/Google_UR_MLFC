@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/85616567/wifi-calling?hl=en",
-    "title": "WiFi Calling",
-    "content": "Hi there,\n\nI'm having issues with my WiFi calling engaging, and staying engaged.\n\nI am fully provisioned for WiFi calling from my carrier, everything on their end seems to be working without issues.\n\nWhat occurs is that when I get onto a stable WiFi network, like at home, my phone will not automatically connect with WiFi calling. I will often have to reset my phone to get it to engage. When it is engaged, it will usually just stay this way for a few minutes to hours. It will randomly disconnect. At that point I will have to reset my phone again to get WiFi Calling to engage.\n\nWhen WiFi calling is engaged, I can make calls without issue, I do not get dropped calls. The issue is not with dropped calls when using WiFi calling but with getting WiFi calling to actually connect and stay connected.\n\nOf note, when I'm in Airplane mode with just WiFi on, then the connection to WiFi Calling remains stable, without random disconnects.\n\nI'm not sure why this is happening. I've factory reset several times, deleted apps, my carrier has reset my WiFi profile multiple times, nothing seems to make things work as they should (my wife's iPhone does not have this issue).\n\nThis happens on various WiFi networks, not just at home.\n\nOf note, my Pixel 3 did the same thing. I was never able to get WiFi calling work properly as the above issues occurred.\n\nIs there any advice you can offer?\n\nThanks",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2020-11-27T19:28:27.244727+00:00",
-    "reply": "7 Replies"
-}

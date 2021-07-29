@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13093022/pixel-3-xl-downgrade-to-pie-via-abd-sideload-failing-error-total-xfer-1-00x?hl=en",
-    "title": "PIXEL 3 XL Downgrade to Pie via ABD SIDELOAD Failing, Error total xfer : 1.00x",
-    "content": "Hello, my pixel 3 xl has locked bootloader and i had upgraded it to Android Q beta program. It is stuck on booting screen and unfortunately i can not get into android. I downloaded FULL OTA images for crosshatch and tried to adb sideload android 9.0 to my device but always fail and get this error \n\nError total xfer : 1.00x \n\nOn the phone i get the following error ; \n\nFailed to verify package compability matrix are incompatible: Missing config CONFIG_NETFILTER_XT_Match_QTAGUID\n\nI am stuck with a paperweight at the moment with locked bootloader and no access to android itself to click \" ALLOW OEM UNLOCK \" option. Please help me overcome this nightmare.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-08-29T10:10:01.530782+00:00",
-    "reply": "1 Recommended Answer"
-}

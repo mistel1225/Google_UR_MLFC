@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/89470568/pixel-3a-not-connecting-with-wpa3?hl=en",
-    "title": "Pixel 3a not connecting with WPA3",
-    "content": "Hi, I have my home router (a FRITZ!Box 7590) on WPA2/WPA3 mixed mode, and all of my WPA3 capable devices can connect without using WPA2. My Pixel 3a also used WPA3, but now it only uses WPA2. My other devices aren't having any problems. I have tried resetting the device settings in my router and the Wi-Fi settings in my phone, but nothing has worked. I'm 100% sure this isn't a router issue, and I'm 70% sure it happened after I applied the December security patch/feature drop. How can I fix it?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth",
-    "post_time": "2020-12-19T17:22:05.018937+00:00",
-    "reply": "2 Replies"
-}

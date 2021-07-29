@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/32032554/sending-pictures-over-fb-messenger-ultra-low-res?hl=en",
-    "title": "Sending pictures over FB Messenger - Ultra Low Res",
-    "content": "Hi,\n\nJust noticed something very weird, as I was checking on my PC some photos I sent through fb's messenger and noticed all of them are being sent are 480x360 pics.\n\nSteps to check:\n1. Open default camera app - take picture at full res\n2. Open fb messenger and a chat with someone\n3. Click the send icon and send your picture\n4. Click on the picture you've just sent, click More -> Info, resolution = 480x360?\n\nAnyone else encountering this? Where could the issue be? It seems to send full res on a S10+ and on a P30Pro.\n\nThanks.",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 4 XL",
-    "post_time": "2020-03-02T10:41:07.640413+00:00",
-    "reply": "6 Replies"
-}

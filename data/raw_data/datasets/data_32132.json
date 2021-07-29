@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/4168364/pixel-2-front-camera-on-off-malfunctions?hl=en",
-    "title": "Pixel 2 front camera on/off malfunctions",
-    "content": "I have a Pixel 2 (128GB) that I purchased about four months ago in almost-new condition off a corporate program. Like many, the front camera began to crash a couple of months into ownership, and I tried all the suggested avenues:\nForce stop the camera app, clear data/cache\nRestart in safe mode\nLook at update rollbacks, try different camera apps, etc.\nReset the device to factory settings\n\nNone of these worked, and because I didn't have time to send in the device for repair, I resigned myself to not having a front camera. However, when the device received the PQ2A.190405.003 update, the camera started working again.\n\nImagine my surprise.\n\nI was equally surprised, however, when I tried opening it this morning (4/14/19), and it's back to not working. I've again tried all the steps that are suggested, but nothing has worked.\n\nWhat's interesting is that this time the app doesn't crash. When I select the front camera, the app pauses for a second or two, then simply acts like nothing happened and I'm taking a picture with the back camera.\n\nI'm not sure if I'm dealing with a hardware or software issue at this point, to be honest. Has anyone else had this kind of on/off behavior?",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 2",
-    "post_time": "2019-04-14T16:51:43.986013+00:00",
-    "reply": "1 Reply"
-}

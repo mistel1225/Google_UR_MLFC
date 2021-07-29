@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/74461107/workaround-for-saving-photos-to-device-from-the-cloud-android-11-bug?hl=en",
-    "title": "Workaround for Saving Photos to Device from the Cloud? Android 11 Bug",
-    "content": "Since updating to Android 11, I can no longer save/edit/share photos from Google Photos Cloud back to my device. When I scroll to old photos in Google Photos and select \"download to Device\" it only saves a dark grey/black box at the top of my Google Photos. And I'm unable to then share or edit those photos.\n\nI've tried uninstalling/reinstalling/updating Photos from the Play Store, but same bug remains. I've also tried searching for a \".nomedia\" folder on my phone that was mentioned in another thread but have no idea where people are finding this photo. I don't appear to have it.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2020-10-02T04:00:32.324491+00:00",
-    "reply": "1 Reply"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/3000091/backup-service-isn-t-active-in-settings-system?hl=en",
-    "title": "\"Backup service isn't active\" in Settings > System",
-    "content": "When I access the settings page to configure my phone's backup I get a short message:\n\nBackup service isn't active\n\nI do not see any option to start the service or to activate and configure backup. When I turn on the \"Backup to Google Drive\" at \"Settings > Google > Backup\", the setting is \"Off\" again as soon as I access \"Settings > Google > Backup\" again (I assume the service is never really turned on). I use a GSuite account but the GSuite support says everything is configured fine and it should be a Pixel issue.\n\nUnfortunately it's currently not possible to contact pixel support directly from my phone, because the Play Services keep crashing. The callback service and the chat service are not working too. So I try to find some help here.\n\nThe problem persists in safe mode. So I assume it has nothing to do with my apps.\n\nPlease help me to get my phone backed up again. :)",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-03-25T15:46:49.964767+00:00",
-    "reply": "6 Replies"
-}

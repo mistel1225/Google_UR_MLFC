@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/15539218/vpn-stops-working-after-about-83-seconds-of-being-connected?hl=en",
-    "title": "VPN stops working after about 83 seconds of being connected.",
-    "content": "After connecting to work VPN it works for 83 seconds then the received packed count stops incrementing and it stops working. It stays connected and keeps sending data but it does not receive anything. I use the same credentials successfully on several other devices and some googling shows that this is an issue that has affected a couple other people before without resolution. Tried over WiFi and cellular both and same result. Reset network setting in the reset page and that didn't change anything. Tried in safe mode and still the same issue.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2019-09-28T16:35:19.736155+00:00",
-    "reply": "4 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/73091685/android-version-11-the-gestures-doesn-t-work-as-fast-the-animations-are-slower-when-closing-apps?hl=en",
-    "title": "Android version 11 the gestures doesn't work as fast the animations are slower when closing apps",
-    "content": "After upgrading to Android version 11 the gestures animation seems to take longer than desired. When I use the three button navigation and close an app there are no animation delay. I have set the animation Windows animation in the developer mode to be .5 or even all the way to zero and when using gestures the apps close using a standard animation that is not able to be shortened it appears like... \n\nSo in summary when using the three button navigation system for Android version 11 and closing an app there are virtually no animations. However when I select to use gestures the animations appear slow when closing apps. After having set or change the settings in developer mode to Windows animation to .5 or 0.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2020-09-24T21:50:50.049853+00:00",
-    "reply": "1 Reply"
-}

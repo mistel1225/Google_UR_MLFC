@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/40810509/assistant-not-working-when-web-and-app-activity-setting-enabled?hl=en",
-    "title": "Assistant not working when \"Web and app activity\" setting enabled",
-    "content": "I've been troubleshooting this for days.\nConclusion is that Assistant fails (stalls with three pulsating dots) to do basic tasks like timers, texts and calls when the \"web and app activity\" toggle is enabled in assistant data and privacy settings. \nUsed to work three days ago. \nHave tried zeroing my device, change Google app version, clear data and cache. \nWorks with blank slate test Google account on same device \n\nAndroid 10 and Pixel 3, april 5th security update",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 3",
-    "post_time": "2020-04-18T08:42:02.032802+00:00",
-    "reply": "7 Replies"
-}

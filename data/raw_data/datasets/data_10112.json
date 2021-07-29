@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/79913783/screen-recorder-error-deleting-screen-recording?hl=en",
-    "title": "Screen Recorder \"error deleting screen recording\"",
-    "content": "I have the Pixel 3 (unlocked) and updated to Android 11. I haven't been able to use the screen recording feature, when started, it, it appears to work. When I go into 'System UI' while running the recorder I can see the cache size increasing about 3+ MB per second. I have at least 15 GB free.\n\nWhen I stop the app I get the message \"error deleting screen recording\". I've tried disabling Developer Options and clear the 'System UI' cache, all to no avail. Before I run off to Google Help forums, I wonder if anyone else has had similar experiences.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2020-10-30T01:46:53.957416+00:00",
-    "reply": "1 Recommended Answer"
-}

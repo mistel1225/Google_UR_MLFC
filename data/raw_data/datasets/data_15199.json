@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/74584618/why-does-my-pixel-4-xl-volume-reset-to-100-after-every-call?hl=en",
-    "title": "Why does my Pixel 4 XL volume reset to 100% after every call?",
-    "content": "I use my Pixel 4 XL for work, taking 20+ calls every day. After the most recent update to Android OS (V11) I noticed that my call volume resets to 100% at the start of every call.\n\nThe interesting behavior is that it remembers my previous volume setting as indicated by the volume slider that shows up after adjusting the volume, which is showing 50%. But despite showing a setting of 50%, it is very clearly setting the volume at 100%. When I attempt to adjust it down, the actual call volume AND volume slider shown cuts to 33%~ as if it was already at the 50% it was showing, and putting it back to 50% puts the actual call volume back at 50% as indicated by the volume slider.\n\nI wear a headset that is connected through an adapter (USB-C to 3.5mm headphone jack) that might have something to do with this issue. It was working fine before the OS update though so I'm hoping there wasn't an issue installed with the update.\n\nAs far as I'm aware, I have no apps that have direct control over volume settings.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2020-10-02T18:44:39.37802+00:00",
-    "reply": "0 Replies"
-}

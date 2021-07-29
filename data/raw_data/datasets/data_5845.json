@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/100693724/carrier-privileges?hl=en",
-    "title": "Carrier privileges",
-    "content": "Hello,\nWe are software developing team, and at this point we working on carrier-branded app to manage eSIM profiles, our carrier \"Telia\" listed in \"android.googlesource.com carrier_list.textpb\", we read this document, but can't get what exactly steps we need to get carrier privileges to control our esim profile, some steps feels missing https://source.android.com/devices/tech/config/uicc\n\nCan we get contact with someone who can help us with getting \"carrier privileges\" for our app?\nThank you.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2021-03-04T08:07:36.514359+00:00",
-    "reply": "1 Reply"
-}

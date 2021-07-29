@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/94686427/do-not-disturb-and-bed-time-mode-no-longer-work-together?hl=en",
-    "title": "Do Not Disturb and Bed Time Mode No Longer Work Together",
-    "content": "Do Not Disturb allows exceptions of Starred contacts. These exceptions work fine when Do Not Disturb is turned on manually by tapping on the icon from the pull down menu.\n\nBed Time Mode turns on Do Not Disturb and has worked as expected until a few days after an update. When Bed Time Mode automatically activates Do Not Disturb, Do Not Disturb no longer allows any exceptions (messages and phone calls from Starred contacts), but when activated manually, Do Not Disturb works as expected.\n\nI have tried restarting the phone and re-entering the alarm.\n\nI only just realized this and barely managed to avoid an emergency because of this issue. I would like some helping in fixing this problem.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3a",
-    "post_time": "2021-01-22T20:08:20.115486+00:00",
-    "reply": "0 Replies"
-}

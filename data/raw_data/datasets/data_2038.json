@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/110018437/contacts-search-does-not-work-properly?hl=en",
-    "title": "Contacts Search does not work properly",
-    "content": "I believe the solution may be the default location that you choose for storage of your contacts. I went into settings for my contacts and changed the default storage location from the phone to my Google account. Seems to have fixed my contacts Search issue.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail",
-    "post_time": "2021-05-16T08:23:44.51826+00:00",
-    "reply": "1 Reply"
-}

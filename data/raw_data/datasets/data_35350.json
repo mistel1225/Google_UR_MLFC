@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1301403/windows-10-pc-not-connecting-to-pixel-2-xl-through-usb-c?hl=en",
-    "title": "Windows 10 PC not connecting to pixel 2 XL through USB-C",
-    "content": "While using an OEM USB-C, to connect my pixel 2 XL to multiple computers running Windows 10 I get disconnected intermittently.  Upon opening Device Manager and Uninstalling the USB driver for phone I get mixed results??? Sometimes it will file transfer for a few seconds, other times minutes, but most offtenly I get a device error from Windows 10 that won't allow the connection.\n\nI have done the following...\nTested multiple OEM USB-C cords, including a brand new one that I got with my pixel 3.\n\nShutdown computer\n\nShutdown phone\n\nTested on other laptop also operating Windows 10\n\nHad the USB-C port cleaned professionally\n\nI have also followed advise from previous posts regarding the issue.\n\nI hope someone can help me with this I really feel that is a software related issue.  Please note here that I have specifically checked that both the pixel 2 XL and the Windows 10 are up-to-date.\n\nThank you",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2019-01-27T00:27:12.025333+00:00",
-    "reply": "2 Replies"
-}

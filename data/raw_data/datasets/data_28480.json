@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13279018/can-not-change-ringtone?hl=en",
-    "title": "Can not change Ringtone",
-    "content": "Phone is a Pixel 3 XL running Android version 9, build number PQ3A.190801.002\n\nI can not change my ringtone Sound>Phone ringtone is stuck at '2458'.    Same with the Default notification sound, it can't be changed from '2460'.\n\nBooting in Safe Mode does not help.\n\nI messed around will Apps and deleted the 'Sounds' app which does not appear to be a good idea.  Now when I go to Settings>Sound and long tap 'Phone ringtone' I get the message 'Settings keeps stopping'.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device",
-    "post_time": "2019-08-31T19:14:04.120622+00:00",
-    "reply": "17 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/28825069/visual-voicemail-button-missing-after-doing-a-factory-reset-and-restore?hl=en",
-    "title": "Visual Voicemail button missing after doing a Factory reset and restore",
-    "content": "Pixel 4 XL.  Android 10, Feb 5, 2020, system patch level.\nPhone app Feb 3, 2020, update (per play store)\nPhone set to do automatic updates\nIf I uninstall the app updates, with Wi-Fi off (per another thread) and then reboot, and then install updates, I get the button on the bottom right of the App back but I loose \"Call Screening feature\"\nIn settings, Visual Voicemail shows enabled.\nBUT\nwhen I reboot again (tried with both Wi-Fi off and with it ON) ( turned the phone off, left off for a few min and then powered on) the Visual voicemail feature goes away.\nI also am losing the Call Screening functionality,\nI have a 2nd Pixel 4 XL that isn't having this problem. It did at one point but uninstalling the updates and re-installing them fixed the problem.\n\nI have also tried, clear cache and force stop.\n\nPlease help",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 4 XL",
-    "post_time": "2020-02-15T20:37:01.564389+00:00",
-    "reply": "1 Recommended Answer"
-}

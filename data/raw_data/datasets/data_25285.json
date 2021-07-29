@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1742835/google-play-services-isn-t-responding-when-trying-to-access-tips-support-in-settings-menu?hl=en",
-    "title": "\"Google Play services isn't responding\" when trying to access Tips & support in Settings menu",
-    "content": "When I tap on \"Tips & support\" in Settings, I see a white screen with the rotating circle animation; after ~30 seconds, the message \"Google play services isn't responding\" appears with the option to close app, wait, or send feedback. I've tried clearing the app from memory, clearing the cache, and rebooting the phone. I'm on the latest February security patch and all apps have been updated via the Play Store. Ironic that I can't access the bug reporting feature of the phone because the feature itself is bugged.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2019-02-19T19:12:04.883935+00:00",
-    "reply": "1 Recommended Answer"
-}

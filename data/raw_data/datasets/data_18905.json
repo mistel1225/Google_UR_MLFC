@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/27204195/pixel-4-xl-not-responding-to-ok-google-when-idle-for-a-while?hl=en",
-    "title": "Pixel 4 XL not responding to 'OK Google' when idle for a while",
-    "content": "My Pixel 4 XL has stopped responding to 'OK/Hey Google' commands when it's been left idle for a while.  The only way to get it to start responding again is to manually start the Assistant (either edge squeeze or hitting the Assistant button on the right of the search bar at the bottom of the screen).  Once that's been done it works fine again for a while until the phone has been idle again.\n\nI've tried the following:\n\nClear cache and data\nUninstall and reinstall Google app\nDelete and retrain Voice Match\nReset all settings in the app toggles\nChecked battery saver (although the phone does it regardless of charge level)\n\nI don't think it's a hardware issue as once the Assistant is manually 'woken' it works fine again for some time.  None of my other devices have any issues (I have 3 Google Home Max and a Sony Android TV) so it's not a Voice Match issue.  It also used to work fine until recently (probably within the last couple of weeks).\n\nIt's almost as though the phone just 'stops listening' for the OK/Hey Google wake words while it's idling on the AOD.  Is anyone else encountering this?  Google support tried to help but other than getting me to do the above I don't think they have any other ideas; I was hoping to find out whether it's just me or others are having this issue too.",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 4 XL",
-    "post_time": "2020-01-30T23:44:32.833803+00:00",
-    "reply": "4 Recommended Answers"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/21759785/gui-stops-working-when-changing-rotate-in-youtube-while-system-gesture-control-is-on?hl=en",
-    "title": "GUI stops working when changing rotate in YouTube while system gesture control is on",
-    "content": "Hi,\nI just uncovered that:\n1. if you turn on gesture controls for navigation in pixel 2, \n2. rotate your phone while playing YouTube the GUI stops working, and the phone locks.\n\n I tried this in multiple phones and the problem persists.\nBelow is the image of what the error looks like.\n\nThanks\nAiman",
-    "is_img": 1,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-12-02T19:55:17.329775+00:00",
-    "reply": "3 Replies"
-}

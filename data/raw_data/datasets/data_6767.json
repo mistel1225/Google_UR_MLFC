@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/98183639/repeated-mobile-data-usage-not-registered-in-data-usage-page?hl=en",
-    "title": "Repeated mobile data usage - not registered in data usage page",
-    "content": "Hi Guys\nI have a strange problem. My Pixel 5 seems to use an extraordinarily large amount of data via its 4G connection (even at times when I'm quite sure it was on WiFi). It basically seems to transfer 290mb data repeatedly, sometimes every 5 minutes. Just as strange, the data usage is NOT apparent in the \"Mobile data usage\" settings page. I'm getting the data usage from my phone service provider and I know the data usage page says \"Operator data accounting may differ...\" but right now my phone thinks it has used ~600MB data but my phone operator says I have transferred +3GB that seems to be too big a difference to attribute different \"accounting\". \nObviously, I hope someone can help me figure out why the phone is repeatedly transferring 290MB of data (don't actually know if it is upload or download).\nThank you in advance",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2021-02-15T08:25:41.895646+00:00",
-    "reply": "0 Replies"
-}

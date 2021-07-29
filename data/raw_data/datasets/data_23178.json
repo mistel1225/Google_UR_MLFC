@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13660377/bug-in-font-color-of-android-10-pixel-launcher-google-search-bar-on-dark-mode?hl=en",
-    "title": "Bug in font color of Android 10 pixel launcher google search bar on dark mode?",
-    "content": "I update my  pixel 3xl to android 10 lat night and now the google search bar on the home screen seems to have the wrong font color.\n\nto replicate:\n   1. enable dark mode\n   2. navigate home\n   3. use the google search bar at the bottom of the screen\n          -  the history will be unreadable since its on black font on dark background\n          -  if you start typing you will only see what you have typed, the search prediction  will not be visible because of the same problem\n\nwould this be a pixel launcher bug or an android 10 bug or something else?\n\nFrom a developers view this seems like a quick fix, I don't know how fast these developers are, how long would they take to fix this?",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 3 XL",
-    "post_time": "2019-09-05T18:00:39.533057+00:00",
-    "reply": "1 Recommended Answer"
-}

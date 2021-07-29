@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/46575489/volte-is-enabled-just-2-lines?hl=en",
-    "title": "VOLTE is enabled just 2 lines.",
-    "content": "I notice VOLTE is unavailable in Korea.\nIt is normal pixel doesn't compatible any countury unreleased.\nBut I find very simple method to solve this problem.\n\nmbn_sw.txt is key.\nWhen I add these 2 lines, It works!\n\nmcfg_sw/generic/Korea/LGU/Commercial/mcfg_sw.mbn\nmcfg_sw/generic/Korea/SKT/Commercial/mcfg_sw.mbn\n\nSo. Could you add just 2 lines to mbn_sw.txt?\nIt may not seem to help your company, but many potential customers in Korea are waiting for this patch.\nKorea customers always want to use pixel with full-function.\n\n\nBest Regards.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2020-05-14T04:25:06.14961+00:00",
-    "reply": "2 Replies"
-}

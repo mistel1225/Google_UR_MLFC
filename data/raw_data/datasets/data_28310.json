@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/14085602/how-often-to-wifi-auto-reconnect-scan?hl=en",
-    "title": "How often to WiFi auto reconnect scan?",
-    "content": "I'm trying to determine if / when the wifi gets manually turned off, how long until it auto reconnects to a known network if you are actively within range. Example: in an office environment - let's say I have a network saved to connect, but I choose to disconnect from the network by manually turning off the wifi. In this scenario, auto-connect is on. How long until it reconnects to the saved network and turns wifi back on? How often does this background scan and automatic switch take place? Every couple of minutes. Hour? Not until your in another saved network?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth",
-    "post_time": "2019-09-11T04:15:51.237265+00:00",
-    "reply": "0 Replies"
-}

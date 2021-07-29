@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/98222603/problem-with-the-frame-rate-of-the-animation-of-the-swipe-gesture-to-return-at-the-home?hl=en",
-    "title": "Problem with the frame rate of the animation of the swipe gesture to return at the Home",
-    "content": "How to reproduce the bug:\n- set up your phone GOOGLE PIXEL 2 XL with ANDROID 11, to rotate it in landscape in the Home screen.\n- in the Home of your smartphone, press on hold an empty area of the screen and from the appearing menu, select the wallpapers;\n- go to the section Nature of the wallpapers;\n- select the picture of Vivek Vijaykumar and set this picture as wallpaper for your phone;\n- now return to the Home;\n- rotate your phone in landscape and then rotate again it in portrait;\n- now open apps and use the gesture to return at the home swiping from the bottom to the up.\n\nWhat happens:\nyou will see that the animation after the swipe gesture to return at the Home, from any app, has reduced his frame rate. The problem continue until you don't rotate again in landscape the phone and open an app.\n\nWhat should you expected instead:\nthe animation after the swipe gesture to return at the Home, should be always smooth.\n\n\nThis bug happens also in other situations, during the use of the phone.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2021-02-15T15:38:21.792272+00:00",
-    "reply": "0 Replies"
-}

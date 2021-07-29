@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/9887170/after-update-errors-on-google-play-services-settings-and-calendar?hl=en",
-    "title": "After update, errors on Google Play Services, Settings, and Calendar",
-    "content": "I recently bought a Pixel 3a.  Last week I manually installed updates on the phone and now I am having trouble with Google Play Services, Settings, and Calendar.  The only problem I have with Settings is that the app abends when I try to use the Search function.  For Google Play Services, I sometimes get error messages when using an app (e.g., Phone), that states Google Play Services doesn't have permission to that app, but when I check the permissions for Google Play Services, it has permission to that app.  For Calendar, my Event notifications never occur on time and don't make the requested sound.  Sometimes if I pick up the phone and press the power button to take it out of sleep mode, then I get the notification.  For reminders, I sometimes get a sound notification but not always, and the notification is always a bit late.  My current build level is PQ3B.190705.003.  All these problems seemed to begin happening after the software update and I suspect most of them may be due to the Google Play Services error.  I don't have battery saver set nor any ambient settings.  I tried uninstalling the Google Play Services update but I get error message: \"Uninstalling Google Play Services unsuccessful\".  Thanks for any advice!",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2019-07-14T16:55:13.646442+00:00",
-    "reply": "4 Replies"
-}

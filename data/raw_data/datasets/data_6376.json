@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/90461505/pixel-message-your-device-is-corrupt-it-can-t-be-trusted-and-may-not-work-properly?hl=en",
-    "title": "Pixel - Message \"Your device is corrupt. It can't be trusted and may not work properly\"",
-    "content": "So this morning I woke up to my phone turned off and when I powered it on i get the message,  \"Your device is corrupt. It can't be trusted and may not work properly\".     It's a red screen error.  I attached a picture of what I found out about it.\n\nWhen I press the power button again to continue it just goes to black screen and shuts off.  When I boot into bootloader mode and select Recovery Mode it will reboot and show the same error screen again.  So virtually it's a nice paper weight now.\n\nWhat happened overnight?  It was fine last night all I did is plug it in to charge and this happened sometime overnight.   Is there anything that can be done for it? I looked at a Rescue OTA, but it appears the phone needs to boot into recovery mode for that and it won't do that.\n\nAny ideas?  Thanks!",
-    "is_img": 1,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2020-12-26T03:14:04.7508+00:00",
-    "reply": "1 Recommended Answer"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/33012378/driver-for-google-phone-pixel-3a-on-windows-8-1?hl=en",
-    "title": "Driver for google phone pixel 3a on windows 8.1",
-    "content": "hello,\n\nI need the driver for the google 3a .\n\nCurrently , when a connect my Google 3a phone on a Windows 8.1 desktop , in can not access the file using \"file transfer  / Android auto \" mode.\nOnly \"PTP\" mode is working  for photos or video , but i need to store some *.pdf files on the phone.\n\nI have try to install ADB driver . Installation worked OK but the phone is not accessible in \"File transfert\" mode.\n\nWhen i connect it , in the device manager i see it as Google 3a in \"mobile devices\" section of device manager for a short while  , but a few seconds after it is then moved in the \"other peripheral\" section as \"unknow peripheral\"  with a warning icon indicating it is not installed correctly.\n\nCan someone help please?\n\nBest regards.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a",
-    "post_time": "2020-03-10T14:32:50.446282+00:00",
-    "reply": "2 Recommended Answers"
-}

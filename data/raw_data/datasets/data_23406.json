@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/25694684/pixel-phone-no-longer-connects-to-lte-only-3g?hl=en",
-    "title": "Pixel phone no longer connects to LTE only 3G",
-    "content": "After the Nov 2019 update I now have this issue.... This is on all carriers as I am on Sprint...\n\n\nHow to recreate when you connect to WiFi at home them leave home, or go underground and lose LTE service or drive through an area and lose service.\n\n\nWhen you regain service the phone no longer attempts to connect to LTE it defaults to 3G.  \n\n\nOnce this starts to happen to you... It doesn't go away...\n\n\nOnly fix I've found works is \n\n\nGo to settings app\nGo to network / internet\nGo to mobile network\nGo down to bottom\nClick advanced\nClick carrier settings on bottom\n\nClick Update Device Config\n\nThis will take a few seconds then fix the issue.\n\nHere's the catch... You will be doing this all day everyday anytime you leave LTE to WiFi or lack of service when you go back to mobile data the phone os will never attempt LTE only goes to 3G\n\nHope this helps those stuck like myself in 3G hell and given Google doesn't care I hope this fix works for you and helps you",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
-    "post_time": "2020-01-15T05:37:17.991781+00:00",
-    "reply": "1 Reply"
-}

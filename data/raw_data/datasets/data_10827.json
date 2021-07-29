@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/87081763/android-phone-can-i-start-stop-needed-apps-by-logging-in-as-a-primary-secondary-user?hl=en",
-    "title": "Android phone - Can I start/stop needed apps by logging in as a primary/secondary user?",
-    "content": "The goal is to separate the activity of the apps I use for work from the personal use of the smartphone.\n\nSpecifically, I am looking for ways to shut down the apps completely, when I don't want to use them and more importantly to stop all of their \"background\" activities. When there is a whole bunch of apps, each with a load of \"permissions\" (including things like location tracking \"at all times\"), It is not practical to go over permission settings for each of them in the evening and in the morning.\n\nThe idea I had, was to just create a second user on my Android phone and activate the apps I want to use, only while logged in as such a second user. Can this work? Will the apps shut off completely (in the same way as if I power off the phone) when I log out of such a second user account and log back in as a primary user?\n\nAny advice, any other recommendations to achieve the goal?",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 5",
-    "post_time": "2020-12-06T01:50:11.998703+00:00",
-    "reply": "2 Replies"
-}

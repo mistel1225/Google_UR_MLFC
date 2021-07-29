@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/51503814/infinite-bootloop-after-sideloading-pixel-3a?hl=en",
-    "title": "Infinite Bootloop after Sideloading Pixel 3a",
-    "content": "I have not had any prior issues with my Pixel 3a until it froze today. I did a reboot but it would still freeze after a couple of minutes of use so I did a factory reset. Then the keyboard started being very laggy. So I decided to do a rescue OTA described here. I accidentally sideloaded the OTA image for the pixel 4 with my build number. The phone still turned on so I sideloaded the correct OTA image for my phone. Now it is stuck in an infinite loop where it will start up, the google logo will appear, and then the screen will go black for 10 seconds with just the battery symbol on the top showing as well as one of the back arrows on the bottom left. Then it will restart and continue the loop. I tried doing another factory reset but that does not work. Does anyone have any ideas for what I should do next or how to fix this issue?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3a",
-    "post_time": "2020-06-05T18:14:06.132019+00:00",
-    "reply": "1 Reply"
-}

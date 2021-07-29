@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/32456435/sudden-rapid-battery-drain-related-to-predicted-battery-life?hl=en",
-    "title": "Sudden Rapid Battery Drain - Related to Predicted Battery Life?",
-    "content": "Per the attached image, I'm seeing a very strange sudden draining of my phone battery.\n\nI don't think this is actually a problem with the battery itself, because it typically happens at the end of a day after about 15ish hours of normal use when I would expect the battery to be about done. The battery just sits at \"80%\" charge and \"2 days\" remaining all day, then suddenly seems to realize there's no juice  left.\n\nI think this is some kind of problem with the battery performance predictor, but I don't see a way to disable it to just watch the actual charge of the battery deplete at the rate its actually being used. I can't even auto-start battery saver because it won't turn on until the reported percentage flies past whatever setting I use and hits zero. \n\nAny help figuring out how to get this thing to report correctly would be much appreciated.",
-    "is_img": 1,
-    "category": "Battery and Power, Google Pixel 4",
-    "post_time": "2020-03-05T21:08:54.674767+00:00",
-    "reply": "2 Replies"
-}

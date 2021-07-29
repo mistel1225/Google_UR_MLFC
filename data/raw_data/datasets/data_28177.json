@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/3861987/nfc-is-reading-really-slow?hl=en",
-    "title": "NFC is reading really slow...",
-    "content": "I have problems with using NFC, where it reads the tag only after a minute or more (painfully slow)...\nWhen I put it down on a tag, it takes a bit of time before it reads the tag (1 or 2 min)...\nI installed \"NFC Tools\" which is an easy app to test...\n\nWhat can I do to fix this problem? Because I really need it for development.\nThe first question youre probably going to ask is what case I use arround the device (this is the pixel official case) and removing this case doesn't help...\n\nPS: I tried to report on the pixel support app, but it keeps crashing when I try to start it...",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2019-04-09T15:04:28.276901+00:00",
-    "reply": "16 Replies"
-}

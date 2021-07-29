@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/5997165/pixel-2-usb-transfer-works-with-laptop-but-not-with-desktop-pc?hl=en",
-    "title": "Pixel 2 USB transfer works with laptop, but not with desktop PC",
-    "content": "I have Two issues, actually, with my Pixel 2.\n\nCable, USB Port, or Ghost? Where's the problem?\nToday, the Pixel-cable-desktop PC provides charging only, but the desktop PC doesn't even recognize the Pixel being connected.  It has worked in the past.  And the Pixel does not recognize being connected to a device at all.  \n\nHowever, using my laptop instead of the PC and the Pixel-cable-laptop connects to the laptop.  The Pixel does recognizes being connected, the laptop opens a File Explorer window on the Pixel.\n\nI am using the same cable, so I believe that rules out the cable as being a problem.  My laptop is older and has only  USB 2.0 ports.  The desktop PC has USB 2.0 & 3.0 ports.\n\nTo Automatically File Transfer or Not to File Transfer\nSo the Pixel does connect to the laptop - but not automatically for File Transfer.  I've set File Transfer in the Developer Options, but that does not make it automatic for me.  Is it possible to default the USB connection to File Transfer?\n Can anyone suggest what is going on, for either issue?\n\nThanks in advance!",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-05-12T17:38:42.36243+00:00",
-    "reply": "1 Reply"
-}

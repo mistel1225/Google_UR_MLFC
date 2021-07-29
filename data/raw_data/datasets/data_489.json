@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/113517096/pixel-3-xl-bricked-overnight-computer-recognizes-as-qusb-bulk-cid-likely-caused-by-security-update?hl=en",
-    "title": "Pixel 3 XL Bricked Overnight, Computer Recognizes as QUSB_BULK_CID, Likely Caused by Security Update",
-    "content": "My Pixel 3 XL \"bricked\" overnight and went completely unresponsive.  The usual troubleshooting steps of holding the power button or holding the power+volume-down buttons don't work.  My computer recognizes the device as QUSB_BULK_CID:xxxx_SN:xxxxxxxx.  When I hold the power button for 15s the computer can detect it turning on/off.\n\nHaving browsed many forums this seems to be a common issue as of late:\nhttps://forum.xda-developers.com/t/fix-pixel-3-qusb_bulk_cid-xxxx_sn-xxxxxxxx.4205331/\nhttps://www.reddit.com/r/GooglePixel/comments/mmcn93/my_pixel_3_xl_bricked_overnight/ \nhttps://www.reddit.com/r/GooglePixel/comments/n06miw/got_the_pixel_3_qusb_bulk_cid_brick_issue_today_i/\n\nIt seems likely that an overnight security update caused this issue.  Is Google aware of these problems and are there any ways to fix this?  I was unable to escalate the problem through the Google Pixel Support Live Chat.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2021-06-14T13:14:32.973199+00:00",
-    "reply": "2 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/87812547/unusual-problem-with-google-account-sync-on-android-11-pixel-5?hl=en",
-    "title": "Unusual problem with google account sync on Android 11 Pixel 5",
-    "content": "Hello,\n\nI have an unusual problem with Google account sync on Android 11. \nI tried everything from this article with no luck. It's also not a problem related to \"Sync is currently experiencing problems. It will be back shortly.\" message. Below I describe the problem.\n\nAfter less than 24 hours of seemless sync (receiving e-mail notifications, google keep sync etc.) the sync stops. Every guide says to try manual sync (Settings -> Accounts -> <My account> -> Account Sync -> Dots menu -> Sync now). When I'm pressing this, nothing happens. The only thing that reenables sync is removing the account completely or restarting the phone but the problem comes back after less than 24 hours.\n\nI also did a full factory reset and provided my account details manually and the same thing happens after less than 24 hours.\n\nI think it's a major issue as everyday at some point I stop receiving e-mail notifications completely and I have to check that sync is broken so I restart the phone and then I receive all missed notifications at once.\n\nPlease help,\nMateusz",
-    "is_img": 0,
-    "category": "Other, Google Pixel 5",
-    "post_time": "2020-12-09T19:12:32.62185+00:00",
-    "reply": "1 Reply"
-}

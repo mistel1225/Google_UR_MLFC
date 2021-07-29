@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/9911389/usb-dongle-not-supporting-and-showing-charging?hl=en",
-    "title": "USB dongle not supporting and showing \"charging\"",
-    "content": "I have been using my pixel 2 xl for 6 months. Today I tried to play music via usb c to audio jack dongle (original and supplied in the pixel 2 xl box) but music\nstarted playing from the speakers. Yesterday it was working fine. My headphone is working on other device. When I connect the dongle to my phone, there is a notification of charging connected device via usb. On tapping for more options I tried to change the usb control to 'this device' but it says that it cannot switch\nAll options under 'use usb for' are frozen. I tried to switch on usb debugging in developers option but nothing worked.\nI updated my phone to the latest version of android p\n(security patch level july 2019) and have restarted my\nphone multiple times but nothing is working. My phone is charging normally. Please\nhelp asap.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2019-07-15T03:21:46.124903+00:00",
-    "reply": "1 Recommended Answer"
-}

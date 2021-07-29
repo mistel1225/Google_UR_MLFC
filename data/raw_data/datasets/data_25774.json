@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/21878987/pixel-3-and-my-previous-moto-wifi-connection-intermittent-when-screen-locked?hl=en",
-    "title": "Pixel 3 (and my previous moto) wifi connection intermittent when screen locked",
-    "content": "I'm using whatsapp web to test, but this also occurs in the messages for web, and any similar services that connect computer to phone and uses phone's internet connection.\n\nEssentially when my android device is locked (screen off) and I'm connected to wifi, these services can't connect for a period of ~80 seconds, then will connect for about ~10 seconds, and then disconnect for 80s, and so on. The problem does not surface when I'm only connected to mobile data, and the problem occurs on any wifi network I've tried.\n\nI've narrowed down the problem. Here are all the scenarios where I have NO issues:\n1) my wife's iphone, connected to same wifi network\n2) my android, using mobile data with wifi turned off\n3) when I keep my screen on\n\nWhy would WiFi be on a cycle of \"sleep\" for 80 seconds and reconnect for 10 seconds whenever the screen is locked?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2019-12-04T02:32:50.531323+00:00",
-    "reply": "0 Replies"
-}

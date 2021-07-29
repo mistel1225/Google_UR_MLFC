@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/73988383/how-do-i-fix-my-pixel-3xl-that-is-wirelessly-charging-slowly-on-pixel-stand?hl=en",
-    "title": "How do I fix my Pixel 3XL that is wirelessly \"charging slowly\" on Pixel Stand?",
-    "content": "My Pixel 3XL (see attachments for hardware and software info) wireless charging is slow. My Pixel Stand charging phone slowly - won't charge rapidly - as made evident by incredibly slow charge pace when screen is off. \"Charging slowly\" displayed in battery settings whenever charging wirelessly. With screen on while charging wirelessly, the phone actually still loses power over time rather than adding charge.\n\nI've removed my case and ensured proper placement, both vertical and horizontal on the stand. \n\nI've checked the adapter and cable (which are the ones that came with the stand) by plugging in direct to the usb-c connection and rapid charging worked.\n\nI've also tested a friend's non-Pixel inductive charger to find the same issue - slow wireless charging but normal charging when plugged indirectly with non-Pixel adapter/cable. \n\nI've tried restarting phone in safe made to determine if an app is causing issue, and the issue persisted in safe mode.\n\nI've read all other posts related to this issue (all of which seem to be pre-Android 11 release). Is this a software issue? If so, when/how can I get/expect a patch?\n\nThank you,\nLeo",
-    "is_img": 1,
-    "category": "Battery and Power, Google Pixel 3 XL",
-    "post_time": "2020-09-29T20:13:58.205831+00:00",
-    "reply": "7 Replies"
-}

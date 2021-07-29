@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/18572199/unable-to-install-november-patch?hl=en",
-    "title": "Unable to install November patch",
-    "content": "I'm on build QD1A.190821.011.C4. When I go to sideload the new image ( 10.0.0 (QD1A.190821.014, Nov 2019) )  from Google I get this error:\n\n>package is older than the current build, expected a build newer than timestapmp 1570131307 but package has timestmp 1569028385 and downgrade not allowed.\n\nYet I am still showing on the October security patch. No OTA available when checking from my phone.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4 XL",
-    "post_time": "2019-11-04T23:06:34.947262+00:00",
-    "reply": "1 Recommended Answer"
-}

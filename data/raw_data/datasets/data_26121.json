@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/20592144/lost-the-keyboard-quick-switch-button-below-the-keyboard?hl=en",
-    "title": "Lost the keyboard quick switch button below the keyboard",
-    "content": "I can't find the button to quickly switch between keyboards anymore. It's simply a blank space as if I didn't have other keyboards installed. I have multiple keyboards enabled under \"Manage keyboards\", and have tried uninstalling/reinstalling them, as well as uninstalling GBoard updates and reinstalling them.\n\nThe two things that I've done since I can last remember seeing it:\n\n- Installed November update\n- Connected a physical keyboard via OTG adapter\n\nI can't think of anything else \"special\" I've done to my device. Since I haven't heard anyone else report this, and it's somewhat uncommon to connect a USB keyboard to a phone, I'm leaning towards that if anyone wants to try and replicate.\n\nI like GBoard for normal typing, but it's not great for stuff like working in SSH terminals or other CLI. Would love to have the switcher back if anyone has a suggestion.\n\n\nMy keyboard:\n\nThis is what I would expect to see (not mine):",
-    "is_img": 1,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2019-11-20T14:19:11.926043+00:00",
-    "reply": "1 Recommended Answer"
-}

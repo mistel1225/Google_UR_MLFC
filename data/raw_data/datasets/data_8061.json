@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/94681006/can-t-send-receive-group-text-messages?hl=en",
-    "title": "Can't Send/Receive Group Text Messages",
-    "content": "I have not been able to view or send group messages since activating my phone yesterday. I will get a message from a single person and it will look like an attachment, then I'll try to download and it will spin and then go back to the way it was. If I am in my general messaging app where it lists all conversations, it says \"unsupported file\". \n\nWhen I try to send a group message, it doesn't even try. It just says \"not sent. Tap to try again\". \n\nI've tried following some of the recommendations out there to reset the MMS, but most of them point me to go to the APN section of the network settings, and there is no option to do that on my phone. I've tried playing around with different messaging settings and restarting my phone, but nothing is working.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a (5G)",
-    "post_time": "2021-01-22T19:15:32.945749+00:00",
-    "reply": "0 Replies"
-}

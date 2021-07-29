@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/105915357/phone-won-t-turn-on-past-the-logo-animation?hl=en",
-    "title": "Phone won't turn on past the logo animation",
-    "content": "Holding the power button brings up the animated Google logo, but it just repeats and never progresses past the logo.\n\nHolding power+vol down brings up fastboot mode, but the moment I take my finger off the power button the screen turns off. Some info from the fastboot screen:\nDevice state: locked \nEnter reason: combo key",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4 XL",
-    "post_time": "2021-04-12T14:00:03.465837+00:00",
-    "reply": "1 Reply"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/87820092/remove-login-entry-from-autofill-on-android-not-gmail?hl=en",
-    "title": "Remove login entry from autofill on android (not gmail)",
-    "content": "Hello,\n\nI have a problem with Google Autofill functionality on Android 11. By autofill I mean when opening an app for the first time, just above the keyboard I have a vertically scrollable bar with all my google accounts to choose from.\n\nThe problem is that my main account is on the list twice. One time with lowercase first letter and one time with uppercase first letter. Is there any way to remove one of those entries?\n\nI already checked Google password manager and all my account names that are my e-mail address start with lowercase letter. I also removed all autofill history from Google Chrome, rebooted the phone and also did a full factory reset.\n\nPlease help,\nMateusz",
-    "is_img": 0,
-    "category": "Other, Google Pixel 5",
-    "post_time": "2020-12-09T20:11:02.973322+00:00",
-    "reply": "8 Replies"
-}

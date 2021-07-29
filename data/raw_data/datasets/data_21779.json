@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/40518511/how-to-determine-potential-mac-spoofing?hl=en",
-    "title": "How to determine potential MAC spoofing?",
-    "content": "Per the settings on my Pixel 3, the MAC address should be 3c:28:6d:f1:c2:98. However, when I connect to my home WiFi network, the MAC that appears is listed as de:85:65:28:c5:8e. When I look up the MAC address de:85:65:28:c5:8e this vendor does not exist and is completely different from Google's vendor MAC of 3c:28:6d. Could someone explain why this is, and inform me if there is a possibility that my phone has been compromised in any form?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2020-04-16T22:28:53.673798+00:00",
-    "reply": "1 Recommended Answer"
-}

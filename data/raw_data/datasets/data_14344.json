@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/23069335/pixel-3a-speakerphone-not-working-when-in-call?hl=en",
-    "title": "Pixel 3a Speakerphone not working when in-call",
-    "content": "Been having this bug since a few days ago. I didn't really do any major changes to the phone configuration, I've tried updating it to the latest security patch and latest google play security revision. \n\nWhen calling or receiving a call, and enabling the Speaker functionality, I won't hear anything from the other side, however turning back off that will make sound come out of the smaller speaker from the top of the phone. \nThis seems to me like a mixer_paths issue. \n\nHas anyone else experienced this on their Pixel 3a's?",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3a",
-    "post_time": "2019-12-17T09:08:43.844881+00:00",
-    "reply": "239 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1287440/my-pixel-suddenly-has-multiple-functions-failing-need-help-trouble-shooting?hl=en",
-    "title": "My Pixel suddenly has multiple functions failing. Need help trouble shooting.",
-    "content": "My Pixel has been malfunctioning recently. Here is a list of the reoccurring problems.\n\n-\"System UI not responding error\" when accessing phone app\n-\"Phone not responding error\" when accessing phone app\n-Phone freezing/crashing when accessing phone app\n-Microphone not working for calls/Google assistant/video or audio recording\n-Receiver speaker not working\n-Headphone jack not working\n\nI researched these problems and did the suggested trouble shooting. I first did a Safe Boot to see if the problems we're caused by a 3rd party app. The function was restored briefly, but eventually the problems reoccurred. I then preformed a factory reset. I didn't log in to my Google account during setup and the errors persisted. I have taken my Pixel to a local ubreakifix authorized store to have a diagonostic test run. All the parts appeared to be functioning and the worker suggested it was an app. \n\nThese problems will sometimes disappear after the trouble shooting/resetting/safe mode/factory reset/ etc, but eventually come back. It seemed to begin occuring recently after an update to the OS back in early Jan. I also had the battery replaced in December at the same ubreakifix store. The old battery was no longer holding a charge. My phone is out-of-warrenty too. I am just trying to provide as much information, I do not know if this is applicable to the problems though. \n\nAny suggestions or help would be greatly appreciated. Thanks!",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-01-26T07:38:47.711866+00:00",
-    "reply": "1 Recommended Answer"
-}

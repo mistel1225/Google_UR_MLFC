@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/104461875/speaker-randomly-mutes-during-voice-calls?hl=en",
-    "title": "Speaker randomly mutes during voice calls",
-    "content": "Sometimes I can't hear the person on the other end of a call. It only seems to happen in the Phone app, but not (so far, anyway) in Telegram or Skype. If the sound is going to fail, it fails as the call is connecting or during the first half-second of a call. Once I'm on the phone, it seems to keep working. I can fix the problem, temporarily, by switching to Airplane mode and then reconnecting to the mobile network. When it's working, it may work for an extended period. But when it starts failing, it fails much more often than it works.\n\nWe imagined at first that it might be a problem with my phone account or SIM card. Getting a new SIM didn't fix it, however, and I can also reproduce the problem with the SIM from another number. Moreover, I do not have this problem when I put either of my SIM cards into my old Pixel 2 phone.\n\nI have done a network reset on the phone without fixing the problem.\n\nIt doesn't matter whether or not I turn off Bluetooth, and it doesn't matter whether I'm using headphones, the hands-free speaker or the phone  against my ear.\n\nI think my phone is busted. What do you think?",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 5",
-    "post_time": "2021-03-30T20:53:52.83431+00:00",
-    "reply": "1 Recommended Answer"
-}

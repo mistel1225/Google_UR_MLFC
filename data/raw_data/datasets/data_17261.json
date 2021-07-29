@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/67643813/pixel-3-force-shutting-down?hl=en",
-    "title": "Pixel 3 Force shutting down",
-    "content": "For the last month I have been having an issue with my Pixel 3 Force shutting down.  It is not booting back up after the shutdown.  I did a hard reset about a month ago.\n\nInitially, I thought the issue was tied to Android Auto, but it may simply be heat related, as it just occurred at my desk.\n\nAfter it shuts down, I can force it to boot up by holding down power button, but it usually goes through the same cycle a few times before it finally starts working again.  This leads me to heat issue also.\n\nIs there a log that can be viewed to see what is causing the shutdown?  Or is there a better means to troubleshoot this?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2020-08-28T16:28:31.429879+00:00",
-    "reply": "3 Replies"
-}

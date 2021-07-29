@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13729730/pixel-2-camera-interface-messed-up-in-android-10-with-gesture-navigation?hl=en",
-    "title": "[Pixel 2] Camera interface messed up in Android 10 with gesture navigation",
-    "content": "After upgrading to Android 10, elements of the camera interface are overlapping. It's more an inconvenience than a deal breaker, but an annoying one. I've attached a screenshot.\n\nThe issue occurs ONLY when using Gesture Navigation.\n\nThings I've tried: phone restarted; camera cache cleared; changed font size from largest to default; changed display from largest to default.\n\nCamera version: 6.3.026.265696615\nAndroid Versioin: 10 (QP1a.190711.020)",
-    "is_img": 1,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-09-06T15:08:39.277279+00:00",
-    "reply": "2 Replies"
-}

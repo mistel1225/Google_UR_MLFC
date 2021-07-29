@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/76540778/astrophotography-mode-no-longer-shoots-for-4-minutes-on-pixel-4-xl?hl=en",
-    "title": "Astrophotography mode no longer shoots for 4 minutes on Pixel 4 XL",
-    "content": "Astrophotography mode no longer shoots for the full 4 minutes exposure on my Pixel 4 XL. It used to work fine in August 2020 with the exact same hardware/software setup, the same spots at home where I take night sky photos, the same workflow, and similar darkness conditions.\n\nHere's what I do:\nwhen the sky is dark after dusk, bring a photo tripod on a balcony facing the night sky\nclasp the phone to the tripod\npoint the phone to the sky\non the phone, open the Camera app\nin the Camera app, switch to Night Sight mode\nwait for Astrophotography mode to turn on\nin the Camera app, take a shot\n\nThe Astrophotography mode confirmation message is displayed. But, when I shoot with a Bluetooth shutter, the phone takes only a single frame with an exposure of a few seconds. I instead expect the full 4 minutes exposure to complete as it did a few weeks ago with the same setup under similar conditions.\n\nI have Android 11 and I'm using version 7.5.107.326355469 of the Google Camera app. I attach a test JPG shot taken with RAW+JPG, 2X zoom, and focus to infinity.",
-    "is_img": 1,
-    "category": "Camera, Google Pixel 4 XL",
-    "post_time": "2020-10-12T19:08:37.821118+00:00",
-    "reply": "0 Replies"
-}

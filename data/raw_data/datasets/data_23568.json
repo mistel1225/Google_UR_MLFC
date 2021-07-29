@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17536320/solved-for-me-add-esim-to-pixel-3-problem-was-i-could-not-find-add-carrier-option?hl=en",
-    "title": "Solved (for me) Add eSIM to Pixel 3 (problem was I could not find Add Carrier option)",
-    "content": "Pixel 3 purchased from Google store. Should be fully unlocked and unassociated with any carrier. I wanted to add an eSIM by scanning a QR code. Running updated Android 10 (to Oct 23, 2019) I could not find the option to Add Carrier. Ivy at Google support went through her support documents and found one reference that \"in Canada, can only have one SIM card in the phone\". This was ambiguous as the phone only takes one sim card. But on a hunch, I turned the phone off and removed the physical sim card. On starting the phone without the sim card, I was able to add a carrier. I scanned the QR code and the eSIM installed. I powered off the phone, re-installed the physical sim card and now I have two carriers available PLUS the ability to add more carriers.\n\nSo try powering down, remove the physicals sim card, power back up and see if you can add a carrier. If so, the camera should activate and you can scan your QR code to add the eSIM. Power back down and re-install the physical sim card. You can get a free QR code for testing from Orbixi.com. I'm going to actually use RoamKnowing.co as rates for data are good.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2019-10-23T17:51:27.908014+00:00",
-    "reply": "8 Replies"
-}

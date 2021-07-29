@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/78254307/pixel-5-whatsapp-notification-loop?hl=en",
-    "title": "Pixel 5 - WhatsApp Notification Loop",
-    "content": "I am having an issue with my Pixel 5. When listening to Spotify with my Pixel Buds 2 and a notification comes through from WhatsApp the notification sound (galaxy) plays on a permanent loop over the music, even after the notification has been dismissed. Only a reset of the device solves this issue.\n\nUpdate: this happens with WhatsApp on Android 11 even when the Pixel Buds are not connected. Killing WhatsApp does not stop the loop so it is clearly an Android issue.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 5",
-    "post_time": "2020-10-21T09:29:57.110857+00:00",
-    "reply": "4 Replies"
-}

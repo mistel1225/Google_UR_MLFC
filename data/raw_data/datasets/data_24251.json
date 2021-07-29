@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/25914392/apn-profiles?hl=en",
-    "title": "APN Profiles",
-    "content": "Hi community,\n\nAs MVNO, what's the correct procedure to include our APN settings in Google devices?\nWe already submited our parameters via Git/Googlesource is taking too long to include them in the software updates.\n\nWe already rised a issue @google issue tracker and was marked as Fixed but when we test our Pixel 4, doesn't load our settings.\n\nThank you",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
-    "post_time": "2020-01-17T12:00:05.600096+00:00",
-    "reply": "0 Replies"
-}

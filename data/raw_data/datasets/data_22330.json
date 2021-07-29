@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/33038041/why-does-call-screen-option-for-possibly-fake-numbers-screen-all-first-time-calls?hl=en",
-    "title": "Why does call screen option for \"possibly fake numbers\" screen all first time calls?",
-    "content": "In the call screen options, there are 4 options:\nSpam, Possibly Faked Numbers, First Time Callers, and Private/Hidden Numbers.\n\nI turned on to automatically screen Spam and Possibly Faked Numbers.  I have First Time Callers and Private/Hidden numbers set to Ring.  However, the phone still automatically screens all first time calls (even though I have that option set to ring).  It seems to be the \"Possibly Faked Numbers\" option that is causing that -- if I turn that off, first time calls do ring.  But if I turn that back on, all first time calls get screened.\n\nI opened a chat session with Pixel Support, and they told me this is normal because a first time caller is considered a possibly fake number....I'm not sure I buy that explanation.  Why would call screen have a separate option on how to handle first time callers if first time callers are caught by the \"Possibly Faked Numbers\" category?  Has anyone else had this same experience?  I want to screen Spam and Possibly Faked Numbers, but I don't want to screen all first time callers.  That doesn't seem to be possible.  I'm hoping someone else has experienced this and maybe found a setting to fix it.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 2",
-    "post_time": "2020-03-10T17:42:51.073544+00:00",
-    "reply": "1 Recommended Answer"
-}

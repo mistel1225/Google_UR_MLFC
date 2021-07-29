@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/41029049/can-t-enable-wifi-calling-on-pixel-2-despite-carrier-support-for-it-setting-is-greyed-out?hl=en",
-    "title": "Can't enable WiFi calling on Pixel 2, despite carrier support for it! Setting is greyed out!",
-    "content": "I'm in Sweden, and Comviq is my service provider. I've spoken to their customer service dept, and they assured me that WiFi calling is supported, and that it is enabled on my account. However, when I search for WiFi calling in settings, there is no option to enable it as the preferred method. Also, after entering *#*#4636#*#* in the dialer to access the phone's radio testing menu, under phone information, the setting for WiFi calling provisioned is greyed out.\n\nThey sent me a new SIM card just in case there was a problem with the SIM I had. But the problem still exists even with the new SIM.\n\nWhy can't I enable WiFi calling on my phone? I'm running stock Android OS v 8.1.0, build OPM2.171026.006.G1, Baseband version g8998-00202-1802061358.\n\nIf anyone knows how I can get this setting enabled so I can make calls over WiFi, please let me know.\n\nI was able to make WiFi calls in the past using this same phone with a different carrier when I was still living in the USA, so I'm not sure why it won't work now.",
-    "is_img": 1,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 2",
-    "post_time": "2020-04-19T10:57:43.936574+00:00",
-    "reply": "5 Replies"
-}

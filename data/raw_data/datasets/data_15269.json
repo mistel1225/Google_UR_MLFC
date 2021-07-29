@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/74363323/is-there-a-way-to-track-what-apps-actually-used-and-sent-location-information-out?hl=en",
-    "title": "Is there a way to track what apps actually used and sent location information out?",
-    "content": "I know what apps have access to location services from the Settings section of the phone. However I'd like to track and understand what applications actually _used_ the location services on my phone and sent the location out. Is that possible? My 'concern' is that I swipe up on an app, supposedly removing it from operating, but possibly it's not out of memory, runs in the background, and continues to send tracking info out. Google Fi Support did not give me a strong feeling that they understood the question.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4a",
-    "post_time": "2020-10-01T16:10:40.370574+00:00",
-    "reply": "3 Replies"
-}

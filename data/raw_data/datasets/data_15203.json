@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/74577827/power-button-not-working-after-reboot?hl=en",
-    "title": "Power button not working after reboot",
-    "content": "Whenever I reboot my phone, whether for system updates or other reasons, the power button stops working for a few hours up to a day after. A single click will not turn on the screen, instead it takes either double clicking to open the camera, or holding to open reboot/power off options. From there, I can exit whatever app is launched to get to the main menu. However sometimes, it locks me into a state where I can swipe from the top of the screen to pull down the menu, but everything else is slightly grayed out, and unable to click on any apps/controls. My only recourse at that point is to lock the device again, and then mess with the power button for another minute an hope I do not get into this bad stage again.\n\nI do not believe this is a sticky button issue, as it only occurs after reboot. This can also be reliably reproduced. Another indication of this being a software issue is that the auto-unlock via the finger print scanner is also not working.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2020-10-02T18:01:02.63381+00:00",
-    "reply": "0 Replies"
-}

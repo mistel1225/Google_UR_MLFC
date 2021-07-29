@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13959401/android-10-messages-issue?hl=en",
-    "title": "Android 10 Messages Issue",
-    "content": "Hi all\n\nThis could be a little hard to explain, but I'll give it a shot. If I'm using the Android Messages app, in the main menu/conversation list, then receive a new sms/messages notification, the app will become unresponsive until the little \"messages\" notification animation is finished on the notification bar. The app will then function as usual until I receive another notification, at which point it will become unresponsive until the animation is finished.\n\nHas anyone else experienced this issue? and if so, does anyone know of a fix? Very frustrating!\n\nSorry if the explanation is a little rough...\n\nThanks in advance.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2019-09-09T16:04:26.030032+00:00",
-    "reply": "3 Replies"
-}

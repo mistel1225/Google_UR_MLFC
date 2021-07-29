@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/110346481/can-t-logon-after-factory-reset?hl=en",
-    "title": "Can't logon after factory reset",
-    "content": "I'm updating my phone to open beta 12 after Google I/O 21. The phone is broken, fatal error.\nAfter factory reset, I get into the settings menu, select the language, wi-fi. I am not asked for an account to log in. System immediately asked to restore data using another device via a cable. I'm trying to skip, system asks for the pin code that was on this device, I enter, I get into a loop from which there is no way out: again asks to restore data from another device, after skip again asks to enter the pincode,...\nIn the window with the pincode, i can see button \"Use Google account instead\", but if i cliked here i get back to menu with question about restored from another device.\nIs this the case when you have to wait 24 hours to unlock? Or what should I do?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4 XL",
-    "post_time": "2021-05-18T22:20:15.294752+00:00",
-    "reply": "4 Replies"
-}

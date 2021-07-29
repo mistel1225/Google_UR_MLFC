@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/78598181/pixel-3-xl-black-screen-after-october-2020-security-update-for-android-11?hl=en",
-    "title": "Pixel 3 XL black screen after October 2020 security update for Android 11.",
-    "content": "I'm running official Android 11 on my Pixel 3 XL and it was working fine until some time back. I got a notification to install the latest October 2020 security patch system update. I downloaded that and clicked install. \n\nAfter that the update installed and my phone rebooted to a black screen. Touches are working fine. I'm able to receive calls but screen is completely black. \n\nI'm unable to unlock my phone. It is a completely stock non-rooted device. Even the bootloader is intact. There is no modifications that has been done. \n\nFortunately, USB debugging was on so I could connect the phone to my laptop and use basic ADB commands to reboot. Although I still got black screen. I even tried entering into recovery mode but there also I got a blank screen. \n\nMy phone has not got any physical screen damage nor was it knocked against any surface. I charged my phone to 100% and removed it from the charger (official charger that came in the box). Kept it on the table and clicked install on the official October 2020 security patch.\n\nI used vysor to mirror the screen on my laptop. I even tried to view the screen on vysor and it is coming out distorted. It's seeming impossible to unlock the phone. When I placed a call on the phone, the call UI displayed  distorted in vysor. Very big chunky UI.\n\nI'm feeling very panicky as it is a very costly device and I was already taking extra care of it. All I did was install an official system update and this happened. \n\nPlease help me.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2020-10-22T22:30:25.376333+00:00",
-    "reply": "1 Recommended Answer"
-}

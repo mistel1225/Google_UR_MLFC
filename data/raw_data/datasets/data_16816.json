@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/70130289/wrong-information-for-contact?hl=en",
-    "title": "Wrong Information for Contact",
-    "content": "When I got my Pixel 3a recently, I transferred all my data from my Oneplus One (running LOS 16), which included my contact info. However, on my new phone, \"John\"'s contact card shows my profile picture, and under email, shows my email. If I delete the contact profile picture, it ends up reverting back to mine. When I edit the email, it shows up as John's, but as soon as I exit, it still shows my email under the \"email\" header.\n\nI suspect this has something to do with the fact that my old phone included a \"Me\" contact which had all of my info, and somehow gave this info to John when I transferred. Even if I delete John's contact and recreate the contact from scratch, it shows my profile picture and email as soon as I save. What can I do about this?",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 3a",
-    "post_time": "2020-09-09T20:05:17.019392+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/88805133/can-no-longer-select-do-not-validate-as-an-option-under-ca-certificate?hl=en",
-    "title": "Can no longer select \"Do Not Validate\" as an option under \"CA Certificate\"",
-    "content": "In order to connect to our enterprise wireless network, the device must be set to \"Do Not Validate\" under \"CA certificate\" in order to connect. After the recent security update, the option is grayed out and the only thing I can select is \"Use system certificates.\"\n\nBecause my Pixel is now rejecting the certificate presented by the auth server I can no longer connect to my enterprise wireless network. What gives?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2020-12-15T19:33:23.847806+00:00",
-    "reply": "1 Recommended Answer"
-}

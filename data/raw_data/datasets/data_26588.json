@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/18482116/pixel-xl-can-t-take-photos-since-the-most-recent-system-update?hl=en",
-    "title": "Pixel XL - Can't take photos since the most recent system update",
-    "content": "Since the most recent Android 10 patch, I can no longer take photos. Basically, whenever I take a photo, it briefly shows up in the camera app, but when I switch to the Photos app, it simply disappears and upon return to the camera app, it turns into an all grey image.\nI am guessing that it might be a permission problem, but I have already uninstalled the most recent camera updates and then reinstalled them. Also double checked that all permissions are given and even re-applied all permissions as well. Since I don't know if the problem is with the camera app, I have also done the same with the Photos app.\nIn addition, I have tried to run the phone in safe mode, but the problem remains the same which seems to indicate that the problem is most likely with the Camera app itself.\nI just discovered that I can still take photos with Instagram and they show up in Photos just fine. So, it seems to assume that this is a problem with the Camera app.\nAny ideas what else I can try? Thank you!",
-    "is_img": 0,
-    "category": "Camera, Google Pixel",
-    "post_time": "2019-11-03T23:42:16.005596+00:00",
-    "reply": "2 Replies"
-}

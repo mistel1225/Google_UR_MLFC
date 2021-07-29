@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/75761160/cannot-interpret-qr-code-in-google-authenticator-transfer-to-new-pixel-4xl?hl=en",
-    "title": "Cannot interpret QR code in Google Authenticator - Transfer to new Pixel 4XL",
-    "content": "I got a new Pixel 4XL yesterday. In order to set up and maintain existing accounts I need Google Authenticator for two step verification.\n\nWhen trying to transfer accounts from my old phone (Pixel 3XL) to my new phone (Pixel 4XL), I bring up the QR code to export on my old phone, but when I scan it to import with my new phone I get a pop-up error \"Cannot interpret QR code.\". There is nothing wrong with the old phone (no cracks on screen etc). I have tried resizing the screen, adjusting brightness, but nothing works. It simply will not accept the generated QR to transfer accounts.\n\nI tested various other QR codes on the same screen and they worked just fine. Surely there must be another way to transfer authentication accounts without using this obviously bugged feature? My phone is uselses without it!",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2020-10-09T01:20:24.121343+00:00",
-    "reply": "14 Replies"
-}

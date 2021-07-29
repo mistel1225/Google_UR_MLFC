@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/92495663/lte-instability-on-pixel-2-after-december-final-update?hl=en",
-    "title": "LTE Instability on Pixel 2 after December Final Update",
-    "content": "My LTE connection on my Pixel 2 has been unstable since the final December update.  It usually settles on H+ and sometimes goes to 3G. I can only get LTE after removing the SIM card and reinserting.  It lasts for a few minutes, seemingly until I change what screen I'm looking at on my phone.\n\nIt will even tell me I don't have data when it shows that I am connected to H+.\n\nSending media through MMS is practically impossible.\n\nI have T-Mobile for service and my phone was purchased unlocked from the Google Store.\n\nI've tried:\nAPN settings\nReseating the SIM card\nSwapping SIM cards w/ another phone on my account\nResetting network settings\nClearing data and cache from phone services\nFactory reset\n\nThank you for any help.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2021-01-07T21:09:28.223725+00:00",
-    "reply": "4 Replies"
-}

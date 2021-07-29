@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1760422/064883851q?hl=en",
-    "title": "064883851q",
-    "content": "App Engine flexible environment – WebSockets support: beta Achieve lower latency by using WebSockets to create persistent connections between clients and App Engine instances. For clients that don’t support WebSockets, you can enable session affinity, which routes App Engin",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail",
-    "post_time": "2019-02-20T16:20:00.250883+00:00",
-    "reply": "1 Recommended Answer"
-}

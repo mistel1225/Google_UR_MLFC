@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/95497979/android-11-screen-record-function-video-and-audio-out-of-sync?hl=en",
-    "title": "Android 11 Screen Record function video and audio out of sync",
-    "content": "Screen Record function in Android 11 produce video that's out of sync with audio. The audio is recorded in real time and matches time recorded on other phones/cameras, the video is completely out of sync with variable frame rate (sometimes 45 fps sometimes 32.01 fps etc), and video seem to skip any google assistant result page recorded.\n\nI recorded a video to demonstrate these problems: https://youtu.be/BUaJ6UzHKqA\n\nTLDR: Android 11 Screen record, audio is good, video out of sync.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2021-01-28T12:56:44.820563+00:00",
-    "reply": "0 Replies"
-}

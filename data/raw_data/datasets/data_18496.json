@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/62354826/pixel-4-64gb-reports-as-50gb-to-all-apps?hl=en",
-    "title": "Pixel 4 64GB reports as 50GB to all apps",
-    "content": "I have the 64 GB Pixel 4, which shows a weird discrepancy about its storage capacity.\n\nIn Settings, it shows the storage correctly as ... out of 64 GB. Note that the Android system files take up 23 GB.\n\nHowever, in all other apps, it shows the maximum storage capacity as 50 GB. This makes apps frequently alert me about being low on storage while this is not true.\n\nDoes anyone else have this issue? Should I do a factory reset?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4",
-    "post_time": "2020-08-01T20:16:46.982653+00:00",
-    "reply": "1 Recommended Answer"
-}

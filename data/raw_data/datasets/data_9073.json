@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/92020774/faithfully-stuck-on-preparing-system-update-every-month-for-the-last-10-12-months?hl=en",
-    "title": "Faithfully stuck on \"preparing system update\" every month for the last 10-12 months.",
-    "content": "This happened to me when I was using the Pixel 2 XL years ago, then the Pixel 3 XL, now the Pixel 4 XL .. with no definite solution at hand.\n\nToggling between networks, toggling airplane mode, device reboot, all the jazz. Never once seen this feature work. Even after 2hrs of inactivity letting it run in the background - which I'm pretty confident it's not running at all, given there's absolutely no way to see progress of any sort.\n\nThe only way is either to flash manually or via pixel tool, either way, both requires me to be at home and I'm mostly working. And not everyone has access to adb 24/7. What if there's a critical patch that needs to be pushed? \n\nDoes anyone have a solution? Tried and tested?\n\nNot using the device update OTA feature altogether seems to be the most popular \"solution\", which doesn't really fix things to begin with, rather, it avoids the broken feature altogether.\n\nI hope mandatory manual flashing isn't gonna be a thing for the next 3-5 years with no end in sight. I think it's only reasonable to expect a basic, core function to work flawlessly. Because no other phones have this issue and I change my secondary every year between different brands. I seem to experience this only on Pixels for the last 3yrs.",
-    "is_img": 1,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4 XL",
-    "post_time": "2021-01-05T01:14:20.254676+00:00",
-    "reply": "1 Reply"
-}

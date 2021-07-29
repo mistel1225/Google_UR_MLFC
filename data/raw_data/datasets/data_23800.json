@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13547257/incorrect-screenshot-capture-date-on-android-10?hl=en",
-    "title": "Incorrect screenshot capture date on Android 10",
-    "content": "I took screenshots and they have an incorrect creation date (01-01-1970), because of this, in some applications like Telegram or WhatsApp in the share menu screenshots captured on Android 10 are at the end of the list. Also, the screenshot info does not contain info about the dimensions (Screenshots taken on Android 9 have this).\n\nThis problem on release version of Android 10 (QP1A.190711.020).",
-    "is_img": 1,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-09-04T10:32:31.088186+00:00",
-    "reply": "1 Recommended Answer"
-}

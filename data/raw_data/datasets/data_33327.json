@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2141952/my-pixel-2-xl-won-t-boot-up-to-system-or-recovery-as-i-get-can-t-find-valid-operating-system-error-the-device-is-locked-so-i-can-t-flash-anything-over-boatloader-mode?hl=en",
-    "title": "My pixel 2 xl won't boot up to system or recovery as I get Can't find valid operating system error. The device is locked so I can't flash anything over boatloader mode.",
-    "content": "I've tried to boot up to recovery; no luck\nI've tried to flash stock images in boatloader, but as my device is locked it didn't work.\nI've tried to enable flash unlock to flash the update afterwards but it didn't work.\nWhen I press and hold the volume up button while the device is normally booting up I get into a screen saying download mode then it goes to the other screen (attached) . In this state, my PC gives me a notification that a USB device is connected but when I type adb or fastboot devices I don't find my device.",
-    "is_img": 1,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-03-08T05:13:33.283708+00:00",
-    "reply": "4 Replies"
-}

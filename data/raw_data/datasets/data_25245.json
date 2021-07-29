@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/23178683/pixel-2-on-google-logo-screen-loop-mode-post-latest-android-security-update-bootloading-not-working?hl=en",
-    "title": "Pixel 2 on Google logo screen loop mode post latest Android Security Update. Bootloading not working",
-    "content": "After installing the Android/Pixel security updates for December 2019, Pixel 2 device stopped functioning. \nIt is stuck now on the Google animation loop mode, refuses to power on or start through the bootloader. \nWithin the bootloader, Recovery Mode doesn't work either -- any press of the button results in screen blacking out, and turning back on to the Google logo/white screen. \nThis Google logo/white screen keeps going on and off constantly.\nWhen connected to charger, the battery sign shows and then disappears to show a black screen\nHave tried pressing Power On - holding 30 seconds; multiple times -- no change\nHave tried Power Off on bootloader, and then restarting -- no change\nTook the phone to different servicing shops, and they are unable to solve the issue\nHard / soft reset option not available either\n\nAny suggestions on what to do next? Thanks!",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2019-12-18T11:51:37.977147+00:00",
-    "reply": "2 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/110865031/can-t-get-5g-internet-connection-on-pixel-5-when-mobile-data-network-type-is-nr-sa?hl=en",
-    "title": "Can't get 5G Internet connection on Pixel 5 when \"Mobile data network type\" is \"NR SA\"",
-    "content": "I have a Pixel 5 phone (with May 5 Android 11) and a 5G account with Ting which uses the T-Mobile network.\n\nI find that the settings (under \"About phone > SIM status\") for \"Mobile voice network type\" and  \"Mobile data network type\" are usually \"LTE\" and \"NR NSA\" but sometimes they change to \"LTE\" and \"LTE\", or \"NR SA\" and \"NR SA\".\n\nTalk and Text seem to work okay (it seems, by reverting to LTE), but sometimes when accessing the Internet, and the voice and data network types change to \"NR SA\" and \"NR SA\", I will get a message saying there is no Internet connection or \"You're offline\" (when away from WiFi or it's turned off).\n\nNote that I do get an Internet connection with \"NR NSA\" which can be quite fast (350 Mbps).  Also note that when the data network type is \"NR SA\" (or \"NR NSA\"), I see the \"Settings\" icon for \"Mobile data\" showing \"5G\".  (Two down swipes from the top and swipe left.)  But with \"NR SA\" there actually isn't any Internet access and it seems it does not revert to \"NR NSA\".\n\nDoes anyone know why this is happening and is there some way to fix it?  Is it a software issue with Android 11, or an issue with T-Mobile or with Ting, or maybe the Pixel 5 hardware?\n\nI'd like to leave the \"Preferred network type\" setting at \"5G (recommended)\" and not have to change to \"LTE\" when this issue arises, (under \"Settings > Network & Internet > Mobile network\")",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2021-05-23T04:39:09.390031+00:00",
-    "reply": "0 Replies"
-}

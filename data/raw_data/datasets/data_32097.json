@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/4060399/pixel-2-acting-as-if-it-is-restarting-freezes-in-safe-mode?hl=en",
-    "title": "Pixel 2 acting as if it is restarting - freezes in Safe Mode",
-    "content": "I had an app open on my Pixel 2 for about 12-ish minutes at lunch just today (food ordering app), but had forgotten to close it. When I went to do so, my phone froze, then went black and turned itself off. I figured it'd had a blip, so I let it be for a few minutes before trying to turn it back on.\n\nNow, ever since it started up again, if I am doing something - or even if the phone is left alone but on - the phone will randomly freeze briefly, the screen will go black, and then I'll be presented with the lock screen. When I try to unlock with only a fingerprint, it tells me I must enter my pin after restarting, and so I do. The same thing will happen 30-45 seconds later, over and over again. If I just leave it be, the screen flashes from the idle black screen with the clock, to the unlock screen before going back to the black idle screen.\n\nI tried to start up in Safe Mode to see if clearing some of my apps would help - in particular the one I was on when it froze. I managed to get the app in question off, but the App list in Settings freezes up pretty consistently (45 seconds or so) and then boots me back to the home screen.\n\nI'll do a factory reset if I must, but I'd really prefer not to. Hoping I can do a back-up first, at least.\n\nAny help would be appreciated.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2019-04-12T19:00:09.702674+00:00",
-    "reply": "1 Recommended Answer"
-}

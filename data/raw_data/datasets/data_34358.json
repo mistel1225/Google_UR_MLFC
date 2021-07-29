@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1666140/system-ui-keeps-stopping-on-pixel-2-xl-directly-after-boot-safe-mode-and-ota-sideload-didn-t-help?hl=en",
-    "title": "\"System UI keeps stopping\" on Pixel 2 XL directly after boot; safe mode and OTA sideload didn't help",
-    "content": "My Pixel 2 XL showed \"System UI keeps stopping\" in the morning. It was charging overnight and had not been touched for several hours beforehand. Rebooting the device lead directly to the same error message. No matter if I tap \"App info\" or \"Close App\", the message goes away for some time and then comes back. Retrying this a few times leads to a reboot into a prompt offering me to keep trying or to wipe my device.\n\nAll this happened last year, but I didn't have time to debug further.\n\nSince then, I tried\n* booting into safe mode\n* adb sideloading the February 2019 OTA\n* booting into safe mode after the update\n\nboth of which resulted in the same error.\n\nI have ~7 months of photos on this cell phone so I would really like to get at my data. I know the password for the encrypted partition, so copying data off of a partition or restoring it enough to be able to copy data from Android proper would both work if only I would be able to access _anything_.\n\nIt seems that adb only allows sideload on modern Android which makes sense, but limits my options severely here.\n\nAny and all pointers on how to get my photos back appreciated.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-02-15T20:25:25.274562+00:00",
-    "reply": "3 Replies"
-}

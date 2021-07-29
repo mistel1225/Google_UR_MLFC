@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/76187654/pixel-3-will-not-turn-on?hl=en",
-    "title": "Pixel 3 will not turn on",
-    "content": "When I woke up this morning, I was unable to turn on my phone or get any sort of response from it. I've run some troubleshooting on it, and this is what I have done/found so far.\nThe phone by itself does not respond to any kind of input from the buttons, even after several hours of being plugged into its charger. No response is seen from the LEDs, the screen, or from haptic feedback.\nI have not yet tried a different cable, but I am reasonably sure that my current cable is fine (it charges my backup battery). I'm going to check it with a new cable very shortly, but I doubt it will make a difference.\nWhen I plug it into my computer (running Windows 10), I get the connection notification sound, and Device Manager refreshes its list of devices (though I am unsure of where the phone would be located in the list). Holding down any button or button combination (including combinations that do not include the power button) while the phone is connected to my computer causes the connect/disconnect sounds to play at ~8 second intervals. Additionally, the top part of the phone becomes slightly warmer than the bottom half.\nI'm currently unsure of what to do next, if there is anything I can do. I would appreciate any suggestions or pointers.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3",
-    "post_time": "2020-10-10T22:18:07.268506+00:00",
-    "reply": "1 Recommended Answer"
-}

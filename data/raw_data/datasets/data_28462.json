@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13640437/wow-android-10-turd-sandwich-restart-button-doesn-t-restart-won-t-start-unless-plugged-in?hl=en",
-    "title": "Wow, Android 10 - Turd Sandwich! Restart button doesn't restart. Won't start unless plugged in...",
-    "content": "Trying to troubleshoot why mobile data doesn't work anymore since the update. Tried restarting, and guess what? The restart button doesn't work! It just shuts the phone down and never reboots. What's worse, is then it won't power back up unless it's plugged in!! The phone's been charging all night, said 100% before restarting. Plugged it in, and it did the stupid 0% fireworks display! WTF Google. Did you even TRY to QA this release?!\n\nI can replicate this problem every time I try to reboot as well. Restart, phone goes black, nothing happens. Long press power, nothing happens. Plug in power, see charging icon. Press power button, see 0% starburst, then immediately 95% starburst. THEN I can long press and power up. Ridiculous!",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3",
-    "post_time": "2019-09-05T13:38:46.528659+00:00",
-    "reply": "1 Reply"
-}

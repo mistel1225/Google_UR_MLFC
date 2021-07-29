@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/100456051/google-authenticator-on-new-phone-w-security-keys?hl=en",
-    "title": "Google Authenticator on New Phone w/ Security Keys",
-    "content": "How do you set up Google Authenticator when you also have security keys?\nI got a replacement phone and nearly have it all set up- the old phone is inoperable so no help in the process. I have two physical security keys for my google account (both bluetooth and USB), which worked fine. For my social media, I had been using Google Authenticator to produce codes to log in. However, the Authenticator app is now wiped clean and I cannot get any codes to log into my social media. \nI've followed all the steps online- go to the google account, follow to security, 2-factor, and there should be a section for the Authenticator where I can set it up. However, when I get to the 2 factor section, all that appears are my security keys and the options to install more of them. \nI have also tried: - uninstalling and reinstalling the app - just adding the social media accounts again (no can do) -trying to get into accounts without codes (you have to send a special message to facebook etc.)\nTo summarize: I use Google Authenticator to provide 2 factor authentication for social media log in. I am now logged out of my social media accounts and unable to log back in because the Authenticator has not transferred to the new phone, and cannot provide me any codes.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3",
-    "post_time": "2021-03-02T17:38:29.957426+00:00",
-    "reply": "3 Replies"
-}

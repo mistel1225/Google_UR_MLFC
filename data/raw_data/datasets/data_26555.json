@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/18713282/timeline-location-history-location-permission-denied?hl=en",
-    "title": "Timeline > Location History > Location Permission Denied",
-    "content": "Phone: Pixel 3\nOS: Android 10\nProblem: Google Timeline has not worked since I got this phone in January. Worked perfectly on my previous Samsung.\n\nPhone is not listed under 'Devices on this account'\n\nAfter hours of investigation deep into settings reveals that the permission for Location for Google Location History is set to 'denied'. I cannot toggle this to 'on' as I can with other apps. Pressing takes me directly to Google Location History screen rather than the usual 'on all the time', 'only when using the app', or 'deny'\n\nDriving me mad, seems very silly that a Google device cannot use Google's own software..\n\nPlease help!",
-    "is_img": 1,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2019-11-06T13:09:05.115781+00:00",
-    "reply": "1 Recommended Answer"
-}

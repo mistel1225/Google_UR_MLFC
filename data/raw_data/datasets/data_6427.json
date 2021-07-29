@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/99066060/unresponsive-pixel-3?hl=en",
-    "title": "Unresponsive Pixel 3",
-    "content": "Phone does not respond to anything (no screen nor haptic feedback). So far, I've tried the following:\nPressing the power button for increasingly longer periods of time, up to a couple of minutes\nPressing the power and volume down buttons at the same time\nPressing the power and volume up buttons at the same time\nConnecting it to a computer and trying to contact the phone via adb\nCharging with different cables and AC adapters\nCalling the phone\nRemoving the SIM tray\nLet it run out of battery and charging again (no feedback but it appeared to be pulling power from my portable charger)\n\nThe issue started after Google search crashed while opening a search result (which was a PDF file). The search app kept crashing and restarting rendering the phone unusable so I restarted it using the power menu. Shortly after restarting normally, I entered my passcode to unlock the phone and that's when it stopped responding to any input. Less than a minute later the screen turned off. After a couple of hours the phone was slightly warm to the touch, indicating that perhaps it was powered on and stuck in a software loop of sorts. I have not rooted the system nor unlocked the bootloader and the phone was running the latest version of android that was a pushed OTA (the one released at the start of February).\n\nAny help you can provide (or new ideas of things to try) will be greatly appreciated.\n\nThanks,\nH",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2021-02-21T07:44:12.121872+00:00",
-    "reply": "1 Reply"
-}

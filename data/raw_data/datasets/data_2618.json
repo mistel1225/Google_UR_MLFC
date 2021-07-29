@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/108240297/how-to-stop-google-assistant-on-phone-responding-if-in-flight-mode-if-nest-hub-in-same-room?hl=en",
-    "title": "How to stop Google assistant on phone responding if in flight mode if Nest hub in same room",
-    "content": "I set my phone to flight mode when I'm in the same room as my Nest hub.\n\nI want to control ceiling lights, so tell Google assistant to turn off the lights. \n\nThe issue:\nPhone responds with the \"You're phones in flight mode so I can't help with that right now\" answer.\n\nNest hub performs the action as expected.\n\nWhat I want:\nI want to stop the annoying phone Google assistant from responding when it's in flight mode when another device (my Nest hub) can respond.",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 4 XL",
-    "post_time": "2021-05-01T08:43:15.598055+00:00",
-    "reply": "3 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/11093844/phone-routes-incoming-phone-calls-to-bluetooth-device-when-bluetooth-device-isn-t-being-worn?hl=en",
-    "title": "Phone routes incoming phone calls to bluetooth device when bluetooth device isn't being worn",
-    "content": "When making outgoing calls the phone correctly detects whether my bluetooth headset is being worn and selects the appropriate output (either \"Phone\" or the bluetooth headset).  However when receiving a call it routes the audio to the bluetooth device regardless of whether I'm wearing it.\n\nMy previous phone (Samsung Galaxy S8) handled this properly for both incoming and outgoing calls and the Pixel handles it properly for outgoing calls so I believe it's a bug that it's not being handled properly in the case of outgoing calls on the Pixel.\n\nI've tested and the issue is also present in Safe Mode.\n\n\nIs anyone else experiencing this issue? Any ideas if something else other than a bug might be causing it?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2019-08-01T20:00:45.713764+00:00",
-    "reply": "1 Reply"
-}

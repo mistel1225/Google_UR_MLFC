@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/18229034/does-my-pixel-2-xl-has-learned-depth-portrait-mode?hl=en",
-    "title": "Does my Pixel 2 Xl has Learned Depth Portrait Mode?",
-    "content": "I have read (https://ai.googleblog.com/2018/11/learning-to-predict-depth-on-pixel-3.html?m=1) that Pixel 3 uses Convolutional Neural Nets to estimate the depth maps and not just the PDAF stereo imaging. So in the article it says this features is included in Google camera app version 6.1 , so does it mean my phone (Pixel 2XL) has this same (as Pixel 3) Learning based depth estimation as currently my camera version is 6.3.\n\nThanks.",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 2",
-    "post_time": "2019-10-31T22:50:14.582785+00:00",
-    "reply": "0 Replies"
-}

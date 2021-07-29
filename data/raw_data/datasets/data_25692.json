@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/4804089/pixel-2-won-t-boot-and-cannot-access-recovery-mode-to-use-adb?hl=en",
-    "title": "Pixel 2 won't boot and cannot access recovery mode to use ADB",
-    "content": "My Pixel 2 got corrupted a few months ago and I was forced to factory reset the device which I was able to do directly from the phone.\nLast week the same thing happened again but I am now stuck in the bootloader. I've been learning all about how to use ADB and Fastboot to load a clean OS.\n\nTrying to enter recovery mode does not work and therefore I am not able to tell it to accept commands from ADB.\n\nTrying to sideload with ADB gives the folowing error\nadb: sideload connection failed: no devices/emulators found\nadb: trying pre-KitKat sideload method...\nadb: pre-KitKat sideload connection failed: no devices/emulators found\n\nfastboot devices does return the device id and fastboot reboot does reboot the system so I know it is connected. \n\nTrying to use flashing unlock from fastboot does not work and fastboot get_unlock_ability returns 0\n\nFrom what I can tell I am locked out of the ability to repair the phone myself due to some security. I have never done anything tricky with my phone like installing a custom OS or rooting or anything. It is a vanilla device which I keep up to date. The error occurred soon after updating android so it may be the case that the update corrupted the phone.\n\nThe phone seems to be under warranty but the help page directed me to post here and I couldn't find any way to ask for a repair directly.\n\nThis is quite frustrating as I have only had flagship google phones since the Nexus One back in 2010 because I found them the most stable and reliable. 2 corrupt OS's in the last few months is a red flag.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-04-24T14:05:19.996266+00:00",
-    "reply": "2 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/84167705/iheartradio-keep-launching-when-i-get-into-my-car?hl=en",
-    "title": "iHeartRadio keep launching when I get into my car",
-    "content": "Running Android 10 on Pixel OG.  iHeartRadio keep start up itself and pop up notification saying it's ready when I get into my car.  iHeartRadio doesn't seem have a setting related to auto-start but seem to have a precise way to know I am in my car, presumably through the Bluetooth connection event and Bluetooth name that I am in my car. Why is the OS generating/passing such info to the apps?\n\nI check all over the phone settings but can't find any relevant setting.  Android Auto setting is not even configured to know which Bluetooth is my car and which is not.  This is very weird.\n\nThe problem is the app just drains battery, even when not used, when I get into my car...",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2020-11-20T09:06:04.609738+00:00",
-    "reply": "5 Replies"
-}

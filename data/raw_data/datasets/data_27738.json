@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13545618/pixel-2-android-10-bluetooth-codec-selection-won-t-stick-after-update?hl=en",
-    "title": "Pixel 2, Android 10, Bluetooth codec selection won't stick after update.",
-    "content": "I upgraded Android Pie to 10 yesterday and now my Bluetooth codec will not select anything other than SBC.  I had the aptX codec selected in Pie and it solved my latency issues with, but it won't save the selection after the update.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2019-09-04T10:01:11.338491+00:00",
-    "reply": "1 Reply"
-}

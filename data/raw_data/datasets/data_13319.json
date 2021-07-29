@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/69972258/pixel-3xl-broken-by-android-11-update?hl=en",
-    "title": "Pixel 3xl broken by Android 11 update",
-    "content": "I got the OTA update for my Pixel 3XL today and when the device restarted, I had a slurry of issues. \nMy notification panel (lockscreen and pull-down) is completely empty, I can hear notifications and see badges above apps but the panel remains empty.\nMy mobile data does not work - if I try to enable mobile data, the switch toggles but nothing happens. Re-opening settings shows the setting in the off position again\nMy recent items is completely broken - as soon as I enter recent items, my most recent app disappears and then it tells me \"No recent items\"\nI cannot update any apps via the play store - I have tried everything short of a factory reset\nQuick settings doesn't work, I can access the first 6 settings in the notification panel but cannot pull down again for more quick settings\nThe settings app doesn't have a search function anymore(though I'm not sure if that's a feature or a bug) \nI have tried everything but a factory reset - I cannot do that yet because my university requires an app for MFA and does not enable you to have a backup device. Once I get the MFA set up on another device I will try a factory reset. \nI've even tried sideloading the latest OTA for my device using ADB from here.\n\nIf anyone has run into any of these issues and has a fix, please share. I will update this post with the results of a factory reset.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
-    "post_time": "2020-09-09T05:12:16.339519+00:00",
-    "reply": "1 Recommended Answer"
-}

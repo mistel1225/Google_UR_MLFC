@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/62262808/pixel-3a-xl-unable-to-make-and-receive-phone-calls-under-lte-network?hl=en",
-    "title": "Pixel 3a XL unable to make and receive phone calls under LTE network",
-    "content": "I haven't been able to make and receive phone calls under the LTE network in Hong Kong yet if I force the preferred network over to 3G, I am then able to make and receive phone calls. Tried the following methods but no joy so far:\n\n- Clearing cache and user data didn't help\n- Uninstalling/Reinstalling updates for the Phone app didn't help\n- Placed the sim card into my old phone and there were no issues in making and receiving calls\n- Placed another overseas sim card into my Pixel 3a XL and there were no issues in making and receiving phone calls under the 4G network and under roaming too\n- Even when I magically end up being able to make or receive a phone call under the LTE network (which is like once out of every 10 attempts), the quality remains very poor and mobile data connection completely drops out\n- Mobile data connection and signal strength remains fine when not making/receiving phone calls\n- No network faults reports by the network operator in Hong Kong\n\nTrying to avoid a complete factory reset so would really appreciate any solutions that might help!",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a XL",
-    "post_time": "2020-08-01T08:41:07.934619+00:00",
-    "reply": "0 Replies"
-}

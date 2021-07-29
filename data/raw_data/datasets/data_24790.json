@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2991306/pixel-2-xl-stuck-in-bootloop?hl=en",
-    "title": "Pixel 2 XL stuck in bootloop",
-    "content": "I was listening to Spotify, I also had Google Podcast open but it wasn't playing anything. At the time I was connected to my bluetooth headphones, and my phone kept changing songs on its own every few seconds. I rebooted my phone to solve the issue, after which the phone just stayed in bootloop. This has happened to me before as I described on: https://productforums.google.com/forum/?utm_medium=email&utm_source=footer#!msg/phone-by-google/bZ1iPiz8DKY/42RpCb8ZDgAJ\n\nBut this time, doing the same things I did then aren't making any difference. I can get into recovery menu/fastboot mode by holding volume up + power. But even going to recovery mode can't be accomplished as I'll be greeted by Google logo and that's when phone will just start restarting over and over again.\n\nI've tried flashing official factory images while in fastboot mode, but without any success as my bootloader is locked. I also attempted to unlock my bootloader with \"fastboot flashing unlock_critical\" and \"fastboot oem unlock\" but to no avail.\n\nIn contact with Google Support via Twitter I was told that I can request a call back on https://support.google.com/pixelphone/contact/community?hl=en but unfortunately I can't do this as I live in Netherlands and Google Pixel 2 XL is not being sold here. Hence I'm left without Google Support with a phone which is completely bricked.\n\nAny suggestions on how I could resolve this problem are most welcome.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2019-03-25T12:51:43.106053+00:00",
-    "reply": "2 Recommended Answers"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/81479320/pixel-2-locked-after-transferring-data-to-pixel-4a?hl=en",
-    "title": "Pixel 2 locked after transferring data to Pixel 4a",
-    "content": "After I transferred my data to a new Pixel 4a from my old Pixel 2, when o try to unlock my old phone, Pixel 2, it says that the pattern is wrong. And I know for sure it isn't. \n\nProblem is that I still have some really really important Recorder audios which, apparently, weren't transferred (wtf!). So, I can't wipe out the device. Unfortunately I did a restart already and reset via Google Device Manager doesn't find the device (can I connect to WiFi/mobile data without unlocking)\n\nI tried an OTA reinstall via adb, but it didn't change anything. I was hoping that it would recognise the corrupted pattern flow.\n\nFingerprint is enabled on Pixel 2, but pattern lock is still asked for when opening the phone.",
-    "is_img": 0,
-    "category": "Device Performance",
-    "post_time": "2020-11-07T07:13:59.54906+00:00",
-    "reply": "0 Replies"
-}

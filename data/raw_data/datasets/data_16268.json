@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/70851139/pixel-phone-does-not-respond-to-ok-google-or-hey-google?hl=en",
-    "title": "Pixel phone does not respond to \"OK Google\" or \"Hey Google\"",
-    "content": "I have the original Pixel (phone) with Android 10...\n\nThe Google Assistant does not respond to \"OK Google\" or \"Hey Google\" regardless if the phone is locked (screen is black) or unlocked (for example when I see the home screen).\n\nI have done the following:\n\nTurned on \"Google Assistant\", \"Hey Google\" and \"Lock screen personal results\" in \"Settings - Google - Account Services - Search, Assistant and Voice - Google Assistant - Assistant - Pixel\"\n\nRestarted the phone several times.\n\nTook \"Clear storage\" and \"clear cache\" for the Google app.\nWhen I do this the phone responds to \"OK Google\" directly afterwards but it stops working a few hours later.\n\nRevert the Google app to the original installation when Android 10 was new: \"Google Play - My apps and games - Installed - Google - Uninstall\".\nWhen I do this the phone responds to \"OK Google\" directly afterwards but it stops working a few hours later.\n\nCould you please fix this issue?\n\nThanks in advance!\n\n/Niklas Karlsson",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions",
-    "post_time": "2020-09-13T09:48:27.83542+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/78180864/pixel-issue-troubleshooting-g-assistant-from-interrupting-headphone-audio-with-assistant-disabled?hl=en",
-    "title": "Pixel issue: troubleshooting G Assistant from interrupting headphone audio with Assistant disabled",
-    "content": "I have:\n1) followed instructions to turn off Google assistant in multiple ways so it should be fully disabled, \n2) turned off settings related to bluetooth which temporarily helps even though it only happens when my headphones are plugged in (the setting is \"allow bluetooth requests with device locked\")\n3) deleted the cache in my Google App, which causes Google Assistant to automatically turn back on\n\nNo matter what I do, I cannot listen to a podcast, make calls, or anything else with headphones without Google Assistant from stopping the audio and asking me to \"turn it back on.\" It will do this multiple times a second without me touching anything, such that a podcast for example will pause, play, pause, then play hundreds of times within a minute.",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 3",
-    "post_time": "2020-10-20T23:15:11.529912+00:00",
-    "reply": "5 Replies"
-}

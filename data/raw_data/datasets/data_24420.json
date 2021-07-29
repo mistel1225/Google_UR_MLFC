@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/25480610/feature-request-add-plus-code-to-photo-filename?hl=en",
-    "title": "FEATURE REQUEST: add plus code to photo filename",
-    "content": "Here is the current photo filename format:\nIMG_20200103_095641.jpg\nWould be cool to include the location in that filename.\nMaybe something like:\nIMG_20200103_095641_856CV6QJ+76F.jpg\n\nkeywords: latitude, longitude\nhttps://plus.codes/856CV6QJ+76F",
-    "is_img": 1,
-    "category": "Camera, Google Pixel 3a",
-    "post_time": "2020-01-13T02:12:18.246576+00:00",
-    "reply": "1 Recommended Answer"
-}

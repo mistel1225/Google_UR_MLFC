@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/62677037/how-to-set-silent-popup-notification?hl=en",
-    "title": "How to set silent popup notification?",
-    "content": "I would like to set email (and other) notifications so that they don't make a sound but I still get a popup.  I've sort of done this by setting the notification to \"Alerting\" and turning on popup notifications, but then setting the sound to \"None\" and turning off vibrate.  The problem is, even with the vibrate setting turned off, when my phone is on vibrate mode it gives me two quick vibrates every time I get an email.  This is so distracting.  How can I fix this?\n\nNote: I believe this behavior was fixed for awhile, but now it's come back.  Any suggestions?\n\n(I have a Google Pixel 3.)",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3",
-    "post_time": "2020-08-03T17:34:38.630987+00:00",
-    "reply": "1 Recommended Answer"
-}

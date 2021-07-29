@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/29072058/pixel-3a-security-update-not-working-with-screen-flashing?hl=en",
-    "title": "Pixel 3a Security Update not working with screen flashing",
-    "content": "I have a Pixel 3a currently running with the security update from December 5, 2019. When I try to update manually (Settings > System > Advanced > System Update), I get an endless flashing alternating screen between 'Your device is up to date' and 'Preparing to update...' (flashing very quickly between these two). I assume I should be able to get the January 2020 update by now, but it doesn't seem to be working.\n\nI've tried leaving the screen open for a long time with no success. I've also tried turning WiFi off, restarting multiple times, using Safe Mode, and clearing the cache of the Google app and the Google Play Services app.\n\nAny other ideas, apart from the obvious factory reset?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3a",
-    "post_time": "2020-02-18T12:22:20.779114+00:00",
-    "reply": "3 Replies"
-}

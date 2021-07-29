@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/78346995/do-not-disturb-override-not-working-for-google-calendar-app?hl=en",
-    "title": "Do not disturb override not working for Google Calendar App",
-    "content": "How do I turn on the vibrations for calendar events when do not disturb is enabled?\n\nI use the normal Google Calendar app and have turned on all notifications for both calendar and task notifications, so:\n\ndefault\nvibration on\nnotification dot on\noverride do not disturb\n\nIn do not disturb I have allowed the calendar app to interrupt do not disturb with all notifications, so:\n\nallow all notifications on\ncalendar notifications on\nbackground sync on\ntask notifications on\n\nIn the do not disturb settings I also have allowed reminders and calendar events to interrupt do not disturb in the \"alarms and other interruptions\" settings.\n\nHowever, whenever I get a calendar notification for an event, the notification will appear but the phone will not vibrate.\n\nIs there a solution for this problem?",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4a",
-    "post_time": "2020-10-21T17:49:54.107904+00:00",
-    "reply": "0 Replies"
-}

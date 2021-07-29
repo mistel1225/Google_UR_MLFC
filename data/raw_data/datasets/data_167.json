@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/113313784/google-pixel-4a-5g-won-t-take-calls-through-car-bluetooth?hl=en",
-    "title": "Google Pixel 4a 5G won't take calls through car bluetooth",
-    "content": "Has anybody with a 4a 5G managed to fix their phone being unable to take calls through their car's bluetooth? I find music works OK after an initial minute of stuttering, but calls will only be received directly from the handset. Interestingly, the head unit's display shows no indication of phone reception strength on it, where it did for my old Sony phone. I've tried\n- Deleting pairings on both devices and re-pairing\n- Turning phone BT on and off\n- resetting network connection settings\n- trying different bluetooth developer settings: AVRCP version, disable absolute volume, disable A2DP hardware offload.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a (5G)",
-    "post_time": "2021-06-12T15:15:36.979877+00:00",
-    "reply": "6 Replies"
-}

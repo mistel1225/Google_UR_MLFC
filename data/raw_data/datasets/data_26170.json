@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/4910844/google-pixel-3-android-9-mobile-network-advanced-add-carrier-for-esim-missing-not-available?hl=en",
-    "title": "Google Pixel 3 Android 9 Mobile network > Advanced > Add Carrier for eSIM missing/not available",
-    "content": "I attempted to find a solution by referring to this thread. I posted there hoping the original poster LLAB will share more details but it has been some time. Hence I'm posting a new post.\n\nI recently purchased a Google Pixel 3 and it was pre-installed with Android 9. It has been updated to the latest Android 9 updated security patch level: 5 April 2019. \n\nThe following related apps; \nCarrier Services version: 22.0.243910317-carrierservices_V22F_RC12\neSIM Manager version: D.1.5.24-google (5445861)\n\nThe issue I am having is the \"Carrier\" option/feature is MISSING / NOT AVAILABLE (step 5 below) when I am attempting to scan QR code or manual enter the activation code for Google Pixel 3 :\nGo to “Settings”\nGo to “Network & internet”\nGo to “Mobile network”\nSelect “Advanced”\nSelect “Carrier”\nSelect “Add carrier”\nScan the QR code or manual enter the activation code, the eSIM profile will be downloaded\n\n\nI hope someone can help",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2019-04-26T03:39:09.386808+00:00",
-    "reply": "1 Recommended Answer"
-}

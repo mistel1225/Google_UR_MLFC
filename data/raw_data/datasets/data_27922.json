@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/15023601/after-upgrade-to-10-android-process-media-keeps-stopping-error-pops-up-every-few-seconds?hl=en",
-    "title": "After upgrade to 10, \"android.process.media keeps stopping\" error pops up every few seconds",
-    "content": "Google results say to clear cache and data from play store and play services, and reboot. I've tried multiple times with no apparent effect.\n\nThe offending app seems to be Download Manager, and I can't download any files as a result.\n\nThe pop up error appears every few seconds regardless of what applications are running, and blocks UI input until the pop-up is closed - which makes interacting with the phone almost impossible.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-09-22T14:42:49.953884+00:00",
-    "reply": "7 Replies"
-}

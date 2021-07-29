@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/82076268/mbd-camera-0-encountered-a-fatal-error-while-opening-camera-encountered-a-fatal-error?hl=en",
-    "title": "mbd: Camera 0 encountered a fatal error while opening: Camera encountered a fatal error",
-    "content": "For 3+ years, my Google Pixel 2 XL phone camera has worked flawlessly.  Phone is still in excellent shape, no dropping, errors, scratches.  It's in prime condition.   All of the sudden when I tried to take a picture yesterday, the camera app started, did not show a camera image, and then terminated.  I followed all of the cache and storage clearing steps, turned of the phone, tried in safe mode to rule out any new apps (which I haven't added anyway), and got nowhere.  Also followed final recommendation to factory reset.  Same problem,  camera stopped working.  I put the phone in developer mode and connected to my Windows PC Android Studio to watch Logcat.  Although the app does not display an error, Logcat shows:  \"mbd: Camera 0 encountered a fatal error while opening: Camera encountered a fatal error (4)\".  I believe my camera hardware arbitrarily decided to stop working spontaneously.  What do I do now?  Nothing I'm guessing?",
-    "is_img": 0,
-    "category": "Camera",
-    "post_time": "2020-11-10T14:25:08.139227+00:00",
-    "reply": "0 Replies"
-}

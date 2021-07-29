@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2059255/can-t-disconnect-bluetooth-headphones?hl=en",
-    "title": "Can't disconnect bluetooth headphones",
-    "content": "I'm trying to disconnect my bluetooth headphones without having to turn bluetooth off (I have other stuff connected).\nPhone: Google Pixel\nAndroid OS: 9\n\nSteps:\n1- Go to my bluetooth settings\n2- Click in settings for my headphones\n3- Click \"disconnect\"\n4- The button shows now \"connect\" and the bluetooth icon has disappeared from the top menu\n\nProblem:\n- The headphones are still connected\n\nEvidence:\n- The headphones still appear in the list of \"currently connected\" but it doesn't show the battery charge\n- Headphones didn't say \"bluetooth disconnected\" like they would say if I turned bluetooth off\n- I can't connect headphones with another device (because it's still connected to my phone)\n\nThis has happened more than once to me and for a while. I couldn't say when this started happening because I have disconnected my headphones in different ways in the past",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2019-03-05T11:12:18.904712+00:00",
-    "reply": "1 Reply"
-}

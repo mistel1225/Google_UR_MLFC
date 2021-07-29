@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/90665633/pixel-4-xl-astrophotography-mode-still-broken?hl=en",
-    "title": "Pixel 4 XL Astrophotography mode still broken",
-    "content": "Over the past couple of months I reported the following issues with Astrophotography mode on my Pixel 4 XL:\nAstrophotography mode no longer shoots for 4 minutes on Pixel 4 XL https://support.google.com/pixelphone/thread/76540778\nAstrophotography mode no longer turns on on Pixel 4 XL https://support.google.com/pixelphone/thread/84443180\n\nAfter the latest system and app updates I tried Astrophotography mode again, with exactly the same setup as when Astrophotography mode worked and better darkness conditions.\n\nThis time the Astrophotography mode activation message appeared in the Camera app, but the app shot ordinary Night Sight mode photos with exposures of a few seconds. Also, the Bluetooth shutter is working again.\n\nI have Android 11 (system update: 1 Oct 2020; security patch: 5 Dec 2020) and version 8.1.101.345618084 of the Google Camera app.",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 4 XL",
-    "post_time": "2020-12-27T15:59:35.80652+00:00",
-    "reply": "0 Replies"
-}

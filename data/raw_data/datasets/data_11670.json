@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/84442073/bug-orientation-not-restored-and-not-allowed-when-going-back-from-a-phone-call-to-google-maps?hl=en",
-    "title": "Bug: orientation not restored and not allowed when going back from a phone call to Google Maps",
-    "content": "I'm very sure it's not related at all to Pixel 4, but sadly this is incredibly hard to reproduce for me, as it requires me to drive while doing so. Not to mention privacy-related matter of publishing it here or on the original place I've reported about this.\nI've reported it here:\nhttps://issuetracker.google.com/issues/171493255\n\nThe steps are:\nUse Google Maps on landscape mode and navigate using it, while driving. \nHave a phone call (incoming/outgoing), which sadly puts Google Maps work in a floating UI.\nAfter the phone call ends, go back to Google Maps.\n\nThe bug is that not only it doesn't restore landscape mode, but it doesn't even let you switch to landscape mode, while on Google Maps.\n\nPlease fix it. I don't care if it's related to Google Pixel or Android.\nI'm very sure it's about Android OS. Not Google Pixel.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4",
-    "post_time": "2020-11-21T15:27:37.757012+00:00",
-    "reply": "6 Replies"
-}

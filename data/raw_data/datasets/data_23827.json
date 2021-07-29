@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/26087608/pixel-3-unable-to-connect-to-internet-or-mobile-data-after-jan-2020-update?hl=en",
-    "title": "Pixel 3 - Unable to connect to internet or mobile data after Jan 2020 update",
-    "content": "Hello, I have a Pixel 3 that has been working great up until 2 days ago, when the most recent Android 10 update was released: 10.0.0 (QQ1A.200105.003, Jan 2020, TMO/Fi)\n\nThe problem is that the phone lost it's ability to connect to internet in any way, both WiFi and mobile data.\nThese are the ways I have tried to connect to the internet:\n1. PC as WiFi hotspot\n2. Share internet over PC Bluetooth\n3. USB reverse tethering\n\nI have tried the following trouble shooting steps:\n1. Restart device\n2. Reset internet settings (resets all WiFi, Mobile data, and Bluetooth settings)\n3. Factory reset phone\n4. Factory flash to Android 10 update in December (Using this method: https://android.gadgethacks.com/how...actory-images-android-using-fastboot-0175277/, and factory image \"10.0.0 (QQ1A.191205.008, Dec 2019)\")\n5. Factory flash to Android 9 from August (Using same method and factory image: \"9.0.0 (PQ3A.190801.002, Aug 2019)\"\n\nI have not been able to find any threads for this problem specifically, so to me it seems very likely this is just a hardware issue and that I am the unlucky one to experience it :/\n\nI have ordered a replacement phone, but it won't come until next week so I'm wondering if anyone has any other ideas on how to troubleshoot this problem.\n\nThanks in advance!",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth",
-    "post_time": "2020-01-19T09:58:27.318499+00:00",
-    "reply": "1 Reply"
-}

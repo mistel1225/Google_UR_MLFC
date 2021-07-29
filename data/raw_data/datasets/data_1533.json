@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/111257976/phone-stuck-in-unusual-charing-boot-loop?hl=en",
-    "title": "Phone stuck in unusual charing/boot loop",
-    "content": "Suddenly yesterday, my battery drained quickly and I haven't been able to properly turn it on since.\n\nWhen not connected to a charger or if charged via the supplied usb c charger nothing happens. Once plug into my laptop via regular USB I do get a charging logo. However, it cycles between the charge logo and the google logo constantly. \n\nI have tried holding the power button and trying to get into rescue/recovery modes with no result. If I hold power and volume down at the right time I can get it into the screen to select these modes but once I select them, it immediately goes back into the same cycle.\n\nAs soon as I unplug the phone from charging I get a low battery light and the cycle stops, but I cannot boot the phone in any mode still. \n\nThanks.\nAndre",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 4",
-    "post_time": "2021-05-26T12:19:37.6432+00:00",
-    "reply": "1 Reply"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/24595998/i-get-error-on-google-maps-this-device-is-not-sending-location-updates-pixel-4-xl?hl=en",
-    "title": "I get error on Google Maps \"This device is not sending location updates\" (Pixel 4 XL)",
-    "content": "I bought Pixel 4 XL and activated sharing of my location on Google Maps. I was pretty sure that everything is working till I received a feedback that I've been offline since then. I went on Google Maps app and see there an error \"This device is not sending location updates\" and a \"Fix\" option. When I click on Fix, I see a loading circle but nothing happends, in few seconds \"Fix\" appears again.\n\nI assumed the problem was due to the fact that I was transitioning from my other phone (Samsung) and Google Maps got confused that I was at 2 devices. So I manually deactivated location sharing on the old device just in case. It didn't help.\n\nI've read other posts on this topic, tried turning off and on this feature, changing settings, even uninstalled the whole app. Nothing helped. \n\nHow can I fix this issue?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
-    "post_time": "2020-01-03T21:25:44.360534+00:00",
-    "reply": "0 Replies"
-}

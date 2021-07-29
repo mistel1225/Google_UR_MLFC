@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/94039140/corrupt-device-phone-can-not-be-trusted?hl=en",
-    "title": "Corrupt Device, Phone Can not be Trusted",
-    "content": "Just the other day, after I charged my Google Pixel 4 and turned on the Power button, there was a message on my phone saying that the device is corrupt and it can not be trusted. I've only had this phone for a year, I haven't tampered with the software in any sort of way, or downloaded apps that I'm not really familiar with. I've been reading forums and watching videos on how to reset my phone back to normal, but nothing seems to work. I've tried to do a factory reset on recovery mode which has failed. I've tried to reboot the phone from my laptop which also hasn't worked because my laptop can not read the ADB device, due to the fact that USB debugging is not enabled and I can't do go in and do that. \n\nI would appreciate any advice, or any protocol that I could follow to fix this issue!",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4",
-    "post_time": "2021-01-18T17:32:59.835897+00:00",
-    "reply": "1 Reply"
-}

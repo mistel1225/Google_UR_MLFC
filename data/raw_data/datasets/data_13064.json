@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/71720691/android-11-on-pixel-3-memory-management-seems-too-aggressive-constantly-closing-active-apps?hl=en",
-    "title": "Android 11 on Pixel 3 - memory management seems too aggressive - constantly closing active apps",
-    "content": "Since receiving the Android 11 system update on my Pixel 3 I've noticed that active apps are being closed more often compared to the device on Android 10. For example having Pokemon Go open and switching to either Hangout or Chrome or even Messages when returning to Pogo the app restarts. It seems worse when Bluetooth is on/active and over time the issue seems more frequent as there could be some sort of memory leak.\n\nThings that help: Restarting the device, turning off Bluetooth.\n\nOn a fresh restart I'm able to multitask between apps without them restarting for a while. As much as I would like to entertain a factory reset I'm not convinced things would improve since multiple reddit post seem to indicate it doesn't matter. Even if I did want to do that I would opt to go back to Android 10 since things worked well then.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2020-09-17T18:00:52.282553+00:00",
-    "reply": "9 Replies"
-}

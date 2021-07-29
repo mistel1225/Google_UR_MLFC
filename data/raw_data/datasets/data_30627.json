@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/7038512/pixel-1-stuck-in-on-off-loop?hl=en",
-    "title": "Pixel (1) Stuck in On-Off Loop",
-    "content": "Was watching a youtube video (using the default app) when screen suddenly glitched up and pixel froze.\n\nAfter about 10 seconds, pixel started reboot cycle:  Google logo appears, stays there for 19--21 seconds, phone screen goes blank for 4--5 seconds, and then back to the google logo in an endless loop.  No interaction with phone screen or buttons.\n\n1.  Tried plugging phone into charger, no impact.  Does not seem to register that charger is plugged in.\n\n2.  Attempted to power phone off by holding down power button.  No effect; reboot cycle just continues.\n\n3.  Attempted to hold power button and volume button, screen goes blank after 19--21 seconds.  After 35ish seconds, phone vibrates slightly.  Released both buttons after vibration, reboot loop resumes within a few seconds.\n\n4.  Attempted to hold down volume button, screen goes blank after a while with a small line appearing in the middle (like when you shut off an old TV set and the line appeared there) briefly.  This happens every 25 seconds or so until I release the volume button, and then the reboot loop resumes.\n\n5.  Going to allow phone battery to drain completely and allow to sit for 12 hours, but doubtful that this will help (unless a full closed boot is required).\n\nEdit:\n6.  Able to enter boot menu (power and down volume); selected recovery mode.  Reboot loop resumes.\n\nCan anyone offer any other suggestions on how to fix this?  Or does it seem likely that my beloved old pixel 1 is now a very slim brick?\n\nAdditional note:\n\nGoogle logo does not animate in any way or form, static initial frame appears on screen.",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel",
-    "post_time": "2019-05-29T22:26:03.685672+00:00",
-    "reply": "1 Reply"
-}

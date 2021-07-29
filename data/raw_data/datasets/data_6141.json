@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/99934943/pixel-5-youtube-scroll-lag-only-in-90hz-mode?hl=en",
-    "title": "Pixel 5 YouTube scroll lag only in 90hz mode",
-    "content": "I've been using my Pixel 5 for a couple of days now, and I noticed that when I play a video on YouTube and minimize it (so that you can still play it at the bottom of the screen while searching for other videos), it makes the display stutter when I scroll through other videos. It only occurs when I'm scrolling while the video is still playing. Interestingly, it doesn't stutter when I scroll through recommended videos or comments. Also, I noticed that when I turn off 90hz display mode (both from the display setting and developer setting), it doesn't happen, meaning that when the display is at 60hz, this problem doesn't occur.\n\nI tried rebooting the phone and I even tried the safe mode to see if any third-party app is causing the issue, but none of them worked. Does anyone experience the same issue, or does anyone know how to fix this problem?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 5",
-    "post_time": "2021-02-26T20:23:06.166193+00:00",
-    "reply": "0 Replies"
-}

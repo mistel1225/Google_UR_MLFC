@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/111793179/unable-to-unlock-phone-after-android-12-beta-with-pixel-5?hl=en",
-    "title": "Unable to unlock phone after Android 12 Beta with Pixel 5",
-    "content": "After I updated my Pixel 5 to Android 12 with Beta Program, it tells me if I want to copy data from other phone (the thing shows up after factory reset).\nWhen I plugged my older phone, it shows errors like wrong cable etc.\nWhen I tab I don't have phone, it tells me to put PIN code.\nBut it goes back to connect older phone.\nI tried  pressing every single button combinations but it won't proceed after typing PIN.\n\nI tried to use Google Pixel Update and Software Repair, but it says the phone is later version than repair tool, so it can't do anything.\n\nI tried to use ADB to flash Android 11 but OEM is locked, and fastboot flashing unlock doesn't work.\n\nI tried factory reset using recovery mode, but still here.\n\nCan someone please help me?",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 5",
-    "post_time": "2021-05-30T23:51:31.844985+00:00",
-    "reply": "1 Reply"
-}

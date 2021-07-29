@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/101258725/widevine-l1-turn-to-l3-after-unlock-bootloader-and-root-on-pixel-4-xl?hl=en",
-    "title": "Widevine L1 turn to L3 after unlock bootloader and root on pixel 4 xl",
-    "content": "I got my new pixel 4 xl last week,and I unlock bootloader and root by magisk,and my widevine become L3,tried flash factory image and lock bootloader,still L3\n(I didn't flash any kernal or custom rom, only magisk)\nI unlock bootloader on 2021/3 update",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2021-03-08T10:09:34.493953+00:00",
-    "reply": "3 Replies"
-}

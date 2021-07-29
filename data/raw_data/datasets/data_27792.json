@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/8114635/can-t-setup-fingerprint-unlock-after-june-security-update-no-hardware-issue?hl=en",
-    "title": "Can't setup fingerprint unlock after June security update (no hardware issue)",
-    "content": "It was perfect but after reboot for update it deleted all my registered fingerprints and won't allow me to set up any new one. Sensor working properly because I can see option in settings and I can start registering new fingerprint, it just gets an error when it scans last time. It still works to pull notification bar.\n\nI've tried different fingers, cleaning the sensor, trying after fresh reboot, boot in safe mode. ",
-    "is_img": 1,
-    "category": "Other, Google Pixel",
-    "post_time": "2019-06-16T07:33:34.161736+00:00",
-    "reply": "2 Replies"
-}

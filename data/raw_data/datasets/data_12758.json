@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/80823220/haptic-feedback-always-on-if-a-service-in-accessibility-is-activated?hl=en",
-    "title": "Haptic feedback always on, if a service in accessibility is activated",
-    "content": "If you activate a service under settings > Accessibility, haptic feedback is still turned on, if you're phone is in battery saving mode. If you deactivate all services, haptic feedback turns off, if you turn on battery saver. \n\nI think they should fix it, so that it always turn off battery saver.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3a XL",
-    "post_time": "2020-11-03T21:40:16.552044+00:00",
-    "reply": "0 Replies"
-}

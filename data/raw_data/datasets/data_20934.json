@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/50150278/how-do-i-update-the-password-on-my-exchange-account?hl=en",
-    "title": "How do I update the password on my Exchange account?",
-    "content": "Every 90 days I am prompted on my desktop to update my Exchange account password before it expires. I update it by logging in through a web browser. Outlook on my desktop then prompts me to enter the updated password.\n\nMy phone will stop syncing that account because the password needs to be updated. But if I go to Settings > Accounts > tap my Exchange account (this is using the standard client, not the Outlook app), tap Account Settings, and then tap Server settings there is no where to enter the updated password. If I click the Next button I get the error message that \"Something went wrong\".\n\nHow do I update the password?",
-    "is_img": 1,
-    "category": "Setting up and Personalizing your Device, Google Pixel 4",
-    "post_time": "2020-05-30T16:24:30.989745+00:00",
-    "reply": "9 Replies"
-}

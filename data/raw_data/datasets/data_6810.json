@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/97197885/cannot-connect-to-hughes-satellite-modem-router-even-via-another-network-very-odd?hl=en",
-    "title": "Cannot connect to Hughes satellite modem/router even via another network - very odd",
-    "content": "I have tried and failed to connect my Pixel 4a to a Hughes satellite HT2000W modem/router. It connects briefly then flips backed to \"saved\", tries again and cycles round forever.\n\nI have tried the following.\n\nConnecting to both 2.4 and 5.0 GHz\nTried all security options on the router/modem including none.\nTried setting all sorts of different manual settings on both router and phone\nMost peculiar, I have connected a devolo powerline system to a router port and then attempted to connect via the devolo wifi terminals in a different room. This has also failed in the same way.\n\nIt seems to me that there is something fundamental about the way the phone checks the internet that is conflicting with a setting in the router, it just cycles round and round.\n\nThe following devices have all connected to the router without any problems both directly and via the devolo powerline system.\n\nIphone SE\nIpad 6\nSurface pro 7\nHp probook\nToshiba chromebook\n\nReached the end of my understanding. Can anyone help or even have a clue I can try?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
-    "post_time": "2021-02-08T15:08:05.177276+00:00",
-    "reply": "1 Recommended Answer"
-}

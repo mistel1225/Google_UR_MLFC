@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2122142/pixel-3-account-sign-in-through-device-issue?hl=en",
-    "title": "Pixel 3 account sign in through device issue",
-    "content": "Hello,\n\nI have just bought the TicWatch E2 and I'm trying to pair them with my Pixel 3. I have two google accounts. One is company's, second one is personal. I'm using both on my pixel 3 device, but I'm able only to pair watches only with the company's one.\n\nI tried to play with it and it seems, that the problem is within account verification. Except Pixel 3 I have also my previous device Xiaomi Mi A1. This device is able to pair with watches and copy the personal account successfully.\n\nWhen I played with option to sign in thru device in the account I found that the confirmation was sent to both my phones, but clicking on pixel's dialog to sign in (\"yes\") does nothing (just closes, but not actually signing in). The Xiaomi works as expected. \nWhich leads me to idea, there is something broken in the Pixel. (The pixel was setup with migration from Xiaomi). When I tried to setup 2 factor auth with pixel I received the confirmation dialog, but clicking on yes did nothing on the web. Like google is still waiting for the response of the phone.\n\nI already tried to clear data from Google, Play Services. Removing/Adding account from Pixel and Web (I tried this also from the Xiaomi, where it's working). I'm trying to avoid the factory reset. Is there anything I could try? \n\nThanks",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2019-03-07T14:55:14.77155+00:00",
-    "reply": "1 Recommended Answer"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/24128852/note-to-self-not-working-when-using-android-auto?hl=en",
-    "title": "Note to self not working when using Android Auto",
-    "content": "I have Keep set up as my default notes app for google assistant.  When speaking directly to the phone, if I say \"Note to self bla bla bla\" then \"bla bla bla\" shows up in Keep almost instantaneously.\n\nHowever, in the car, using Android Auto, after I say \"Note to self bla bla bla\" the assistant voice says, \"Saving note...Using GMail\".  However, as I just discovered after a long road trip, those notes do not show up in either Gmail or Keep.   If I ask on the phone \"what are my notes\" on the phone it just says \"you have quite a few notes\" andshows me the Keep notes.\n\n1) Any idea where these notes went?  I'd like to recover them.\n2) Any idea how to get the assistant to send to Keep via Android Auto?\n\nThanks, John",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 3 XL",
-    "post_time": "2019-12-29T13:52:44.169627+00:00",
-    "reply": "1 Reply"
-}

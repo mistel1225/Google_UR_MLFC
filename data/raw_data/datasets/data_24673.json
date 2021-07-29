@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/16670487/screenshots-that-are-moved-will-appear-in-both-folders-bug?hl=en",
-    "title": "Screenshots that are moved will appear in both folders BUG?",
-    "content": "After upgrading to Android 10, moving a screenshot from the default Screenshots folder into to another folder the photo will appear in both locations. If you attempt to move the image from Screenshots again you'll get an error \"Problem moving 1 item\" even though the image appears in said folder.\n\nOnce the image has been moved, if you attempt to delete it from the Screenshots folder it will also delete the image from the folder it was moved to.\n\nPixel2, Android 10, Photos Ver 4.23.0.267419440",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 2",
-    "post_time": "2019-10-13T01:08:53.661344+00:00",
-    "reply": "1 Recommended Answer"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/5298427/pixel-3-and-pixel-3-xl-cannot-read-mifare-plus-tag?hl=en",
-    "title": "Pixel 3 and Pixel 3 XL cannot read Mifare Plus tag",
-    "content": "I have a NFC key in Mifare Plus type format. It can be read by Samsung, Sony, and HTC phones, but I can not get any response from Pixel 3 and Pixel 3 XL phones. I tried this many times with different phones and distance but still with no luck. The NFC interface is turned on for sure and can read my transportation card (Felia tag) without a problem. \n\nIs this a limitation of Pixel 3/XL? Or it can be some problem else?\n\nThe subject NFC key indicates data format as NFC Type 4 and data size as 474/2046 bytes. Will this be the problem?\n\nHelp is highly appreciated!",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2019-05-02T04:29:48.968382+00:00",
-    "reply": "1 Recommended Answer"
-}

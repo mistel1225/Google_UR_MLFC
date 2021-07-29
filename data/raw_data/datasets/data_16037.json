@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/72715896/gps-location-not-always-being-saved-in-pixel3a-pictures?hl=en",
-    "title": "GPS location not always being saved in Pixel3a pictures.",
-    "content": "In looking back through the last thousand picture I took with Pixel 3A, I see that only a few percent of them include GPS location data in the EXIF.  Some even half worked -- there is a GPS group in the EXIF, but no lat/long/etc in it.\n\nThe issue is somewhat random -- two out of 20 have GPS one day, non have GPS for a week or two.  One time I had zero location data for a few hundred pictures, then for the next few hundred, about 95% worked.  Then off again.\n\nAnother curiosity -- all panorama pictures seem to have GPS location data.\n\nSmells like a bug.  Can someone confirm?  Can someone fix?",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3a",
-    "post_time": "2020-09-23T01:56:16.9942+00:00",
-    "reply": "0 Replies"
-}

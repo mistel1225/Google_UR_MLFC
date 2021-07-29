@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/3583856/pixel-2-stuck-in-boot-loop-and-can-t-access-recovery-mode?hl=en",
-    "title": "Pixel 2 stuck in boot loop and can't access recovery mode",
-    "content": "I was using my phone when the battery died, upon putting it on charge it has entered a boot loop showing the google screen then switching off.  \n\nI have tried entering recovery mode, power and down volume, using the volume button select recovery mode then power button and tapping the up volume once, this just causes a few lines to appear across the screen then shows the white google screen and enters the bootloop again.\n\nThe device is not recognized when connected via usb to the computer, I have downloaded latest drivers, adb devices lists no device.\n\nAt the moment I have a Pixel brick, does anyone have any ideas?\n\nThank you.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2019-04-04T18:37:20.852354+00:00",
-    "reply": "1 Recommended Answer"
-}

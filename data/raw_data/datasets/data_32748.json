@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2969948/bluetooth-connection-stutter?hl=en",
-    "title": "bluetooth connection stutter",
-    "content": "I am having some major issues with the pixel 2's Bluetooth connection.  It doesn't seem to matter which device I connect to there is always a stutter in the connection.  I have tried to manually set different codec options in developer mode as well as the playback quality settings.  Unfortunately, it doesn’t seem to make a difference.  This is a fairly new device, I just got a new one about a month ago but my old Pixel 2 did it as well.  For clarity, the primary Bluetooth devices I use are the Jaybird X3’s, SoundBot SB571, and Uconnect.  My device is on the most up to date version and I have already tested removing several of the devices and reconnecting them.  Is there anything I am missing here that is keeping me from maintaining a solid Bluetooth connection?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2019-03-25T02:06:26.982233+00:00",
-    "reply": "0 Replies"
-}

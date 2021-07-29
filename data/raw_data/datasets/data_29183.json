@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/11207822/unlocked-the-bootloader-flashed-factory-image-now-receive-slot-unbootable-load-error?hl=en",
-    "title": "Unlocked the bootloader, flashed factory image, now receive \"Slot Unbootable: Load Error\"",
-    "content": "I attempted to install a factory image after successfully unlocking the bootloader, and now I'm faced with the \"Slot Unbootable: Load Error\". Nice twist for me - my computer does not recognize the phone. ADB Devices - nothing; Fastboot Devices - nothing. Do I have any options to fix this? It's a used phone which is why I was attempting to install the factory image. Booting into recovery gets the same slot unbootable error and download mode gets me \"Operation Denied\". In device manager on my Windows 10, it shows up as \"Unkown USB Device (Device Descriptor Request Failed)\".I've uninstalled the driver and reinstalled it and still get the same error after scanning for hardware changes. Am I just SOL?",
-    "is_img": 1,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-08-03T13:56:10.380657+00:00",
-    "reply": "4 Replies"
-}

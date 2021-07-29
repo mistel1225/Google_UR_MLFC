@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/76014016/maps-pip-when-using-2-button-nav-doesn-t-work-with-direct-app-changes?hl=en",
-    "title": "Maps PIP, when using 2-button nav doesn't work with direct app changes",
-    "content": "So I have this dilema: I prefer 3-button nav, but with the recent Android 11 decision to remove frequently used app suggestions I had to change to 2-button nav. The big problem is that I use Google Maps Picture-In-Picture (PIP) daily and for hours, but when I switch to another app PIP does not automatically happen like it does when I use 3-button nav. I am forced to press home button to get to the home (secondary or tertiary) screen, in which PIP occurs then I an switch to a different app to keep PIP. I frequently forget to go to the home screen as I'm used to quickly switching between apps. Is there some setting that allows for PIP to always automatically happen when I leave the maps app?\n\nWith 3 button I can: Select navigation in Maps, tap recents button and PIP pops up, then swipe to another app (since I can't select a frequently used app in the bottom 5 row that used to exist and was poorly removed), PIP stays throughout.\nWith 2 button I have to: Select navigation in Maps, tap home button and PIP pops up, gesture swipe up to access frequently used apps, then select an app.\nThe extra step is very inconvenient.\n\nThis may all be moot though since Pixel 5 has a decreased chipset and I'm now eying Oneplus and may go back to Nova launcher.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 2",
-    "post_time": "2020-10-09T23:38:32.658352+00:00",
-    "reply": "3 Replies"
-}

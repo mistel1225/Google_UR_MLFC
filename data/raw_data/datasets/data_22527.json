@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/32784516/i-have-my-phone-set-to-use-network-provided-time-zone-it-went-to-dst-when-it-wasn-t-supposed-to?hl=en",
-    "title": "I have my phone set to \"Use network-provided time zone\" & it went to DST when it wasn't supposed to",
-    "content": "I'm wondering if this is an Android issue or a cell carrier issue. My phone is and was using the \"Use network-provided time zone\" option and when I woke up this morning my phone had adjusted for Daylight Savings Time; however I'm in Arizona and we don't participate.\n\nWhen I went to look and see how to fix it, the screen did say \"Mountain Standard Time +06:00\" which is the correct time zone without daylight savings (although it would say +07:00)I Restarting my phone seems to have fixed it for now, but I'm still interested to see who might be the cause of this.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4 XL",
-    "post_time": "2020-03-08T16:19:47.656612+00:00",
-    "reply": "3 Replies"
-}

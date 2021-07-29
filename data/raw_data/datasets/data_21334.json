@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/45055382/backup-not-found-error-on-google-pixel-when-restoring-after-reset-android-9-pie?hl=en",
-    "title": "Backup not found error on Google Pixel when restoring after reset, Android 9 Pie",
-    "content": "1.Done Backup properly (with screenshots of each step, 6 screenshots are attached for your reference)\nSettings->System->Backup\n(includes SMS text messages, Call History, App data, Device Setting)\n\n2. Reset\n\n3. And when entered gmail and password on restore/copy data screen, it says “linked backup not found” !\n\n4. Checked https://drive.google.com/drive/backups , No phone backup is showing there (though it was visible there before reset)\n\nWHY ? I WANT MY PIXEL PHONE BACKUP BACK.\n\nStay Safe. Stay Healthy. #COVID-19\n\n1) Backup Successful Pixel\n\n\n\n2) Backup Successful Google Drive\n\n\n\n3) Backup Disappeared Google Drive !",
-    "is_img": 1,
-    "category": "Setting up and Personalizing your Device, Google Pixel",
-    "post_time": "2020-05-07T11:54:43.431165+00:00",
-    "reply": "8 Replies"
-}

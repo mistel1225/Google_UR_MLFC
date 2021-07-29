@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/79520070/android-11-media-controls-and-long-song-title?hl=en",
-    "title": "Android 11 media controls and long song title",
-    "content": "Pixel/Android 11\n\nScenario: playing a song on Spotify with a long title \"Cradle (Better Nature)\"\n\nOn lock screen: song title cut down to \"Cradle (Better N...\" do to space constraints\n\nI swipe down on the media controls - it jumps to the notification shade and now the title is cut to \"Cradle (Bett...\"\n\nI swipe down on media controls from notification shade and it now brings down the shade and shows the full title \"Cradle (Better Nature)\"\n\nIn Android 10, it took only one swipe to see the full title; in Android 11, it takes two\n\nIt's particularly frustrating when discovering new music on Spotify when I want to find out the full title\n\nPotential solution: Make long titles operate like text tickers?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2020-10-28T01:48:01.950235+00:00",
-    "reply": "2 Replies"
-}

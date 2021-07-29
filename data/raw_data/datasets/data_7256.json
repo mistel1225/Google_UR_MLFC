@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/96748006/pixel-5-and-pixel-2-xl-spotty-connection-with-google-wifi-mesh-router?hl=en",
-    "title": "Pixel 5 and Pixel 2 XL spotty connection with Google WiFi mesh router",
-    "content": "Hello everyone,\n\nEver since I've upgraded my router from an old TP-Link (model TL-WR840N) to a Google WiFi mesh router my Pixel 5 and 2 XL have a spotty connection. With the old router no issues whatsoever. \n\nThey keep dropping offline and reconnecting after few seconds. Sometimes they are unable to join that network at all (I get the message \"Unable to connect to this network\" or \"No Internet\")\n\nEvery other devices on the network work fine, the issue is just with the Pixels.\n\nTroubleshooting steps taken:\n\n- Rebooted the network;\n- Rebooted the devices;\n- Toggled WiFi on/off;\n- Reset network settings on the 2 XL;\n- Use the device MAC address (instead of the random one);\n- Set rating provided to \"None\"\n\nAnyone else having similar issues with mesh routers?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2021-02-05T12:05:29.064948+00:00",
-    "reply": "2 Replies"
-}

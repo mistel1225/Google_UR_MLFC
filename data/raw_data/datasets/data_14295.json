@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/77113121/can-i-sync-outlook-contacts-and-calendar-on-a-pixel-4a?hl=en",
-    "title": "Can I sync Outlook contacts and calendar on a Pixel 4a?",
-    "content": "On my Pixel 4a phone, I want to be able to open the \"Contacts\" app on my phone and see all of my Outlook contacts, and open my Calendar app and see all of my Outlook calendar entries. When I open my Messages app I want to be able to see names by each message where the sender is an Outlook contact.\n\nI can do all of this now on my Samsung Galaxy 7.\n\nIs this possible on a Pixel 4a? If \"yes,\" can anyone give me step-by-step instructions on how to do this on a Pixel 4a?\n\nI was able to find instructions on how to do this on earlier Pixel versions. None of them apply to a 4a. On the earlier versions the instructions were to add the Outlook account as an Exchange account. This is not possible on a 4a; when I enter my email address in the Add Account dialog it refuses to let me add my Outlook account as an Exchange account and forces me to choose Outlook/Hotmail. This option does not sync Contacts and Calendar.\n\nI can install the Outlook mobile app, and it works. I have syncing turned on both inside the Outlook app and for the phone. But the Outlook Contacts and Calendar are not synced.\n\nI'm a little surprised this is so difficult to figure out. I've come across many posts asking for help on this exact issue, but I've not come across any useful answers for a Pixel 4a.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 4a",
-    "post_time": "2020-10-15T14:01:36.772165+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13723033/toggle-between-sim-and-esim-on-pixel-2?hl=en",
-    "title": "Toggle between SIM and eSIM on Pixel 2",
-    "content": "I have been able to toggle between the eSIM and SIM in AP, lots of clicks but it was reliable and quick.\n\nWith the AQ update, I can no longer switch between the two.  If I physically install the SIM card, it asks if I want to use 2 numbers, loads the second SIM and works with that one.  If I switch back to the eSIM, physical SIM must be removed and reinstalled to get it working again.  Only one can be active at a time (no DSDS), I get that.  I just want to be able to toggle between the two.  \n\nWhat am I doing wrong?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2019-09-06T13:34:34.482949+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13637615/on-swipe-up-to-recent-apps-app-icon-flickers-android-10-with-2-button-navigation-anyone-else?hl=en",
-    "title": "On swipe up to recent apps, app icon flickers (Android 10, with 2-button navigation) - anyone else?",
-    "content": "After updating to Android 10 and still using 2-button navigation, I noticed a bug.\n\nTo reproduce:\nopen some app\nswipe up to enter \"recent apps\" overview\n\nResult: The round app icon on top of the view on the most recent app flickers briefly. (This happens most of the time, but not always. Please try a couple of times.)\n\nThe same does not hold when using gesture navigation.\n\nCan anyone confirm this behavior on their device? And what is the best place to report this bug to Google (as a user, not a developer)?",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 3a",
-    "post_time": "2019-09-05T12:56:32.606153+00:00",
-    "reply": "1 Recommended Answer"
-}

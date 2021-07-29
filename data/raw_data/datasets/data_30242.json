@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/8100880/issues-with-google-messages-app-and-searching-multiple-contacts?hl=en",
-    "title": "Issues with Google Messages App and Searching Multiple Contacts",
-    "content": "I have a Moto X4 and have Android 9. I'm having a weird issue with the Google Messages App. I used to be able to search for a text message that was MMS by clicking the magnifying glass and typing in the contacts in my phone that were part of the MMS. So I'd type in \"Matt\" and then all the Matt's in my contact list would come up. I could select one, and then all the conversations involving that Matt would show up (my one on one SMS message, group MMS messages, etc).\n\nNow, for some reason, the only conversation that is showing up is the SMS (or one on one conversation) with the contact I chose. I know that the MMS are still there, because if I start a new conversation and add all the people to the MMS the old text chain appears. Furthermore, I used to be able to search multiple contacts (e.g, show my all the text messages that \"Matt\" and \"Sarah\" appear in) but now it will only let me search for one contact (Matt shows up as a contact, but when I type in \"Sarah\" in the messages search bar next to Matt, it looks for the word \"Sarah\").\n\nHas anyone else had this issue and know how to fix?",
-    "is_img": 0,
-    "category": "Other",
-    "post_time": "2019-06-16T00:42:05.646023+00:00",
-    "reply": "1 Reply"
-}

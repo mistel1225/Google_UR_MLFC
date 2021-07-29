@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/10093783/garmin-watch-incoming-calls-not-being-displayed-from-pixel-2-xl?hl=en",
-    "title": "Garmin Watch - Incoming calls not being displayed from Pixel 2 XL",
-    "content": "Hello!\n  I’m using Garmin Fenix 5 with Google Pixel 2 XL.\n  About 2 months ago the watch stopped showing incoming call notifications when screen is off.\nWhen screen is unlocked and on, notifications work as usual.\n \nThere are other users with the same issue. See for example  https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-mobile-andriod/166634/incoming-calls-not-being-displayed-on-pixel-3 \nWhen we (user with the same issue) uninstall updates of Phone app (https://play.google.com/store/apps/details?id=com.google.android.dialer) and install older version (31.0.241960258) notifications start working as before. But I’m afraid this workaround will not last long.\n I already submitted ticket to Garmin. But I cannot determine if it is Google’s or Garmin’s fault. \n  BTW Sorry for my english.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 2",
-    "post_time": "2019-07-17T18:56:09.602744+00:00",
-    "reply": "1 Reply"
-}

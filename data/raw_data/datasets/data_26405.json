@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/19551218/deleted-files-persist-in-files-app-on-2xl-running-android-10?hl=en",
-    "title": "Deleted files persist in \"Files\" app on 2XL running Android 10",
-    "content": "Files i have downloaded remain listed in the \"Files\" app after being deleted in other apps. For example, deleting an image using a gallery or a pdf using a file explorer does not delete it from the Files app. When an attempt to then delete from the Files app is made, it gives the error \"Couldn't delete X item\" and trying to open also results in failure. Scanning/searching through the folders doesnt reveal any hidden files. I have tried wiping the caches of several apps including Files, Pixel Launcher and some of the Google related ones to no effect. Restarting/powering off also has no effect. This started happening after the update to Android 10 (i think) since i never saw this behaviour when it was called the Downloads app. The files are clearly not there as the stgorage would be full several times over if they were still hiding somewhere. Doesnt seem to affect performance, just makes it difficult to find files when everything you have ever downloaded it listed. Any help appreciated.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-11-13T02:53:33.511606+00:00",
-    "reply": "0 Replies"
-}

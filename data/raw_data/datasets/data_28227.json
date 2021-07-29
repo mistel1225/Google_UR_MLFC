@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/14055649/double-tap-activates-the-whole-screen?hl=en",
-    "title": "Double-tap activates the whole screen",
-    "content": "Hello,\n\nSince Android 10 (QP1A.190711.020), there is a regression on the double-tap system.\n\nWhen the device is idle, double-tap wakes up the whole screen instead of the expected Ambient Display.\n\nIs there a specific setting to set elsewhere to restore the normal functionning of this feature?",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 2",
-    "post_time": "2019-09-10T18:48:24.553981+00:00",
-    "reply": "1 Recommended Answer"
-}

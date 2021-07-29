@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/102453354/is-updating-to-a-newer-build-of-the-android-open-source-project-via-the-android-flash-tool-possible?hl=en",
-    "title": "Is updating to a newer build of the Android Open Source Project via the Android Flash Tool possible?",
-    "content": "I have flashed a build of the Android Open Source project to my Pixel 3 via usage of the Android Flash Tool, and I want to update the operating system to the latest build without losing any data. I see that there is one option to flash one image without 'wiping the device', but what data, exactly, does this keep?\n\nIf possible, I also want to know whether I can gain root access via usage of the Android Flash Tool, as there is one option that is labelled as 'Force Debuggable', which mentions 'adb root'.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2021-03-16T12:54:53.309906+00:00",
-    "reply": "0 Replies"
-}

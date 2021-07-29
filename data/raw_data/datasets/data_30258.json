@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/8044383/i-have-forgot-my-pattern-lock-i-want-to-unlock-my-pixel-3-without-losing-the-data?hl=en",
-    "title": "I have forgot my pattern lock. I want to unlock my pixel 3 without losing the data",
-    "content": "tried adb shell rm /data/system/gesture.key but no luck. I have wifi/mobile data enabled but not location.\n\nI want to unlock my pixel 3 without losing my data. Please help me on this",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 3",
-    "post_time": "2019-06-15T01:08:26.45291+00:00",
-    "reply": "1 Recommended Answer"
-}

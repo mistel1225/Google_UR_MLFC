@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/24483893/pixel-3a-no-media-audio-over-bluetooth-to-car-head-unit?hl=en",
-    "title": "Pixel 3a - no media audio over Bluetooth to car head unit?",
-    "content": "New Pixel 3a, trying to connect via Bluetooth to my car head unit (2016 Subaru Crosstrek). After pairing, from the phone side, I see four sliders in the BT settings for the connection: Phone calls, Media audio, Input device, Contact sharing. But on the car side, only the Phone calls aspect seems to be working. The connection settings on the car side doesn't light up the notes icon, indicating no Media audio. My older iPhone 6s and friend's Pixel XL both work as audio sources, so something about the Pixel 3a must be different. Media audio works between Pixel 3a and generic BT speaker.\n\nI've tried some troubleshooting steps - delete/reset/re-pair, but no luck. I found some other forum posts suggesting tweaking some of the BT settings in Developer options, specifically AVRCP version and A2DP hardware offload. No combination of these two settings has changed the behavior in this case, though.\n\nGoogle support is blaming the car, and Subaru support is shrugging, stating \"we haven't tested that model of phone\". Figured I'd ask here in case anyone has other suggestions how to get this working.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2020-01-02T17:53:03.525834+00:00",
-    "reply": "0 Replies"
-}

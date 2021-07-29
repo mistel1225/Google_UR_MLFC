@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/102842667/hot-spot-speed-down-to-0-6mbs-after-march-5-android-11-update-pixel-5-and-pixel-4a-help?hl=en",
-    "title": "Hot spot speed down to 0.6Mbs after March 5 Android 11 update (Pixel 5 and Pixel 4a). Help!",
-    "content": "Devices: Pixel 5, Pixel 4a\nCarrier: Verizon, unlimited data\n\nPixel 5: \nMy hotspot used to work like a charm just 2 weeks ago. Then I went through the Android 11 March-5 update, and since then, hot spot connects but the speeds are 0.6Mbs. For comparison, my mobile data on LTE is about 20Mbs. I have also noticed that I have not seen a 5G connection now whereas I used to connect to 5G in my area just fine before the update. What happened here?\nI spent 2 hrs on the phone with Verizon. They verified there is no limit on my hotspot speed, nor data, nor do I have any restrictions on the hotspot. How abruptly this stopped working, I'm thinking it must be related to the Android update. Probably some super stupid power savings feature that nobody wanted to begin with (just 2 weeks ago, I would run the hot spot on battery for 8+ hours doing video calls for work and Pixel 5 battery would still have 50% charge).\n\nPixel 4a (non-5G phone), sharing the same data plan with Pixel 5:\nSame hotspot issue on this phone after the update too. Same exact speeds on speed test.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2021-03-18T20:21:05.962239+00:00",
-    "reply": "0 Replies"
-}

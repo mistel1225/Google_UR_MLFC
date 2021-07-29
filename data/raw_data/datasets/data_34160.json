@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1383332/status-bar-missing-when-in-kiosk-mode-through-the-android-management-api-on-the-pixel-2-android-9?hl=en",
-    "title": "Status bar missing when in kiosk mode through the Android Management API on the Pixel 2 (Android 9)",
-    "content": "I'm testing the Pixel 2XL for Android Enterprise and I'm wondering why the status bar + Home and Overview buttons goes missing when the Google Android Enterprise API kiosk policy is installed on the device. This only happens for Android 9 devices - it works as expected on Android 8.",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 2",
-    "post_time": "2019-01-31T13:58:15.135078+00:00",
-    "reply": "4 Replies"
-}

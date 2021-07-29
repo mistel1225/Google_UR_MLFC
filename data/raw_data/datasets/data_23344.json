@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/13714633/clearing-recents-in-android-10?hl=en",
-    "title": "Clearing recents in Android 10",
-    "content": "When swiping up to go to recent applications, then selecting clear all or clearing individual apps, some do not clear.\n\nWhen that happens, going back to recents and selecting one of those apps result in an error message that says app not available.\n\nThis seems to be driven by the app in question. For example chrome currently works fine. However messages does have this problem.",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 3",
-    "post_time": "2019-09-06T11:25:43.691467+00:00",
-    "reply": "2 Recommended Answers"
-}

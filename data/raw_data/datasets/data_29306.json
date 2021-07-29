@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/10839533/how-to-change-default-navigation-app-in-android-and-google-assistant?hl=en",
-    "title": "How to change default navigation app in Android and Google assistant",
-    "content": "I'm simply trying to have Android open links to directions in citymapper Google assistant open citymapper when I ask it to take me somewhere. I have searched everywhere and found that in 2016 people were having the reverse problem: https://www.google.com/amp/s/amp.reddit.com/r/GooglePixel/comments/58u8lq/how_do_you_control_the_default_apps_google/\n\n\nI also found an article by Google: https://support.google.com/waze/answer/6291190?hl=en detailing the process for getting Waze as the default. I have tried the steps in this article for citymapper and they did not work. \n\nCurrently I have maps set as \"do not open supported\" links under my phone settings, and this at least allows me to choose citymapper when I open a link for directions in other apps - for example, in Yelp. \n\nI was wondering how I would:\n1) Set citymapper as my default navigation app so I don't have to keep selecting it in apps like Yelp when I want directions\n\n2) Set citymapper as my default for Google assistant\n\nI'm not sure if this is an issue with citymapper, my own incompetence, or with Android/Google refusing to let competing apps be the default (I really hope it isn't this one) but any help would be greatly appreciated!",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 3a",
-    "post_time": "2019-07-29T07:18:28.651816+00:00",
-    "reply": "1 Reply"
-}

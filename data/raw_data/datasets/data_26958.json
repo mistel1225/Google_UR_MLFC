@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/17834191/phone-either-freezes-or-turns-itself-off-every-night?hl=en",
-    "title": "Phone either freezes or turns itself off every night",
-    "content": "After updating to 10, my phone's screen won't turn on after not being used overnight.  Reverted back to Pie and the issue went away. Flashed the Oct factory image for 10 including wiping data and the issue returned.  Booted into safe mode last night.  Woke up this morning and had to force a reboot to get the screen to turn on.  There is a definite issue with Android 10 on my phone.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2019-10-27T11:28:34.972137+00:00",
-    "reply": "3 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1702871/pixel-2-xl-wont-charge-shows-battery-with-a-x?hl=en",
-    "title": "Pixel 2 XL wont charge, shows battery with a \"x\"",
-    "content": "Yesterday my Pixel 2 XL started to randomly shut down and wasnt charging. I managed to install the latest android update with adb-flash-all -w. After completing the update, the next day, the phone wont charge anymore. If i plug any of our cable (we have three Pixel 2 XL) into the phone, nothing happens. If I press the power button for about 10 seconds, the phone vibrates and shows a battery, with a little bit of red on the right side of it and the whole battery is crossed with a \"x\". I let the cable plugged in and after some hours, the phone started after pressing the power button. Everything seems to be normal. Today I watched a video on the phone and yet again, the phone shuts down and no way to get it back to work (again the battery with the \"x\"). Any ideas? Is the battery broken?",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 2",
-    "post_time": "2019-02-17T19:58:12.949487+00:00",
-    "reply": "13 Replies"
-}

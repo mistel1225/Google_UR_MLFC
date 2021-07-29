@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/94388018/heavy-aliasing-on-pixel-3a-1080p-video?hl=en",
-    "title": "Heavy aliasing on Pixel 3a 1080p video",
-    "content": "Has anyone else noticed this? When recording in 1080p mode, there is a lot of aliasing. It's like the camera is skipping every other pair of pixels from a 4k source, and it results in a sharp-looking shimmer during panning.\n\nThe top image is a crop of a still from a video. The bottom image is my attempt to fix it in software using Avisynth filters:",
-    "is_img": 1,
-    "category": "Camera, Google Pixel 3a",
-    "post_time": "2021-01-20T23:03:12.618839+00:00",
-    "reply": "0 Replies"
-}

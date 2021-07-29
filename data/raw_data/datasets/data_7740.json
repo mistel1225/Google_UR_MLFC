@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/95521686/camera-shows-i-m-tilted-but-i-m-not-gyro-sensor-issue?hl=en",
-    "title": "Camera shows I'm tilted but I'm not (Gyro sensor issue)",
-    "content": "Hi all,\n  I recently flashed my Pixel 3a XL using stock image and Android Flash Tool from https://developers.google.com/android/images \n\n  Before I flashed my phone, there's nothing wrong when I took photos. But after I flashed it, I found it weird that even though I'm not tilted, the camera app says I'm tilted. If I tilt the phone, it says I'm not tilted.\n\n\n\n\n  I have already tried reboot, reboot into safe mode, uninstall camera app update and reinstall the update, none of them fix the issue.\n\n  And I also use the \"bubble level\" tool in Google search, it shows my phone is tilted. Unless I lived in a house that's tilted for 20 years and I never noticed, there's definitely something wrong.\n\nWhat can I do to fix it? \n\n\nThanks",
-    "is_img": 1,
-    "category": "Device Performance, Google Pixel 3a XL",
-    "post_time": "2021-01-28T16:15:03.305432+00:00",
-    "reply": "0 Replies"
-}

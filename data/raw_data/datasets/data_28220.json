@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/14379071/dark-mode-consumes-significantly-more-battery-power?hl=en",
-    "title": "Dark Mode consumes significantly more battery power",
-    "content": "Hello,\n\nwhen using Dark Mode Theme the battery drain is significantly higher than in \"light\" mode.\nTo illustrate the facts i am observing\n\nDark Mode enabled Test Case\n\n100% fully charge\nBrightness fixed at 50%\nUsing Chrome for exact 5 min\n\nBattery drain: 5% \n\nLight Mode enabled Test Case\n\n100% fully charge\nBrightness fixed at 50%\nUsing Chrome for exact 5 min\n\nBattery drain: 1% \n\nI did this test case for 5 times in almost same conditions (same time, same location(for reception)\n\nAs of now i use none Dark Mode and battery Life on Android 10 is as expected.\n\nAnyone else observing this?\n\nBoris",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 2",
-    "post_time": "2019-09-14T18:18:26.331241+00:00",
-    "reply": "1 Reply"
-}

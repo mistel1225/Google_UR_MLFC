@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/94694575/my-phone-chokes-on-amazon-ultra-hd-and-ldac-constantly-interrupting-every-10-or-so-seconds?hl=en",
-    "title": "My phone chokes on Amazon Ultra HD and LDAC. Constantly interrupting every 10 or so seconds.",
-    "content": "I've tried to troubleshoot this problem but it appears to me that the Pixel 5 just doesn't have the horsepower to push Ultra HD music to a Sony Receiver or Sony Bluetooth Speaker without interruption. \n\nI'm concerned because my Pixel 2 XL could handle it no problem.  \n\nI've opened the developer options and tried to down regulate it to 48Hz and 16 bit and that seems to fix it for the most part.  Of course those options need to be set everytime you connect.  Frustrating!\n\nI do have the Sony Music Center app installed \n\nIs anyone else seeing this behavior with their Pixel 5 and LDAC ?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2021-01-22T21:42:17.299419+00:00",
-    "reply": "0 Replies"
-}

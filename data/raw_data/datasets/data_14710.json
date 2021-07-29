@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/71484847/bluetooth-volume-issues-on-pixel-3axl-android-11?hl=en",
-    "title": "Bluetooth/Volume Issues on Pixel 3aXL, Android 11",
-    "content": "Prior to the update, when my phone was connected via Bluetooth (speakers, Pixel Buds, etc), I could hit the volume rocker and I had the option to swap audio output, so I could choose whether audio could play via phone speakers, or through the speaker. That option is gone from the little menu, so I have to go into Bluetooth settings, and either disconnect or to select my output and unselect \"media audio\". \n\nHas this feature (selecting audio output from the volume menu) gone away for everyone, or is this a bug? It was super useful before (to listening to voice notes or anything that you wouldn't want played onto the speakers for example), so I don't see why they would remove it. \n\nAlso, a different issue but in the same vein, the volume is also really messed up when playing on any Bluetooth device. Volume goes up 3 notches and is suddenly super loud on the speakers, but won't go up anymore, even though the slider is only at what, 20%? Going up in volume anymore does nothing to increase sound, it sounds as if it's at maximum. So currently it's as if I only have 3 volume levels; very quiet, somewhat quiet, and ear bleedingly loud.\n\nNot sure if my first issue is a bug, but if not, seems a very silly thing for Google to have done. But certain the second issue is a bug, and wondering if there's any fixes or solutions. \n\nThanks for reading. :)",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a XL",
-    "post_time": "2020-09-16T14:38:26.580928+00:00",
-    "reply": "4 Replies"
-}

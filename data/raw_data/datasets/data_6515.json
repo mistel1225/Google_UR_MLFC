@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/98693390/unable-to-configure-a-chromecast-v1-using-pixel-4a?hl=en",
-    "title": "Unable to configure a Chromecast v1 using Pixel 4a",
-    "content": "I have just changed my ISP and therefore needed to set up all my existing devices. My Chromecast v1 would not configure using the Home app however. The app found the chromecast OK, but then was not able to connect to the temporary WiFi the chromecast creates.\n\nI fetched my old Samsung tablet and was able to set the chromecast up fine.\n\nIs there a known issue with either pixel or android 11 that might be causing this?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
-    "post_time": "2021-02-18T17:14:42.282107+00:00",
-    "reply": "1 Reply"
-}

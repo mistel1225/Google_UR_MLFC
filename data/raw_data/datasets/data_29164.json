@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/11241303/google-camera-recent-photo-preview-not-working-with-other-gallery-apps-only-google-photos?hl=en",
-    "title": "Google Camera, recent photo preview not working with other gallery apps (only Google photos)????",
-    "content": "I'M REALLY MAD!!!\n\nBeen using Google camera for a while and love it. But the recent photo preview to switch to the gallery app doesn't work!!! But I didn't want to use Google photos. Decided to go with a alternate gallery app.\n\nWell it doesn't work!\n\nGoogle camera only works with Google photos?!?\nWhy?\n\nIs their a setting I'm missing or what is going on?\n\nBeen dealing with this for months?!?\n\nAny help is appreciated!\n\nEdit:\nThe culprit seems to be when you click on the recent photo circle it explicitly specifies (com.google.android.apps.photos) package name as the target.\n\nAnd I can't seem to figure out how to change it?",
-    "is_img": 0,
-    "category": "Camera, Google Pixel 3a",
-    "post_time": "2019-08-04T02:01:03.486764+00:00",
-    "reply": "1 Recommended Answer"
-}

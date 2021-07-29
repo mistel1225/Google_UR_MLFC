@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/4095400/pixel-3-won-t-charge-via-usb-a-to-usb-c?hl=en",
-    "title": "Pixel 3 won't charge via USB-A to USB-C",
-    "content": "Following latest android 9 update my Pixel 3 will no longer charge from USB-A to the USB-C phone port, i.e. like from an Anker battery to the phone, or from a Belkin charger to the phone.\n\nIf I use the Google charger or my laptop's USB-C connection, it still works, i.e. USB-C to USB-C phone port.\n\nIf I try to make a USB-A to C connection under USB Preferences (which appears as a notification) it say the USB is controlled by 'connected device'. If you try to switch it to 'This device' after a delay it will say 'Couldn't switch'. \n\nIn other words it seems the phone is trying to charge the wall charger / battery, and reversing the flow doesn't work. Users shouldn't have to deal with this anyway - the default should be to charge the phone.\n\nI have spoken to Google who said they would offer a replacement but I am convinced this is just a software issue as the phone charged fine from all sources up until about a week ago.\n\nFrom a search on reddit this seems to be becoming a widespread problem as people upgrade their OS.\n\nAny word on fixing this Google? \n\nIt's a pretty annoying problem and is badly affecting what is otherwise a good phone.\n\nThank you.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3",
-    "post_time": "2019-04-13T11:20:59.084386+00:00",
-    "reply": "2 Recommended Answers"
-}

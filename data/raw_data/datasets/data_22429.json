@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/8827146/front-facing-camera-is-distorting-squishing-images-containing-faces-pixel3?hl=en",
-    "title": "Front facing camera is distorting/\"squishing\" images containing faces. Pixel3",
-    "content": "Front facing camera \"squishes\" faces during processing. The change is visible if you open the photo before it's done processing, you. Can see it \"squish\" when it's finished processing.\n\nI found this post (will attach) which explains as long as the face stays in the center of the vertical golden ratio lines, it will not be distorted. However, if the face appears to left or right of those vertical lines, it is \"squished\" after photo processes.\n\nVery annoying/impossible to take a selfie with a friend without ending up with round, distorted faces.",
-    "is_img": 1,
-    "category": "Camera, Google Pixel 3",
-    "post_time": "2019-06-27T16:47:47.424934+00:00",
-    "reply": "16 Replies"
-}

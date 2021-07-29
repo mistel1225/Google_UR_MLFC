@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/72491798/android-11-screen-turns-off-during-a-call-and-does-not-turn-back-on-until-other-party-hangs-up?hl=en",
-    "title": "Android 11: Screen turns off during a call and does not turn back on until other party hangs up",
-    "content": "As soon as I connect a phone call (w/o Bluetooth and w/o speakerphone), the screen turns off, just like it would if it detected my face in close proximity, but my phone is, say, lying on my desk unobstructed. This means I cannot use the keypad or hang up a phone call. Once the call is over, the screen turns back on. This started happening immediately after the upgrade to Android 11. \n\nI have cleaned the entire front-facing surface to try and clean the proximity sensor.\n\nIt appears other sensor-like issues are occurring, too, as I now have to reboot my phone every couple of days to get facial recognition to work again (it prompts me that the top of the phone might be too dirty, even after cleaning). A reboot immediately fixes this issue however, so it's not a dirty sensor.",
-    "is_img": 0,
-    "category": "Contacts, Calls, Voicemail, Google Pixel 4 XL",
-    "post_time": "2020-09-21T21:44:03.497382+00:00",
-    "reply": "2 Recommended Answers"
-}

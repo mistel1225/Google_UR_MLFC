@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/28311373/phone-reboots-when-unlocking-with-face-unlock?hl=en",
-    "title": "Phone reboots when unlocking with Face Unlock",
-    "content": "My Pixel 4 XL works perfectly (no speed or app issues) until I enable Face Unlock. Depending on some variable I can't figure out, after Face Unlock is enabled my phone will occasionally freeze and then reboot when I'm trying to open it. It could start after a day, or after 10 minutes. It might reboot once and be good for another day, or reboot 3 times in a row and then again after a few minutes. If I disable Face Unlock AND delete face data, it works perfectly again. I've reset my phone and cleared data a few times, but nothing changes the behavior. As soon as I reenable Face Unlock I get the symptoms. Any thoughts? Any advice on a way to better capture details?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4 XL",
-    "post_time": "2020-02-10T20:34:39.215541+00:00",
-    "reply": "1 Reply"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/101077197/messages-not-changing-default-notification-ring?hl=en",
-    "title": "Messages not changing default notification ring",
-    "content": "I have a Pixel 5 that is fully updated. I cannot change the default ringtone for the Messages app to be different than every other notification that relies on the default notification sound. This is repeatable on two different Pixel 5 phones. I have cleared the cache and storage and tried again with the same issue occurring.\nLong press on Messages icon\nPress \"i\" in the upper right corner of the menu\nPress \"Notifications\" in Messages App Info page\nPress \"Incoming messages\" button\nPress \"Advanced\" button (why it requires another button press to get to the sound is beyond me; poor UI design)\nPress \"Sound\" button\nChoose new sound and press \"Save\" button\nGo back to \"Messages\" and ask a friend to send you a message and the same default ringtone still sounds\nI'd love to know what I'm doing wrong.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 5",
-    "post_time": "2021-03-06T20:42:21.555431+00:00",
-    "reply": "0 Replies"
-}

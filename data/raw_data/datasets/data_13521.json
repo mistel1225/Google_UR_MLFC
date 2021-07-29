@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/78887202/no-speech-output-over-bluetooth-from-assistant-after-latest-android-11-google-update?hl=en",
-    "title": "No speech output over bluetooth from Assistant after latest Android 11/Google update",
-    "content": "When my phone is connected to my car head unit with bluetooth, I am able to launch the assistant by holding the hands free voice button on my steering wheel. Before Android 11, this would work flawlessly and I could hear assistant voice output. Since updating to Android 11, I am still able to launch the assistant with the button, but I no longer hear any voice. I only hear the chime to prompt me to speak a command.\n\nI have since performed a factory reset, and while my phone was setting up and updating all the apps, the function worked and I could hear the assistant. But as soon as my phone was finished setting up and the Google app fully updated, the problem came back.\n\nThis tells me there is an issue with bluetooth and the Google/Assistant app. As a side note, a new notification comes up on my head unit that only appeared after the update to Android 11. A picture of it is attached.",
-    "is_img": 1,
-    "category": "Google Assistant and Voice Actions, Google Pixel 3a",
-    "post_time": "2020-10-24T15:09:39.785953+00:00",
-    "reply": "0 Replies"
-}

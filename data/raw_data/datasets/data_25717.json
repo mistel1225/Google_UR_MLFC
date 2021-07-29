@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/15278467/how-do-i-make-a-persistent-notification-low-importance-in-android-10?hl=en",
-    "title": "How do I make a persistent notification low-importance in Android 10?",
-    "content": "With Android 9, I was able to give an app's persistent notification low importance. This eliminated the the icon in the notification bar and made the notification a single line. When I upgraded to Android 10, this setting remained the same, so I know that apps can have low importance settings in Android 10. \n\nNow I have a new phone and installed the app, but cannot find the setting to make it's persistent notification  low importance. I can make it silent, but the icon remains in the notification bar and the notification itself is several lines long.\n\nThe persistent Google weather and maps notifications are low importance -- they do not have an icon and they are one line tall. How do I give another app that setting?\n\nThanks for your help,\n\n-- Tim",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3",
-    "post_time": "2019-09-25T14:26:18.467056+00:00",
-    "reply": "1 Recommended Answer"
-}

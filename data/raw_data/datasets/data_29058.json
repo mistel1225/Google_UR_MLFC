@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/3851784/pixel-3-xl-frozen-screen?hl=en",
-    "title": "Pixel 3 XL frozen screen",
-    "content": "Apps on my Pixel 3 XL freezes when turning on the phone two times. This is happening for most apps like Google Play Store, Google Play Console, Audible, almost all apps. The only apps that I tested and keeps responsive are Google Mail and Google Maps. All others are frozen until I interact with the android system in any way like dragging the statusbar down or pressing home button. The apps are processing the events. Like when I click the Play button in a player app, it starts and stops, but the UI is not responding like showing pressed states.\n\nAgain steps to reproduce:\n1. Open PlayStore App\n2. Press power button to turn off\n3. Press power button to turn on (apps keep responsive)\n3. Press power button to turn off\n4. Press power button to turn on (apps are not responsive)\n\nGoogle Chrome reacts in this case to show a black screen.\nThis also happens if device is running in save mode.\n\nOther attributes of this phone.\n- No sim card. But I remember that I also had issues when I was using it with SimCard\n- Latest Updates installed",
-    "is_img": 0,
-    "category": "Homescreen and Launcher, Google Pixel 3 XL",
-    "post_time": "2019-04-09T11:40:27.436975+00:00",
-    "reply": "6 Replies"
-}

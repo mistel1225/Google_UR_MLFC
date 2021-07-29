@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/65266962/when-trying-to-charge-my-phone-with-the-provided-usb-c-wall-charger-my-phone-won-t-charge?hl=en",
-    "title": "When trying to charge my phone with the provided USB C wall charger, my phone won't charge.",
-    "content": " I believe that this is because under Settings > USB Preferences > USB Controlled By, the option \"Connected device\" is selected instead of \"This device\". When I try and select \"This device\", the phone begins to charge. Every time I connect the charger I was asked to select the usb preference.\nPlease advise how to resolve the issue.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 3a",
-    "post_time": "2020-08-17T05:31:30.260231+00:00",
-    "reply": "1 Recommended Answer"
-}

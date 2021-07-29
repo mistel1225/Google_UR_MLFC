@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/110602398/android-auto-doesn-t-work-on-pixel-5?hl=en",
-    "title": "Android Auto doesn't work on Pixel 5",
-    "content": "Android auto on my Pixel 5 does not work on my 2021 DMax.  I contacted the Android Auto team and they advised to contact Pixel support after I provided a debug.  Advice was it was an issue with the phone, not the application.  What I know:\n\n- The phone does charge successfully when connected\n- All other devices (about 10 tested) work across different manufacturers although I haven't tested another Pixel 5\n- Pixel 2 works fine with the same cable\n- Phone has been wiped of its cached, updated etc following standard support advice with no success\n\nRelated Android Auto case:\n\nhttps://support.google.com/androidauto/thread/103278037/pixel-5-can-t-connect-to-isuzu-dmax-2021-via-usb?hl=en",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2021-05-20T20:28:00.251524+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/2963494/how-do-i-force-my-pixel-3-to-stay-connected-to-an-offline-wifi-network?hl=en",
-    "title": "How do I force my Pixel 3 to stay connected to an offline wifi network?",
-    "content": "To be clear, I am NOT trying to connect to the internet. I have an app that remotely controls something at my work, but I have to be connected to a particular wifi network to use it. That wifi network is not connected to the internet, nor should it be. \n\nCurrently, when I connect to the network in question, my Pixel 3 will continuously disconnect and reconnect to the network (obviously trying to find internet) for more than a full minute before giving up. Only then, can I actually use the network, if I also disable cell network connectivity. \n\nI just want to know how I can force my Pixel 3 to just stay connected in the first place and not keep resetting its connection to being with. \n\nThank you.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
-    "post_time": "2019-03-24T22:22:24.86399+00:00",
-    "reply": "1 Recommended Answer"
-}

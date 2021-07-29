@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/77587604/pixel-4a-and-network-switching?hl=en",
-    "title": "Pixel 4a and network switching",
-    "content": "New Pixel 4a with new SIM with Android 11.  Phone always defaults to USCC as carrier.  Have tried doing manual switching via FI TMO and FI SPR for different networks; works only on FI TMO but doesn't hold setting.  An option under Mobile Networks SOMETIMES shows up for \"Automatically Select Network.\"  When it does appear, I can select from several detected networks, all of which are US Cellular.   Which is weird, because US Cellular doesn't have a presence in my area.  When I selected US Cellular -LTE, FI INFO reports that the phone is actually on T-Mobile.  \n\nThis \"Automatically Select Network\" menu doesn't always show up.  Why does this menu option come and go?  It is under Network & Internet > Mobile Networks / Google Fi > Advanced > Automatically Select Network.\n\nMy question is...why is this phone defaulting to USCC? And how can I get it to stay on T-Mobile?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
-    "post_time": "2020-10-17T22:12:37.715936+00:00",
-    "reply": "0 Replies"
-}

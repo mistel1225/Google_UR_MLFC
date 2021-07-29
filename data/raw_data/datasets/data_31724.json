@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/5002154/slow-to-acquire-high-accuracy-gps-signal-on-pixel-3-unless-i-restart?hl=en",
-    "title": "Slow to acquire high-accuracy GPS signal on Pixel 3 unless I restart",
-    "content": "Recently, apps that need high-accuracy, real-time GPS (Strava, Wahoo Fitness Tracker, etc.) take a long time (>5 minutes) to acquire a signal when the phone hasn't been restarted lately. \n\nIf I restart, it'll acquire a signal in just a few seconds. This has only been a problem for the last few weeks, possibly since I updated to the Apr 5 Security Patch. \n\nAnyone else seeing this? Any fixes?",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2019-04-27T14:50:47.470951+00:00",
-    "reply": "1 Reply"
-}

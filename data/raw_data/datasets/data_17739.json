@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/37042900/in-the-files-by-google-app-how-do-i-get-adobe-acrobat-reader-to-show-up-in-the-open-with-list?hl=en",
-    "title": "In the \"Files by Google\" app, how do I get Adobe Acrobat Reader to show up in the \"Open with\" list?",
-    "content": "This issue is 100% repeatable on my Pixel 3XL, as follows:\n\nOpen the default \"Files\" app (Files by Google 1.0.297653579)\nGo to the downloads folder.\nTap on a PDF file.\n\"Open with\" panel slides up with only two options: Drive PDF viewer and Adobe Digital Editions. \n\nI want Adobe Acrobat Reader to also show up as an option, but it does not. How do I fix this? \n\nObservations: \nI've cleared all defaults in all three apps (Adobe Reader, Digital Editions, and Files). \nI can open the same file with Adobe Acrobat Reader if I first open that app, navigate to the file, and open it. \nA third-party app called \"Solid Explorer\" provides a more complete list of \"Open with\" options, including Adobe Acrobat Reader. Therefore, this may be a bug with the \"Files by Google\" app.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2020-03-31T17:31:13.490298+00:00",
-    "reply": "2 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/53018654/google-pixel-2-oem-unlocking-greyed-out?hl=en",
-    "title": "Google Pixel 2 OEM unlocking greyed out.",
-    "content": "Hello, I have received a Google Pixel 2 a few days ago. I unlocked the developer options, allowed the USB Debugging and also managed to unlocked the OEM unlocking for a short moment. This last part is truly what is bothering me right now.\n\nFast forward, the very next day, I started the phone once more, plugged it to my computer and when I used adb reboot bootloader, I notice that the phone state is now locked.\n\n\n\nReturning to the developer options, I noticed the OEM unlocking suddenly grey. And when trying fastboot commands, the errors that appear are : fastboot oem unlock\n...\nFAILED (remote: Flashing Unlock is not allowed)\nfinished. total time: 0.007s\n\nNow my questions are about a few things.\nFirst, how to know if the phone is from Verizon? I saw numerous posts about the tightly locked state of Verizon Pixel 2, but this phone was reformed and I have no visible clues about its past.\nSecondly, How the OEM unlocking can suddenly turn grey? I almost doubt myself, but I really, really certain that the first day I unlocked it and only the next day it was not the case anymore.\nFinally, if it is not a Verizon phone, is there a way to reverse my situation? I have updated the phone to the lastest Android 10 version, it is connected to Internet, I have used \"fastboot oem unlock\", \"fastboot flashing unlock\", \"fastboot flashing critical_unlock\" in bootloader mode.\n\nMy current goal is to have my device unlocked. Thanks for the answers in advance.",
-    "is_img": 1,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2020-06-12T13:22:50.880445+00:00",
-    "reply": "13 Replies"
-}

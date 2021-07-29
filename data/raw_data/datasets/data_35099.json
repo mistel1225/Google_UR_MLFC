@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1415342/google-photos-not-syncing?hl=en",
-    "title": "Google photos not syncing",
-    "content": "Checking under settings-backup it shows 20 photos that is suppose to backup. After a day, it still says 20 photos. \n\nWhen I check in Google Photos, only the camera folder is the one checked. Thus I switch sync off and waited for about an hour before switching it back on. I then leave it for about an hour. After an hour and under settings-backup it still shows 20 photos. \n\nTried under mobile and wifi, situation remains the same. I have tried clearing Google photos app cache, I have even tried deleting app data, force stop and it still remains at 20. \n\nI move those 20 photos on to a different folder leaving the camera roll empty. I then took one photo. Settings-backup now shows 1 photo to be backed up but even after a few hours, it does not backup unless I manually press the cloud symbol in Google Photos. \n\nWhat else can I try? I rather not perform a factory reset on the phone.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2019-02-02T09:17:10.18849+00:00",
-    "reply": "2 Replies"
-}

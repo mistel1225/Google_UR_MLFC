@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/4752226/talkback-reads-web-controller-title-after-dropdown-is-closed?hl=en",
-    "title": "Talkback reads web controller title after dropdown is closed",
-    "content": "I am developing an app and part of it is responsive web.  Multiple pages have a dropdown on them and all works fine except, once an item is chosen and the drop down closes, talkback reads the name of the web controller again.  I am trying to get it to stop.  I have tried changing the name of the controller, setting it to a blank value, a different value and none of those work.  It continues to read the old value.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-04-23T18:28:33.218085+00:00",
-    "reply": "0 Replies"
-}

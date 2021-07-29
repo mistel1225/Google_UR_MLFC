@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/26117569/using-hotspot-with-an-esim-not-working?hl=en",
-    "title": "Using Hotspot with an ESIM not working",
-    "content": "I recently bought a PIXEL 3A  (Android 10) .   Everything works fine and Hotspot works when I am using the physical SIM from my telco.\n\nI tried an ESIM from GIGSKY which worked well and gave me connectivity.    \n\nProblem was when I turned on Hotspot with ESIM connection.    It connected then dropped with 'network unavailable try again later'.   The test was done in Canada so I am assuming GIGSKY get their network service from a Canadian telco like TELUS.\n\nGIGSKY claim this is a known fault with Android 10 ....no resolution\n\nCan anyone confirm that Hotspot with ESIM connections will not work ?\n\ncheers",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth",
-    "post_time": "2020-01-19T17:16:32.329356+00:00",
-    "reply": "0 Replies"
-}

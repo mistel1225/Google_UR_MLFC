@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/111353066/pixel-4a-5g-battery-idle-drain?hl=en",
-    "title": "Pixel 4a 5G battery idle drain",
-    "content": "I have been using the phone since 5 months and the battery life was amazing but since the may update, I am seeing a huge idle drain (13% overnight) and there are no Plateaus in the battery graph. I have tried going to safe mode and checking. No improvement. Even factory reset didn't help. Main culprits are \"Android System\" and \"Android OS\". They take away a huge chunk of battery. Gsam Battery stats says that the kernel is making the phone stay awake which is causing battery drain. Attached screenshot also shows that there is 11% battery drain just with 21 minutes SOT and  about 1.5 hrs idle time. Hope the June update fixes this drain. I also found a few people on reddit forums having the same issue since May update.",
-    "is_img": 1,
-    "category": "Battery and Power, Google Pixel 4a (5G)",
-    "post_time": "2021-05-27T05:36:42.422747+00:00",
-    "reply": "2 Replies"
-}

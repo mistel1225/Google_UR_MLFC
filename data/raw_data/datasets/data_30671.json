@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/7043297/pixel-2-xl-bluetooth-issues?hl=en",
-    "title": "Pixel 2 XL Bluetooth Issues",
-    "content": "In the last week or so, my Pixel 2 XL started to have issues connecting to my OontZ Angle 3 portable blue tooth speaker. I would turn the speaker on and music would play for about 3 seconds before the music would stop. I tried to follow the exact instructions to reconnect the device to my phone, but still it would not work. I could only get it to work if I turned my phone off and on again.\n\nAfter several days of doing this, I went to the Bluetooth Device Details for my speaker. I turned off Phone Calls and suddenly my speaker started playing music again. I didn't think anything of it again as the speaker was pretty cheap, so I figured there was some weird thing off in the speaker.\n\nTurns out, I was wrong. For the first time in about a month I tried to listen to music using my Pixel Buds as well and the same thing was happening: music would play for a few seconds and then stop. I went in to the Device Details for the Buds and turned off Phone Calls and it started working again. However, doing this also made it so I can't control my music with gestures on the Buds.\n\nI can understand issues with a cheap speaker, but for a pair of expensive ear buds that were designed specifically to work with the Pixel 2 is a bit much. Is there anyway to fix the Bluetooth settings on my phone so I can actually use the Buds for their intended use?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
-    "post_time": "2019-05-30T00:26:03.137571+00:00",
-    "reply": "0 Replies"
-}

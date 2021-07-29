@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/53893491/issue-with-phone-unable-to-boot-after-update?hl=en",
-    "title": "Issue with phone unable to boot after update",
-    "content": "Greetings. I recently updated my pixel 2 with the latest security patch. After the phone downloaded the update it asked me if it could restart. I complied and the phone refused to turn on. I tried forcing it to reboot by holding the power button down for 30 seconds, unfortunately it failed. Neither was I able to safe boot it (power button+Volume down or up). The battery was around 90% during this process, so no issues there. The phone was warm for the whole day after that but it refused to start or show anything on the screen. The phone also heats up on charging but does not display the charging notification. I did try to verify if the phone was operational when it was running warm by checking my whats app web but it refused to start as it mentioned it cannot connect with my phone. I'm sure I will probably have to turn my phone in for possible repairs but I would like to know if my phone is serviceable for repairs & the reason this would happen. Thank you.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2020-06-16T21:20:20.774418+00:00",
-    "reply": "1 Reply"
-}

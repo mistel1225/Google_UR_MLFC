@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/80800235/pixel-1-doesn-t-boot-into-recovery-mode?hl=en",
-    "title": "Pixel 1 doesn't boot into recovery mode",
-    "content": "Actually I was on call and phone suddenly switched off. I tried to boot it up but it boot into 1/2 screen like broken. Then I tried to boot into fastboot mode it booted up fine but there BL & BA is showing N/A so I tried to boot into recovery he shows logo and turned off then again I tried 2-5 times the same thing happened then I again I tried to shows fail to boot into recovery mode I don't know why and my bootloader is lock 🔐 now I don't know what to do please help me out if any one knows the solution 🙏🙏please.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2020-11-03T18:53:45.353797+00:00",
-    "reply": "1 Reply"
-}

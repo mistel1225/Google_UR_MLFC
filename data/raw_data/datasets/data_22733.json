@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/31923825/recovering-from-cannot-load-android-system-error-without-losing-personal-data?hl=en",
-    "title": "Recovering from \"Cannot load Android system\" error without losing personal data",
-    "content": "Hello, my Pixel 3 just bricked. I've followed steps to attempt a recovery without losing personal data via these guides, using 9.0.0 (PD1A.180720.030, Sep 2018):\n\nhttps://support.google.com/pixelphone/thread/17930356?hl=en\nhttps://medium.com/@glebovgin/how-to-fix-cant-load-android-system-issue-8a5b0ead5a15\n\nI made it almost all the way through, but when trying to use the adb sideload command in Terminal (Mac), I get the following error:\n\nE:Failed to verify package compatibility (result 1): runtime info and framework compatibility matrix are incompatible: Missing config CONFIG_NETFILTER_XT_MATCH_QTAGUID\n\nInstall from ADB completed with status 2.\nInstallation aborted\n\nIs there any way I can avoid doing a hard factory reset? Thank you!",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2020-03-01T11:46:13.673717+00:00",
-    "reply": "1 Reply"
-}

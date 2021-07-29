@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/79792666/inability-to-press-buttons-in-the-corners-of-the-screen-while-playing-mobile-games?hl=en",
-    "title": "Inability to press buttons in the corners of the screen, while playing mobile games",
-    "content": "Hello! \n\nI have an issue, related to the swiping bar that closes the app. Sometimes this bar keeps its original position at the bottom of the screen, when a launched mobile game is horizontal on the screen. This results in inability to press any buttons in the app, which happen to be right where this swiping bar is. Here the workaround is to rotate the device, but there are buttons to press in the game on both sides, so I need to constantly rotate the app.\n\nWhy I think that this is a bug: sometimes when I relaunch the game, the swiping bar moves horizontally, just like the game is, so this bar doesn't show up on the sides.\n\nAdditionally, If the game has a vertical design, the app fills up the whole screen and it reaches the very bottom where the swiping bar is, and it doesn't detect any touches on it, so it may take tremendous amount of efforts to press something in the game.\n\nExcuse me for not knowing the technical terms, I hope to have explained it well enough. Thank you.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4a",
-    "post_time": "2020-10-29T13:00:22.37963+00:00",
-    "reply": "2 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/87465443/fix-for-back-camera?hl=en",
-    "title": "Fix for back camera?",
-    "content": "After installing the security update on the pixel 4 xl android 11 my back camera no longer works.\n\nWhen opening the camera app I can only view it with front facing camera and unable to flip it to rear facing camera as if it doesn't exist.\n\nThe inability to flip to rear facing camera occurs in any app that utilizes the camera.\n\nI've uninstalled and reinstalled the update for the camera and booted into safe mode and the issue still occurred and have cleared cache and storage of camera and restarted phone. I haven't factory reset it yet but I'm trying to find another fix for it and this issue only occurred after installing the latest security update",
-    "is_img": 1,
-    "category": "Camera, Google Pixel 4 XL",
-    "post_time": "2020-12-08T02:58:24.581539+00:00",
-    "reply": "7 Replies"
-}

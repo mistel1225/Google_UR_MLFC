@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/110253322/help-my-pixel-4a-5g-made-my-photos-disappear?hl=en",
-    "title": "Help! My Pixel 4a (5G) Made My Photos Disappear!",
-    "content": "Hi, I am having an issue with my Pixel 4a (5g) phone. Earlier today, it ran out of battery. No big deal. I plugged it up to the charger when I got home and it seemed fine. I noticed hours later that a good 2 1/2 months worth of photos from my gallery had completely disappeared. Not deleted, disappeared. I went frantically searching online for answers, all said to check my Google Photos Backup. Well, I hardly used that, so that's a no. I found a site that said to try 1) clearing the photo cache and restarting. Did that. No change. 2) of their suggestion was to find the \".nomedia\" file and rename it, since apparently a .nomedia file can't be scanned and you have to rename or delete it. I tried renaming, I tried removing. No change at all. And the part that's making me really insane is that when I go to: Internal phone storage > DCIM > I can see the folder names where I stored the photos that had disappeared! And when I try to open, they are empty. Something about the folders still being there but empty tells me that these just haven't been deleted or eradicated, but that they are hidden or some kind of glitch occurred.\n\nDoes anyone know what this is? I will gladly take any advice or try anything. Thanks!",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 4a (5G)",
-    "post_time": "2021-05-18T06:56:51.253032+00:00",
-    "reply": "3 Replies"
-}

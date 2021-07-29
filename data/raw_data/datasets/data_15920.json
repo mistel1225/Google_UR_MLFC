@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/72899847/pixel-3-xl-stuck-in-pixel-is-starting-after-ota-11-update?hl=en",
-    "title": "Pixel 3 XL stuck in \"Pixel is starting..\" after OTA 11 update",
-    "content": "I just got the update to Android 11 on my Pixel 3 XL. It was a joyful moment. But only until the reboot happened. Ever since the phone is stuck in \"Pixel is booting...\" after entering the SIM Pin.\n\nI tried waiting it out for about 2 hours, then rebootet, no change.\nI then tried to sideload the ota image in revovery mode. It went through succesfully but after the reboot.. Again stuck at \"Pixel is starting...\"\nI can still open the settings on the phone. But nothing more. So, what are my chances to fix this without factory reset? The beloved 2FA Apps don't like those resets.. :/\n\nthanks in advance",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3 XL",
-    "post_time": "2020-09-23T23:00:26.997957+00:00",
-    "reply": "3 Replies"
-}

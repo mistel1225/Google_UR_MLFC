@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/109296570/faulty-offline-google-assistant?hl=en",
-    "title": "Faulty Offline Google Assistant",
-    "content": "Before, I can do offline google assistant commands (\"open camera app,\" \"send SMS to _\", \"start voice recording\", etc).\n\nNow, I cannot do offline google assistant commands anymore. I have checked online for solutions. The most common one is download \"English (US)\" for the Offline Voice Recognition and it should work.\n\nI have done so, it didn't work. I have uninstalled and reinstalled the language; it still didn't work. I have attached a screenvid for reference.\n\nGoogle team, please help me with this. I think Google is advance enough to offer bug fixes WITHOUT doing a system-wide reset. I do not want to do a reset.\n\nThanks",
-    "is_img": 1,
-    "category": "Google Assistant and Voice Actions, Google Pixel 4",
-    "post_time": "2021-05-10T09:24:48.261233+00:00",
-    "reply": "2 Replies"
-}

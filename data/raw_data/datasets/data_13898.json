@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/73254879/ccleaner-malfunctioning?hl=en",
-    "title": "CCleaner malfunctioning",
-    "content": "I just updated to Android 11. The response to trying to use CCleaner:\n\"Deep Clean\nAndroid 11 user, we need your permission to clean 1.56 MB more of junk files. It is entirely safe.\nNOT NOW....ENABLE\"\n\nClicking ENABLE brings up \"Accessibility\" menu. CCleaner is on the list, saying, \"Not working. Tap for info.\" Tapping the icon results in \"This service is malfunctioning.\" \n1. I am not interested in any response that includes that I cannot use CCleaner anymore.\n2. No, this is not my fault. All I did was allow the upgrade to Android 11.\n3. If there is no way to get this to work, then I want to know how to revert to the previous version of Android.",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3a XL",
-    "post_time": "2020-09-25T18:01:26.672629+00:00",
-    "reply": "3 Replies"
-}

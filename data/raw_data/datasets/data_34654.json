@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/1571678/android-log-is-not-being-stored?hl=en",
-    "title": "+Android Log is not being stored.",
-    "content": "Android Log is not saved properly. \n\nI have connected the pixel 3 XL and tried to download the Android Log from the phone. \nIt skipped many logs. \n\nFor example.\n02-11 08:29:59.585  1174  1914 W ActivityManager: Background start not allowed: service Intent { cmp=com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionExecutorImpl$EmptyService } to com.google.android.apps.messaging/.shared.datamodel.action.execution.ActionExecutorImpl$EmptyService from pid=30105 uid=10113 pkg=com.google.android.apps.messaging startFg?=false\n02-11 08:30:18.895  1174  1206 E BatteryExternalStatsWorker: no controller energy info supplied for wifi\n\n02-11 08:30:22.550  1174  1236 I EntropyMixer: Writing entropy...\n02-11 08:30:30.000  1174  1202 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.DROPBOX_ENTRY_ADDED flg=0x10 (has extras) } to com.google.android.gms/.stats.service.DropBoxEntryAddedReceiver\n\n\nIt didn't log for 20 and 8 seconds. \nSome of the valuable information for my application or the system log should be during the time as the application crashed during the time. However, the pixel skips all of them. \n\nI am not sure it is related to the policy in Pixel 3 or Android 9.\n\nDoes anyone know why this happened?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3 XL",
-    "post_time": "2019-02-10T22:54:15.919469+00:00",
-    "reply": "0 Replies"
-}

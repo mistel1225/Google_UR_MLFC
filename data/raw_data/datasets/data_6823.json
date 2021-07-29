@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/98039090/pixel-3-stuck-in-verbosity-and-airplane-mode?hl=en",
-    "title": "Pixel 3 stuck in verbosity and airplane mode",
-    "content": "My pixel went into verbosity and airplane mode, and nothing works.  I have powered it down, but it always comes back stuck in airplane and verbosity.\n\nI have also rebooted in safe mode which doesn't seem to help.  If I could get it out airplane mode, I could ask google to shut of verbosity or if I could get out of verbosity I could scroll settings.\n\nI got it fixed.  Turns out  that it is \"Talk Back\" that was on.   I used two fingers split apart, and was able to scroll, then double tapped to turn off talk back.  Once that was off I could turn off airplane mode.  Still don't know how those turned on in the first place.  It was not the first time that Talk Back turned on on its own.  Also I have had the flashlight turn on spontaneously.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2021-02-14T04:54:40.065314+00:00",
-    "reply": "1 Reply"
-}

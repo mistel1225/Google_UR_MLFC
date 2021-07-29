@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/49797649/how-to-determine-which-app-is-crippling-performance-when-charger-connected?hl=en",
-    "title": "How to determine which app is crippling performance when charger connected",
-    "content": "Anytime I've been using my phone for too long without charging it, when I finally plug it into charge, it suffers from extreme lag and unresponsiveness for anywhere from a couple minutes to maybe 10 minutes or more. It's so bad it's literally unusable.\n\nFrom reading other posts about this, I saw it suggested that I try connecting the charger when in safe mode. I'm assuming it would be fine then, and that there's some app or perhaps a few apps that are causing this extreme lag. But my question is, how can I figure out which app is doing it?\n\nI have way too many apps installed to make it feasible to go through disabling or uninstalling them one at a time to try and figure out which one is the culprit. So hopefully there's some sort of system resource monitor or other tool that might help figure it out much more quickly and easily.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 2",
-    "post_time": "2020-05-29T00:49:46.387878+00:00",
-    "reply": "4 Replies"
-}

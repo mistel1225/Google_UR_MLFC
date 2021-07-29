@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/74237952/how-do-i-sideload-ota-updates-that-are-older-than-my-current-build?hl=en",
-    "title": "How do I sideload OTA updates that are older than my current build?",
-    "content": "Followed the instructions on https://developers.google.com/android/ota but the installation fails after the OTA image has been served and verified. It says something to the effect of \"The package is too old, can not install\". Which is ridiculous. This is some apple level forcefulness.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3a",
-    "post_time": "2020-10-01T01:24:24.606174+00:00",
-    "reply": "1 Recommended Answer"
-}

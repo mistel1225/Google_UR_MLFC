@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/80274543/turn-off-my-tv-doesn-t-work-on-pixel5?hl=en",
-    "title": "\"Turn off my tv\" doesn't work on Pixel5",
-    "content": "https://support.google.com/chromecast/answer/7498991 indicates that users should be able to use the phrase \"Turn off the tv\" or \"Turn off living room tv\" to signal the Chromecast Ultra (in my case) to issues CEC power commands to my TV.\n\nWorks perfectly on my Pixel 2.\nFails completely with my Pixel 5. The assistant's response is \"Sorry, I don't understand.\"\n\nGoogle Home App version = 2.30.1.17 on both devices.\nGoogle App version = 11.34.7.23.arm64 on Pixel2 and 11.34.7.29.arm64 on Pixel5.\nAndroid build = RP1A.201005.004 on Pixel2 and RD1A.200810.021.A1 on Pixel5.\n\nI've tried contacting Google Support but none of the teams know who is responsible and I gave up after 10+ agents and ~ 2 hours.\n\nSurely the Pixel5 doesn't ship with a less capable assistant than my ageing Pixel2?",
-    "is_img": 0,
-    "category": "Google Assistant and Voice Actions, Google Pixel 5",
-    "post_time": "2020-11-01T01:03:52.078649+00:00",
-    "reply": "1 Recommended Answer"
-}

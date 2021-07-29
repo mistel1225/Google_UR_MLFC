@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/14779036/app-in-play-store-associated-to-wrong-account?hl=en",
-    "title": "App in Play Store associated to wrong account",
-    "content": "I have two Google Accounts on my device. One (account A) is used for all of my Google services like Google Pay, Duo, Play Store apps, etc. The other (account B) is mainly just used for email. Somehow the Android System Webview system app is showing in the Play Store as associated to account B. I want this to be associated to Account A like all of my other apps but am not sure how to do so. I tried uninstalling updates and reinstalling (I'm by default signed into the Play Store with Account A) but this did not work. I left and re-joined the beta program for it under Account A but this didn't fix the problem either. Is there a way to disassociate this app with Account B? \n\nThis is what I see in the Play Store when I go to the app. I tried signing into the Play Store with account B as it says but that didn't work either because I'm on the beta for this app and all of my other apps that I'm on a beta for with Account A. I don't want Account B associated with anything like this because I use it just for email.",
-    "is_img": 1,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-09-19T14:06:13.354524+00:00",
-    "reply": "3 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/15164392/pixel-1-and-problems-with-android-10?hl=en",
-    "title": "Pixel 1 and problems with Android 10",
-    "content": "So after updating my good old Pixel 1 to Android Q, I started suffering the following issues:\n1. Google Play Music goes mute: \nApp stops playing randomly, even though the screen shows the track playing (progress bar, time duration etc on the screen keep getting updated). \nTypically happens when you press the home button. All audio lost, but resumes playing on the next track automatically after a bit. \nProblem persists if you switch between apps. \n\n*App is up-to-date*\n\nHad found a similar issue here, but seems to be not available anymore: https://support.google.com/pixelphone/thread/15096243?hl=en \n2. Google apps freeze:\nTime to time, all apps freeze randomly. Google apps as well as others. I am assuming that third party apps may release fix/updates to support A10. \nYoutube, in particular, stop playing, even as the progress bar moves on. Then after some duration, it starts playing again. *App is up-to-date. \nFace the same issue with Chrome. Screen freezes. Try to go back or go to home and open Chrome again to get it to work. App is up-to-date.\nPlay store had a similar issue. FWIW, the issue resolved after updating to the latest version. \n3. Battery Life:\nDrastically reduced from what it was before the update. The dark theme is disabled. \n\nLet me know if any of you have come across similar issues, and if yes, what worked to resolve these.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel",
-    "post_time": "2019-09-24T07:36:38.084564+00:00",
-    "reply": "38 Replies"
-}

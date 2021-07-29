@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/107101341/hello-some-mp3-files-show-incorrect-length-e-g-a-3-minute-song-will-show-28-minutes?hl=en",
-    "title": "Hello, some MP3 files show incorrect length, e. g: a 3 minute song will show 28 minutes.",
-    "content": "A 3 minute MP3 file will show as 28 minutes on the Google Files APP. It will happen only on some MP3 files. After the song is over it will play silence for the remaining time, this case 25 minutes.  Trying to skip part of the song will also be buggy. I think it has to due it VBR, variable bit rate. But how do I fix it?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 4a",
-    "post_time": "2021-04-22T06:52:12.821713+00:00",
-    "reply": "0 Replies"
-}

@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/90141849/location-history-or-activity-detection-broken?hl=en",
-    "title": "Location History or Activity detection broken?",
-    "content": "Hi fellow Pixel users.\n\nSince a few days the Location History only takes samples with big gaps in between. Which causes it to miss walks and runs completely. I also try to force location requests using a gps logger which itself uses the (physical) activity detection and Google Fit with enabled location tracking. This worked fine until recently, but also stopped working. So I would assume the activity detection does no longer work?\n\nAnybody notices a similar change? Thanks!",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2020-12-23T18:20:21.396056+00:00",
-    "reply": "0 Replies"
-}

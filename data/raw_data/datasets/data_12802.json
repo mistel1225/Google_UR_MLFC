@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/80747703/auto-rotation-bug?hl=en",
-    "title": "auto rotation bug",
-    "content": "i just noticed, sometimes when after playing games which need landscape orientation then go to the home screen or something apps, the bottom gesture icon is still in landscape orientation (gesture with no navigation menu). The whole menu screen is changes into potrait mode but no with gesture icon. So when i touch something on top right corner (potrait), theres no response. I must to ensure the icon bottom gesture is change into potrait mode.\n\nthe status bar sometimes show up and cant be hide when playing games.\n\nits happend on my pixel 3 with Android 11 November Update.\n\nThank you.",
-    "is_img": 0,
-    "category": "Device Performance, Google Pixel 3",
-    "post_time": "2020-11-03T15:15:53.157134+00:00",
-    "reply": "0 Replies"
-}

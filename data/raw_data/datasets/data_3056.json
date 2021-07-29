@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/107051255/network-connectivity-after-security-patch?hl=en",
-    "title": "Network connectivity after security patch",
-    "content": "After applying the April 2021 security patch my phone (4a 5g on Tmobile) constantly disconnects and reconnects to the mobile network. Data seems to work fine, and texts are almost fine but there is some delay, but 90% of my inbound calls go straight to voicemail and I am unable to make outbound calls due to \"Network unavailable\"\nRebooting the phone seems to fix it for a few minutes, but then issues return. Factory reset did not help at all.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a (5G)",
-    "post_time": "2021-04-21T19:20:10.309185+00:00",
-    "reply": "3 Replies"
-}

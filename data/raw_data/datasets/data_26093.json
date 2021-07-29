@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/20826971/how-to-remove-microphone-permissions-from-google-play?hl=en",
-    "title": "How to remove microphone permissions from Google Play?",
-    "content": "Prior to an update within the last 24 hours, I had microphone permissions turned off for several apps, including Google Play. Last night after some type of update, I started getting an error message any time I did anything in text messages that I needed to grant messages permission to work properly (specifically, it wanted the microphone back on). However, when I clicked in the error message, it took me to the permissions for Google Play. In order to stop the obnoxious and frequent error messages, I gave it permission, thinking I could turn it back off once I'd figured out how to stop the error messages. Unfortunately, when I now go into app permissions for Google Play, there is no longer an option to turn off the microphone. I'd love some ideas on how to go about it. Since it basically forced me into turning it back on, it's clearly being used, yet I have no control over it?! Seems like a massive privacy concern....",
-    "is_img": 0,
-    "category": "Other, Google Pixel 3",
-    "post_time": "2019-11-22T16:07:14.23279+00:00",
-    "reply": "2 Replies"
-}

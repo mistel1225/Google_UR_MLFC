@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/15152255/can-t-connect-to-wifi-on-google-pixel-gen-1?hl=en",
-    "title": "Can't connect to Wifi on Google Pixel (Gen 1)",
-    "content": "I recently bought a Google pixel which seemed to be working fine. I connected to wifi and updated the phone to Android 10. Now when I try to connect to wifi, it says \"saved\" but can't actually connect. Other devices (including a Pixel 2, Android 10) can connect to the same network without issues. \n\nRemoving and re-adding the wifi access point didn't work\n\nConnecting to two different wifi networks didn't work\n\nRestarting in safe mode didn't work. But restarting again in normal mode looked like the device could connect to the wifi for a short while (~2 minutes) and then went back to the same state.\n\nI reset the device back to factory settings, the issue still persists. \n\nI'm willing to install an OTA/previous version of Android to see if that helps, but I think the device is OEM locked, and I couldn't figure out how to turn it off.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel",
-    "post_time": "2019-09-24T03:30:19.391961+00:00",
-    "reply": "2 Recommended Answers"
-}

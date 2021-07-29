@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/79771646/pixel-4-is-not-automatically-switch-between-access-points-with-tp-link-deco-mesh-system?hl=en",
-    "title": "Pixel 4 is not automatically switch between access points (with TP-Link Deco Mesh System)",
-    "content": "My Pixel 4 is not automatically switch between access points when connected to Mesh network. I'm using TP-Link Deco, and Pixel 4 is the only device which stays on the connected access point even if there are stronger signal strenghts on different access points.\n\nI've tested iPhone, and that switches to the strongest signal providing AP, almost instantly. As well as HP, windows 10 laptop, and an iPad.\n\nI've seen other threads where other Pixel devices have the same problem, so I'm not sure whether it is a Pixel problem or an Android problem.\n\nI have already enabled DMZ to prevent Double NAT, but it didn't help. As well as enabling Fast Roaming in Deco devices.\n\nAndroid / Pixel developers please solve this issue.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
-    "post_time": "2020-10-29T10:19:35.870896+00:00",
-    "reply": "0 Replies"
-}

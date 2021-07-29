@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/111029452/pixel-4a-locked-while-updating-android-12-beta?hl=en",
-    "title": "Pixel 4a locked while updating android 12 beta",
-    "content": "Recommended Answer \nI enrolled for android beta program and received an ota update for Android 12 developer preview on my pixel 4a. After download and installation of update I restarted my phone. After Google logo screen when phone got on lock screen display started flickering and phone again restarted. But on restart it went directly to recovery mode and asked for factory reset because of some corrupt files, which I did. However after factory reset, a padlock appeared on upper left hand corner and it asked for the pin verification. I entered the pin and setup prompted for copying from an older device but as I use single device I chose \"don't copy\" option but setup looped back to pin verification screen. It never showed the account login screen however I tried. Please help???",
-    "is_img": 1,
-    "category": "Other, Google Pixel 4a",
-    "post_time": "2021-05-24T15:50:08.897129+00:00",
-    "reply": "2 Replies"
-}

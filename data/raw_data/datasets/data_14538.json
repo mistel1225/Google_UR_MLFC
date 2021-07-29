@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/75339216/gesture-navigation-active-apps-swipe-up-not-reliably-working-android-11?hl=en",
-    "title": "Gesture Navigation Active Apps Swipe-up Not Reliably Working, Android 11",
-    "content": "I am using gesture navigation (not two or three button), and since I switched to Android 11 I have noticed that the active apps carousel does not reliably work. When I slow/partial pull up from the bottom edge of the screen while in an app, it simply returns to my home screen (rather than showing the active apps). While I am on the home screen and pull up, nothing happens (which is correct with no apps open, but I know that several are open). The normal procedure for viewing all apps (pull up from the middle of the home screen) works fine. Restarting my phone seems to fix the issue, but I would prefer it not to be a problem in the first place.\nI used gesture navigation with Android 10 and it always worked smoothly. I noticed the slight change in how gesture navigation works between the two Android versions (personally, I liked the 10 version better) but this issue is not that.",
-    "is_img": 0,
-    "category": "Setting up and Personalizing your Device, Google Pixel 3a",
-    "post_time": "2020-10-06T22:31:45.571063+00:00",
-    "reply": "8 Replies"
-}

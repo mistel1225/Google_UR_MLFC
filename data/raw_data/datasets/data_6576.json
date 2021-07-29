@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/88342530/pixel-3a-on-red-pocket-can-t-enable-wifi-calling?hl=en",
-    "title": "Pixel 3a on Red Pocket can't enable WiFi Calling",
-    "content": "My Pixel 3a (factory unlocked) is running Android 11, all current updates applied.\n\nMy carrier, Red Pocket, has provisioned VoLTE and WiFi calling on my account, but the options for WiFi Calling never show up in settings where they should.  Looking at phone info (*#*#4363#*#*), VoLTE is greyed out and not able to be enabled.  IMS status is \"unregistered\".\n\nIf I move the SIM to another unlocked phone, I can get WiFi calling.  If I take a SIM with WiFi calling from another device and put it in the Pixel 3a, the same problem occurs (above).\n\nIt sure seems to be something on my Pixel 3a that isn't getting enabled properly.  Anyone have ideas, please?",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
-    "post_time": "2020-12-13T01:26:37.454318+00:00",
-    "reply": "8 Replies"
-}

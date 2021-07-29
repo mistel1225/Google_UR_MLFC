@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/3873847/boot-loop-after-installing-the-april-security-update-on-pixel-2-xl?hl=en",
-    "title": "Boot loop after installing the April security update on Pixel 2 XL",
-    "content": "The April security update prompted me to restart my phone.  My Pixel 2 XL then went into a boot loop that Ive been unable to fix.\n\nMy phone will flash the white google splash screen before rebooting.  This screen is show multiple times before an error message stating \"Can't find valid operating system.  The device will now restart\". \n\nRecovery mode is also not working.\n\nError: ID: c382b665\n\nAny suggestions?",
-    "is_img": 0,
-    "category": "Other, Google Pixel 2",
-    "post_time": "2019-04-09T18:39:41.283176+00:00",
-    "reply": "1 Recommended Answer"
-}

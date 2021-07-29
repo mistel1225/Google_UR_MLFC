@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/85112243/pixel-automatically-disconnects-from-captive-login-wifi-before-i-have-time-to-log-in?hl=en",
-    "title": "Pixel automatically disconnects from captive login wifi before I have time to log in",
-    "content": "New Pixel 5 and Google Fi.  Can't connect to WiFi network with captive login. \n\nThe prompt will (sometimes) open, but it will quickly close again before I can even start typing. It seems this is due to the Pixel automatically disconnecting from the network. \n\nI'm guessing it has to do with the Wifi Assistant thing seeing the network as not having internet and thus disconnecting, but this shouldn't happen with captive login networks, right? I tried finding out how to disable the assistant, but the option for it doesn't appear in any of the recommendations. I don't know if this has to do with it being the new Pixel or being on Google Fi or what. \n\nAnyone know how to connect via a captive login network? It's the only wifi I have available at the moment.",
-    "is_img": 0,
-    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
-    "post_time": "2020-11-24T23:05:37.432741+00:00",
-    "reply": "0 Replies"
-}

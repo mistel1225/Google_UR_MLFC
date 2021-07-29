@@ -1,9 +1,0 @@
-{
-    "url": "https://support.google.com/pixelphone/thread/101683201/pixel-4-wireless-charging-percentage-issues?hl=en",
-    "title": "Pixel 4 wireless charging percentage issues",
-    "content": "I've noticed an issue with my Pixel 4 that other people have described but there doesn't seem to be a fix. If I charge my phone wirelessly above about 80% the battery percentage will jump to a higher number. For example it will jump from like 82% to 89% after taking it off the charger. Restarting the phone will reset it to the correct number of 82%. Also after a full charge the phone will hang at 100% but restarting it will also reset it to the correct 93% or 94% after using it for a little while. It's very annoying to have to constantly restart the phone to get an accurate battery reading. Apparently the March patch fixed this bug in 4a and 5 phones but I am still having this issue with my Pixel 4.",
-    "is_img": 0,
-    "category": "Battery and Power, Google Pixel 4",
-    "post_time": "2021-03-11T00:48:11.669199+00:00",
-    "reply": "1 Reply"
-}
