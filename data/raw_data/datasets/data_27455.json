@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/16582588/lower-half-of-pixel-3-screen-flashes-white-when-transitioning-to-from-ambient-display?hl=en",
+    "title": "Lower half of Pixel 3 screen flashes white when transitioning to/from Ambient Display",
+    "content": "Today after an OTA update (dated October 5, build number QP1A.191005.007) my screen began flashing bright white on the lower half whenever pressing the power button to lock or when waking the phone from the ambient display. This issue seems to be related solely to the ambient display function; after disabling this feature the white flash no longer occurs. I was unable to trigger this in any other way.\n\nI have tried hard resetting the phone as well as safe mode; the issue was present after trying both. I'm hesitant to try a factory reset at this point, as I know there have been similar bugs with the ambient display in the past.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-10-11T19:04:27.542633+00:00",
+    "reply": "1 Recommended Answer"
+}

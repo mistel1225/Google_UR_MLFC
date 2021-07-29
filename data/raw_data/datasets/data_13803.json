@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/78255116/bluetooth-not-work-with-car-kit-land-rover?hl=en",
+    "title": "Bluetooth not work with Car kit Land Rover",
+    "content": "Carkit bluetooth disconnetion cause due PBAP profile.\n\nThe pairing works fine with all AVRCP profile (1.3 to 1.6)\n\nMusic and calls works fine except when the carkit try to sync the contact list and/or call list. \n\nDuring this event (casul interrupt) the bluetooth of the car switches off and on again and if you are calling the mobile phone switch audio to telephone for 5/10 seconds until bluetooth reconnects or if you are lisening spotify the car audio switches to radio mode.  \n\nI have tried: repairing with all AVRCP profile, mobile hard reset, safety mod but nothing.\n\nWith Android 10 I fix the problem with thried party application \"Phonebook Bluetooth of andorid-rsap.com Martin Gerczuk\", that fix the PBAP incompatibility from Google Pixel and carkit.\n\nWith Android 11 \"Phonebook Bluetooth app\" crash when the bluetooth of the mobile phone switch on. I tried to change all permission but nothing.\n\nWith the iPhone Xs, iPhone 6 and with Huawei Android 8  all work great, so the problem is software.\n\nPlease solve it",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2020-10-21T09:36:26.219844+00:00",
+    "reply": "0 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/12980869/pixel-3a-xl-goes-in-and-out-of-charging?hl=en",
+    "title": "Pixel 3a XL goes in and out of charging",
+    "content": "When I plug in cable, the phone takes about 5-8 seconds and only then start charging.\n\nBehaviour with stock charger brick is different:\nWhen I plug it in, the phone takes 3-5 second and then claims it is charging. But then a few seconds later, the charging symbol will disappear to state that it is not charging. But then if I wait a few seconds more, it goes into charging mode again. Fast charging not working (\"fast charging\" message do not appear on screen)\n\nPreviously,\nconnection detection have taked 1sec (approximately) and stock charger brick works normally.\n\nI have tried many variants: nexus 5x charger brick, stock charger brick, connection to PC. Slow charging detection is reproduced with all of them. In/out of charging appears only with stock charger.\nI have tried factory reset, updating to Android Q: nothing had help me.",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 3a XL",
+    "post_time": "2019-08-27T22:41:59.814797+00:00",
+    "reply": "1 Recommended Answer"
+}

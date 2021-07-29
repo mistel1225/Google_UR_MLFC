@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/98885777/feature-request?hl=en",
+    "title": "Feature Request",
+    "content": "I'm running the Pixel Launcher on Android 11 on a Pixel 3. I've tried other launchers but keep coming back to the stock launcher because I just love the overall feel of it.\n\nBut it is so bare-bones with such limited options for any sort of customization, it could definitely be improved. I suggest you consider the Lawnchair Launcher, which is open source but which is on the verge of going defunct because of a lack of support. You could mine it for gold in the form of features.\n\nSome things that would be awesome:\n\n - The ability to arrange the home pages, and to set our own default page rather than being locked in to the farthest left page as the default. For example, I prefer the center page to be my default, making for shorter travel back and forth to the extremes, and because so many wallpapers are center-weighted, they look weird when you default to the farthest left page and cause the wallpaper to scroll to the right.\n\n- Make the placement of the At-a-Glance widget optional. Currently, it takes up real estate at the top of the default page, with no way to move it or remove it.\n\n- The ability to set an action for sliding your finger up or down on an icon, rather than just opening when tapping on it. This is a great option for (for example) quick access to the most frequently used app in a folder.\n\n- The ability to hide apps in the app drawer. This is nice in the case of apps that bring premium features to other apps, but don't really do anything unto themselves. We may need to have them resident on the phone, but it's nice to not have them cluttering things up if we don't actually use them.",
+    "is_img": 0,
+    "category": "Homescreen and Launcher, Google Pixel 3",
+    "post_time": "2021-02-19T20:24:18.098732+00:00",
+    "reply": "1 Reply"
+}

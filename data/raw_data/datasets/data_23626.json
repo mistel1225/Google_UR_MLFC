@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2039908/usc-c-port-wired-audio-cuts-out-when-bumped-or-moved?hl=en",
+    "title": "USC-c port wired audio cuts out when bumped or moved.",
+    "content": "My USB-C to 3.5 mm audio adapters don't work well - audio often cuts out. To fix this, I've bought cord protectors, and finally purchased USB-c headphones from the Google Store. \n\nUnfortunately the USB-c headphones have the same problem as the audio adapters (even worse), and they disconnect/pause audio at very minor movements. I think this may be a USB-c port issue with the phone, however, the phone charges fine, and if there isn't movement, the audio remains connected.  I've tried cleaning the USB-c port on the phone but the issue persists. \n\nIt would be rad if there was an OS fix that identified these slight movements as not a full disconnect, and didn't pause audio. Are there any other potential fixes? I really prefer to have wired headphones rather than use bluetooth ones.\n\nThanks for your help! \n\nNate \nPortland, OR \nhttps://twitter.com/oakfive",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-03-04T18:30:10.525532+00:00",
+    "reply": "1 Recommended Answer"
+}

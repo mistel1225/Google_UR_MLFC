@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/29088905/pixel-3xl-becomes-non-responsive-and-needs-long-press-on-power-button-to-reboot?hl=en",
+    "title": "Pixel 3XL becomes non-responsive and needs long-press on power button to reboot",
+    "content": "The Pixel 3XL will become non-responsive to any unlock attempt (fingerprint sensor, power button, double-tap). It does not ring if it is called while in this state, calls go straight to Voicemail, no notification sounds from instant messaging applications, etc.\n\nThe only way to bring it back is to hold down the power button for 10 seconds and let it reboot.\n\nI've tried running it in Safe Mode and the same issue occurs.\n\nI've tried grabbing bug reports after reboot but there's nothing obviously wrong there, I can see that it rebooted because of the long-press, but that's it.\n\nI have not done a Factory Reset, and I'd rather not if at all possible as there's a bunch of app state that I'm going to lose if I do that.\n\nThis is a phone I ordered back in 2018 so no warranty/returns.\n\nAny suggestions?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3 XL",
+    "post_time": "2020-02-18T15:33:14.305064+00:00",
+    "reply": "2 Replies"
+}

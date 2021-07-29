@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/14906665/my-pixel-2-cant-boot-on-and-cant-access-fastboot?hl=en",
+    "title": "My Pixel 2 Cant Boot On and Cant Access Fastboot",
+    "content": "Before, I use Android 10 and because somenof my app get fc, I try to flash Android Pie factory image. This is not my first time flashing android phone and pixel phone. I run success before. When I flash this Pie Rom, i read it say cant unpacked sistem img because to large. Modem and the others is flashed with success.\n\nAfter that my phone stuck at fastboot mode with slot unbootable. In this state, I try to flash it again and made it detected on my pc. So I flashed it again and boom, my phone cant boot. It still can charged. So I think the problem is google factory image is so critical and play with fastboot area in pixel phone. This is we didnt see at other phone. \n\nSo what I can do to fix my phone Google? ",
+    "is_img": 1,
+    "category": "Battery and Power, Google Pixel 2",
+    "post_time": "2019-09-21T01:36:54.999537+00:00",
+    "reply": "3 Replies"
+}

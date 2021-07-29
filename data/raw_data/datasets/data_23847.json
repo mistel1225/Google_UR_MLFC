@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/27054266/fix-for-twitter-video-and-photos-not-loading-unless-wifi-disabled?hl=en",
+    "title": "FIX for Twitter video and photos not loading unless wifi disabled.",
+    "content": "Changed home router MTU setting from Auto to Manual. Default size 1500.\n\nHTH",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2020-01-29T13:08:12.648149+00:00",
+    "reply": "0 Replies"
+}

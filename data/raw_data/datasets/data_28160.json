@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/13766287/how-can-i-remove-ads-that-have-started-appearing-on-my-pixel-2-xl?hl=en",
+    "title": "How can I remove ads that have started appearing on my Pixel 2 XL?",
+    "content": "I recently received a replacement phone from Google, a Pixel 2 XL.  Immediately after copying my old phone, I began getting full screen ads and randomly when I unlock my phone I get redirected to a website. I did not have this issue on my original Pixel 2 XL. \n\nI have developer mode enabled and the only running service that I can see that isn't a Google process or related to an app that I installed is something called fr.studio.cracky.switcher4g. That process also includes something called kinetophoneflyspeckservice. I don't have a 4g switcher app installed - I didn't even know such a thing existed until today. I've 'stopped' the process three times today, but the ads haven't stopped (and the app is persistent).\n\nI do not have any sideloaded apps on my phone. It seems that every site I've search suggests that it's coming from a 3rd party app, or tells me to adjust my chrome settings. I've tried checking the last app used immediately after closing the ad, but the only thing there is Pixel Launcher. I've also tried using the recents button, but there's nothing there other than the apps I knew I was using. \n\nThis is really frustrating and I would appreciate any insight.\n\nThanks",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-09-07T01:32:39.062109+00:00",
+    "reply": "5 Replies"
+}

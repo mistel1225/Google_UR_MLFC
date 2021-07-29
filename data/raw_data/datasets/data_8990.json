@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/92125968/voice-match-inoperable-on-pixel-5?hl=en",
+    "title": "Voice Match Inoperable on Pixel 5",
+    "content": "I am unable to voice activate the google assistant using the activation phrases. I can see that my \"Hey Google\" feature under \"Voice Match\" in the assistant settings is in the \"off\" position, and I cannot complete the setup process because the phone does not pick up my voice when I attempt to train it; on the voice training screen, I can see that the phone is listening but it does not respond to my input. In every other scenario, the google assistant hears my voice when I activate it manually, so I know that the microphone is working as designed.\n\nI have tried disabling \"Adaptive Battery\", and I have tried downloading the latest version of the Google application. Also, I installed the January 2021 update that was sent out. I have tried clearing the cache for the Google application, but I have not tried clearing the storage.\n\nSoftware version details: \n\nPhone - Android 11; Security update 05 January 2021\nGoogle Application - 11.41.10.29.arm64",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 5",
+    "post_time": "2021-01-05T16:36:06.697141+00:00",
+    "reply": "4 Replies"
+}

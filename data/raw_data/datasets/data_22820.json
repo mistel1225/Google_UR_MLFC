@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2739948/pixel-3-weather-widget-unable-to-add-new-location-to-existing-list?hl=en",
+    "title": "Pixel 3 weather widget - unable to add new location to existing list",
+    "content": "Here is the issue I'm trying to fix on my pixel 3 running Android 9 build number PQ2A.19035.002\nsearch and open a new location in the weather widget\nclick on the \"ADD\" link in the \"add this location to you list\" message.\n\"location add\" message gets displayed and the widget goes back to your current location.\ncheck your list of saved location - the new location is not there....\nuninstalling google app updates, rebooting, re-installing updates did not fx the issue.\nclearing the application cache, did not the fix the issue.",
+    "is_img": 0,
+    "category": "Homescreen and Launcher, Google Pixel 3",
+    "post_time": "2019-03-20T18:36:40.741579+00:00",
+    "reply": "11 Replies"
+}

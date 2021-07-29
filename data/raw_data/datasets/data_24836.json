@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/23612671/pixel-3-home-app-very-slow-to-respond-to-button-press?hl=en",
+    "title": "Pixel 3 Home App very slow to respond to button press",
+    "content": "I have several Hue lights, some Wemo switches, Harmony hub, Nest thermostat.  When trying to control the devices directly through the Home App on my Pixel 3, it may take 2-3 minutes to turn a light on.  Voice commands work instantly, as do the individual apps (Hue, Wemo, etc.).  Only when pushing the \"ON\" or \"OFF\" button from the Home App do I see this delay.  \n\nFor instance, I can say \"Turn on my dining room lights\", and they will come on instantly.  I can turn them on instantly from the Hue app.  But if I go to Dining Room in the Home App and just press \"ON\", I can set the phone down and go about my business, and the lights may come on several minutes later.\n\nYesterday reset the phone.  I only put back on the apps necessary to to control the devices.  Same issue.  Any thoughts on where this delay may be coming from, and why it only seems to affect the Home app?\n\nThanks for any info on this!\n\nD",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 3",
+    "post_time": "2019-12-23T11:58:36.28917+00:00",
+    "reply": "1 Reply"
+}

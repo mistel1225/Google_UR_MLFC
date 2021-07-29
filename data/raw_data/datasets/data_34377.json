@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1635665/google-pixel-xl-128-losts-wifi-freezes-reboots-wifi-switch-do-not-switch-on-bt-crashes-randomly?hl=en",
+    "title": "Google Pixel XL 128 losts wifi, freezes, reboots, wifi switch do not switch on, bt crashes randomly",
+    "content": "Got Pixel XL 128. At 7th of February i was waiting for feb security update, while my phone got freezed and rebooted. Wi-fi switcher has no ON state anymore. After 2 or 3 random reboots in couple hours I surprised a lot - it was first phone reboot situation for the year of it being mine.\nI started phone, using LTE got feb update, wishing it to fix the problem, installed update. Nothing changed.\nSearching the community and help center i did:\n1. Reboot - did not work;\n2. Safe mode - did not work, no wifi ON state;\n3. Soft reset (10 sec power btn) - did not work;\n4. Factory reset with restore to backuped settings - did not work, losts wi-fi in couple minutes;\n5. Factory reset with no restore, 'as new' - did not work;\n6. Factory reset with reboot - no apps installed at all - losts wifi, did not work;\n7. Feb, Jan, Dec factory images adb flashed - losts wifi, did not work;\n8. Set dns to off, no adGuard installed at all - nothing changed;\nWhat symptoms do I have now?\n1. Entering 'the situation' (the same after factory reset): wpa2 wifi disconnects after couple minutes of being connected, 10-15 seconds more phone work, freeze, reboot\n2. Wi-fi switch is not turning ON\n3. BT crashes\n4. Fast charging is not working\n5. Random reboots\nJust for information, i havent had the adGuard, no special dns used, i suppose it was set to automatic when it all started. \nIve seen several posts with alike problems, but no solution found.\nWhat a big pity, have to use another phone :(",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel",
+    "post_time": "2019-02-14T08:02:31.611058+00:00",
+    "reply": "3 Replies"
+}

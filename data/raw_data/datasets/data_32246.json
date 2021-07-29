@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3663502/pixel-2-xl-screen-flashing-constantly-due-to-brightness?hl=en",
+    "title": "Pixel 2 XL Screen Flashing Constantly Due to Brightness?",
+    "content": "My Pixel 2 XL has basically become unusable with adaptive brightness turned on. If I turn off adaptive brightness (which was a joy to try and get to when the screen is basically a white blob), I have to leave the brightness at 90% or greater to keep it from flickering. Even then, when the phone slightly dims when getting ready to sleep / lock, it goes back in blinding white flashing on the screen and blocks out the entire screen such that it's impossible to try and fix. Leaving the screen on 90-100% brightness all the time makes the phone incredibly hot and clearly destroys the battery life\n\nI have tried the following and have seen no improvement (no root, no special mods, no screen protectors):\nRebooting numerous times (no effect)\nPerformed all of the steps on the trouble shooting page (no effect)\nClearing the data / cache on the \"Settings\" application (no effect)\nEnsuring that \"Developer Options\" are turned off\nRebooting the device into Safe Mode (still flashes)\nRebooting the device into Fastboot (still flashes)\nRebooting the device into Recovery (still flashes)\nApplying latest software update via OTA sideload (non-root, still flashes)\n\nAnyone have any ideas?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-04-06T02:57:39.886305+00:00",
+    "reply": "5 Replies"
+}

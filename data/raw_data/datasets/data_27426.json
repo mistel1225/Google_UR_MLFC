@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/16562153/suddently-my-download-manager-and-media-process-apps-system-start-crashing-every-time-on-pixel-xl1?hl=en",
+    "title": "suddently my download manager and media.process.apps (system) start crashing every time on pixel XL1",
+    "content": "I have a very strange behavior, I think after upgrading to android 10 ( to be honest I don't know the action that made this problem) ,when for example opening google play store and downloading an application the download manager crash and it's playstore close. when opening the photos app, media.process crash. When downloading stuff on chrome, Download manager crash, when doing nothing download manager and media.process.apps crash, I m forced to disabled  both. I tried:\n\n- Reboot in safe mode -> same problem ( so it's not a downloaded APP)\n- Clear cache and data for both process\n- Reinstall the phone is not an option for now I want to solve the problem.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2019-10-11T14:22:47.972432+00:00",
+    "reply": "1 Recommended Answer"
+}

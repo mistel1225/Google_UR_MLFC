@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/92429131/pixel-3a-lost-the-connection-with-my-pc-when-i-tried-to-fastboot-unlock-that?hl=en",
+    "title": "Pixel 3a lost the connection with my pc, when I tried to fastboot unlock that",
+    "content": "I tried to fastboot unlock my pixel 3a, because I would like to install android 9.0. We build apps, so we would like to test that with different os.\n\nCurrently the phone has android 11 os.\nSo I did the unlocking manual steps: https://source.android.com/setup/build/running#booting-into-fastboot-mode\n\nI saw a lot of different article and videos, but when I would like to use the \"fastboot flashing unlock\" command, my device didn't recognized the connectivity with my computer.\n\nSo here is the command list what I did:\n- Download the platform-tools\n- call platform-tools>adb devices\nList of devices attached\n03QAYV2EFH      device\n- call the platform-tools>adb reboot bootloader command\n- after that the phone went to fastboot mode\n- call the fastboot flashing unlock command. The command gave me an aswer:\nplatform-tools>fastboot flashing unlock\n< waiting for any device >\n\nSomehow when my device went to fastboot mode, the phone lose the connection with my PC.\n\nCould you help me ?\n\nThanks Gabor",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3a",
+    "post_time": "2021-01-07T14:13:23.999797+00:00",
+    "reply": "3 Replies"
+}

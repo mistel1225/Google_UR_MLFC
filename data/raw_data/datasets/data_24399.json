@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/17058270/battery-charging-info-broken-on-lock-screen?hl=en",
+    "title": "Battery/Charging info broken on lock screen",
+    "content": "Pixel 2 XL - Android 10 QP1A.191005.007.A1 - This is a bug in the text layout on the lock screen/always on display.  Charging state, charge completion estimate, and battery percentage at the bottom of the display are obscured or missing from the lock screen and the always on display. Changes to the \"Display Size\" or \"Font Size\" settings can move the text, but no combination can fully display the text on the screen. See: https://i.imgur.com/8kNjhIE.png",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2019-10-17T19:05:43.721564+00:00",
+    "reply": "46 Replies"
+}

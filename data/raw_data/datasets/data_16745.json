@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/70313861/pixel-4a-proximity-sensor-behavior-with-teleconferencing-apps-causes-screen-to-go-black?hl=en",
+    "title": "Pixel 4a proximity sensor behavior with teleconferencing apps causes screen to go black",
+    "content": "When using the 4a with web conferencing apps (WebEx, Teams, Zoom, etc.) when you are using the conferencing app and reach to the notification shade to drag down (or otherwise obscure the proximity sensor), it turns the screen black.  If the conferencing app remains active but I go to a different app, obscuring the proximity sensor still turns the screen black.  Even so much as reaching to toward the top of the screen causes the screen to go black.  I haven't experienced this with other pixels on web conferencing apps before and I would not expect the proximity sensor to be active through a web conferencing app.  Other phones do not behave this way either.\n\nIt was happening on android 10 and is still happening after android 11.  I submitted feedback through the phone system settings.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 4a",
+    "post_time": "2020-09-10T16:16:25.787721+00:00",
+    "reply": "0 Replies"
+}

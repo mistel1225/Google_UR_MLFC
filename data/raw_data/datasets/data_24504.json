@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/4088257/about-lte-band-supported-by-pixel-3?hl=en",
+    "title": "About LTE Band supported by Pixel 3",
+    "content": "Question:\nI would like to know, does Pixel 3 (bought from Google Store Japan) support TD-LTE Band 39?\n\nDescription:\nI know Pixel 3 was not published in mainland China, but since I am a fan of Google product, I bought one from Google store when I was in Japan, and brought it back to China. However, my carrier, CMCC, is using TD-LTE Band 39 mainly for the LTE network coverage. Unfortunately, it seems that Pixel 3 does not support Band 39 ---- I have never seen it using Band 39, hence the signal/data link sucks!\nSo, does Pixel bought from Japan REALLY support TD-LTE Band 39? And... if the answer is NO, is there any solution to make it support Band 39?\n\nBackground:\nSerial ID: 8ALX0UWVB\nIMEI: 358123090877885\nBaseBand: g845-00023-180917-B-5014671\nOS: PQ1A.181105.017.A1\n\nReference:\nPixel phone hardware tech specs",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-04-13T08:08:56.646314+00:00",
+    "reply": "3 Recommended Answers"
+}

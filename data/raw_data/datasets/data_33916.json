@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1863030/pixel-1-randomly-rebooting-and-wrong-battery-status?hl=en",
+    "title": "Pixel 1 - Randomly rebooting and wrong battery status",
+    "content": "Hello All,\n\nWanted to check if anybody has experienced random reboots on your Pixel 1? Regardless of the battery level or if the phone is plugged in or even if the phone is in airplane mode the phone randomly dies (most likely weekly). One thing I've observed is that after the phone crashes the battery level is not reporting properly as an example see the image; the phone restarted when the battery was about 70% then when the phone was back online the battery level was reporting around 30% which remained steady throughout the day:\n\nThe OS is not rooted or modified whatsoever, I dont even have a ton of apps so any hint would be appreciated. If you happen to know how to review the OS logs without rooting the phone it would be appreciated.\n\nP.S. I suspect the DNS ad blocker app could be causing this but I am not 100% certain.\n\nRegards,\nAlex.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2019-02-25T15:35:15.897618+00:00",
+    "reply": "0 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/26187167/notifications-temporarily-disappearing?hl=en",
+    "title": "Notifications temporarily disappearing",
+    "content": "Since the January security patch I have had this weird behavior where notifications temporarily disappear intermittently. I haven't figured out what causes it or how to make it happen.\n\nI will unlock the device, swipe down the notification shade and see all my notifications. I'm not exactly sure what causes them to disappear. I have had it happen after I swipe one away and also by doing nothing but trying to read them.\n\nInterestingly the silent notifications never disappear. These are usually weather or suggested articles from the Google app but they don't go away. Just everything above them.\n\nBut they will come back.\n\nSometimes they come back after a few seconds if the notification shade has been kept open. Also if I close the notification shade and then reopen it sometimes they come right back, but again might disappear for a few seconds. \n\nI don't think I am losing any notifications.\n\nThe only mitigation I have tried is rebooting my 4XL.",
+    "is_img": 0,
+    "category": "Homescreen and Launcher, Google Pixel 4 XL",
+    "post_time": "2020-01-20T13:07:55.759864+00:00",
+    "reply": "3 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/65391738/no-service?hl=en",
+    "title": "\"No service\"",
+    "content": "I have \"No service\" after last update to Android 10, effectuated last week. Before, I used my phone without any Connectivity or Network issues.\n\nDetails:\n--> The phone recognizes a SIM Card.\n--> Inside the \"Network & internet\" menu, I can see the name of my Mobile network. I checked the settings and they are ok.\n--> My SIM Card works perfectly on other phones (just in case, I even asked for a new SIM Card)\n--> Other SIM Cards won't work either on my phone.\n--> I have already tried to fix the problem...\n(1) shutting down, extracting SIM Card, inserting SIM Card, powering on;\n(2) Switching Airplane mode from 'on' to 'off' and viceversa;\n(3) Rebooting to Safe Mode;\n(4) Resetting Network Settings;\n(5) Applying a Factory Reset.\n On the other hand, while I was trying to do an effective backup of my data, I discovered that the phone isn't able to connect with USB to the computer anymore (the computer doesn't not recognize it at all and viceversa; changing the 'Default USB configuration' or the 'USB Debugging' on the Developer Options didn't fix the problem).\n\nPLEASE HELP! This is a fatal error that has already caused me negative consequences (in my job, for example).\n\nTHANK YOU VERY MUCH.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2020-08-17T18:57:31.713867+00:00",
+    "reply": "5 Replies"
+}

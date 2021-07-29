@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/54490992/not-recognized-in-fastboot-on-mac?hl=en",
+    "title": "Not recognized in fastboot on Mac",
+    "content": "I bought a used Pixel 1 (non-Verizon). I have OEM unlocked it, and restarted into bootloader through adb. At that point, my MacBook can't recognize the device any more. It's not there when I use \"system_profiler SPUSBDataType\" and fastboot doesn't see any devices. I've tried new cables (I bought a belkin one), and I tried connecting to a Raspberry Pi (I don't have any PCs). I have the same issue no matter what. I've been trying random advice for the last week, but no luck. Can someone please help?",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2020-06-20T01:41:59.420916+00:00",
+    "reply": "0 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/7415700/usb-c-does-not-connect-to-pc-also-restarts-immediately-when-turned-off?hl=en",
+    "title": "USB-C does not connect to PC. Also restarts immediately when turned off.",
+    "content": "Phone does not connect as a USB device. Charging is fine, both at low and high rates. Linux reports failure to enumerate device (with just broken cable or connector, this would not happen). Windows fails as well with a message. USB-C to 3.5mm converter also does not operate.\n\nAnother problem is that the phone, when turned off, does not stay off and restarts immediately. This is an issue if I have to RMA the phone, since I might need to let the battery drain completely before it is ready for shipment. Maybe there are other options ?\n\nI tried both turning off and full recovery using the fast boot menu. This makes no difference.",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 3",
+    "post_time": "2019-06-04T19:25:24.184786+00:00",
+    "reply": "2 Replies"
+}

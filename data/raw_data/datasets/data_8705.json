@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/93061319/top-bar-top-touchscreen-area-unresponsive-except-when-on-home-screen?hl=en",
+    "title": "Top bar & top touchscreen area unresponsive (except when on home screen)",
+    "content": "I'm hoping someone can help to shed some light on what I've been encountering; I can't find anything about it online. For context, I have a Pixel 3.\n\nBoth the top pulldown bar and the top area (where search bars and back buttons typically go) are completely unresponsive when I have an app or an overlay open. Oddly, these areas and functions work just fine when I'm just on my phone's home screen.\n\nIf I turn the phone to landscape view, the top bar area then works fine. However, I found that the side edge is still unresponsive (where the top bar was when it was in portrait view). So it's only happening to that specific physical side of my phone no matter which way I turn the phone (the \"top\" edge near the camera).\n\nThis makes some apps impossible to use since some apps won't allow for landscape view.\n\nTo reiterate, this only occurs when I have an app or overlay open; that area works fine when I'm on the home screen.  This just started today; I've tried checking for updates, restarting my phone, and uninstalling/reinstalling apps but not helping so far. Has anyone else encountered this or something similar?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2021-01-11T21:20:25.271925+00:00",
+    "reply": "1 Reply"
+}

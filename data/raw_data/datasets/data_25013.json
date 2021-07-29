@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/23793204/pixel-2-battery-drain-battery-usage-screen-percentages-don-t-add-up?hl=en",
+    "title": "Pixel 2 Battery Drain: Battery Usage Screen Percentages don't add up",
+    "content": "I've noticed my phone's battery depleting faster than it used to (before upgrading to Android 10). I have taken the following steps (as seen in other threads):\nClear Google cache and restart\nRestrict Location permissions where appropriate\nUpdate system & Google Play (and restart)\nEnsure all apps are up to date (they are, automatic update is on)\n\nNow I want to see if some rogue app caused this, but when I go into the battery usage the percentages don't add up (even when viewing \"full device usage\"). This has been observable over multiple full charge cycles.\n\nBattery Usage:\nScreen 9%\nFire Emblem Heroes 3%\nPhone idle 3%\nYouTube 2%\nWi-Fi 1%\nAndroid System 1%\n\nHowever the battery is sitting at 53%. If the above is true I should have 81% battery, so clearly this is wrong. Where is this massive discrepancy coming from?",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 2",
+    "post_time": "2019-12-25T17:04:24.801083+00:00",
+    "reply": "1 Reply"
+}

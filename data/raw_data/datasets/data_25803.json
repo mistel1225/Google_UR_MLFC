@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/21792320/pixel-3a-shutdown-automatically-when-put-above-chinese-id-card?hl=en",
+    "title": "Pixel 3a shutdown automatically when put above Chinese ID card",
+    "content": "This may be a funny issue.\nWhen my phone shutdown \"randomly\", i thought it's caused by that known shutdown issue already fixed in Android Q, until today i figure out it only and always occur when i put my phone on my ID card with it's nfc area.\n\nhere's logcat i caputred.(I haven't rooted it so only logcat can i capture, no dmesg or kernel oops log.\nhttps://pastebin.com/bpyDg2Wn\n\nThis may indicated a possiable vulnerablity. an attacker may use some spectial raido environment to crash nfc service, then cause this shutdown.\n\nmy pixel3a OS version is QP1A.191105.003",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3a",
+    "post_time": "2019-12-03T05:00:11.659835+00:00",
+    "reply": "1 Reply"
+}

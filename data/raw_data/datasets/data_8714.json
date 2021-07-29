@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/92957326/messages-app-regularly-stops-working-and-needs-the-data-store-cleared-to-get-working-again?hl=en",
+    "title": "Messages app regularly stops working and needs the data store cleared to get working again",
+    "content": "The messages application locks up and I am unable to send or receive SMS text messages.  I looked up the community forum and it suggested I should clear the cache and the data store.  This temporarily fixes it, but eventually the problem returns.  A restart of the device clears it temporarily as well.\n\nMy problem relates to Google Pixel 4 and 5.  I had a Pixel 4 previously and the problem started with that, about 10 months into its use.  I upgraded to Pixel 5 recently hoping the problem would be resolved and for a month or so, it was.  Then the problem returned and it is now doing it several times a day.  I have  even uninstalled and reinstalled the app and again it solves it very temporarily.  I have installed all the latest patches.\n\nI believe the problem may be related to the fact that I have years worth of text messages being automatically saved on the internet and clearing the Data does not remove the stored data as the Pixel automatically re-downloads all the messages.  It may be something in those years of stored messages which is causing it to keep re-occurring.  \n\nI am wondering why I seem to be the only one with this problem and why the software is so poor in handling my messages.  Maybe i need to just buy an i-phone.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 5",
+    "post_time": "2021-01-11T07:31:35.098415+00:00",
+    "reply": "3 Replies"
+}

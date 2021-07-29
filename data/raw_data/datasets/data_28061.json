@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/14873048/android-10-security-issue-major-issue?hl=en",
+    "title": "Android 10 security issue (MAJOR ISSUE)",
+    "content": "After upgrading Pixel 2 XL I've had many problems.  Last discovery, it's NOW POSSIBLE TO UNLOCK PHONE BY BYPASSING PASSWORD OR FINGERPRINT. \n\nI discovered this by accident after realizing my phone wasn't fast charging.  But I can bypass the password every time by doing this:\n\nPut the phone in sleep (locked) mode.  Or if it's already asleep.  While phone is sleeping, plug it into a charger.  Display will show it's locked but charging.  From there, slide down the top edge to go into settings.  Choose settings.  Then from the settings app, click on home button.  Wallah, you are in the phone because you bypassed login and password and fingerprint!\n\nTHIS IS A MAJOR SECURITY BREACH!!!",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-09-20T15:51:34.9059+00:00",
+    "reply": "1 Recommended Answer"
+}

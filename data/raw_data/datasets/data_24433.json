@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/19404213/pixel-2xl-bootloop-oem-is-locked-sideload-via-recovery-successful-but-booloop-still-persist?hl=en",
+    "title": "PIXEL 2XL Bootloop, oem is locked, sideload via recovery successful but booloop still persist",
+    "content": "hi,\n\nmy pixel 2xl recently has a broken charge port which melt every cable plugged into it whenever i try to charge or connect it to computer. Google support point me to get it repaired in a walk-in center but there is no authorized service center located in my country. So I decide to replace the port by myself.\n\nafter replacing the port, the device turned on and charged properly but it got into a bootloop every time the white screen with G letter comes up, but i still i can access both the fastboot mode and recovery mode.\n\nHowever, since i never enable the OEM UNLOCK option from the developer option, i can not flash anything via fastboot, so i try to sideload the latest full OTA rom from google website via recovery mode and both my computer and my phone screen indicate that the sideload is successfull (status on adb terminal si Xfer:2.00 and my phone screen had a massage \"installation completed with status 0\", but my device still stuck on bootloop.\n\nI've tried sideload it several times and tried this deuce script found in xda forum, but since nothing works. please help me. is there anyway to revive my device, since I replaced my own charge port will it void my RMA?\n\nthank you",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-11-12T06:40:39.892762+00:00",
+    "reply": "1 Reply"
+}

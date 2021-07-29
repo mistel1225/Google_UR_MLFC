@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/110427276/how-to-bypass-pin-or-use-google-account-on-welcome-screen-in-android-12?hl=en",
+    "title": "How to bypass PIN or use google account on welcome screen in Android 12?",
+    "content": "So, i upgraded from android 11 to android 12 beta. Left to charge overnight and in the morning couldn't get past pin (i enter correct pin but it does nothing - goes back to asking pin). After that I went to recovery and did factory reset. Went to welcome screen, asked me pin again and when i entered correct pin it just goes back one step (asks me for copying my data from other phone), under the pin option there is use google account, and when i press that it just goes back one step again like with the pin. I tried using android flash tool and pixel repair tool. Android flash tool sees the pixel 5 but says connection error (OEM unlocking is disabled) so im guessing that's the problem, and pixel repair tool doesn't get past carrier selection (bought thru googlestore.de unlocked) I checked other as well as all carriers one by one. It says wrong carrier), e sim is activated inside from Croatian T Mobile. Don't know what else to try?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 5",
+    "post_time": "2021-05-19T14:54:57.711812+00:00",
+    "reply": "1 Recommended Answer"
+}

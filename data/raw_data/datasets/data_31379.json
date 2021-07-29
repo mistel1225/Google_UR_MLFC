@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/5681416/pixel-3-unable-to-charge-phone-with-aftermarket-chargers-batteries-or-connect-to-pc-android-auto?hl=en",
+    "title": "Pixel 3: Unable to charge phone with aftermarket chargers, batteries, or connect to PC, Android Auto",
+    "content": "About a week ago my Pixel 3 stopped recognizing USB connections with the exception of the Google supplied power supply.  When I look at the system alerts it shows that the phone thinks a USB connection is present, even when there is no cable connected.  Going into settings > Connected Devices shows the phone as \"Currently Connected and \"charging connected device\".  The USB Preference shows USB controlled by connected device, and selecting \"this device\" fails.  I have tested multiple USB cables, charges, battery packs, PCs, etc all with the same result and all working fine on other android phones\n\nI reached out to Google support who verified this should not be the case and talked me through some settings that have now allowed me to manually toggle the USB preference to \"This Device\" when a cable is connected, allowing me to charge or use the android auto.  Unfortunately I have to make this change manually every time I connect the phone which is still not right.\n\nI installed the May updates today, hoping it would address this issue, but nothing has changed.  I have also turned off Battery Saver and Adaptive Battery as this helped some Pixel 2 users with similar issues, but had no affect on my phone.\n\nI know this is not an isolated issue as there are several similar threads, I am hoping someone has a better solution than Google telling me that \"it shouldn't be like that\" and attributing the issue to user error.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-05-07T21:38:03.967929+00:00",
+    "reply": "0 Replies"
+}

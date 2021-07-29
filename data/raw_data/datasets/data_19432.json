@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/58711475/pixel-3a-will-did-not-restore-home-screen-and-apps-after-factory-reset?hl=en",
+    "title": "Pixel 3a will did not restore Home screen and apps after factory reset",
+    "content": "Adding this because the other thread i found did not have the correct solution posted. \n\nThe problem was that during phone re-setup, when it shows the option to \"Transfer data from old phone\", i chose \"No\" when I should actually have chosen \"YES\" and then selected \"Can't use old phone\" which will then lead you to the option to restore from available backups. \n\nI did another Factory Reset and did this and it successfully restored my phone exactly as it was before the Factory Reset.",
+    "is_img": 0,
+    "category": "Homescreen and Launcher, Google Pixel 3a",
+    "post_time": "2020-07-13T15:52:03.285338+00:00",
+    "reply": "1 Reply"
+}

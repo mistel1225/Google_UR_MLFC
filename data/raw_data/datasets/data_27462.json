@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/13740131/android-10-update-saga-pixel-2xl-first-in-boot-loop-crashed-on-its-own-settings-app-crashing?hl=en",
+    "title": "Android 10 update saga Pixel 2XL - First in boot loop-> crashed on its own -settings App crashing",
+    "content": "Android 10 update on Pixel 2 XL \n1) Boot loop upon first update \n2) Side loaded Android 10 OTA using ADB \n3) worked fine but when restarted -> again in boot loop \n4) Factory Data Rest - worked fine \n5) Suddenly crashed next day - restarted on its own - went into boot loop again \n6) tried 15 times restart - didn't go back to Android Pie\n7) Tried to sideload Android Pie but device would not allow as the most latest update has already installed in it\n8) Factory Data Reset\n9) Settings App failed while installation\n10) restarted and installed \n11) Android 10 successfully installed\n12) Settings App crashed again \n14) Device working fine now\n15) Don't know for how long it will operate on Android 10 and then crash again.....that's my worry now \n16) Google offering replacement device \n17) Don't understand as the problem is not in hardware \nShould I go for replacement device or wait to see how long it holds Android 10 and we might get a fix from Google .\n\nIt's been three days this saga is going on.\n\nPlease advise \nThanks",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-09-06T17:32:28.801514+00:00",
+    "reply": "3 Recommended Answers"
+}

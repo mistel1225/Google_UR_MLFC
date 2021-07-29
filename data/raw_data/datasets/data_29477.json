@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/6525574/pixel-2-freezes-when-connected-to-any-charger?hl=en",
+    "title": "Pixel 2 freezes when connected to any charger",
+    "content": "Shortly after the April update, I noticed my overall battery time drop from a projected 11 hours, to about 7 with the percentage dropping rapidly during normal usage.  Now it immediately freezes when plugged in to charge.  This happens with the original charger, an after-market charger, car charger, computer USB port, or a battery bank.  Also happens in Safe Mode.  The battery will charge while \"frozen\" - the screen is just unresponsive for about a minute before it reboots on it's own requiring my PIN to unlock.  IF it doesn't reboot on its own, I have to do the hard restart (Hold down power and volume down button).  \n\nI have called Google and had a 1:1 chat with them.  They say they have not heard of this problem altho I can find it in these forums and elsewhere.  Every day I send in a report with system logs (Settings>About Phone>Send Feedback). I work for a financial institution with lots of highly configured work apps so doing a factory reset is not an option I want to try and I see it doesn't help others.  I am convinced it has to do with the April update and am hoping a software update will fix it before going the RMA route. Anyone else?",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 2",
+    "post_time": "2019-05-21T11:00:45.897258+00:00",
+    "reply": "1 Recommended Answer"
+}

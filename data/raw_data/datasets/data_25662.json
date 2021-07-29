@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2765248/google-pixel-2-error-slot-unbootable-load-error?hl=en",
+    "title": "Google Pixel 2 - ERROR: Slot Unbootable: Load Error",
+    "content": "Yesterday my Google Pixel2 suddenly reboot & then stuck in screen with android logo with option \"Start\", \"Recovery Mode\", \"Barcode\", \"Power Off\" whereby all function doesn't work except for \"Power Off\". In the screen it indicated \"ERROR: Slot Unbootable: Load Error\"\n\nI suspect there was an auto-update that had cause this sudden reboot. I tried various ways to reboot but nothing works. When i plug in USB to phone on my laptop, it was not detected and when you right-click on the USB icon to eject, it shows \"Eject Android\"- when i eject, it shows \"Android bootloader interface removed\". If i check in DeviceManager on Microsoft Windows, the Pixel2 wasn't really detected.\n\nIt would be a great help if you can guide me to solve this as I really love this phone and hope i could fix this.\nThanks in advance & have a great day ahead :)",
+    "is_img": 0,
+    "category": "Homescreen and Launcher, Google Pixel 2",
+    "post_time": "2019-03-21T06:16:04.99852+00:00",
+    "reply": "18 Replies"
+}

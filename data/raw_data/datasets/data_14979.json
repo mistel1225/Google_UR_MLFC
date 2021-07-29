@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/74413377/default-app-selection-not-working-correctly-under-a11?hl=en",
+    "title": "Default app selection not working correctly under A11",
+    "content": "I am using Open Camera (OC) as my default camera app.  It is more functional than the Google app and has photo stamping, which the Google app does not offer.\n\nI had some problems with OC for a while and finally got them straightened out.  So I wanted to set OC as the default app to open when I manually double-click the power button under A11. \n\nThis used to work fine under A10.  However, under A11, the double-click will work BUT only if the phone is unlocked.  If the phone is locked, the double-click will flash the lock icon on the lock screen but will not show the app. I have to use the fingerprint sensor to unlock the phone first.  Then the OC app will be there and open.\n\nThis is obviously not very helpful.\n\nI have tried dropping the default assignment, rebooting the phone and reestablishing it but this has not helped.\n\nAny other ideas or might this be a genuine bug?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2020-10-01T21:06:07.048092+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/104935074/pixel-3a-android-11-airpods-no-sound-at-all?hl=en",
+    "title": "Pixel 3a, Android 11, AirPods = no sound at all",
+    "content": "AirPods are working when connected to iPhone. Also work on iPad and cheap Chinese BT adaptor plugged into analog out of old laptop.\nAirpods will connect to BT on Pixel 3a, and an audible tone is heard after making the connection\nPhone app - no sound (though the phone thinks it’s connected to the AirPods. If I change to speaker the phone works as normal)\nNo sound in a media app like YouTube or Duolingo\nChecked all AirPods are expecting to take all types of sounds (media, phone, notifications etc) in BT settings\nUn-paired and re-paired x4\nRe-booted x2\nNo change - same symptoms \n\nSame airpods *did* work 3 months ago when the phone was running Android 10\nC’mon Google don’t you test this stuff even on your own phones?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2021-04-03T21:37:48.111652+00:00",
+    "reply": "0 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/49246788/factory-reset-with-broken-power-button-android-cannot-start-your-data-may-be-corrupted?hl=en",
+    "title": "Factory reset with broken power button? (Android cannot start, your data may be corrupted)",
+    "content": "I have a Google Pixel with the latest version of Android released to it. Yesterday I tried to restart it because it froze, and it got stuck for around 30 minutes in the boot screen, and after that, each time I try to turn it on a screen that says the following shows up:\n\"Android cannot start, your data may be corrupted...\"\n\nThat screens lets me choose between trying again (to boot, that is), and factory resetting. The problem is I can't pick any of those options because the power button doesn't work at all.\nI manage to turn on the phone by waiting for it to discharge, and then holding volume up right before plugging the charger in. I can get into recovery mode as well using this method.\nIs there a way I can get my phone working back again? If the factory reset can be avoided is great, but I'll be okay if I have to do it. I just want my phone back.\n\nWorth noting, my phone has been crashing randomly the last 2 weeks, eversince I mass updated most of my apps. I tried to solved this issue by upgrading from Android 9 to 10, but it didn't solve anything. The problem had stopped showing up a few days ago, until the last time I tried to restart the phone.",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2020-05-26T13:01:11.354871+00:00",
+    "reply": "1 Recommended Answer"
+}

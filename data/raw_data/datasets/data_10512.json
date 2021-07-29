@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/87911616/sip-calls-device-does-not-ask-first?hl=en",
+    "title": "SIP Calls: Device does not \"ask first\"",
+    "content": "I have setup a voip/sip connection in the native phone app. It works well for sending and receiving calls using voip.  However i want to set it to \"ask first\" when making calls so I can choose if it is a carrier or voip call.  When I make the setting it does not work and just dials with the carrier.  Additionally, there is no setting for UK calls via carrier and international calls via voip.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 4a",
+    "post_time": "2020-12-10T10:40:18.224078+00:00",
+    "reply": "1 Reply"
+}

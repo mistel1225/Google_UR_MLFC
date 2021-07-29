@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/15978001/how-do-i-stop-and-fix-my-pixel-3-xl-camera-from-distorting-images?hl=en",
+    "title": "How do I stop and fix my pixel 3 XL camera from distorting images ?",
+    "content": "Starting yesterday, the front and rear camera on my Pixel 3 XL has started to \"process\" images and distort them, making everything look very wide and strange looking. After taking a picture, I'll see the way it's supposed to look and then it will say \"processing\" and distort the image. \n\nThe HDR is turned off. I've never had this issue with the front facing camera with the HDR off, and this is the first time I have experienced this with the rear camera. Everything was normal prior to yesterday. I contacted a Google rep via chat on the Pixel, and the issue was not resolved.\n\nWe tried updating the stock camera google app and Google photos.\nWe uninstalled updates for both apps.\nReinstalled them.\nEntered the phone in safe mode.\nMade sure my phone is updated (has been running Android 10 for maybe a week now?) \nNothing has helped. Any help is appreciated!\n\nUPDATE: I fixed this issue a few days after posting this by uninstalling recent apps. This made me realize that it was a permission issue.  \n\nAfter pinpointing which application it was, I went into the device settings and turned off permissions from applications for the \"camera\". \n\nWorked fine until today, (December). Will update if I find more solutions...",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 3 XL",
+    "post_time": "2019-10-04T05:53:23.090157+00:00",
+    "reply": "6 Replies"
+}

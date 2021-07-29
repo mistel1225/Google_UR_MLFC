@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/25699357/music-app-in-background-auto-plays-when-bluetooth-headphones-turned-off?hl=en",
+    "title": "Music app in background auto-plays when Bluetooth headphones turned off",
+    "content": "After turning off Bluetooth headphones the Pixel 4 starts to play paused music out of the speakers from an app that was in the background.\n\nThese headphones can connect to both a PC and the Pixel 4, but when the headphones are powered down the phone will start playing music even when the phone was not actively being used.\nSometimes the headphones were just immediately being used with the PC before being turned off, yet the phone will immediately start playing music from the speakers.\n\nIt seems like a \"play\" command is being sent to/interpreted by the phone when the headphones are switched off which begins playing music from the speakers.\n\nThe app in question is Youtube Music and the headphones are Bose Quietcomfort 35ii, I am not sure if its an app specific issue since I haven't seen any other apps doing this on my phone.\n\nHas anyone experienced a similar issue or know how to resolve this so the app stops auto-playing from the speakers when the headphones are turned off?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
+    "post_time": "2020-01-15T07:01:08.04314+00:00",
+    "reply": "0 Replies"
+}

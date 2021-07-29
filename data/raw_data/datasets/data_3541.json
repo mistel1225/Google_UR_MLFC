@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/105766162/my-phone-shows-nos-production-no-in-the-bootloader?hl=en",
+    "title": "My phone shows \"NOS-production: no\" in the bootloader",
+    "content": "I recently bought a refurbished unlocked Pixel 3 XL to replace my aging, cracked, broken one of the same model. It came with the bootloader unlocked so I decided to lock it because I didn't like the warning message every time it booted and noticed that in the Fastboot menu of the bootloader it shows:\n\nSecure boot: PRODUCTION\nNOS-production: no\n\nI'm concerned about it saying \"NOS-production:no\"; has this device been tampered with? My old Pixel 3 XL shows yes there as well as all other screenshots I see of the bootloader on other P3XL's - they all say yes instead of no. I used flash.android.com and completely flashed the phone to the latest April Android 11 firmware but it still shows no. I can't find any documentation of what that could mean. Any insight would be appreciated!",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2021-04-11T03:53:13.696075+00:00",
+    "reply": "0 Replies"
+}

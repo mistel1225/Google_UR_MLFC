@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/16015995/pixel-3-can-t-connect-to-chromecast-after-android-10-update?hl=en",
+    "title": "Pixel 3 can't connect to Chromecast after Android 10 update",
+    "content": "Hi,\n\nSince updating my Pixel 3 to Android 10, I can no longer cast to my Chromecast 1. However, my Pixel which is still using Android 9 is able to connect and cast. I can also cast from my Home Hub once I add the Chromecast to my Home group on my Pixel (Android 9).\n\nMy Pixel 3 can find the Chromecast, but when I try adding it to my Home group I get an error. It suggests AP isolation may be on and that I should turn it off. However, as the other devices work fine I doubt that's the issue here.\n\nThe problem seems to be with Android 10. I could cast fine before the update and every other device is still able to do so. Hence, I don't believe anything is wrong with the wifi/network settings of my router or my other devices.\n\nDoes anyone know how to solve this?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2019-10-04T16:38:07.983114+00:00",
+    "reply": "3 Replies"
+}

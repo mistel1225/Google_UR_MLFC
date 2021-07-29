@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/113846624/pixel-4a-crash-and-reboot-loop-when-low-battery?hl=en",
+    "title": "Pixel 4a crash and reboot loop when low battery",
+    "content": "[Pixel 4a, June 2021 security update for OS and Google Play]\n\nWhen the battery starts to get low during active use (whether it's gaming, browsing, or messaging), the device will freeze without warning. Then it will crash and reboot constantly.\nFirst it happened at 23% battery. Plugging in the phone to charge restored full normal operation.\nThen after unplugging, the phenomenon occurred at 13% with constant rebooting. It also occurred in Safe Mode.\n\nI was able to boot the phone into recovery, and when it's in in the bootloader, the device does not crash, freeze, or go into boot loop!\n\nThinking maybe I needed to calibrate the battery, I left it in the boot loader for a while to drain the battery for about 30 minutes. I rebooted to normal and after booting successfully it was at 9% battery but it froze while still in the lock screen and went back into boot loop until it shut down. Turned on the phone several times until I got the icon showing a battery with red on the bottom. Plugged it in and it started charging, but started at 9% still. Charged fully to 100% and used it normally.\n\nWhen the phone got to 2%, the issue occurred again. This situation reminds me of two historical issues: The Nexus 6P (that I owned) battery failure that caused shutdown between 20-25% battery remaining; and the old nickel-cadmium \"battery memory\" plague.\n\nI have already performed a factory reset.",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 4a",
+    "post_time": "2021-06-17T05:34:32.97419+00:00",
+    "reply": "1 Reply"
+}

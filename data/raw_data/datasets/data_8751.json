@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/92906474/wifi-connection-problem-due-to-the-romoval-of-ca-certificate-options?hl=en",
+    "title": "WiFi connection problem due to the romoval of CA certificate options.",
+    "content": "After the recent update from Android, I can't connect to my University WiFi unless I specify rhe domain. Before that, there was an option of \"unspecified\" for the CA certificate that enabled me to connect without specifiying the domain. I asked the IT service in my university and they mentioned that there is no specific domain needed. We tried several possible domains but none of them worked.",
+    "is_img": 1,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2021-01-10T19:39:01.205185+00:00",
+    "reply": "1 Recommended Answer"
+}

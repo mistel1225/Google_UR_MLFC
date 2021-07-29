@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/16111267/which-system-files-are-in-charge-of-running-a2dp-bluetooth-functions?hl=en",
+    "title": "Which system files are in charge of running A2DP Bluetooth functions?",
+    "content": "I'm trying to make my phone into a Bluetooth receiver, meaning Bluetooth signals can be picked up by this phone. Articles online suggest changing system files, but reference older Android OS files that don't exist with the newer operating system. My question is, which system file pertains to A2DP? In older versions, it has been located in system>etc>Bluetooth>audio.config",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-10-05T22:37:45.266764+00:00",
+    "reply": "0 Replies"
+}

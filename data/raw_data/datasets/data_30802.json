@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1464761/picture-in-picture-triggers-randomly-no-touch-or-notification?hl=en",
+    "title": "Picture-in-picture triggers randomly (no touch or notification)",
+    "content": "When watching YouTube, the phone keeps randomly going into Picture-in-Picture mode. This happens every minute or two while watching videos and is very annoying.\n\nI am also seeing my keyboard (GBoard) randomly getting dismissed in the middle of using it. It will dismiss for a moment and then come back. Again, nothing I'm aware of is triggering this to happen.\n\nThe picture in picture behavior is especially weird because it doesn't even go to the home screen, it just minimizes with the previous app I was using coming to the foreground (but no gesture task switch or app select window appears). As far as i know it's not even possible to trigger this behavior on purpose.\n\nI restarted into safe mode and the issue didn't seem to be happening, so it's possible there's an app on my phone causing this. However, i don't have any apps that do weird system-level things that i can think of might be causing this.\n\nHas anyone else encountered this?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2019-02-05T06:00:34.119545+00:00",
+    "reply": "2 Replies"
+}

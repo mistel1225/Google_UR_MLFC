@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/22148740/og-pixel-december-2019-ota-update-failed?hl=en",
+    "title": "OG Pixel December 2019 OTA update failed",
+    "content": "I'm guessing I'm not going to like what I hear but after running the Dec 2019 OTA security update on my wife's OG Pixel and hitting restart, she called me later to say the phone was stuck on the google logo.\n\nPhone is in a bootloop and can use the key combo to get into fastboot, but then when choosing recovery, the phone simply reboots.  I'm guessing I'm out of luck and can't load a factory image since I can't get into recovery mode.",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2019-12-06T23:40:22.058681+00:00",
+    "reply": "2 Replies"
+}

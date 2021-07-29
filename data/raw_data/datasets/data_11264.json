@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/85981624/google-camera-picture-orientation-doesn-t-match-the-screen-orientation?hl=en",
+    "title": "Google Camera Picture Orientation Doesn't Match the Screen Orientation",
+    "content": "My dad recently got a Pixel 4a and was enjoying taking pics. All was normal. In the last week the camera has begun taking pictures in the wrong orientation.\n\nFor example, if he holds the phone upright, the picture displays rotated 90 degrees clockwise. If he holds the phone with the top at 9 o'clock, the picture will turn out vertical. It displays correctly on his screen while he is taking the picture, but is 90 degrees off when saved in Photos. Always rotated 90 degrees clockwise from what was displayed on the screen.\n\nWe tried clearing camera cache, restarting the phone, turning auto-rotate off and on, and uninstalling the camera app and reinstalling to the extent google will let you. I have a Pixel 3XL with the same google camera app and cannot replicate the issue. Help!",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 4a",
+    "post_time": "2020-11-29T23:41:44.448816+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/42180702/fix-pixel-4-xl-after-installing-magisk-modul-remove-magisk?hl=en",
+    "title": "Fix Pixel 4 XL after installing Magisk Modul - remove Magisk",
+    "content": "due to a wrong module my Pixel 4 XL does not boot anymore, or my screen remains dark after booting. Is there a way to remove Magisk modules? The tip https://www.droidviews.com/fix-pixel-4-xl-bootloop-magisk-module/ does not work for me, because flashing the \"image-newpixel4xl.img\" stops with an error message.\n\ni have the latest april-software and i can still get into fastboot mode without problems.\n\nthanks a lot",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 4 XL",
+    "post_time": "2020-04-24T13:56:03.178989+00:00",
+    "reply": "1 Reply"
+}

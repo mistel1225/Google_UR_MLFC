@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/85364776/pixel-2-not-started-error-slot-unbootable-load-error?hl=en",
+    "title": "Pixel 2 not started: ERROR: Slot Unbootable: Load Error",
+    "content": "Hello,\nmy problem started with \"Can’t load Android System\". I tried this: https://drive.google.com/file/d/18ZWAxd3qa1p61ZtFhbz-fGr66FJCqviM/view\nbut when I try to start \"Recovery mode\" the Pixel rebooted. So I run Factory data reset and after reboot there is Fastboot mode with green Android on back and green \"Start\", but with error \"ERROR: Slot Unbootable: Load Error\". When I try \"Recovery mode\" there is black screen for a second and I am back in Fastboot mode. Sometimes there is: \"ERROR: BootLinux Failed: Not started\"\n\nWhen the Pixel is connected to USB and I run \"fastboot devices\" I can see \"HT82.... fastboot\"\n\nThank you for your reply.\n\nMichal",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 2",
+    "post_time": "2020-11-26T10:38:51.443583+00:00",
+    "reply": "1 Reply"
+}

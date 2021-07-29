@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/13958186/pixel-3a-auto-selecting-options-in-dialog-boxes?hl=en",
+    "title": "Pixel 3a auto-selecting options in dialog boxes",
+    "content": "TL;DR: Phone displays permission request dialog and auto selects an option. I need to manually select these options instead of having them auto selected.\n\nHello all!\n\nIn using my pixel 3a, I have noticed that it will automatically select options in dialog boxes for me. For example, when an app will ask for access or permissions, the phone will select an option without me touching the screen. This happens with almost every pop-up box of that nature. (\"use this app just once or always\" is not affected by this). Also, if the app requests multiple permissions, only the first will be auto-selected.\n\nI've been fine to live with the issue until now, but last night I needed to connect my phone to my laptop with bluetooth, but the phone was autoselecting the \"cancel\" option, and I couldn't tap \"connect\" fast enough. (the permission screen will display for a fraction of a second before an option is selected, so I know it appears but I cannot do anything about it). I assumed it was a setting I enabled when I set up the phone, so I reset all my app settings/permissions, but this has done nothing to help the problem.\n\nI'm generally a pretty tech-savvy person, but this has me clueless. Any ideas, tips, anything would be very helpful. Thanks in advance!\n\n~Andy",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 3a",
+    "post_time": "2019-09-09T15:47:19.00789+00:00",
+    "reply": "2 Replies"
+}

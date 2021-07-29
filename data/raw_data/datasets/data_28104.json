@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/14761734/my-pixel-2-xl-keep-on-rebooting-itself-at-one-point-even-stuck-at-the-g-logo-bootloping-endlesly?hl=en",
+    "title": "My Pixel 2 XL keep on rebooting itself & at one point, even stuck at the G logo bootloping endlesly",
+    "content": "My Pixel 2 XL (already updated to Android 10) suddenly rebooting itself repeteadly. At one point, it refuse to enter the OS, stuck at the G logo & bootlooping endlessly (https://twitter.com/overlord_666/status/1173526827362476032). After sometime, I figure maybe if I do factory reset/wipe, the problem will go away. So, I did that. No, the problem is still there. Next, I try to flash using the sideload OTA method. Still bootlooping.\n\nAfter that, I tried to let it bootlooping unitl the battery died out & pop out the sim. After a full charge, reboot into recovery, wipe clean & reboot back. This time, it can enter the OS & the initial setup. But instead of rebooting at the go, my phone reboot randomly. Sometime it took after 2 hours of uptime for it to reboot, sometime it's 4. It still happens & this time, I don't even install any other apps :-(\n\nAny advice?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-09-19T09:44:04.242346+00:00",
+    "reply": "1 Recommended Answer"
+}

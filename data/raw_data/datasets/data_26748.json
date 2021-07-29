@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3732664/issues-with-googlefit-when-ending-walkout-is-forgotten?hl=en",
+    "title": "Issues with GoogleFit when ending walkout is forgotten.",
+    "content": "There are several times recently when I finish walking and leave my phone on the table without ending activity (walk) in the GoogleFit which is created before. When I pick the phone some hours later, I found two issues:\n\n1) The battery nearly drained out (remained about 15%) though at the time I finished walking the battery remained over 70%. Note that on my routine usage without using GoogleFit, 70% battery could last more than one day.\nLook at the battery usage I saw GoogleFit used about 15%, the sum of other usages is about 10%. \nSo the total percentage = 15%(remained) + 15%(Fit) + 10%(others) = 40%. I did not know where the other 60% of the battery went.\n\n2) In the \"Journal\" I opened the last walk item and saw the walking track line is a straight line starting from West of China, crossing Korea and Japan, and ending at the middle of the Pacific Ocean. That is so ridiculous since I just walked on a track whose length does not beyond 3 km.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-04-07T09:53:56.506561+00:00",
+    "reply": "1 Recommended Answer"
+}

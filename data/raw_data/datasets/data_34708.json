@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1553492/phone-won-t-boot-past-logo-can-t-access-factory-reset-or-recovery-mode?hl=en",
+    "title": "Phone Won't Boot Past Logo - Can't Access Factory Reset or Recovery Mode",
+    "content": "When turned on, my phone just sits on the Google logo and nothing happens. The phone also gets increasingly warm to hot to the touch, so I think it is trying to process and turn on. I can access the bootloader menu by holding power + down button (so please don't suggest that). But when I select recovery mode, it does the same thing - holds on the Google logo, does nothing, and gets hot. Snowed in currently, so driving anywhere to get it fixed is not really an option. I'm hoping there will be some way to access my phone remotely? When I'm in the bootloader menu, it registers on my computer. But I can't access the files like a drive. And obviously since I can't turn the phone on, I can't set it to work as a USB drive.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2019-02-09T22:22:13.296008+00:00",
+    "reply": "1 Reply"
+}

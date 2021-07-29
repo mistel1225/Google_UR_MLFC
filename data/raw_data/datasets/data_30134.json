@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/8422694/mbn-sw-txt-file?hl=en",
+    "title": "'mbn_sw.txt' file",
+    "content": "I bought and just received 'Google Pixel 3a' recently because I was very interested in the phone. I live in South Korea and use LG U+ carrier now.\n\nBTW, I came to know from a Korean domestic Pixel user forum that I could not use the phone unless this one line of texts were not included in \"vendor.img/rfs/msm/mpss/readonly/vendor/mbn/mcfg_sw/mbn_sw.txt\" file. And I also found that it was available when I root the device.\n\nThe text to be inserted in the very txt file is as follows;\nmcfg_sw/generic/Korea/LGU/Commercial/mcfg_sw.mbn\n\nIf only Google include the upper one with their next S/W update, I think I can use Pixel 3a within LG U+ carrier in Korea!\n\nCan anybody from Google explain and tell me the future plan about this?\n\nThanks for reading,\nJason",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2019-06-21T04:39:21.740926+00:00",
+    "reply": "1 Reply"
+}

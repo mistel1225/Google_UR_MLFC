@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/21717705/unable-to-reboot-pixel-2-stuck-with-screen-on?hl=en",
+    "title": "Unable to reboot pixel 2. Stuck with screen on",
+    "content": "Hello, \nMy pixel 2 randomly turned off last night and showed the logo as if it was initializing. It got stuck there until today, and I am unable to reboot it or do anything. I have tried holding the power bottom plus volume down but anything I choose in the menu doesn't work. \n\nI get this info:\n\nBootloader: mw8998-002.0076.00\nBaseband:g8998-00008-1902121845\nproduct revision: walleye MP1\nserial number: HT7BR1A02906\nUFS: 64GB SAMSUNG\nDRAM: 4096MB Micron LPDDR4\nBoot-sloot: a\nConsole: DISABLED\nSecure Boot: yes (PRODUCTION)\nDevice State: locked\n\nIf I select recovery mode it shows the android laying down and a \"no command\" message.\n\nAny advice?",
+    "is_img": 0,
+    "category": "Homescreen and Launcher, Google Pixel 2",
+    "post_time": "2019-12-02T10:54:34.879248+00:00",
+    "reply": "6 Replies"
+}

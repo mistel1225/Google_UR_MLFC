@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/8337685/pixel-2-rear-camera-autofocus-issues-then-stopped-working-selfie-camera-still-fine?hl=en",
+    "title": "Pixel 2 Rear Camera Autofocus Issues then Stopped Working; Selfie Camera Still Fine",
+    "content": "Hi, I have a Pixel 2 that is almost two years old.\n\nThis week the rear camera began having autofocus issues. The focus looked like it was stuck in macro mode. It'd focus on extremely close objects but not close to distant objects. When shooting video, the camera would go in and out of focus. Closing and reopening the app solved the focus issues.\n\nLast night, launching the camera app stopped working altogether. Clicking the camera icon results in the app launching then immediately dying. Sometimes there's an error message, sometimes there's a request for feedback, but most of the time the app just silently dies.\n\nIf I hold down the camera app icon and select take a selfie, the camera app usually launches and works. this leads me to believe that whatever is happening is limited to the rear camera.\n\nSometimes if I force stop the camera app then open it up a bunch of times (four to ten), the rear camera will start working perfectly again. The next time I go to use the rear camera though, the app starts the crashing again.\n\nCamera app version is 6.2.030.244457635. I tried clearing cache, clearing storage, safe mode, everything short of a factory reset with no success.\n\nThis seems to be a fairly widespread problem. What gives and how do I go about getting it fixed?",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 2",
+    "post_time": "2019-06-19T19:24:07.388078+00:00",
+    "reply": "1 Recommended Answer"
+}

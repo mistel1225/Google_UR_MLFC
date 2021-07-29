@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/67757627/question-about-downgrade-with-oem-locked?hl=en",
+    "title": "Question about downgrade with oem locked",
+    "content": "I owned a Pixel 3 (Verizon version) and it's up-to-date, but then I found it will froze sometimes, and automatically reboot,  I tried to reset to factory settings  and flash the newest OTA image through adb sideload , but it still happens. \nI know that verizon version bootloader are locked, but I still want to know is there any possible that technicians from Google can help me unlock bootloader, which allows me to flash factory firmware to solve this problem.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2020-08-29T07:55:10.170275+00:00",
+    "reply": "1 Recommended Answer"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/99204473/usb-tether-connect-on-pixel-4-but-no-internet-chrome-says-something-about-dns-error?hl=en",
+    "title": "USB tether connect on pixel 4 but no internet. Chrome says something about DNS error.",
+    "content": "I'm trying to get USB tether to work. It says connected but there is no internet. Android also shows a notification that says \"tethering has no internet\" . I know the issue is in the phone not the computer I'm trying to tether to since my Samsung note 10 tethers just fine to the PC. Also easytether and pdanet work. It worked when I first got the phone, haven't used tether since December 2019. Not sure if Android 11 broke it or not. I've tried several commands through ADB, the tethering turns on but no data/internet flows. Also I can take the sim card out and place it in another Verizon phone, (PIXEL 1 XL) and tethering works. \n\nThanks in advance for any advice. I've tried everything short of a factory reset.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
+    "post_time": "2021-02-22T07:46:23.049242+00:00",
+    "reply": "0 Replies"
+}

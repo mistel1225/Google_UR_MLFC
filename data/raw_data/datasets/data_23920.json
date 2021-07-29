@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/26830046/ok-google-detection-breaks?hl=en",
+    "title": "\"Ok Google\" detection breaks",
+    "content": "When using 2 user profiles, primary has Google account and secondary has a gsuite account, when switching back and forth the primary users' Google assistant \"ok Google\" detection breaks. (Changing access with voice match in settings does not help until reboot)\n\nIs there a workaround or solution?\nThanks",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4 XL",
+    "post_time": "2020-01-27T07:23:07.59053+00:00",
+    "reply": "1 Reply"
+}

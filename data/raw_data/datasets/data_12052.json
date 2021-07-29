@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/83009312/my-pixel-3xl-has-a-qi-wireless-charging-problem-in-that-charging-won-t-shut-off-when-it-s-at-100?hl=en",
+    "title": "My Pixel 3XL has a Qi (Wireless) charging problem in that charging won't shut-off when it's at 100%",
+    "content": "I've just bought a Qi wireless charging stand to use with my Pixel 3XL. It works fine when the phone is powered on but if I put the phone on the stand when it's powered off (even if the battery is already fully charged) the status light on the charger will turn blue to indicate its charging but it won't change to green when it gets to 100% or ev if it's already at 100%.\n\nFortunately I've realised this bug quickly so it hasn't sat overcharging for more than a minute or so. Interestingly, if I boot the phone while it's on the stand, as soon as the animated swirling G appears on screen during the boot process, the green light appears on the charger.\n\nIt seems as if the charger is waiting for something in the powered off phone to tell it to stop charging because it's full but that message never comes.\n\nI realise that I could switch to only wirelessly charging the phone with it up and running but this shouldn't be necessary. Any idea what's going on here? PS this behaviour is 100% repeatable.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3 XL",
+    "post_time": "2020-11-15T07:27:24.878339+00:00",
+    "reply": "7 Replies"
+}

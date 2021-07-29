@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/14162813/screen-pattern-not-recognized-after-reboot-and-os-update-reset-device-can-t-load-backup?hl=en",
+    "title": "Screen pattern not recognized after reboot and OS update? Reset device, can't load backup?",
+    "content": "Here's an answer from someone else with the same issue.  What is this random pattern that the device changed to after factory reset? I know that the Titon security they use to encrypt our data uses this stupid screen pattern to verify.  I have my password to my account, and my fingerprint was working fine before reboot and factory data reset.  Now I have reset the phone, but can't load my backup.  And, after 10 fails with the correct pattern swipe (the same one I have used for years) you backup is gone forever. WTF?\n\nGood info for others below..\n\nNo, there is absolutely no way to unlock the phone without knowing the correct pattern (or, in your case, the pattern that your device randomly changed to). \n The ONLY way is to perform a Factory Data Reset, but this will result in a loss of the data. You have said that you do not want to lose data, so that is not a solution for you.\n Anyway, even if you did decide you need to Factory Reset without knowing the pattern, you would need to know the password of your Google Account in order to get back into the device (for theft security purposes).",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 3a XL",
+    "post_time": "2019-09-12T01:46:14.87746+00:00",
+    "reply": "1 Reply"
+}

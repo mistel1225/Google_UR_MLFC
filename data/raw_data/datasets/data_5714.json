@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/101027173/pixel-to-pixel-migration-same-model?hl=en",
+    "title": "Pixel to Pixel migration (same model)",
+    "content": "Google has replaced a VERY badly performing 4a with, yet another 4a:\nso the straight usbc to usb c cable SUPPLIED in the box does not work?\n(requires additional 'permissions' but these are non existent in andriod 11)\n\nNow using an former usb A to usb C cable AND the 'switch adapter' supplied in the box, and finally both handsets see each other;\n however :\nthe new handset is stuck on \"Getting Account Info\" (circle of death) for over half an hour now\nthe (former) handset is stuck on \"Connected to new handset preparing.....\"\n-is there ANY indication how long this (may) take ?\nok given files sizes this would not be an exact science, but roughly... ?\nWhy is there NO OTHER progress indication.. should I wait, Should I kill the process?????\n\nThis 'seamless' transfer from TWO phones of the SAME GOOGLE model is a real let down.\n\nRESOLVED: had to REMOVE the cable, this FORCED a reboot and then the two phones continued correctly the set up in a few (5) minutes: not this ALSO meant the supplied straight usbC - usbC cable then miraculously worked as well?\nVery strange, but finally worked.",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 4a",
+    "post_time": "2021-03-06T16:35:55.946072+00:00",
+    "reply": "1 Reply"
+}

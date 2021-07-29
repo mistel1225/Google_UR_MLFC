@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/53526773/after-the-june-2020-update-my-pixel-3-has-display-issues?hl=en",
+    "title": "After the June 2020 update my Pixel 3 has display issues",
+    "content": "Hello!\n\nTrying to solve my previous problem with callers not hearing my voice while on speaker, I did a factory reset of the phone.\n\nAfter setting up the phone just as before, problems are now numerous, only to realize they have started after the June update:\n\n1. First, under security, the Google Play system update is stuck to 1 Feb, 2020, if I try to update it, 2 things happen: either it updates to 1 May, 2020, but after 10 seconds phones automatically restarts and reverts to the previous 1 Feb version, OR it downloads the current update but it cannot restart phone and I get an error message as follows: cannot update at this moment, please try again later.\n\nThis is the screenshot with the Google Play system update error.\n\n\n\nAll this wouldn't be a problem, as everything seems to work ok, play store updates apps & everything, but I came across this:\n\n2. Adaptive brightness, screen turning off during calls when I hold the phone to my ear, squeeze for assistant, tap to wake screen, flip to shh and tapping on the always on display have all stopped working. Tried testing these functions under safe mode, but only squeeze for assistant works.\n\nI also tried another complete wipe of the phone, clearing app settings, clearing cache for apps such as assistant, Google, Play Store and what not, but with no success.\n\nI read the forums up and down but nothing seems to work.\n\nDoes anyone else have this issue?",
+    "is_img": 1,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2020-06-15T04:11:24.937809+00:00",
+    "reply": "1 Recommended Answer"
+}

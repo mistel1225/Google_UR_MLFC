@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/48731958/troubleshooting-pixel-4-xl-built-in-titan-security-key?hl=en",
+    "title": "Troubleshooting Pixel 4 XL Built-In Titan Security Key",
+    "content": "Security researcher here - trying to enable the my Titan M built-in security key on my Pixel device for Google account authentication.\n\nDevice: Pixel 4 XL\nDevice Bluetooth: On\nDevice Location: On\nDesktop Bluetooth: On\nPaired: No (Apparently Unnecessary)\nDesktop OS: Win 10 version 1909\nDesktop OS Privacy Radio Control: Enabled\n\nThe device has been added to my 2fa security key settings in my Google account which I am trying to log into. Login process as follows:\n\nSign-in with username + password\nBrowser prompts for 2fa (drop down from chrome window itself - looks more like an alert)\nPixel detects request and prompts for user to hold \"volume down\" depressed\nHold down, blue check mark animation\n\"Connection to your device \\n This may take a moment\"\nNo response for maybe 10 or 20 seconds\n\"An error occurred\" message at the bottom of the screen on Pixel\nBrowser prompt remains listening - no change\n\nI can find no additional documentation, troubleshooting, or even references of other people using the built-in security key (youtube). Can anyone confirm that this system is working for them? Is it still in beta and known to be prone to errors?\n\nIntuition says Bluetooth problem. Would appreciate any help you can provide.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 4 XL",
+    "post_time": "2020-05-23T21:38:19.299482+00:00",
+    "reply": "1 Reply"
+}

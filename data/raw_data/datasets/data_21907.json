@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/39255664/google-contacts-app-failed-to-open-editor-for-duplicate-contacts-in-the-app-why?hl=en",
+    "title": "Google Contacts app \"Failed to open editor\" for DUPLICATE contacts in the app. Why?",
+    "content": "When I open the Google Contacts app, there are some identical contacts; some have as much as 3 or 4 duplicates. I get the message \"Failed to open editor\" when I attempt to edit the first contact or any other of the duplicate contacts, except the last copy.\n\nThis issue is unresolved and should not be closed:\nhttps://support.google.com/pixelphone/thread/26989457?hl=en\n\n\"For example, my wife's name is Karolina. There are two identical Karolina contacts. If I click on the top one and then try to edit it, I get the message \"Failed to open editor\". When I click on the second Karolina contact, I can edit it and everything. And if I delete the first, uneditable Karolina contact, it deletes both contacts.\"\n\n\"I also noticed a contact that used to be named Pesho, but then a few months ago I changed the name to something else. Right now there are two Pesho contacts in the Google Phone -> Contacts tab. There is no Pesho contact in the Google Contacts app. Any ideas on how to clear this mess?\"\n\nThis does NOT resolve the issue:\nhttps://support.google.com/pixelphone/thread/26989457?hl=en&msgid=27358522\n\nKindly assist.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel",
+    "post_time": "2020-04-10T20:06:33.448724+00:00",
+    "reply": "2 Replies"
+}

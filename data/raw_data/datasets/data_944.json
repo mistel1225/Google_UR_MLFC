@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/112823528/pixel-4a-no-longer-connects-to-the-wifi-guest-login-port-10080-blocked-by-google?hl=en",
+    "title": "Pixel 4a no longer connects to the WiFi guest login. Port 10080 blocked by Google.",
+    "content": "I have a Pixel 2 which over a week ago refused to log into the guest wifi due to ERR_UNSAFE_PORT. \nAs there was nothing I could find online about this issue with a Pixel phone, I bought a Pixel 4a and found the exact same problem.\nAlso, Samsung users in the house have the same error and are unable to connect.\nOver the weekend, Google Chrome PC has also thrown up this error and refuses to let me log in to the guest wifi. \n\nFrom my understanding, this is not a router issue, as Google has blocked the port, and so far the only solution is to have a Google Enterprise account in order to request unblocking the port on my devices. \nThis prevents using either phone and so far the only solution viable is to switch to PC and use Firefox that can unblock the port, or switch to iPhone which does not block guest logins. \nWe do not have any control over the port number that the router uses so it is not possible to change it therefore money is being wasted on WiFi and Google devices. \nI've just received the June update on my Pixel 4a and the issue is still not resolved.\n\nThis is just unacceptable to be forced to pay for 4g while paying for WiFi that is blocked by Google without a workaround that doesn't require a Google Enterprise account.",
+    "is_img": 1,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
+    "post_time": "2021-06-08T14:54:42.104516+00:00",
+    "reply": "1 Reply"
+}

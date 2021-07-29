@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/17808759/how-can-i-deny-wifi-access-to-specific-apps-on-android-10?hl=en",
+    "title": "How can I deny WiFi access to specific apps on Android 10?",
+    "content": "I have a particular app, Seek Thermal, that insists all permissions be \"Allow all the time\" or it won't function, ie. Camera, Location, Microphone, & Storage. I have mobile data \"Background data\" denied. WiFi data usage has \"Background data\" disabled too. But after using the app for a while the Total under \"WiFi data usage\" for the app increases on foreground and background.\n\nAll this app is for is to take thermal pictures using the Seek Thermal camera. After seeing the app use WiFi data, my only thought is that it's spying on me, my location and/or the photos I take using the thermal camera. I even have data saver on, but makes no difference.\n\nI seemed to have denied mobile data successfully, but WiFi data usage still persists. My only recourse would be to disable WiFi while using the app and other apps that I don't want to access the internet.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-10-27T02:01:33.983235+00:00",
+    "reply": "3 Replies"
+}

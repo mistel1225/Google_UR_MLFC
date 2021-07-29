@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/13826355/pixel-3-3a-cannot-send-cyrillic-message-via-sms?hl=en",
+    "title": "pixel 3/3a cannot send cyrillic message via SMS",
+    "content": "Pixel 3a bought in Germany.\n\nWhen i am trying to send SMS in russian language Pixel SMS client shows it correctly but receiver gets empty SMS.\n\nSIM card and SMSs work without any problems in other phones.\n\nThings that i did try and was not helpful:\n* Tried different SMS clients\n* Tried different Keyboards apps\n* Tried with different Sim cards(from different network providers)\n* Tried with Pixel 3(bought in Germany) and it has similar problem\n* Tried factory reset, clear caching.\n\nOne interesting finding - when you use Google Assistant to send SMS in Russian(whole system is in Russian) in Google Assistant it shows message but when it is sent in SMS client sent message is empty and of course on receiver's it is empty.\n\nAny ideas?",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 3a",
+    "post_time": "2019-09-07T20:12:58.77738+00:00",
+    "reply": "1 Reply"
+}

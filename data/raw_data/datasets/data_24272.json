@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3479116/pixel-2-app-updates-not-working-properly?hl=en",
+    "title": "Pixel 2 app updates not working properly",
+    "content": "On my Pixel 2, the following things started happening with app updates:\n1. they started taking a long time.  Instead of downloading and installing quickly like before, they will download to 100% and then wait minutes before installing.\n2. they no longer update automatically each night when I plug the phone onto the charger.\n3. when there are multiple updates available, the phone sometimes stops installing them before they're all done.  It used to install them all every time.\n\nI tried manually stopping the Google Play app and clearing its cache, but still it's acting weird.  Has anyone experienced anything like this?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-04-03T02:34:09.224106+00:00",
+    "reply": "2 Replies"
+}

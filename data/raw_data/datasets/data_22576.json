@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/32584490/pixel-3xl-shuts-down-when-screen-sleeps-but-not-when-playing-audio-or-plugged-in?hl=en",
+    "title": "Pixel 3XL shuts down when screen sleeps, but not when playing audio or plugged in",
+    "content": "The phone turns itself off, within seconds of being locked or the screen turning off due to inactivity. It starts up again just fine. This started happening 2 days ago - no trigger event as far as I can tell.\n\nCuriously, it stays on if audio is playing, or if plugged into a PC via USB, but not when plugged into a plain charger. This makes me think it's some particular trigger or event in the system that is causing it to turn off.\n\nProblem persists in safe mode. Have done factory reset & phone is fully updated. Phone has an aftermarket screen replacement which has been working fine until now.\n\nAny ideas before looking at replacement? Thanks.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3 XL",
+    "post_time": "2020-03-06T23:13:36.742033+00:00",
+    "reply": "1 Reply"
+}

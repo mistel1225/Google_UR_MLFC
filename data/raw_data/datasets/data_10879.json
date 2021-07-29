@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/80474022/esim-download-connection-error?hl=en",
+    "title": "eSIM download, connection error.",
+    "content": "Hi,\n  I work for and eSim manufacturer (Oasis Smart Sim) and we finally officially have our own eSim profile certified server (DP+) with some profiles from our customers.\n  When I try to download our profile from a Pixel 4 a using Sim Manager  and I received the following error code: operation code 9, error code 10014. Look at Android developer Website, it seems that this is related to ERROR_CONNECTION_ERROR: link.\n\nWould you be able to confirm to:\nme that the problem is indeed about a connection error? \ngive me more detail on why this could be happening? I can telnet my server address from my device. Is there some kind of access list that restrict which profile server a phone can get eSim from?\n\nHappy to share my server URL and even activation code in private!\n\nCheers,\n\nMaxime.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
+    "post_time": "2020-11-02T06:02:49.108985+00:00",
+    "reply": "1 Reply"
+}

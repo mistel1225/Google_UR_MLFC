@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/89876080/android-speech-speechrecognizer-stopped-working-after-december-2020-security-update?hl=en",
+    "title": "android.speech.SpeechRecognizer stopped working after December 2020 security update",
+    "content": "Since the December 2020 security update, user of my app with Pixel devices say the speech recognition feature fail with SpeechRecognizer.ERROR_CLIENT. It worked prior, and still works on my non-Pixel device with the same Google app version 11.41.10.23.arm64. Please advice on how to fix, or workaround the issue.",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 3 XL",
+    "post_time": "2020-12-22T09:34:41.165422+00:00",
+    "reply": "6 Replies"
+}

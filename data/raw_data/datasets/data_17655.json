@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/66051602/motion-from-finger-scrolling-is-insane?hl=en",
+    "title": "Motion from finger scrolling is insane",
+    "content": "This problem affects several apps, but is most evident, and representative, in email.\n\nI slide my finger up/down my screen to scroll the inbox list. To my eye, the motion is perfectly along the y-axis, but of course there is always going to be an erroneous sideways (x-axis) component. \n\nAndroid takes that tiny, visibly almost imperceptible x-axis motion, exaggerates it, and uses it to toss individual emails sideways out of the list (which I have set up for delete). \n\nIn apps like that, in contrast to, eg, photo editing, gestures are usually all x- or y-axis; it seems like there should be a threshold of sorts before a mixed-axis motion is interpreted. \n\nAnyone else have this issue? Or solution?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3a XL",
+    "post_time": "2020-08-20T20:14:54.275513+00:00",
+    "reply": "0 Replies"
+}

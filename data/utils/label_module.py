@@ -4,6 +4,7 @@ import os
 from pathlib import Path
 from sync_module import label_data, create_label, read_json
 import numpy as np
+import textwrap
 
 H = "-h"
 PC = "-pc"
@@ -24,7 +25,8 @@ def print_label(label_list):
 
 
 def print_context(sample_data):
-    print("---------title---------\n{0}\n---------post_time---------\n{1}\n---------content---------\n{2}".format(sample_data['title'], sample_data['post_time'], sample_data['content']))
+    content = textwrap.fill(sample_data['content'], width=80)
+    print("---------title---------\n{0}\n---------post_time---------\n{1}\n---------content---------\n{2}".format(sample_data['title'], sample_data['post_time'], content))
     print("---------url-----------\n{0}".format(sample_data['url']))
 
 def label_new_data(sample_num, data_path, index_path, label_path, output_path):

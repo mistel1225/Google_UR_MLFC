@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/25402730/phone-damaged-in-volcanic-eruption-in-new-zealand-help-needed-getting-out-of-boot-loop-soft-brick?hl=en",
+    "title": "Phone damaged in volcanic eruption in New Zealand - help needed getting out of boot loop/soft brick",
+    "content": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12293327. My brother was injured in this eruption and I've been trying to get photos of his honeymoon backed up. His phone worked after I charged it but only for a brief time. When I went to charge it that night, I noticed the screen was all black but it was still powered on as I could feel it vibrate with I plugged it in. I forced it to restart and the Google logo was displayed, but it was unable to boot properly. It goes into recovery mode and says the data may be corrupt. I've gone into fastboot and tried all of the options there but always end up at the same place. I need to find a way to sideload something that will get the phone to boot so photos/videos of their honeymoon prior to the eruption can be recovered. I don't want to just reload the OS and reset the device but my knowledge of finding the appropriate software to load toavoid losing data is lacking. I have Android Studio on my computer and it recognized the phone as being connected when its in fastboot mode but I'm kind of lost now. Any help would be greatly appreciated.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2020-01-12T05:35:47.23235+00:00",
+    "reply": "2 Replies"
+}

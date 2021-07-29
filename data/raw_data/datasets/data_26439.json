@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/19070327/since-the-update-to-android-10-my-bluetooth-will-no-longer-play-media-in-the-car?hl=en",
+    "title": "Since the update to Android 10 my Bluetooth will no longer play media in the car.",
+    "content": "Since updating to Android10 the media side of my phone won't play via Bluetooth in the car. Phone calls work fine but any sort of media such as Spotify or YouTube will instantly pause, like someone is hitting the play button again as soon as I've pressed it.\n\nI've tried all the suggestions mentioned here like disabling the AD2P hardware offload and restarting my phone. Also tried a suggestion of changing to AVRCP version 1.6 after forgetting my car from Bluetooth devices and restarting.\n\nMy phone seems to work with newer Bluetooth devices so I'm wondering if an option somewhere has somehow pushed my phone into a newer codec or something that my car doesn't know what to do with? \n\nAppreciate any other suggestions. My last resort is a complete wipe but that's not ideal...\n\nThanks!",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2019-11-09T09:24:53.17817+00:00",
+    "reply": "3 Replies"
+}

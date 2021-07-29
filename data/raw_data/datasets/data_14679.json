@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/75543426/error-cannot-interpret-qr-code-in-transfer-accounts-how-do-i-transfer-my-codes-all-at-once?hl=en",
+    "title": "Error \"Cannot interpret QR code\" in \"Transfer accounts\". How do I transfer my codes all at once?",
+    "content": "I have a new Pixel 4a and an LG G6 both with version 5.10 of Authenticator.\n\nOn the LG G6 I tap the three dots in the upper right hand corner and tap Transfer accounts. I then am able to tap Export accounts, and I enter my pin. With all the checks selected I tap Next and am given 2 QR codes.\n\nOn the Pixel 4a I tap Get Started and tap \"Import existing accounts?\" at the bottom right of the screen(although tapping \"Scan a QR code\" brings me to the same cross hairs that end in the same result). I tap \"Scan QR code\" and line up the phones. \n\nThe Pixel 4a vibrates and scans the first QR code and I tap \"Next\" on the LG G6 to get the second QR code. The Pixel 4a  vibrates again and shows a shield and message that says \"Error\", \"Cannot interpret QR code\". And the only option is to tap \"Okay\". That takes me back to where I would tap the three dots.\n\nI have tried multiple brightness's on the LG G6 which has a really good resolution(ppi) with no cracks in the screen, and even took the screen protector off thinking that might be the problem. I know the pixel 4a has a good camera so that can't be the problem. I have more than a dozen code that I need to transfer so I'd like to not have to do them one by one.\n\nWhy isn't this working?",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 4a",
+    "post_time": "2020-10-07T22:41:16.621637+00:00",
+    "reply": "1 Recommended Answer"
+}

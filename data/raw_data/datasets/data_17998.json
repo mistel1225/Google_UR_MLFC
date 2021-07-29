@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/61196099/is-it-possible-to-set-static-ip-for-ethernet-connection-on-google-pixel-phones?hl=en",
+    "title": "Is it possible to set static IP for Ethernet connection on Google Pixel phones?",
+    "content": "I have a need to hook up an Ethernet connection via a usb-c adaptor and set an static IP address for that connection. I can't seem to find the ability to do that even though AOSP supports it. Am I missing a step or is this not possible in the Pixel line? How can this feature request be made?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2020-07-26T16:54:38.079282+00:00",
+    "reply": "2 Recommended Answers"
+}

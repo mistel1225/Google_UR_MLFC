@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2826033/pixel-xl-bricked-and-recovery-lost-with-bootloader-and-oem-locked-please-help?hl=en",
+    "title": "Pixel XL bricked and recovery lost with bootloader and oem locked , Please Help",
+    "content": "I briked my Pixel XL by locking bootloader in fastboot !  I can enter to the bootloader but it's locked. The recovery mode is broken, if I try enter to the recovery mode the phone starts rebooting.\nOf course, I can't restore with a OTA zip file becose I can't do \"adb sideload image.zip\" because, as well I said, I can't enter to recovery mode.\nPlease Help me , sadly i'm living in iran and cant use RMA",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2019-03-22T07:59:26.767933+00:00",
+    "reply": "15 Replies"
+}

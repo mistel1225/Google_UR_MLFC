@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/23889397/i-need-help-using-dsu-on-a-2016-pixel-phone?hl=en",
+    "title": "I need help using DSU on a 2016 Pixel phone",
+    "content": "I want to try out stock android 10, following this guide: https://developer.android.com/topic/dsu but the output shows some stuff about Java, along with \"No intent supplied\". The main reasons (I think) this doesn't work are:\n-DSU isn't supported (console doesn't output anything once i enable the flag)\n-The bootloader is locked (I did ask a friend who had the bootloader already unlocked to check on a Pixel 3, same output as mine)\n-Most probably wrong slot, since changing it in the command he entered returned nothing, not even a notification.\nI know this might not be the best place to ask, but if anyone is interested in following along with me, please let me know so we can figure it out together.\nThanks in advance!",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2019-12-26T19:48:53.569239+00:00",
+    "reply": "0 Replies"
+}

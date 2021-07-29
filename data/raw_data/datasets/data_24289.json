@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/25777409/google-assistant-is-doing-commands-as-searches?hl=en",
+    "title": "Google Assistant is Doing Commands as Searches",
+    "content": "For the longest time, my Google Assistant has worked well. But recently, it's started doing my voice commands as searches instead of actually doing the command.\n\nFor instance, I would say \"Call Jane Doe\" and instead of calling that person that is in my contacts as it always has, it will do a Google Search for \"call Jane Doe\". When it first started doing this, I restarted my phone and it seemed to go back to working normally, but now it's doing it with increasing frequency, and restarting is not fixing the problem. I tried uninstalling the Google app (well, putting it back to its default state), and then re-downloading the updates for it, but that hasn't solved the issue either.\n\nAny help would be appreciated.\n\nFor the record, here are the steps to my problem:\n1. Squeeze phone to bring up Google Assistant\n2. Say \"Call Jane Doe\"\n3. Google Assistant does a Google Search for \"call Jane Doe\" instead of actually calling Jane Doe from my contacts.",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 2",
+    "post_time": "2020-01-16T00:52:18.740706+00:00",
+    "reply": "1 Reply"
+}

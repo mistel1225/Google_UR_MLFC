@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1742006/usb-c-otg-support-android-pie?hl=en",
+    "title": "USB C OTG Support Android Pie",
+    "content": "Hi, I have a Pixel 2 XL. I am tryin to connect a micro SD reader. I have a Kingston Mobile Lite Duo 3C https://www.kingston.com/en/flash/readers/fcr-ml3c. When connecting on the USB C side, the phone shows some usb notification but the microsd card is not mounted. When using the full size USB and the provided USB C to full size usb adapter the microsd mounts fine. Maybe has something to do with OTG hardware cofiguration provided by the adapter. Please let me know if you know how to solve this. I read that OnePlus has a software option to enable OTG. I also tried the GoPro Quick Key reader, the same issue occurred. Thanks in advanced!",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-02-19T18:31:40.425882+00:00",
+    "reply": "0 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/86299699/network-connectivity-issues-following-5-nov-security-update?hl=en",
+    "title": "Network connectivity issues following 5-Nov security update",
+    "content": "Several times a day, my Pixel 3a will drop all network connection. This is both WiFi and 4G. There are no indicators on the phone that there is a connectivity issue. I cannot access the internet, send/receive texts or make/receive phone calls.\n\nI turn off / on WiFi on the phone, restart my router, force the phone to try to search for a network provider. I have wiped my network connection settings several times. The only way to reconnect to WiFi and 4G services is to restart my phone. I haven't tried starting in safe mode as a restart clears the issue and I'm not sure what value that would add. I haven't done a full factory reset of my phone either.\n\nThis has only started since the security update at the beginning of November. My partner has a Pixel 3XL and is noticing the same issue.\n\nIs there a known bug in the latest security release that affects internet/network access? What else can I try to fix this?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2020-12-01T15:38:50.771411+00:00",
+    "reply": "2 Replies"
+}

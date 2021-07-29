@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/33156129/data-usage-reported-differently-in-app-wifi-settings?hl=en",
+    "title": "Data usage reported differently in App/WiFi settings",
+    "content": "Hello,\nI noticed differences in the Data usage (both WiFi and mobile) report if checking it through WiFi settings or App settings: Google Play Services, in the last month, consumed:\n- through App Settings: 34MB\n- through WiFi Settings: 12,86GB\n  Is it normal such a difference?\nMay it be responsible of the battery drain I notice while casting Netflix, YouTube, Spotify etc to my chromecast (correctly detected by Google Home)?\n\nI attached the screenshots containing the data I cited (, WiFi Settings, WiFi Settings)\n Thanks for any suggestion.\nFlavio\n\nApp Settings:\n\nWiFi Settings:",
+    "is_img": 1,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2020-03-11T16:10:10.377621+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/100490909/finish-signing-in-to-continue-will-not-open-the-authenticator?hl=en",
+    "title": "Finish Signing in to continue will not open the authenticator",
+    "content": "The issue I'm having is that all accounts from my business domain (which I have imported to google so they function like google accounts) will not sync. All my personal google accounts have synced. I have checked the Google Admin portal for the business domain and have approved and confirmed all sign-in attempts from this new device. \n\nI have left it overnight.\n\nI tried turning off and on again 2 step verification. \n\nThe device (pixel 4a) is not showing up as connected on the list of devices in the domain administrator settings for all domain accounts but it is showing as connected in the device list of each individual account when I log into them individually on the tablet. \n\nOn the phone itself:\nSettings>Accounts>*select account*>Google Account \nThis loads with a \"Finish signing in to continue: Something went wrong and you need to sign in again. Sign in. (with hyperlink)\"\n\nWhen I click 'Sign in' It struggles and fails to open the authenticator.\n\nMy \"Find my phone' is disabled.\n\nThe option to 'generate a security code' via google play services says 'there was a problem generating a security code'.\n\nI really am at a loss and do not want to factory reset again. I should not have to to solve this issue.\n\nThank you for your input.",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 4a (5G)",
+    "post_time": "2021-03-02T20:07:03.239672+00:00",
+    "reply": "1 Recommended Answer"
+}

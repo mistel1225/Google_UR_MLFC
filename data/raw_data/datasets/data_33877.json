@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1320808/third-party-apps-not-working-with-wifi?hl=en",
+    "title": "Third Party apps not working with Wifi",
+    "content": "found potenial fix...all woriking finally for me From my extensive troubleshooting I've done, this wifi\\app connectivity issues lead me to find the culprit as being the modified MTU settings on my router. I have yet to find the reasoning as to why the Pixel3\\XL or Android Pie in general are more sensitive to packet fragmentation. My other PCs, android (8) and Apple devices had absolutely no issues with in my mesh network. Keep in mind that MTU settings can be Internet provider specific. You will need to find the optimal setting for your home network. Mine on Spectrum Cable has a default 1500. I've made modifications for gaming to assist in bufferbloating which in turn caused issues with my Pixel 3 phones. Once i reverted back to the default MTU setting, all 3rd party apps began working again. No more Netflix login issues, or office 365 Webmail issues, or not being able to access encrypted sites. All working again. We are back loving our Pixel 3's again.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2019-01-28T03:15:36.207057+00:00",
+    "reply": "1 Recommended Answer"
+}

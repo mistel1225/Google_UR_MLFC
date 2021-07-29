@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/24991039/pixel-microphone-not-working-selectively?hl=en",
+    "title": "Pixel microphone not working selectively",
+    "content": "Google Pixel microphone works only in safe mode or the first few seconds after restarting the phone.\n\nFactory reset the phone and had the same issue. Updated all default apps, then I went through and disabled all the default apps one by one. That did not solve the problem either.\n\nPhone will allow Bluetooth headphones to pair but will not allow that microphone to be used either.\n\nAny ideas?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2020-01-08T02:11:19.143795+00:00",
+    "reply": "0 Replies"
+}

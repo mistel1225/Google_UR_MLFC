@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9891940/pixel-3a-freezing-with-black-screen-when-in-pocket-or-facing-down?hl=en",
+    "title": "Pixel 3a freezing with black screen when in pocket or facing down",
+    "content": "I, along with many other users, experience our fairly new Pixel 3a freezing randomly when either worn in pocket with no apps active, or when lying on a flat surface, facing down, with no apps active.\n\nThe device screen is black and the device does not respond to input. The only way to regain control is to make a hard reset by pressing the power button for 20 seconds or more. The device then restarts. By checking battery usage, one can see that the device is still on, draining battery, but inactive (see attachment) during the freezing.\n\n\n\nIn my case, I first experienced the issue after about 5 days of use. Then it worked properly for another few days until the issue returned with escalating frequency. It finally crashed as described 8-10 times in one day.\n\nAfter a factory reset, the problems went away for some 14 days until they started appearing again, with a few crashes during nighttime. Daytime, the device still worked properly. After another 14 days, I've now started to experience crashing when in pocket again. \n\nOn Android Pie, July 2019 security update.\n\n\n\nThere's been NO WORD whatsoever by Google on this issue. \n\nThat is what we're waiting for.",
+    "is_img": 1,
+    "category": "Device Performance, Google Pixel 3a",
+    "post_time": "2019-07-14T18:36:46.156963+00:00",
+    "reply": "2 Recommended Answers"
+}

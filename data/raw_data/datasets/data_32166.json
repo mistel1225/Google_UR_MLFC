@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/4048192/cofiguration-on-pixel2xl-with-android-q-coping-data-from-a-cabled-device-loops?hl=en",
+    "title": "Cofiguration on Pixel2XL with Android Q coping data from a cabled device loops",
+    "content": "I've tried to configure from zero a Pixel2XL with Android Q Beta 2 and coping data and settings from another phone, Xiaomi MI A1 with Android One, using the cable provided.\nThe process seems to run in fact I see a screen were there are a message that confirms that the copy of data from the older phone is done but at a certain point it try to find new software update and then restarts from the previous screen and so the loop begin.\n\nThe problem is that the developer options are not enable same as the oem unlock in fact I can not use fastboot commands in order to restore Android 9 Pie or any other factory image.\n\nAny ideas on how resolve?\nThanks in advance",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 2",
+    "post_time": "2019-04-12T15:17:55.560205+00:00",
+    "reply": "3 Replies"
+}

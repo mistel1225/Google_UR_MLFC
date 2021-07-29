@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/98247089/usb-settings-android-11?hl=en",
+    "title": "USB settings Android 11",
+    "content": "Ever since Android 11 update, my phone (Pixel 4xl) is useless in my car (have already reached out to Android Auto team). There is some issue with USB defaults that triggers automatic disconnection of device from car (charging continues). A new notification pops up now from Android system settings indicating USB connection, which never happened before. The options are available, if you switch to \"Connected Device\" or \"This Device\" it grays out all options and no changes can be made. It defaults to \"No File Transfer\" and there is not an option to change the default charging option. If you try to select \"File Transfer / Android Auto\" it connects for about one second, causes Android auto pop up on phone, then disconnects and reverts to \"No File Transfer\". I never had to play with USB settings before and had no issues with my phone and Android Auto. Serious issue, please please fix! Phone / car combo is completely useless at this point. Android 11 and Android Auto both need to work on this. There are unanswered, stagnant threads everywhere and hundreds of users of various vehicles and Android phones with these problems!",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel",
+    "post_time": "2021-02-15T18:14:47.287825+00:00",
+    "reply": "2 Replies"
+}

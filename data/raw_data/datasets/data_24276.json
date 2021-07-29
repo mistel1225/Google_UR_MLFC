@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/4301943/can-t-update-apps-on-play-store-without-clearing-app-store-storage-first?hl=en",
+    "title": "Can't update apps on Play Store without clearing app store storage first",
+    "content": "I have a Pixel 1 phone with latest Android 9 (April 5, 2019 security patch).  Play Store version is 14.3.18-all [0][PR]241092342.  I believe these are the latest version of everything.  I still have 9GB of storage free on the phone.  I've set the app store to download on wifi only.\n\nI noticed around the time of the last security patch (early April), that all my apps updates are queued up and stuck on \"download pending...\" with no obvious download happening.  Phone and Play Store restarts do not fix this.  The only thing that fixes it is to go to the app info and clear storage and cache.  Then the apps begin to download and install, and the queue clears.\n\nBut the next time I look at Play Store, there is another queue of apps stuck on \"download pending...\".  I have to go and delete the storage again in order to clear the cache of apps neeeding updates.  But I need to keep monitoring the Play Store to see if apps are updating or not?\n\nHow do I tell what is the pending download or how do I fix this?",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2019-04-16T15:03:00.211547+00:00",
+    "reply": "3 Replies"
+}

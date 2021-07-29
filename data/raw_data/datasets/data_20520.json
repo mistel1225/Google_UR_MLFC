@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/53770999/mobile-internet-issues-since-may-update-some-apps-work-fine-others-and-web-pages-do-not?hl=en",
+    "title": "Mobile internet issues since May update. Some apps work fine. Others and web pages do not",
+    "content": "So after one of the May updates I've not been able to access traditional websites while on mobile data. I get the ERR_CONNeCTION_TIMEOUT in chrome but no more detail than that. Some applications have also been having connectivity problems while on mobile data. On WiFI, everything is fine.\n\nStrangely, AMP pages appear to load fine and FB related applications (WhatsApp, IG, etc) also work fine on mobile data so I do not believe it is a provider issue. Just in case they sent me a new SIM and that has not resolved the issues.\n\nLooking at various phone signal applications they all list the connection as good or better and a 4G connection\n\nI've tried:\nA new SIM\nResetting the access point information from my mobile provider\nEnabling and disabling the Lite webpages options \nRemoving possible offending applications\nRemoving and re-adding my google account from the phone\nA Factory reset (and adding nothing back on the phone afterwards)\n\nThe issue still persists. I've seen similar issues reported about the WifI with Pixel phones in recent updates but not the mobile. The phone hasn't suffered any drops or impacts. I'm stumped",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2020-06-16T08:49:36.324629+00:00",
+    "reply": "2 Recommended Answers"
+}

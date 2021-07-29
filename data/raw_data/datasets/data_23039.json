@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/4510141/do-not-disturb-settings-exceptions-always-crashes-settings-keeps-stopping?hl=en",
+    "title": "Do not disturb settings exceptions always crashes \"Settings keeps stopping\"",
+    "content": "Whenever I go to Sound->Do not Disturb->Exceptions, selecting \"Calls\" or \"Messages, events & reminders\" always crashes.  The first time I select either item, I get kicked back to the Sound menu. If I try to go into Do not Disturb->Exceptions and select either item a 2nd time I get the \"Settings keep stopping\" error message. Settings then force closes and I start all over.\nI've sent feedback with system logs. I have tried the following:\n1) Restarted the phone, \n2) Cleared data&cache for settings\n3) Turn off DND, set Turn on automatically to \"Never\". I only have the Sleeping and Event Automatic rules defined.\n4) Restart in safe mode",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 2",
+    "post_time": "2019-04-19T17:14:35.246551+00:00",
+    "reply": "3 Replies"
+}

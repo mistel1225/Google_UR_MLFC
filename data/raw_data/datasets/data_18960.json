@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/59869885/bluetooth-repeatedly-disconnecting-from-fossil-smartwatch-won-t-reconnect-without-reboot?hl=en",
+    "title": "Bluetooth repeatedly disconnecting from Fossil smartwatch, won't reconnect without reboot",
+    "content": "Hi,\nI recently bought a new smartwatch, a Fossil Hybrid Collider. I'm having problems with it repeatedly disconnecting. At least once a day, I notice that the widgets are not updating and notifications aren't being received. When I open the Fossil app, the phone is disconnected. When I try to connect, I get a failure message. Under Bluetooth settings, I can see the watch, but can't connect to it there either.\n\nThen the really strange behavior begins: I can toggle Bluetooth off system-wide, but then I'm unable to turn it back on. It simply doesn't respond at all.\n\nThe only way to reactivate Bluetooth and reconnect the watch is by rebooting my phone.\n\nFollowing recommendations online, I've disabled battery optimization for the Fossil app and Bluetooth, but the problem persists. I found a Reddit thread indicating that this is an issue with the Pixel's Android 10 update, specifically the Bluetooth LE stack, and allegedly the developers told users that they have no plans to address the problem. Anybody know of a workaround? Am I going to have to buy a non-Pixel phone to use LE devices?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2020-07-19T14:27:11.108251+00:00",
+    "reply": "4 Replies"
+}

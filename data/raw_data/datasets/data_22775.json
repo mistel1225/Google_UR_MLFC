@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/31683050/purchased-a-bricked-pixel-3-xl-i-need-some-expert-help-please?hl=en",
+    "title": "Purchased a bricked Pixel 3 XL, I need some expert help please!!",
+    "content": "Alright.  I purchased a Pixel 3 XL from a private seller online.  I have no idea what someone did to this phone but here's the problem(s).  It won't turn on except for one screen that says \"Can't find a valid operating system, phone won't start.\"  I can access the bootloader but that's basically it.  I can get fastboot to recognize the device, I can even get chrome to see the device too.  But the bootloader is locked and it won't let me unlock it.  I use the command \"fastboot flashing unlock\" and it throws an error.  I can't flash a factory image because it says the bootloader is locked.  And the worst part of all, is there is no recovery at all on the phone!  When you select recovery mode, it just boots to that screen saying there is no operating system.  So therefore I can't even adb sideload a recovery or an OTA or anything!  So I'm kinda stuck between a rock and a hard place here.  I even took the phone to ubreakifix and the dude gave me a link to a site that will flash a factory image to the phone and I was so excited about it but it won't work because apparently the phone was never updated to android 10 because there is no Rescue mode.  There has GOT to be some kind of backdoor.  Some way to at least get a recovery back on the phone.  Some kind of command that'll work.  Also, I might add the phone is no longer under warranty as of like 2 weeks ago, ugh.  I hope somebody here has a solution.  Otherwise I guess I just have me a rather expensive paperweight.  Thank you!",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 3 XL",
+    "post_time": "2020-02-28T10:16:20.799768+00:00",
+    "reply": "2 Replies"
+}

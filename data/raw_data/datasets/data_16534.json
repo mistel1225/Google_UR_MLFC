@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/70323931/pixel-2-black-screen-during-call-proximity-sensor-or-firmware?hl=en",
+    "title": "Pixel 2 - Black screen during call - proximity sensor or firmware?",
+    "content": "Noticed a couple of days ago that when I am on a call, the screen stays black and I cannot interact with it - can't hang up, can't select anything.  I did some research, and it appears to be tied to the proximity sensor?  I've tried several things - downloaded the ap that tests the sensor (it says 0cm at all times), did a factory reset (which of course is a major pain), played with the display auto-brightness, went into Developer mode and turned off all sensors.  Nothing has helped.  Right now it looks like I will need another phone.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2020-09-10T17:06:34.691397+00:00",
+    "reply": "1 Recommended Answer"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/88877542/pixel-4-xl-no-longer-shows-charging-rapidly?hl=en",
+    "title": "Pixel 4 XL no longer shows \"Charging rapidly\"",
+    "content": "My Pixel 4 XL is pretty new.  I bought it early Oct 2020.\nIn the Settings > Battery screen, it used to briefly show \"Charging rapidly\" when charging began.\nIt was just brief.  Then the estimated charging time would replace it, I recall.\n\nIt was useful info.\nI could tell if the phone was plugged into a usb PD port.\nOr the phone was on a good Qi wireless charger.\n\nBut since recently, I think since this recent Dec update, it no longer displays that.\nWas that text string \"Charging rapidly\" removed by this update?\nOr is my phone suddenly broken?\n\nI'm attaching a screenshot from Oct 15 which shows it.\nI don't know if the pic will show in this post.\nIf the pic is in this post, you'll see what I mean.\nThat \"Charging rapidly\" text no longer appears while charging.\n\n\n\n\nNow the icon looks really different.  (Dec 16).\nSee below.\n\n\n\nI just checked.  Right now at this very moment, I get that same \"59 min left until charged\"  (pic above) regardless if I plug into the original Pixel 18W charger, or into an unpowered USB 2.0 port, or put the phone on a 15W Qi wireless charger.\n\nThis seems to mean the phone can only slow-charge now by any charging method.  The USB 2.0 port can supply only 2.5W max.  Yet the Pixel 18W charger is estimated to fully charge at the same speed as the USB 2.0 port.",
+    "is_img": 1,
+    "category": "Battery and Power, Google Pixel 4 XL",
+    "post_time": "2020-12-16T07:20:49.226521+00:00",
+    "reply": "24 Replies"
+}

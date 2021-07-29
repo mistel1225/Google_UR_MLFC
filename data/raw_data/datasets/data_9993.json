@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/89342113/audio-pauses-because-of-cell-signal?hl=en",
+    "title": "Audio Pauses Because of Cell Signal?",
+    "content": "I just moved from my beloved Pixel 2 to a Pixel 4a 5G.  Using the same podcast and music apps (Pocketcasts and YouTube Music) that I've used for at least a year on the Pixel 2 with no issues, I have an inconvenient bug with both apps on the 4a5G.  When the phone has lost its cell signal, then reconnects its signal, the audio will pause.  Please keep in mind that this is downloaded content, not a buffering issue.    \n\nIt's easy enough to press play to get audio going again, but becomes annoying quickly.  I live in a hilly area, so my phone might lose a cell signal briefly a few times on a 5 minute drive to the grocery store.  My hypothesis is that the problem has to do with cell signals.  Just looking at the icons in the status bar, the audio will continue playing when the phone loses its signal, but will pause immediately once a cell signal icon pops up again.  It's as if the phone equates reconnecting to a cell signal to disconnecting from bluetooth (even though the phone's bluetooth connection is stable).  \n\nAny thoughts?  Is this a system/phone bug, or a setting that I'm somehow missing?  Thanks for any and all help!",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4a (5G)",
+    "post_time": "2020-12-18T18:35:26.202427+00:00",
+    "reply": "0 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/10115361/issue-with-connecting-android-devices-to-wifi?hl=en",
+    "title": "issue with connecting android devices to WIFI",
+    "content": "ello All,\n\nI am facing a weird issue with mobile devices (mainly android) connecting to internet.\nbelow is my network diagram\n\n \n\nIssue 1:\n* when my mobile device connect to main router AC86U it says connected but none of the apps works for ex: facebook, youtube, whatsapp, news, speedtest\n* i will b able to open chrome and browse without issues\n* this happens mainly on Android devices (mobiles and tabs) , ios, laptops works fine\n* if i put private dns on android device it will connect fine (but private dns is available only in newer devices) \n\nIssue 2:\n* i wanted to extend my WIFI and planned to use AC3200 in AP mode\n* i tried using both dhcp assigned and manual for AP\n* i use same SSID for all channels and both routers with smart connect enabled\n* here as well my android device shows connected no internet\n* i am still able to brows websites manually,but no apps working\n\ni have tried a lot of combinations but nothing seems helping. any help is greatly appreciated.",
+    "is_img": 1,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-07-18T03:22:35.303549+00:00",
+    "reply": "2 Recommended Answers"
+}

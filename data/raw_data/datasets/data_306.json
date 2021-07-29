@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/114161340/wifi-data-drop-randomly-and-phone-will-not-reconnect?hl=en",
+    "title": "Wifi & Data drop randomly and phone will not reconnect",
+    "content": "My wifi and data randomly disconnect at least once per day. When I attempt to turn wifi back on, the phone will toggle it off within a few seconds. If I navigate into Settings, the app will inevitably freeze and need to be closed. Sometimes I will even get a popup that says the System UI isn't responding. On the rare occasions that I can make it in the Settings Wifi page, clicking the Wifi toggles will not actually turn Wifi on, and the phone will not register that I am trying to connect to a network. As soon as I navigate away from the page, it will still show that Wifi is turned off.\n\nRestarting the phone has occasionally proven successful, but sometimes it takes 5-6 restarts before I can reconnect.\n\nI was advised to reset my wi-fi, mobile & bluetooth settings, but it seems that my phone froze while attempting this. Twice I tried to reset - The loading screen stayed up for 10+ minutes each time. My phone had be restarted in order to be used. These attempts at resetting the network did not allow me to reconnect to wifi afterward.\n\nThis phone is only 2 weeks old and it has turned into a brick at least once per day with no ability to connect to wifi or data. Today is the first time that, after over an hour, I have not been able to reconnect at all.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
+    "post_time": "2021-06-19T20:46:17.297019+00:00",
+    "reply": "5 Replies"
+}

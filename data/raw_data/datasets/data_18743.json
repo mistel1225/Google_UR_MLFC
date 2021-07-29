@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/61533039/unable-to-use-mobile-data-when-connected-to-wifi-network-with-no-internet?hl=en",
+    "title": "Unable to use mobile data when connected to WiFi network with no internet.",
+    "content": "If I connect to a WiFi network without internet it is very difficult to maintain a data connection through LTE. Upon connecting to said WiFi I receive a notification alerting me that it has no internet connection. If I select \"stay connected\" it automatically disables my LTE data. If I ignore the notification it will disconnect me from that WiFi network and automatically connect to a saved network with an internet connection. The only work around I have found is to forget any saved networks within range. I can then stay connected to the WiFi that has no internet while also using LTE data. This is not ideal. I have enabled every option I can find for keeping mobile data active but still not working correctly. This feels like a bug in the Android OS. Any insight from the community would be helpful.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel",
+    "post_time": "2020-07-28T11:43:05.747422+00:00",
+    "reply": "0 Replies"
+}

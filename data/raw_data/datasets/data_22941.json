@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/5778678/fingerprint-sensor-always-reported-as-dirty?hl=en",
+    "title": "Fingerprint sensor always reported as dirty",
+    "content": "My fingerprint sensor stopped recognizing either of the enrolled fingerprints. I cleaned the sensor, firstly just with a clean piece of tissue paper, and then with a piece of tissue paper moistened with isopropyl alcohol, but that made no difference after either cleaning. I deleted the two existing fingerprints and tried to add one again, but the sensor does either does not recognize when my finger is placed on the sensor, or reports that the sensor is dirty. I also booted into safe mode, but the problem is the same there - can't enroll a new fingerprint. When I run the devcheck app, it reports that the fingerprint sensor is there...\n\nAny suggestions?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-05-09T08:11:24.169229+00:00",
+    "reply": "13 Replies"
+}

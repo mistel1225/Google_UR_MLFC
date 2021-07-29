@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/52367259/proximity-sensor-is-not-working-properly?hl=en",
+    "title": "Proximity Sensor is not working properly",
+    "content": "So my proximity sensor does not seem to be working properly. Any time I try to call someone the screen goes completely black, no matter whether my face is close to the phone or not. I cannot hang up since the screen continuously stays black and I can not exit this black screen in any way. Hence I always have to wait for the other person to hang up, and if I get voicemail I cannot hang up or type in any keys and I just have to wait it out. This is getting very annoying.\n\nI thought potentially my screen protector was to blame and that's why I haven't posted anything in this help center until now. However today I took my screen protector off and the proximity sensor still doesn't seem to work.\n\nI have tried everything, from rebooting my phone, seeing if it works in safe mode, cleaning my phone. Nothing seems to work. I downloaded AndroSensor and the value of my proximity sensor is always 0, which should only happen when my face is close by.\n\nHow can I fix this issue? Thanks in advance.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3a",
+    "post_time": "2020-06-09T15:45:26.501828+00:00",
+    "reply": "3 Replies"
+}

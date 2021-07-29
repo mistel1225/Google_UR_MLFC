@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/15320829/lte-not-working-on-pixel-3xl-using-at-t-network-after-september-25th-android-10-update?hl=en",
+    "title": "LTE not working on Pixel 3XL using AT&T network after September 25th Android 10 update.",
+    "content": "2nd UPDATE: NOVEMBER 2019 UPDATE BROKE LTE AGAIN! Thankfully the same fix worked a second time, but my patience with Android has just about run out. \n\nUPDATE: FIXED\nThank you Charles Zhang for the solution that I have copied and pasted below...\n\n\"So I got my to switch back to LTE on AT&T, first check your ATT version if it is att_us-10000000055.2 this is version that seems to be locking everyone into 4G. \nYou will need to clear your cache and data from Google Play Services, once that's done turn your phone on Airplane Mode and reboot. Turn off airplane mode and it should update to att_us 61.2 and show LTE after a few minutes\"\n\nORIGINAL POST BELOW...\n\n\n\nI understand all the workings of the phone and therefore have exhausted all routes to fix short of calling AT&T. The only mobile network options I have at this point is 4G and 3G. I see people are having all sorts of problems after the update and I'm reaching out to anyone who is having the same problem as myself. I had this problem briefly after the original Android 10 update in early September, but a restart fixed it.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2019-09-26T00:54:24.151185+00:00",
+    "reply": "1 Recommended Answer"
+}

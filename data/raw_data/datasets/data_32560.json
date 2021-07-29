@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3309236/how-can-i-fix-cyclic-redundancy-errors-in-internal-storage?hl=en",
+    "title": "How can I fix Cyclic Redundancy Errors in internal storage?",
+    "content": "I was in the process of grabbing some videos and photos from my wife's Pixel when I noticed that a bunch of the files could not be copied due to a Cyclical Redundancy Errors.  With Windows, I'd just run a chkdsk /f and fix them, but I am finding no App based or software solutions for this problem after extensive searching online.  I've tried mapping the Pixel's internal storage as a network drive, but that doesn't seem to help.  Thanks in advance for your time and help.",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2019-03-31T03:38:17.230319+00:00",
+    "reply": "3 Replies"
+}

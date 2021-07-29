@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/27089732/why-tonemap-curve-not-working-on-pixels?hl=en",
+    "title": "Why Tonemap Curve not working on Pixels?",
+    "content": "Hello!\n\nCode:\nbuilder.set(CaptureRequest.TONEMAP_MODE, CaptureRequest.TONEMAP_MODE_CONTRAST_CURVE);\nTonemapCurve tonemap_curve = new TonemapCurve(red, green, blue);\nbuilder.set(CaptureRequest.TONEMAP_CURVE, tonemap_curve);\nnot working.\nPixel 4 in camera2 info accept 64 curve points and mode CONTRAST_CURVE. But in use not any effect is reached.",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 4",
+    "post_time": "2020-01-29T19:46:08.114613+00:00",
+    "reply": "2 Replies"
+}

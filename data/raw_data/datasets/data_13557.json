@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/78792303/the-phone-is-dialing-too-fast-for-the-device-at-the-other-end-this-speedup-occurred-recently?hl=en",
+    "title": "The phone is dialing too fast for the device at the other end. This speedup occurred recently;.",
+    "content": "I am using Vonage access number to call overseas. To use the service, I call a local number, input a PIN, and then the number I am calling. This has worked for several years. Today Vonage could not recognize the PIN. It is apparent to me that the phone is dialing the PIN much faster than it has in the past, probably faster than Vonage can process. I  an dialing from Contacts. How do I slow the dialing rate?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3a",
+    "post_time": "2020-10-24T00:02:09.710021+00:00",
+    "reply": "1 Recommended Answer"
+}

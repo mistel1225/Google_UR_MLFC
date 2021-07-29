@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/26633377/pixel-2-touch-screen-disabled-after-january-2020-update-tried-factory-reset-already?hl=en",
+    "title": "Pixel 2 Touch screen disabled after January 2020 update (tried factory reset already)",
+    "content": "Just did an update on a Pixel 2. Afterwards the screen loads fine but doesn't respond to touch. Did a hard restart still nothing. Did a factory reset still nothing. Screen is on \"hi there\" but I can't touch start.\n\nThere is also a strange lock icon in the top left corner. Never seen it before. Don't know if it was there before the factory reset. Called Google and visited Verizon. No one seems to know what's up.\n\nI repeat it was working fine before the update.\n\nUpdate: Found the adapter and able to use a mouse to navigate. Finished the initial setup. Lock icon went away. Are there any settings (maybe in accessibility or developer) that would disable the touch functionality of the screen?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2020-01-25T00:50:41.902597+00:00",
+    "reply": "1 Recommended Answer"
+}

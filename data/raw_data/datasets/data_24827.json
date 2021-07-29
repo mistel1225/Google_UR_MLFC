@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3725869/phone-pixel-android-pie-changes-orientation-despite-screen-rotation-turned-off?hl=en",
+    "title": "Phone (Pixel/Android Pie) changes orientation despite screen rotation turned off",
+    "content": "I always keep auto screen rotation turned off (screen locked in portrait mode). However, I do regularly use a few video apps that play \"full screen\" in landscape automatically without having to turn on screen rotation (YouTube, Hulu, Netflix, HBO, etc). Up until recently, when I finished and backed out of the video or closed the app, the display would automatically return to portrait. In the last two or three days (since April 3 or 4), however, whenever I back out of a video or close a video app, the display stays in landscape instead of returning to portrait. And the only way to fix it is to turn screen rotation on, get the display back to portrait mode, and then turn screen rotation off again. \n\nIs this a bug from the April security update?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2019-04-07T06:45:16.876957+00:00",
+    "reply": "13 Replies"
+}

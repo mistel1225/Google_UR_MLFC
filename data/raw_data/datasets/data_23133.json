@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3148141/nfc-not-working?hl=en",
+    "title": "NFC not working",
+    "content": "Hi.\n\nNFC was working on my device and I was able to read/write to NFC stickers without issue.\nSuddenly though it is no longer working. Google Pay continues to work fine however.\n\nWhen I now try to scan an NFC tag I just get no response from my phone and I've tried several apps to try reading the data.\n\nSteps I've tried so far:\n\n- Restarting phone. I have also gone into safe mode which doesn't resolve the issue.\n- Uninstalling all third party NFC apps\n- Turning off Android Beam\n- Checking NFC is enabled in settings\n- Removing the case (though it was scanning with the case on before anyway)\n\nIdeally I don't want to factory reset as this is hassle. Any suggestions would be greatly appreciated.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-03-28T07:06:17.897006+00:00",
+    "reply": "81 Replies"
+}

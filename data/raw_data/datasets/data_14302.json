@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/77097295/recovery-mode-why-does-adb-and-lsblk-not-recognize-my-phone-multiple-computers-cables-tested?hl=en",
+    "title": "Recovery mode - Why does ADB and lsblk not recognize my phone? (multiple computers+cables tested)",
+    "content": "Have a taimen, which is not recognized by adb in recovery mode. Using a linux computer. Sudo doesn't help, neither does killing the server...and I've fiddled with permissions still to no avail. Any recommendations?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2020-10-15T12:30:45.223993+00:00",
+    "reply": "0 Replies"
+}

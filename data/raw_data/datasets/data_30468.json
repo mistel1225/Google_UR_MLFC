@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/6976844/pixel-3-notification-sounds-not-obeying-silent-and-vibrate-rules?hl=en",
+    "title": "Pixel 3 Notification sounds not obeying silent and vibrate rules",
+    "content": "Hi all,\n\nI bought a Pixel 3 about a week ago after having a Nexus 5x for years. The device is up to date with security patches and Android version.\nThe issue I'm having at the moment is that when I activate the \"vibrate\" shortcut it will silence the ringtone and set it to vibrate but notifications still play at full volume. The only way I've found to silence notifications is with Do Not Disturb mode.\nI've looked pretty exhaustively through the settings menu's and think this might be a glitch as when I have the phone on vibrate mode and attempt to change the default notification sound the notification sound won't play (clearly attempting to respect volume settings) but when a notification comes through normally it plays at full volume. This leads me to think there is some decoupling of the actual call to play a notification from the sound settings at any given time.\nI've searched around and can't find any threads with a similar issue so I'm not sure if this is a glitch or whether this is just some specific settings I've toggled accidentally.\nAny help would be much appreciated.",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 3",
+    "post_time": "2019-05-28T23:29:30.401212+00:00",
+    "reply": "1 Recommended Answer"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/89915784/none-option-is-missing-from-the-selectable-list-of-phase-2-authentication-in-wi-fi-menu?hl=en",
+    "title": "'None' option is missing from the selectable list of Phase 2 Authentication in Wi-Fi menu.",
+    "content": "When trying to connect to our corporate network is now asks me to select \"Phase 2 Authentification\" which is not an option at our company. Earlier I could select \"None\" but there is no \"None\" existing in the list. \n\nI've talked to our system administrators, we've checked all possible options and tried different devices but the issue exists only on my Pixel 3a running Android 11 with the latest updates from google.\n\nThis seems to be fixed by Google ASAP.",
+    "is_img": 1,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2020-12-22T15:03:01.736396+00:00",
+    "reply": "3 Replies"
+}

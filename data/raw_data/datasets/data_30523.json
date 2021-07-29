@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/7358967/pixel-2-stuck-in-bootloader-and-wouldn-t-boot-further?hl=en",
+    "title": "Pixel 2 stuck in bootloader and wouldn't boot further",
+    "content": "Tried flashing the system image through fastboot.\nUpon fastboot reboot, device stuck in bootloader and command \"fastboot devices\" lists nothing.\n\nRecovery mode throws error - \"Slot unbootable\"",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2019-06-03T21:33:37.838688+00:00",
+    "reply": "3 Replies"
+}

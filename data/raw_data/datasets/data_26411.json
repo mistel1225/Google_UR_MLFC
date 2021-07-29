@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/18810851/wifi-disconnects-when-phone-is-idle-asleep?hl=en",
+    "title": "WiFi disconnects when phone is idle/asleep",
+    "content": "When my Pixel 3 running Android 10 is idle/asleep for more than a few minutes, the WiFi gets disconnected. Is there a way to ensure that WiFi stays connected when the phone is idle?\n\nMy guess is there's an option in the Battery Optimization setting, but none of the 100+ apps in there are obvious to me because they don't specifically say WiFi.\n\nMy other guess is some problem related with Android's Doze feature. Apparently in earlier versions of Android you could easily make an adjustment to keep WiFi on but I haven't found a way for Android 10, so here I am...\n\nAnd for those curious, the larger issue here is that  when I receive a phone call, in certain circumstances, the phone only rings for one second on my end. Then the ringing stops and the call notification disappears. But for the person calling, the phone continues to ring and they eventually get sent to voicemail. My cell service is Republic Wireless which primarily operates over WiFi. I have run a number of tests and the only condition where the one-second ring occurs is when the phone has been connected to WiFi, then it's idle for a while and I receive a phone call. The phone is disconnected from WiFi when the call comes in. Then it reconnects, but at that point it's too late, the option to answer the call is already gone. If I'm off WiFi completely, calls come in just fine. And if I'm on WiFi and the phone has been interacted with within the past few minutes, the call comes through, likely because the WiFi hasn't disconnected yet.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-11-07T13:45:20.858063+00:00",
+    "reply": "3 Replies"
+}

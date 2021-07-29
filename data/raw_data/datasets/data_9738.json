@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/89994260/system-ui-isn-t-responding-on-google-pixel-3-xl-seems-to-only-effect-apps-that-produce-audio?hl=en",
+    "title": "\"System UI isn't responding\" on Google Pixel 3 XL. Seems to only effect apps that produce audio.",
+    "content": "When I boot up my phone, upon entering my pattern, I receive the message \"System UI isn't responding\" and an option to wait or close app. I have tried both options after restarting my phone multiple times and haven't noticed any differences. After the error message there seems to be no effect on my device except on apps that produce audio: \n\nYoutube videos play fine, but with no sound\nMy music player simply doesn't allow me to press the play button\nMy podcast player responds with this error message upon pressing the play button: \"InitializationException: AudioTrack init failed: 0, Config (44100, 4, 22050) \"\nNetflix has an error message saying \"There is a problem playing the video. Please try again. (5.9)\"\nAnd I cannot hear or be heard when calling someone (this issue appeared a couple of days before I got the \"system UI is not responding\" message, so the issues may not even be related)\n\nI've tried restarting my phone and checked my audio settings multiple times, I have 22 GB of free space, I've reset app preferences, and signed out of my google accounts. I've also opened my phone in safe mode and got the same error message. My phone has never been rooted. My last option will be a factory reset, but I want to check if there are other options before I resort to that.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3 XL",
+    "post_time": "2020-12-23T01:35:05.477708+00:00",
+    "reply": "1 Reply"
+}

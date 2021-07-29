@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2118275/why-does-my-2-xl-keep-rebooting?hl=en",
+    "title": "Why does my 2 XL keep rebooting?",
+    "content": "Just bought off ebay. Seller says it was fine when shipped. I can't boot into recovery mode from bootloader. When I select recovery mode, it just shuts off/reboots...when not plugged in, I can't even boot into bootloader. When plugged in, I can get bootloader, but no option helps. An odd reg battery icon, then green battery icon, then white regular battery icon flashes when plugged in. Plus a red dot in the top right corner that blinks slowly. Any ideas? Can't do anything with adb on Mac.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-03-07T11:53:21.497336+00:00",
+    "reply": "5 Replies"
+}

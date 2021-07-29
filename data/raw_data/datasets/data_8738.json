@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/93043449/is-mtp-usb-file-transfer-broken-in-android-11?hl=en",
+    "title": "Is MTP / USB File Transfer broken in Android 11?",
+    "content": "It's been a while since I tried file transfer, but it seems USB file transfer no longer works in Android 11. Is this true? Client laptops are both MacOS HighSierra with Android File Transfer and Fedora 33 with whatever MTP backend it comes with, and several different cables. On the Mac, AFT just bombs off. On the Fedora laptop, I get \"No storage media found. Make sure your device is unlocked and has MTP enabled in its USB connection settings.\" (Of course this is so.) When i try to open just the Photo folder (an option on Fedora, I get \"Could not read. Reason: Could not claim the USB device\".\n\nIs it broken for everyone else? Is there something I need to enable in settings beside \"File Transfer\" in the USB settings popup? I am backing up the phone to Google Drive, but I don't see the backup in \"My Drive\" or \"Backups\" - is there a way to access the backup on Google Drive?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2021-01-11T18:34:04.373598+00:00",
+    "reply": "0 Replies"
+}

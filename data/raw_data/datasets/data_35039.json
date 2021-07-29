@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1445402/nfc-does-not-work-during-phone-setup?hl=en",
+    "title": "NFC does not work during phone setup",
+    "content": "This only happens when i factory reset the phone. During initial setup after logging in using my Google account that has 2FA enabled, my nfc-enabled Yubikey is not detected but after using another method to authenticate 2FA; the Yubikey is detected with no issues.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-02-04T02:42:47.116447+00:00",
+    "reply": "1 Recommended Answer"
+}

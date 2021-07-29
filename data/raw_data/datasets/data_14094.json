@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/77591406/new-pixel-5-on-kddi-variant-volte-vowifi-not-working?hl=en",
+    "title": "New Pixel 5 on KDDI variant, VoLTE/VoWiFi not working",
+    "content": "I just received my Pixel 5 yesterday, and it's generally working fine, but despite the VoLTE and VoWiFi toggles existing in the menu, neither are working.\nMy provider supports both, and they worked on my old OnePlus device.\n\nOne thing I noticed: The device I got came with Build Number RD1A.200810.021.A1 pre-installed.\nAccording to the OTA Download page, that build is \"KDDI only\". I'm not 100% sure what that means, but Google suggests KDDI is a Japanese provider, so me, being in Germany, receiving a phone with that firmware on it might be the reason why VoLTE/VoWiFi aren't fully working?\nI was not able to install the non-KDDI variant via adb recovery, since it does not allow downgrades and I have no plans on unlocking the device.\n\nIs this related? Is there a way to switch images? Why did I get a device with that KDDI variant on it in the first place?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
+    "post_time": "2020-10-17T22:53:47.755273+00:00",
+    "reply": "0 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/7365295/bluetooth-tethering-turns-off-when-phone-sleeps-presumably?hl=en",
+    "title": "Bluetooth tethering turns off when phone sleeps (presumably)",
+    "content": "I've got the latest Android 9 OS and I'm on a Pixel 3 as the phone set up as a bluetooth hotspot. The purpose of this is to set up a second device on my motorcycle as a GPS map with data connection to show me real time traffic (without endangering my Pixel out in the elements).\n\nI connect with this second device and put my Pixel in my pocket, and that works ok for a while. Some time later (5 minutes?), the data connection drops, as does bluetooth. Sometimes I'm able to reconnect by unlocking the Pixel and telling it to reconnect to the previous device (not while riding, of course), other times, the phones won't reconnect for quite a while (too many attempts doing some kind of timeout multiplier?), but since there's no real information given why a device does or doesn't connect, I don't really know.\n\nI'm guessing that what's happening with the dropout is that bluetooth is either turning off or the hotspot is turning off on the Pixel. When I unlock it, certainly the icon telling me the hotspot is being used is gone while the second device still has bluetooth up and running. I'm hoping there's some way to tell the Pixel to keep the hotspot active.\n\nI can try also with a wifi hotspot, but I'd hoped to not have to manually trigger the hotspot every time I got on and off the bike. Bluetooth and distance handles all that quite nicely, though I'm guessing the wifi hotspot will have the exact same issue anyway.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-06-04T00:19:12.211088+00:00",
+    "reply": "0 Replies"
+}

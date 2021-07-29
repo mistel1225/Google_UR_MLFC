@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/15543742/android-10-update-causing-issues-when-phone-has-a-work-profile-enabled-crashing-google-itself?hl=en",
+    "title": "Android 10 update causing issues when phone has a Work Profile enabled, crashing \"Google\" itself",
+    "content": "Issue:\nAfter the Android 10 update, \"Google\" keeps crashing. For example, using the home screen google search does not work and crashes Google. There are also several apps that don't seem to work or are very slow in performance.\n\nWhat I've Done So Far:\nAfter testing safe mode and verifying the phone seemed to work fine, I decided to do a factory reset which also made the phone work as normal.\nI installed each app individually and ensured no issues.\nLast, I added my work profile and that's when the issues resurfaced. Even with the work profile toggled off (but still provisioned), the issues remain.\nWhen I removed the work profile entirely from the phone, the phone is fine again.\n\nThere seems to be an issue with work profiles and Android 10.\n\nOther information:\nMy company uses `Meraki Systems Manager` for mobile device management.\nDevice: Pixel 3\nCarrier: T-mobile\nAndroid version: 10",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2019-09-28T17:43:59.960607+00:00",
+    "reply": "1 Reply"
+}

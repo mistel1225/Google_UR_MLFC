@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/29326460/lock-screen-stays-on?hl=en",
+    "title": "Lock screen stays on",
+    "content": "Immediately after I reset my Pixel 3a, when the lock screen turns on (for example, it shows the PIN login grid after recognizing my finger print), it will automatically dim in about eight seconds then turn off about two seconds later.\n\nI have noticed after a couple days that instead of dimming and turning off it remains on continuously. I reset the phone and he returns to the normal 8 second dim then shut off mode.\n\nI have Settings-->display-->advanced-->lock screen display-->\n  Always on set to off\n  Double tap to check phone turned off\n  Lift to check phone turned off\n\nWhy would it work correctly for a few days after a restart and then start remaining continuously on?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3a",
+    "post_time": "2020-02-20T20:58:02.207972+00:00",
+    "reply": "3 Replies"
+}

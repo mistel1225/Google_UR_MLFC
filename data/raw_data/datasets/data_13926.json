@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/77976883/pixel-3-reboot-loop?hl=en",
+    "title": "Pixel 3 Reboot Loop",
+    "content": "My Pixel 3 just randomly entered a reboot loop last night mid message on whatsapp. Since then, I have been unable to get it out of the loop.\nI have tried the following:\n- Drained battery and plugged it back to charge and reboot\n-Stayed in reboot loop.\n- Power + Vol up button to enter Android Recovery screen.\n- Unable to get options when inputting power + vol down. Re-enters boot loop.\n- Power + Vol down\n- Unable to get options when inputting power + vol down. Re-enters boot loop.\n- Tried doing the sideload OTA fix but does not work with the boot loop.\n\nWorked great while it lived, but I now have a $799 brick sitting around. Also disappointing that Google only provides 1 year of warranty for a $799 piece of hardware with a problem that has existed since the first generation, and cannot provide feedback other than \"please take it to an external partner to get it fixed and you might have to pay extra.\" Hopefully someone at google sees this and sends this feedback back to the product marketing and design, so this gets more focus in the next set of product requirements. Really cannot justify spending that much money on a flagship product that does not even last 2 years.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2020-10-19T23:47:49.012583+00:00",
+    "reply": "0 Replies"
+}

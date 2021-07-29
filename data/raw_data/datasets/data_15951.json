@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/72686841/having-updated-to-android-11-sensitive-content-from-messages-now-appears-on-the-locked-screen?hl=en",
+    "title": "Having updated to Android 11, sensitive content from Messages now appears on the locked screen",
+    "content": "In Settings, I've set notifications from Messages to \"Show sensitive content only when unlocked\". This worked well with previous OS, but not on Android 11. If I do the same for other apps, such as Facebook Messenger, it works, i.e. the notification on the locked screen doesn't show the actual message. Messages always reveals it. It seems like an app bug, but as it's native from Google, thought asking here would be a way to get help on it.",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 3",
+    "post_time": "2020-09-22T21:20:29.646114+00:00",
+    "reply": "1 Reply"
+}

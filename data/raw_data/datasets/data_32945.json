@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2299177/pixel-3-constantly-powering-off?hl=en",
+    "title": "Pixel 3 constantly powering off.",
+    "content": "Device would not stay powered on this morning after crashing sometime last night. After about 30 seconds the phone would go to a black screen.  The phone would \"boot\" whenever I pressed the power button like it had crashed and was powered off. \n\nI did a Factory Reset, and experienced the same symptoms within the device setup process. I turned on Airplane mode, and tried everything, including having the Verizon Tech doing a \"radio reset\" on the phone at my local service center.\n\nI did another Factory Reset, and  did not start the \"initial setup\". While waiting on the \"Hi There\" screen with moving shapes on it, I waited until the screen turns off about 30 seconds. At this point the device is crashed and won't boot. I can get into the boot menu, select recovery (after fighting over and over with power hold, volume up, power release) select wipe again, and then reboot. I see the Google splash screen, and then the screen goes black.",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 3",
+    "post_time": "2019-03-12T17:32:26.629147+00:00",
+    "reply": "1 Recommended Answer"
+}

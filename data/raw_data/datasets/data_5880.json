@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/100563369/unable-to-flash-to-factory-image-post-install-failure-for-android-12-cannot-find-valid-os?hl=en",
+    "title": "Unable to flash to factory image, post install failure for Android 12. \"Cannot find valid OS\"",
+    "content": "I tried to install Andriod 12 developer preview on my Pixel 5, after reaching around 94% the update failed. \nWhen the phone rebooted I get the message \"Cannot find valid operating system, The device will not start\"\nI am trying to flash the phone as per g.co/ABH but as its OEM locked, I keep on getting error. \n\nIs there a way to recover from this ? or is my phone bricked?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 5",
+    "post_time": "2021-03-03T12:36:01.457871+00:00",
+    "reply": "2 Recommended Answers"
+}

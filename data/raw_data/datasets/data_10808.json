@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/76528161/pixel-stand-stopped-working-does-not-detect-phone?hl=en",
+    "title": "Pixel Stand stopped working (does not detect phone)",
+    "content": "Echoing what some other posters are noticing, with a few more details.\n\nAs of this morning, my Pixel 3 stopped working with both of my Pixel Stands.\n\nHere's what I've done so far:\n\n1. I updated settings to forget both stands.\n2. I rebooted my phone.\n3. Confirmed Bluetooth was on.\n4. Removed my case (even though it's an approved Google case).\n5. I unplugged and replugged the stand with the original charger.\n6. I placed my phone back on one of my stands.\n\nHere is what happens:\n\nMost often, nothing. The phone will not pair.\n\nHowever, three times (of about 15 attempts), the phone begins charging briefly and I see the pairing setup launch. But then I get a modal telling me to place the phone on the stand. If I tap okay, the screen clears and the phone stops charging. If I remove the phone and replace it on the stand, the phone stops charging.\n\nNote I've repeated the above for both stands.\n\nNote also that I no longer have an app to manage Pixel settings. I'm pretty sure I didn't use it to pair (when it existed).\n\nThank you!\n\nEDITED WITH ADDITIONAL CONTENT:\n\nTwo quick updates:\n\n1. My Pixel 3 is running Android 11. I updated a couple weeks ago.,\n\n2. My wife has a Pixel 4 running Android 10. Her phone charges fine on her stand and my two stands. My phone does not work on her stand.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2020-10-12T17:48:42.166189+00:00",
+    "reply": "15 Replies"
+}

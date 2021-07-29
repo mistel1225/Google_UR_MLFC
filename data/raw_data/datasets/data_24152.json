@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/26197636/january-t-mobile-updates?hl=en",
+    "title": "January T-Mobile updates",
+    "content": "Sorry, added onto another existing thread...\n\nReceived T-Mobile TA notification for update for the 4XL on 01/15/2020. Saying newest acceptable version for this model for T-Mobile is -  QQ1B.200205.002.\n\nhttps://developers.google.com/android/ota shows the following as being available -\n10.0.0 (QQ1B.200105.004, Jan 2020)    \n10.0.0 (QQ1C.200105.004, Jan 2020, TW & JP)\n10.0.0 (QQ1D.200105.002, Jan 2020, NTT DOCOMO)\n\nLooks like it went from QQ1B.200105.XXX to QQ1D.200105.XXX (from QQ1B to QQ1D). Where is QQ1B.200.205.XXX per the T-Mobile TA?\n\nAny help is appreciated.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 4 XL",
+    "post_time": "2020-01-20T15:15:10.214779+00:00",
+    "reply": "0 Replies"
+}

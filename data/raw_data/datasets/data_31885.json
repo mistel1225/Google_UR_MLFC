@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/4654261/pixel-keeps-rebooting?hl=en",
+    "title": "Pixel keeps rebooting",
+    "content": "Yesterday when charging, my pixel suddenly begin to keep rebooting continuously. Only by entering the fastboot menu and click \"power off\" when it is not charging could I shut it down. Then, I have tried:\n1. apply a rescue OTA to it but could not go on at a certain step.\n2. click \"restart bootloader\" in fastboot menu to factory reset it, but it did not respond.\n3. take out the SIM card and try 1 & 2\nnone worked. Wish I can get some help here :)",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel",
+    "post_time": "2019-04-22T08:19:09.377411+00:00",
+    "reply": "1 Reply"
+}

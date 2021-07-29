@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/59150140/earphones-not-working-with-usb-c-adapter?hl=en",
+    "title": "Earphones not working with USB-C adapter",
+    "content": "There is no audio output on my earphones when connected with the USB-C adapter. I thought it was an issue with the adapter, but the same pair does work with other devices. I have also tried the Pixel earphones but no luck with the audio output. Also, the phone has no issues while charging, so not sure if this really is a hardware issue (USB port) or software issue because I ran into this after the July 2020 update. \n\nPreviously, I had got my phone repaired for mic issue. After diagnosis, the reason mentioned by the authorized repair centre B2X was that, the USB port was corroded. I remember of never using my phone in conditions where it might have ever came in contact with any sort of liquid, not sure what might have caused the corrosion as mentioned.\n\nEdit - Attaching the screenshot from, Settings > Connected devices, the phone is detecting a USB when I connect my earphones, but to see the status, 'Charging connected device'.\n\nEdit 2 - the issue is fixed. The solution suggested by the help service was to connect the phone to charge, remove the charger once the phone starts charging, plug the accessory and it should start working now.",
+    "is_img": 1,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2020-07-15T17:33:30.99622+00:00",
+    "reply": "1 Reply"
+}

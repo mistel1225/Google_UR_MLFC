@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/23908880/pixel-3a-android-10-any-app-that-launches-the-share-menu-crashes-the-android-system-app?hl=en",
+    "title": "Pixel 3a/Android 10: any app that launches the \"share\" menu crashes the \"Android System\" app",
+    "content": "Problem description: any application on my phone that launches the Android 10 \"share\" dialog box on the bottom loads it for a fraction of a second and it crashes the application and restarts it, occasionally showing a \"Android system has stopped\" message. Clearing the cache in both apps has not fixed this. I've tried doing all the troubleshooting I know how to do, including rebooting and clearing all app cache and nothing has fixed this.\n\nMy issue is the same as described in this reddit post and their only solution is to factory reset the phone. Other bug reports I've seen online deal with apps I have never had installed on my device: this (FB Messenger being culprit) and this (GroupMe messenger) are examples.\n\nIf anyone can offer some insight or wants anything more provided, please let me know. Thanks guys.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3a",
+    "post_time": "2019-12-27T01:24:11.031355+00:00",
+    "reply": "2 Recommended Answers"
+}

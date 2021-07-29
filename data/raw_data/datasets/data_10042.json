@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/89217224/pixel-2xl-camera-in-use-after-latest-android-11-security-update?hl=en",
+    "title": "Pixel 2XL camera in use after latest Android 11 security update",
+    "content": "Earlier this week the latest (final) October Android 11 security update was pushed out and it broke the camera in my Pixel 2XL phone. The app crashes immediately after start. I downloaded a number of different camera apps, none of them works. Flashlight is greyed out and says Camera in use, which would explain why none of the apps can access the device. Restart in safe mode didn't help. Clearing cache and data didn't help. I even did a factory reset - didn't help. \n\nI tried to restore a previous version (September) of the update through recovery mode, but it won't allow me to sideload a version with an earlier time stamp. I tried downloading December OTA for Pixel 2XL, but the sideload comes back with an error \"no error\". \n\nAny advice how to fix a device that was working perfectly fine until few days ago when Android 11 security update from Google bricked my camera?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2020-12-18T02:04:20.113133+00:00",
+    "reply": "0 Replies"
+}

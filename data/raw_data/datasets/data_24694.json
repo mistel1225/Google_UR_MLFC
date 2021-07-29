@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9033570/hi-how-to-solve-the-device-state-error-help-me-please?hl=en",
+    "title": "HI!How to solve the \"device state error\". help me please",
+    "content": "Hello everyone,\n     I like pixel 3 very much, but about one month ago, there is something wrong with it, I was told my password is wrong, just like https://support.google.com/pixelphone/thread/4140400?hl=en.  i am sure it is correct,i can't unlock my phone,so i reboot it,then it can't start again,but i can enter fastboot mode,and it displayed \"device state error\".first time i followed Muhammed Zaid Alam said , and it indeed worked.\n    But about one week ago,i was told my pin is incorrect again,this time i try to change my password with  the \"find my phone\"on Google,but it still wrong pin, and i tried to the erase the phone on web,it didn't work too,and it won't start again after reboot.Unfortunately this time the way didn't worked again. \n    I wanted to use a factory image to solve this. i download the image from https://developers.google.com/android/images. when i flashed the system image , it said  \"FAILED (remote: 'Error getting device locked state No Response')\nfastboot: error: Command failed\"\n    And \"Device version-bootloader is 'b1c1-0.1-5343672'.\nUpdate requires 'b1c1-0.1-5578427'.\nfastboot: error: requirements not met!\"\n\nWhat should i do ?   Thank you very much.",
+    "is_img": 1,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-07-01T06:22:55.828466+00:00",
+    "reply": "5 Replies"
+}

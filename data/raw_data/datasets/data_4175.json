@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/104055177/scoped-storage-from-android-11-is-causing-immediate-lag-and-freezing-on-app?hl=en",
+    "title": "Scoped Storage from Android 11 is causing immediate lag and freezing on app",
+    "content": "I am currently trying to use an app I've enjoyed and been able to use previous to Android 11 on my Pixel 3, but recent changes to make Scoped Storage mandatory have resulted in the game lagging and eventually freezing, requiring a hard reboot as the phone becomes unresponsive.\n\nThe game in question is Forge, a Magic the Gathering app (https://www.slightlymagic.net/forum/viewtopic.php?f=26&t=22739), so it has several thousand card images it may try to access from my local storage, which due to Scoped Storage causes it to lag and freeze. This is not an issue with the app itself, as it worked perfectly with no notable or unexpected lag on my Pixel 3 pre-Android 11 as well as with my previous phones, and only with the latest update has become unusable.\n\nIs there a way to disable Scoped Storage for an app, either on my end as a user or on the app developer's side with the apk file?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2021-03-27T09:47:56.656729+00:00",
+    "reply": "1 Reply"
+}

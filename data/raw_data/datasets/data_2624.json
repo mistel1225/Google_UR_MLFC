@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/108367434/phone-screen-won-t-turn-on-won-t-reboot-unusable-but-sometimes-responds-to-hardware-buttons?hl=en",
+    "title": "Phone screen won't turn on, won't reboot, unusable, but sometimes responds to hardware buttons",
+    "content": "I've had a 4a 5G for about a month. In the past week, almost daily it will stop being responsive. When I go to wake the screen, it won't wake up. It also won't respond to restart commands (either holding the power button, or holding power + vol down for 10 seconds.)\n\nI know it's on, because:\n\nSometimes the phone will vibrate when double-pressing the home button to open the camera\nSometimes it will scan my fingerprint and vibrate to acknowledge\n(Battery is never that low)\n\nHowever, the phone can't be restarted, and it will resolve itself (by restarting) in anytime between 5 minutes and 2 hours after it begins.\n\nIt can happen when I'm actively using the phone, or when I'm not actively using it:\n\nOne time it happened with Google Maps open (screen off) and wouldn't wake up when I wanted it to\nOther times I won't even know it isn't responding until I pull the phone out of my pocket and try to use it\n\nThe phone has never been dropped, damaged, or anywhere near water.\n\nPixel support said to take it to a uBreakiFix, but I'm suspecting this is more of a firmware bug that needs to be fixed rather than just a one-off replacement of my device. Curious how many others are experiencing this, but it's hard to really search for this exact issue so here we are.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4a (5G)",
+    "post_time": "2021-05-02T13:30:20.489185+00:00",
+    "reply": "1 Reply"
+}

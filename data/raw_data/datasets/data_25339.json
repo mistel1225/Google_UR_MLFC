@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/22941151/android-auto-reverts-to-default-volume-on-pixel-3-xl-jeep-wrangler-2018-using-usb?hl=en",
+    "title": "Android Auto Reverts to Default Volume on Pixel 3 XL & Jeep Wrangler (2018) using USB",
+    "content": "I have a Pixel 3 XL updated with Nov 2019 security update (waiting on December).  All apps, and OS are current.  The problem started in Android ver 9, and persisted through the upgrade to V10.  \n\nWhen I connect my Pixel 3 XL to my 2018 Jeep Wrangler the volume for navigation (via Google Maps) goes to a default volume.  If I adjust the volume (up or down), for that moment the volume is fine.  When the next direction is given, it reverts back to the default volume.  It will allow me to adjust the volume, but after the directions finish, it will revert to the default.  The Jeep is using the stock 8.4 inch Uconnect system, and is current with updates.\n\nThe issues seems to be with the interaction of the Jeep and the Pixel 3 XL.  When I use the Pixel 3 XL in a rental car, the volume adjustments work as they should.\n\nI would like to be able to fix this, and if possible, to be able to set the default volume to a new default.\n\nThe volume for the radio, or other apps (Play, YouTube Music, etc.) are not affected by this issue.  Only Google Maps.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3 XL",
+    "post_time": "2019-12-15T22:19:25.351284+00:00",
+    "reply": "0 Replies"
+}

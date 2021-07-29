@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2497045/new-screenshots-show-as-0-bytes-while-connected-to-pc?hl=en",
+    "title": "New screenshots show as 0 bytes while connected to PC",
+    "content": "I have connected my Pixel 2 to my Windows 10 PC via USB. In Windows, I open File Explorer, and browse to the Pixel 2, and then open Pictures > Screenshots. I can see all the past screenshots I have taken.\n\nIf I take a new screenshot while connected, the screenshot will show up in File Explorer in Windows as 0 bytes. If I double click the screenshot to open in Windows 10 Photos, I see a message saying \"It appears that we don't support this file format\".\n\nThe workaround is on the Pixel 2 to go to Settings > Connected Devices > USB > and toggle once between File Transfer and PTP (or vice versa - I switch to the other).\n\nHow do I have it so that new screenshots don't show as 0 bytes while the Pixel 2 is connected to my Windows 10 PC?\n\nThanks.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-03-16T10:27:10.958279+00:00",
+    "reply": "0 Replies"
+}

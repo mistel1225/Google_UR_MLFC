@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/36795324/heads-up-notification-actions-have-no-ui-feedback-upon-tapping?hl=en",
+    "title": "Heads up notification actions have no UI feedback upon tapping",
+    "content": "I have created couple of screen recordings here:\nhttps://drive.google.com/drive/folders/1hjZIwrXD9dBS0dWD1GzAK2VcqMV2BjR_?usp=sharing\n\nhere are the two videos:\n\nworking.mp4 - shows a heads up notification card from the screenshot app that lets a user know that the tap was registered on the action by greying it out\n\nnon_working.mp4 - shows a heads up notification from another app ( Okta verify ) which displays no UI feedback on a tap. I end up tapping the action area multiple times to see if the notification really worked or not.\n\n\nI reached out to the app maker via a play store review but was of no use.\nI kept telling them that there seems to be a difference in how the notification is handled but I dont have the right technical terms to get this through to their RnD.\n\n\nDoes anyone here see this problem with other apps on their pixel devices? ( i have checked the Outlook app and don't see it there)",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2020-03-30T17:37:35.825506+00:00",
+    "reply": "1 Recommended Answer"
+}

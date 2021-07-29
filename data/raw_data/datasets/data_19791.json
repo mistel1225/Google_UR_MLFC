@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/54201443/why-is-wifi-draining-battery?hl=en",
+    "title": "Why is wifi draining battery?",
+    "content": "In the last few weeks, my phone battery performance was pretty bad. Prior to the issue, my phone battery usually last about 1 day and half (I usually use my phone for texts and reading news). Now the battery will last less than a day with the same kind of usage. I did not make any changes to system settings before the issue started so originally I thought it was due to one of the apps, I did multiple tests by killing vary apps and retest but nothing worked. I went to camping last weekend and I immediately noticed how my phone battery performance is back to normal and I figured out the only difference on my phone that weekend is not being connected to wifi. After returning to home, I decided to turn off wifi to test the battery for a couple of days and the battery performance was normal. When I turn wifi back on, it drains the battery quickly. \n\nI looked around the Pixel Community forums for the same issue and I saw a few threads (for different Pixel model) and apparently they identified the issue being static IPs and solved it by switching to DHCP mode. I tried that but I couldn't find any setting related to DHCP on my Pixel 3. I'm not sure if it's because of the model? \n\nI already sent feedback to Google via phone system feedback. I also contacted Google customer support and the rep seemed to be following a troubleshooting script without any knowledge and now he wants me to do factory reset but I highly doubt it will resolve the issue since I tried resetting the network settings so I'm hoping one of you guys will have a real solution.",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 3",
+    "post_time": "2020-06-18T13:24:07.604637+00:00",
+    "reply": "1 Recommended Answer"
+}

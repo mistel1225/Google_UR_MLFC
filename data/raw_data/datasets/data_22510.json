@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/32969965/crashing-on-amp-related-content?hl=en",
+    "title": "Crashing on AMP related content",
+    "content": "We have reports of some (most amp pages?) crashing for user of Brave and Chrome generating various error messages. 2 separate Pixel owners (Pixel 3 and 4) having similar issues with amp sites crashing.\nAccording to the user, scrolling the page will trigger this message.\n\nhttps://community.brave.com/t/google-amp-sites-crashing-on-brave-android/109561\nIs this known issue? Other sites will work fine on these devices. Any tips or fixes would help. One user indicated it might be related to videos embedded into the amp content.\n\n3 Non-pixel devices have had no issues with amp pages. Is this issue common or devs aware of?\n\n(Reported here: https://stackoverflow.com/questions/60596453/crashing-on-amp-pages)",
+    "is_img": 0,
+    "category": "Other, Google Pixel 4",
+    "post_time": "2020-03-10T06:22:24.66326+00:00",
+    "reply": "1 Reply"
+}

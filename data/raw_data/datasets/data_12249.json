@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/82469795/pixel-4a-proximity-sensor-works-screen-doesn-t-go-off-during-a-call-or-when-i-shut-my-phone-case?hl=en",
+    "title": "Pixel 4a proximity sensor works, screen doesn't go off during a call or when I shut my phone case",
+    "content": "So far, I ran the AndroSensor app to see if the proximity sensor works. It shows 0.0 if I wave my hand over the front camera area and 2.0 in otherwise, so that seems to work just fine.\n\nHowever, if I make a call or place my hand over the camera area of the phone or close my phone case, the screen doesn't turn off. \n\nI have started the phone in safe mode, and it shows the same problem.\n\nThanks for any help.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4a",
+    "post_time": "2020-11-12T07:08:29.084297+00:00",
+    "reply": "2 Replies"
+}

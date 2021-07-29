@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/43762777/problems-with-my-google-pixel-3-xl-don%C2%B4t-boot-anymore?hl=en",
+    "title": "Problems with my google pixel 3 xl ( don´t boot anymore)",
+    "content": "Hi there,\n\nI have a Google Pixel 3 XL with me and it has the following problem:\n\nWhen booting up, it continues in Android Recovery mode (it is written in yellow)\ngoogle/crosshatch/crosshatch\n9/PD1A.180720.030/4972053\nuser/release-keys\nUse volume up/down and power.\nDann in Rot:\nCan´t load Android system. Your data may be corrupt. If you continue to get this message, you may need to perform a factory data reset and erase all user data stored on this device.\n\nIf I reset now, the phone stays in the Google logo with the loading bar all the time\nIf I just try again, it will come back to this mode.\n\nWhat I've already tried:\nTo reset via the normal recovery menu, imported new image / FW via ADB.\nUnfortunately, it always breaks off when uploading and the error occurs: could not be verified.\nI tried several images. Maybe someone has food for thought for me.\n\nAlso tried with browser software repair from google, but it told me that my country is not supported.\n\nThanks in advance",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3 XL",
+    "post_time": "2020-05-01T18:57:15.965012+00:00",
+    "reply": "2 Recommended Answers"
+}

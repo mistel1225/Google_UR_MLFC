@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1568425/problem-with-continuous-high-cpu-loading-by-android-process-media-process?hl=en",
+    "title": "Problem with continuous high cpu loading by \"android.process.media\" process",
+    "content": "My phone has the latest Android 9 version for this moment. By developer tools I observe high (100%) CPU Loading by \"android.process.media\" process. As a result, I have significant performance degradation in games and shortened battery time. Please help me to fix it, I would like to provide all information from my phone that you request.\nNow I've disabled \"Media Storage\" service and problem disappeared. But photo gallery stops working when I do it and sometimes I have to temporary enable it again.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2019-02-10T18:51:10.845664+00:00",
+    "reply": "3 Replies"
+}

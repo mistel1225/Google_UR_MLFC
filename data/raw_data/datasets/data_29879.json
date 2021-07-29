@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9131184/pixel-3a-xl-wireless-direct-no-internet-access-stay-connected-system-notification-not-occuring?hl=en",
+    "title": "Pixel 3A XL Wireless Direct \"No internet access, stay connected?\" System Notification Not Occuring",
+    "content": "I have a Pixel 3A XL, and I'm in the printing industry which uses Wireless Direct for connectivity to a lot of devices.  With that said, on other phones of mine, when I connect to a non-internet connected Wireless Direct network, I would get a system notification that says \"This network has no internet access.  Stay connected?\", which you would select \"Yes\" to to complete the connection to the device.\n\nWithout selecting yes on this, it will appear to be connected to the device, but the connection is never fully completed and data transfer will not work.  On my old Pixel XL on Android 9, I get this system notification, and everything works as expected.\n\nHowever, on my Pixel 3A XL also running Android 9, this system notification never happens and it seems the connection doesn't fully establish, though again, it appears connected.  Data transfer will not work successfully.\n\nHas anyone else encountered this?  Anything to try?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a XL",
+    "post_time": "2019-07-02T17:22:02.263836+00:00",
+    "reply": "1 Reply"
+}

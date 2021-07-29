@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/53264835/pixel-3-loops-cell-wifi-loss-after-update?hl=en",
+    "title": "Pixel 3 loops cell / wifi loss after update",
+    "content": "After OTA update there is a problem with a phone: it looses wifi connection nearly every minute, if I turn whe wifi off and use only cell data, it looses network every 1-1.5 minutes.\n\nI've already tried:\nforget network and re-add id\nuse different wifi network, different frequency, different wifi security \nreset network data \nchange network mode (LTE, 3g)\ndifferent sim-card\nfactory reset\nflashing the previous firmwares\nrebooted hundreds times\n\nEven on clear install on the second step (after language choosing) it's still problem after wifi connection established: it just keeping dropping and restarting.\n\nAny ideas how to fix it ?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2020-06-13T18:11:09.959288+00:00",
+    "reply": "1 Reply"
+}

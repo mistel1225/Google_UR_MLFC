@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/14580317/pixel-2-not-charging-with-original-charger-software-issue?hl=en",
+    "title": "Pixel 2 not charging with original charger - SOFTWARE ISSUE?",
+    "content": "My Pixel 2 doesn't seem to be able to charge from the charger it came with anymore. It's developed this issue in the past couple of days and I think it's some kind of operating system issue - if anyone has any suggestions I would appreciate it!\nIt's not the phone hardware itself: the charging port isn't loose, and it's not clogged with debris. When the issue happened yesterday, the charging symbol would show for a second and then vanish, indicating the phone was detecting the charger\nIt's not an app causing the issue:  I restarted the phone in safe mode and tried charging and it made no difference.\nI've also tried it with another identical google pixel charger from a friend's phone, and with the fast charger that came with my Pixelbook (which works on the Pixelbook) - no charging. Tried connecting the cable to the Pixelbook to draw charge from the computer, that didn't help either. My phone's cable will work on my Pixelbook, so it's definitely an issue with my phone.\nHowever I it will take charge from a generic cheap USB-C to USB-A cable stuck into a socket - but only extremely slowly (much slower than this cable used to work). \nI really think that all of the above means the issue is with some software. It's running Android 9. I could update it to 10 (once it has enough battery, which will take hours at this rate!) if anyone thinks that will help!\nThanks",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 2",
+    "post_time": "2019-09-17T09:04:52.861173+00:00",
+    "reply": "1 Recommended Answer"
+}

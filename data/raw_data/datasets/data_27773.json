@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/15736888/compass-not-working-or-not-even-detected?hl=en",
+    "title": "Compass not working, or not even detected",
+    "content": "Discovered this in photopills, when loading Sun or Stars AR mode, it states \"no digital compass found in this device (Google Pixel 2)\". Tried calibrating in Google maps, and after 20 minutes of figure 8, the calibration level stays at low. Using other apps, the compass functionality just doesn't work. Either just spinning nonsensically, or just not budging at all. My case has a magnet built in, which I've removed and then tried calibrating. I've restarted the phone with the case off and tried calibrating. To no avail. Is my compass just plain broken?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-10-01T06:09:13.948111+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/34545420/my-pixel-2-xl-cannot-load-android-system?hl=en",
+    "title": "My Pixel 2 XL cannot load android system.",
+    "content": "Hello, \n\nThis morning my Pixel 2 XL said \"Cannot load Android system.  Your data may be corrupt.  If you continue to get this message, you may need to perform a factory data reset and erase all user data stored on this device.\"\n\nWhen I choose \"try again\" the device boots to the lock screen, then goes to a black screen, then to a lock screen, then a black screen, every other second.  Whenever I try to unlock the lock screen, it goes black too fast for me to put in a passcode. \n\nI tried to load the latest OTA from March, but my device already was running it, and after I did so, it still has the same problem.  I am trying to not have to factory reset my device and lose all my data.  Is there a way for google to fix this, or possibly save my data without a factory reset?\n\nThank you\nRory",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2020-03-20T18:01:04.775377+00:00",
+    "reply": "2 Recommended Answers"
+}

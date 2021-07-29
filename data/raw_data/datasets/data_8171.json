@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/94366290/pixel-4a-photo-location-wrong?hl=en",
+    "title": "Pixel 4a photo location wrong",
+    "content": "Recently changed from a Moto g6 to Pixel 4a. Cell service didn't change: Google Fi. I do _not_ use the Mobile Data connection (and did not with Moto either).\nPhoto location with Moto was spot-on.\nWith Pixel 4a, location is fine with Google Maps (now that I turned off Adaptive Battery), but far off with locations tied to photos taken while walking. For instance, one I took this morning was off by at least 750 feet (as measured on Google Maps; I pasted an image of that, but it doesn't show).\n\n\nHere are my Location settings:\n\n\nAny suggestions?\n\nUpdate 23Jan: when I have Google Maps running in the background, the locations attached to photos are fine. But I shouldn't have to start the Maps app just to get good locations on Photos.\n\nUpdate 24Jan: having Google Maps running isn't consistently helpful. Some photos on today's trip had good locations, others were bad, scattered throughout the 2hr trip. (I did not access google maps after opening it at the beginning of the trip.)",
+    "is_img": 1,
+    "category": "Other, Google Pixel 4a",
+    "post_time": "2021-01-20T19:09:09.218854+00:00",
+    "reply": "0 Replies"
+}

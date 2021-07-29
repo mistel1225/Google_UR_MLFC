@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/81002418/pixel-2-xl-android-11-captive-portal-connectivity-issue?hl=en",
+    "title": "Pixel 2 XL Android 11 Captive Portal Connectivity Issue",
+    "content": "Every time I try to connect to a Captive Portal  to login to WiFi, I have getting a \"This site can't be reached\" page.\n\nI'm getting this on Android 11 on the Pixel 2 XL.\n\nI noticed if I turn off mobile data completely, I can login to the captive portal without any problems.\n\nI'm guessing that Android is swapping between the WiFi network and Mobile data network. So when I try to get to the login screen for the captive portal, it ignores the WiFi network and tries to find the captive portal through the mobile data network.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2020-11-04T19:03:57.042017+00:00",
+    "reply": "3 Replies"
+}

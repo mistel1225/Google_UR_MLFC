@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/14056033/brand-new-pixel-3a-cannot-pair-with-bluetooth-devices?hl=en",
+    "title": "Brand new Pixel 3a cannot pair with bluetooth devices",
+    "content": "Hello there! I \n\njust opened up my brand new Pixel 3a (Android version 10), and everything works just fine except pairing via bluetooth. I am working with these two devices:\n- JABRA Talk 15 Headset\n- Libratone Track+ in-ear headphones\n\nWhen accessing the bluetooth settings and chosing \"pair new device\" the Pixel can't find either of the two, although they just lie next to it. With my old Nexus 5X both devices will pair and connect after a second. (By the way, the Nexus 5X does show up in the Pixel's pairing mode, so we are one step farther, but the two phones cannot be connected.)\n\nI went through every step in this article: https://support.google.com/pixelphone/answer/2819579?hl=en\nBut I cannot go past the step \"Tap the name of the Bluetooth device you want to pair with your phone\" - as the devices just won't show up.\n\nI also checked the \"Bluetooth Basics\" from this article: https://support.google.com/pixelphone/answer/7334382?hl=en plus the tips from the section \"Can't pair with other accessories\".\n\nThat is quite a pity, as this limits the functions of a, after all, expensive piece of tech. What am I missing?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2019-09-10T18:54:12.976819+00:00",
+    "reply": "7 Replies"
+}

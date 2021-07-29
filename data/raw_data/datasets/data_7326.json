@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/93813567/pixel-5-proximity-sensor-doesn-t-sense-anything?hl=en",
+    "title": "Pixel 5 proximity sensor doesn't sense anything",
+    "content": "No, I don't have the problem of the \"stuck pixel\" or \"blinking pixel\" -- mine is the opposite where my screen does not turn off on a call, while listening to a WhatsApp voice message, etc. I downloaded sensor apps and can confirm that nothing happens when I place my hand over the sensor (located at the top-middle of the screen). \n\nAll the apps do show that my Pixel 5 has a proximity sensor, but it's always stuck at 5.0 cm. If I disable all sensors via the Sensors Off tile from Developer options, it does turn off the proximity sensor. \n\nSo based on that I was hoping it's a software issue. I went to Safe Mode but no cigar. I even did a factory reset (twice) and still no cigar.\n\nSafe to say it's a hardware problem? I am hoping for a slim chance that someone may have had the same issue and was able to resolve it. I live in a country where Pixels are not sold -- got it shipped to me by a friend. So any returns for repair or RMA would be a pain and expensive.\n\nI could live with it -- I hardly make voice calls. But still disappointed, especially as a Nexus (One, Galaxy, 5) and Pixel (1, 2XL) fan.",
+    "is_img": 0,
+    "category": "Other",
+    "post_time": "2021-01-17T02:11:11.769579+00:00",
+    "reply": "3 Replies"
+}

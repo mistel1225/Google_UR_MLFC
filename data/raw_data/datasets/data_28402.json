@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9103741/bluetooth-headset-arrangement-like-iphone?hl=en",
+    "title": "Bluetooth headset arrangement like iphone",
+    "content": "Hi all, expecially developers,\n\nI need and app which can manage default device while taking phone call.\nWhat i ask is exactly same with current iphone IOS.\n\nIf i click to phone's screen to take a call, I must talk through phone. (Bluetooth headset must NOT take the call, or even my car)\nIf i touch to my bluetooth headset when my phone ringing, I must continue to talk through my headset.\nIf i am in the car, somebody called. If i click the car's screen or button to take the call, I must continue to to talk through car's speakers.\nWhile i am talking through car, if i click to headset, Headset should take the call (Some times i have many people in the car and need to talk privately)\nWhile i am talking through phone, if i open headset, or touch it if it is already opened/paired, headset should take over the call.\n\nAll above features already default in IOS but not in android.\nIf somebody can make this app, I will be the first customer. I am sure that many others may buy.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2019-07-02T08:56:58.699499+00:00",
+    "reply": "1 Recommended Answer"
+}

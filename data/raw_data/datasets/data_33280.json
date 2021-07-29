@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2240459/download-mode?hl=en",
+    "title": "Download mode",
+    "content": "I'm one of the bricked devices after relocking the boatloader with system and recovery failing to boot. I also live in Egypt where there's no Google certified repair centers. I've been trying anything I could find.\nWhen I was playing, I found out that the device boots up into download mode ( the one similar to LG's which I believe is the ODM of Pixel 2 XL) when I press and hold the volume up button while the device is booting up. It's recognized by my PC in this state. I've tried to install LG mobile drivers and it got recognized as an LG device. Different LG flash tools also recognize my device in download mode, but all of them require tot or kdz files to flash.\n\nMy question is, Is there anyway to flash a software update or even just the boot.img file in download mode?",
+    "is_img": 1,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2019-03-11T06:17:33.506987+00:00",
+    "reply": "7 Replies"
+}

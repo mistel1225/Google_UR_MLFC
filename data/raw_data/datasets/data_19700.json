@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/57512375/trying-rescue-ota-on-google-pixel-2-that-gets-stuck-on-bootup?hl=en",
+    "title": "Trying rescue OTA on google Pixel 2 that gets stuck on bootup",
+    "content": "Hi. I had a problem similar to many others on the forum where my google pixel 2 has frozen on boot up and won't progress further. Shutting it off causes it to reboot again.\n\nI followed the instructions on the page below to install ADB and use a rescue OTA. \nhttps://support.google.com/pixelphone/thread/13031453?hl=en&pli=1&authuser=1#\n\nI was able to follow all the steps to the point where I upload the OTA via the usb to my phone. The phone gets to the stage where it says \"verifying update package and goes no further. Is there an idea of how long that should take? It's been probably 30 min so far.\n\nThanks!",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2020-07-07T00:58:47.262797+00:00",
+    "reply": "1 Reply"
+}

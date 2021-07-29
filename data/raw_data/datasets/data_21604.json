@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/42118237/pixel-2-stuck-in-between-home-screen-and-splash-screen?hl=en",
+    "title": "Pixel 2 stuck in between Home screen and Splash screen",
+    "content": "My Pixel 2 is stuck in between Home screen and Splash screen. I hold down POWER button and VOLUME Up/down buttons randomly. Sometimes,I got the following screen shown up:\n\nAndroid Recovery\nGoogle/walleye/walleve\n10/QQ24.200405.005/6254899\nuser/release-keys\nuse volume/down and power\n.......\n(Two options offered)\nTry again\nRestore Factory data\n\nAnd sometimes, I got the following screen:\n\nAndroid logo laying down the chest opened\nBoot loader: mw8998-002.0001.00\nBaseband: g8998-00020-1912122233\nProduct Revision: walleye MP1\nSerial Number: FA7A71A00185\nUFS: 128G Hynix\nDRAM: 4096MB Samsung LPDDR4\nBoot-slot: b\nConsole: DISABLED\nSecure Boot: yes (PRODUCTION)\nDevice State: Locked\nERROR: Operation Denied\n\nI can use Volume UP/DOWN buttons to navigate some options: Start, Restart bootloader, Download mode, Recovery mode, Barcodes, Power off\n\n    I would like to save my personal data (e.g. Line, Facebook, business transactions associated apps etc.) before I try to reboot with Factory data. What should I do? Does it help to download my personal data to the notebook if I choose \"Download mode\" option, and upload the data to my Google cloud, and then restore my Pixel 2 with \"Recovery mode\" command?\n\nPlease help, thanks in advance",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 2",
+    "post_time": "2020-04-24T07:07:31.379043+00:00",
+    "reply": "4 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9427322/why-does-my-pixel-3-generate-hundreds-of-thousands-of-dns-queries-per-day?hl=en",
+    "title": "Why does my Pixel 3 generate hundreds of thousands of DNS queries per day?",
+    "content": "I am using a Pixel 3 with an eSIM from T-Mobile in Germany. The phone itself is running Android 9 Build PQ3A.190705.003\nSince I started using this phone I am seeing literally hundreds of thousands of DNS queries every day to the following addresses:\n- pcscfhost1.ims.telekom.de\n- pspcscfhost2.ims.telekom.de\n- _sip._tcp.pcscf2.ims.telekom.de\n- _sip._udp.pcscf2.ims.telekom.de\n- _sips._tcp.pcscf2.ims.telekom.de\nThis query volume is a factor 100 higher than any other device on the network (including several non-Pixel phones with T-Mobile SIM cards). The queries occur whenever the device is unlocked. During that time the addresses above are being queried multiple times a second.\nSwitching off Wi-Fi Calling and the extended (?) LTE support functions in the provider settings seem to have no effect. Only disabling the eSIM profile curtails this request flood.\nInitial queries via the T-Mobile support forums have not brought any major light to this topic, except that the servers mentioned above are used for configuring services like SMS over IMS, WiFi Calling, VoLTE etc. Why however this leads to a barrage of DNS queries is a mystery.\nDoes anyone have any ideas why this is the case and how to reduce the query load to a \"normal\" level?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-07-07T13:49:59.806512+00:00",
+    "reply": "1 Recommended Answer"
+}

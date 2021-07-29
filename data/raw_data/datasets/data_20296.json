@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/55337781/help-getting-pixel-3xl-working-again?hl=en",
+    "title": "Help getting Pixel 3XL working again?",
+    "content": "Current state:\n* Regular boot sequence conclude after long time with error message \"Cannot load Android system, your data may be corrupt. If you continue to get this message you may need to perform a factory data reset and erase all user data stored on this device.\"\n* Phone does not charge either through USB or inductive charger. Seems like it starts to charge, but the white circle of dots gets stuck. If unplugged, phone runs out of power very quickly.\n\nGoal:\n* Start phone and access messages in Signal. \n\nWhat happened:\n1. Tried to boot phone this morning\n2. Phone ran out of power\n3. Attempted to charge phone, unsure if successful\n4. Rebooted phone\n5. Screen showed error message about corruption\n6. Chat session with Google support where was told only option was factory data wipe.\n7. Found instructions on sideloading the OS\n8. Downloaded ADB and recent build of Crosshatch.\n9. Used ADB to sideload recent build of Crosshatch onto phone, completed without errors. (Initially tried to sideload a Bonito build by mistake, this did not complete successfully.)\n\nAnything else I can do?\n\nI see there's a 'Rescue mode' in the phone, but I see no info about what the rescue commands are, or how to issue them.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2020-06-24T20:21:43.224935+00:00",
+    "reply": "0 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/22639350/google-android-pixel-security-update-dec-2019-which-build-number-assignment-is-correct?hl=en",
+    "title": "Google Android Pixel Security Update - Dec 2019 - Which build number assignment is correct?",
+    "content": "According to the post of Erin - Google Community Manager - the assignment of build numbers for the December security patch of Pixel 4 XL is as follows:\n\nT-Mobile, Fi, EMEA: QQ1B.191205.011\nJapan & Taiwan: QQ1C.191205.016.A1\nAll other carriers: QQ1B.191205.012.A1\n\nAccording to the homepage \"Factory Images for Nexus and Pixel Devices\", the build number assignment for the December security patch of Pixel 4 XL is as follows:\n\nAll other carriers: QQ1B.191205.011\nJapan (SoftBank) & Taiwan: QQ1C.191205.016.A1 \nATT Only: QQ1B.191205.012.A1\n\nSo my first question is: Which assignment is correct?  \n\nFurthermore we're currently discussing the following phenomenon in a German speaking forum: \nMy Google Pixel 4 XL, which runs with a Vodafone eSIM, got the OTA on build QQ1B.191205.011 (which would be correct in both cases mentioned above), while the Google Pixel 4 XL of another user running an o2 nano-SIM got the build QQ1B.191205.012.A1 (which would be wrong in both cases above). \n\nBoth devices were purchased from the Google Online Store Germany. \n\nThus my second question ist: How can this discrepancy arise?\n\nI honestly believe that with the new pixel devices a chaos has crept into the allocation of the build numbers, which should be corrected as soon as possible for the benefit of all users. \n\nCould one of the Google Software engineers take a stand and clear up the misunderstandings?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 4 XL",
+    "post_time": "2019-12-12T13:14:53.09203+00:00",
+    "reply": "0 Replies"
+}

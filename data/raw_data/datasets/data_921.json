@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/112846632/odd-behavior-with-site-logos-in-chrome?hl=en",
+    "title": "Odd behavior with site logos in chrome",
+    "content": "In the grid overview for my tabs in chrome, the small circular icon where a site's logo normally would appear, has been replaced by the logo of Unreal engine (see screenshot), but this only happens on google search tabs (other tabs display the correct logos). After half a second or so it will fix itself and change to the google \"G\" logo. Also, I have been getting a lot of the \"unusual traffic from your computer network\" error when searching, not sure if it related.\nI tried clearing cache, deleting data, restarting phone, etc, but the problem persists. \nAlso, I noticed the issue appears almost every time if incognito mode is enabled. Thank you!",
+    "is_img": 1,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2021-06-08T16:57:11.854667+00:00",
+    "reply": "1 Reply"
+}

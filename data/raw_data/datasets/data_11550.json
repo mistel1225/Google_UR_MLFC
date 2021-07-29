@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/84443180/astrophotography-mode-no-longer-turns-on-on-pixel-4-xl?hl=en",
+    "title": "Astrophotography mode no longer turns on on Pixel 4 XL",
+    "content": "Astrophotography mode no longer turns on on my Pixel 4 XL.\n\nWhen I leave the phone perfectly still on a tripod in the dark at night, and switch to Night Sight mode in the Camera app, nothing happens. Astrophotography mode doesn't turn on automatically, no confirmation toast messages are displayed, and there's no indication the mode is active. Tapping the shutter in the app just takes an ordinary Night Sight mode shot.\n\nHere's how to reproduce the issue:\n\nwhen the sky is dark, bring a photo tripod at a place facing the night sky\nclasp the phone to the tripod\npoint the phone to the sky\non the phone, open the Camera app\nin the Camera app, switch to Night Sight mode\n\nAt this point, nothing happens and Astrophotography mode doesn't turn on.\n\nAstrophotography mode worked fine until early September 2020 with exactly the same setup and observing location. I've tried again a couple of nights ago when night sky was even darker.\n\nIn mid October I experienced another Astrophotography mode issue. Astrophotography mode still turned on, but the Camera app took only short exposures up to a few tens of seconds that didn't last until the full 4 minutes Astrophotography mode supports.\n\nI'm using a Pixel 4 XL with Android 11 and version 8.1.011.342784911 of the Google Camera app.",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 4 XL",
+    "post_time": "2020-11-21T15:34:41.032236+00:00",
+    "reply": "2 Replies"
+}

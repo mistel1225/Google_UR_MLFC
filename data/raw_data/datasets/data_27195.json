@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/17193511/pixel-3-dead-hard-buttons?hl=en",
+    "title": "Pixel 3 - Dead hard buttons",
+    "content": "My pixel 3 volume and power buttons were not working yesterday.\n\nI thought it might be a software issue so I waited for the phone to die to have it restart.\n\nNow the power button still is not working so I can't power the device on.\n\nI am looking for a way to boot the device via and adb command or something similar.\n\nWhen I run adb devices it does not show up.\n\nJust trying to back up some of the data before I get a new phone.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2019-10-19T13:44:11.85378+00:00",
+    "reply": "2 Replies"
+}

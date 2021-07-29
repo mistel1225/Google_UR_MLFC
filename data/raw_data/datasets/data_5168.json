@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/102282308/pixel-4-xl-wireless-changing-stuck-at-90-after-recent-update?hl=en",
+    "title": "Pixel 4 XL wireless changing stuck at 90% after recent update",
+    "content": "After recent update, my phone refuses to be wirelessly charged to 100%. Instead, whenever it reaches 90%, it pops up \"Realign phone to charge wirelessly\". However, if a user didn't remove the phone from the charging pad and put it back again, the phone won't be charged.  The worst thing is, the phone still consumes the battery throughout the night and by the next morning, the battery could be 70%!!! \nI've tried \nfactory rest, didn't work\nreplaced the wireless charge pad, didn't work\nreplaced the power adapter (9V 2A), didn't work\nwent to ubreakifix (still in warranty) to fix it, didn't work\nI can't believe such a big problem was not found before the software release. How come there's no QA for this wireless charging?\nAndroid version: 11\nBuild number: RQ2A.210305.006\nAny solution and/or does anyone have the same problem?",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 4 XL",
+    "post_time": "2021-03-15T09:02:41.865152+00:00",
+    "reply": "6 Replies"
+}

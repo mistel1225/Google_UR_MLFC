@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/95841453/difference-between-ca-certificate-and-vpn-apps-certificate?hl=en",
+    "title": "Difference between CA certificate and VPN/apps certificate",
+    "content": "I have been provided with a CA certificate for a SIP telephony app. I think the instructions are based on old android versions; now the installation of certificates has changed and requires install through settings, which I have done.\n\nHowever, I am only able to install this as a CA certificate, not an 'VPN and app user certificate'. Reading a little about the role of the VPN and app user certificates, it appears that this is what I want.  However, I cannot install the certificate here ('This file can't be used as a VPN and app user certificate').  I have installed it as a CA certificate successfully and it shows in the user certificates but I am not clear quite what this list is used for.  The telephony app is not connecting and I wonder if this might be the problem.\n\n1) What does the CA certificate category do - how is it used by android?\n2) What is required for a certificate to be installable as a VPN and app certificate?  Does the vendor need to create it in a different way?\n3) If installed as a CA certificate will the telephony app be able to reference it / use it (I do not understand the mechanism by which the certificates are used)\n\nThanks for your help,\nRob",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a XL",
+    "post_time": "2021-01-30T15:57:57.852658+00:00",
+    "reply": "0 Replies"
+}

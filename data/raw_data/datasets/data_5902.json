@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/100104650/bluetooth-issues-with-pixel-4a-5g-and-jabra-elite-25e-headphones?hl=en",
+    "title": "Bluetooth issues with pixel 4a(5g) and Jabra Elite 25e headphones",
+    "content": "Ever since upgrading from Pixel 1 to Pixel 4a I've been having issues with connecting to my Jabra Elite 25e headset. Its behaviour is one of the following:\n1 Headphones connect including headphones telling me connected. But when you check under Bluetooth devices, the device is greyed out and connecting. Eventually says \"Problems connecting. Turn the device off and back on.\"\n2. Headphones connect including headphones telling me connected. I click the button to play music and it comes out of the phone. If you look under Bluetooth devices the headphones appear connected, with no issues reported, but you can't switch from phone speaker to headset.\n\nTurning the headset off and back on does not resolve the issue. Opening the device in Bluetooth settings and clicking \"Disconnect\" then \"Reconnect\" most of the time solves the issue. Other times I need to restart the phone entirely.\n\nOther Bluetooth devices I own seem to connect more reliably especially after the last Android update.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a (5G)",
+    "post_time": "2021-02-28T06:33:04.499796+00:00",
+    "reply": "2 Replies"
+}

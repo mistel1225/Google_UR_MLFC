@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1436487/share-to-interface-needs-an-overhaul?hl=en",
+    "title": "\"Share to\" interface needs an overhaul",
+    "content": "I have noticed since the introduction of the most used contacts to the \"send to\" menu that usability has decreased significantly.\n\nFor example, you find a picture you want to share. Tapping the share icon in Google Photos(or any app) opens a pop-up with all of the apps capable of sharing to. However, none of them can be selected until the additional \"most common contacts\" menu opens up above the available apps menu.\n\nThis is frustrating, because the \"most commonly used contacts\" menu is supposed to help save time, but it usually makes the process take longer as Android has to figure out what should be in this extra list each time it's initiated and the ability to simply select an app is unavailable until the secondary list is populated.\n\nThis has been an issue since the introduction of the \"most common contacts\" list.\n\nPlease, either make this secondary list optional or change the way it's populated so it doesn't make the \"share to\" interface slower that it needs to be.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2019-02-03T15:07:18.222597+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/72479682/touchscreen-not-accurate-does-not-register-my-touch-correctly?hl=en",
+    "title": "Touchscreen not accurate - does not register my touch correctly",
+    "content": "In the last few weeks, I've noticed my Pixel 4a started responding erratically to touch. I use the Gboard keyboard, and it was almost impossible to type by swiping the letters of the word. When selecting options in apps, sometimes I'd have to press several times to register, and when playing games, my touch would sometimes not register, or register as if I had actually pressed a different part of the screen.\nI upgraded to Android 11 as soon as it was available, so it is possible that may be related. I removed my screen protector, and the problem was resolved. However, my husband has the exact same phone with the exact same screen protector, and he's not experiencing any problems!\n\nThis is very frustrating, as I had problems with the power port and battery on the Pixel 3, and was hoping upgrading to the 4a would provide a better experience. Using the 4a with no screen protector is not a viable solution!\n\nHere is an image showing an example of the problem:\nThis should show only two continuous lines - one horizontal between the sides of the screen, the other vertical between the top and bottom of the screen\nIn brown, I'm swiping back and forth horizontally - a continuous swipe from top to bottom going back and forth from left to right of display\nIn pink, I'm swiping up and down vertically - a continuous swipe from left to right going back and forth from top to bottom of display\n \n\n\n\n\nAfter removing my screen protector, I performed the exact same test as above, and the results were correct functionality:",
+    "is_img": 1,
+    "category": "Device Performance, Google Pixel 4a",
+    "post_time": "2020-09-21T20:06:09.027508+00:00",
+    "reply": "7 Replies"
+}

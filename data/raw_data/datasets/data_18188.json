@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/63570777/pixel-stand-is-draining-my-phone-rather-than-charging-it?hl=en",
+    "title": "Pixel Stand is draining my phone, rather than charging it",
+    "content": "I have the Pixel 3 for about 2 years.\n\nEvery 1 or 2 days I have to reboot my phone. Why? Because if I don't, my phone heats up a lot when placed on the Pixel Stand and it starts to discharge.\n\nBefore some \"expert\" (or rather PR agent) of Google comes with a simple list of steps to help and then marks it as a solution... Here's why I think it's simply software. The phone is placed on the Pixel stand (straight). The phone heats up and then starts to (fast) discharge. This is something I can reproduce almost daily. Then, without moving the phone, so I'm not taking it off the Stand, or changing the position, I hold down the power off button and reboot the phone. After that, the phone is still hot, but starts to actually charge. So the problem is not heat, case, position, charging cable, or whatever. It's pretty sure the software.\n\nI already did a full system wipe and side loaded the latest stock ROM on the phone. No effect. This problem is likely a software bug, which Google simply ignores. I've been sending feedback with the system details for months.\n\nWhen a reboot solves it, without changing any other variables, my guess is that it really is a software issue. So please, PR agent (or \"expert\"), don't copy paste your sh*tty list here of things to do and mark it as a solution (as is done here). Poke the Google developers and let them debug this issue. I've paid a lot of money for this phone and Stand, in return I get trash.",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 3",
+    "post_time": "2020-08-08T07:48:11.681682+00:00",
+    "reply": "2 Replies"
+}

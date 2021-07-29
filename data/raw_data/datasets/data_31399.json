@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3525575/android-q-beta-no-longer-able-to-block-report-spam-from-the-phone-app?hl=en",
+    "title": "Android Q Beta - No longer able to block / report spam from the phone app",
+    "content": "I'm no longer able to block / report spam calls from call history in the Phone app. Also, I cannot view the list of blocked phone numbers from the phone app either. However, I've found that I can manually block phone numbers and view the blocked phone number list if I use the Contacts app.\n\nAll the documentation I've found online and on the phone instruct me to block / report spam calls using the call history tab on the Phone app (doesn't work). Also, all documentation I've found for viewing blocked phone numbers instruct me to navigate to the Phone app settings (not there).\n\nI received a spam call that the spam filter did not pick up and I have no option to block / report as spam from the call history tab on the Phone app.\n\nI've submitted feedback through the phone multiple times but have not received any response (not sure if I should expect one).\n\nI'm running:\nAndroid Q Beta\nQPP2.190228.021\n\nThese issues existed on the QPP1 build of Android Q Beta as well.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 3 XL",
+    "post_time": "2019-04-03T19:54:59.403284+00:00",
+    "reply": "4 Replies"
+}

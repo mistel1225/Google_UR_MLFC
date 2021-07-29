@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/105738576/pixel-4-suddenly-not-certified-can-t-use-google-pay-and-safetynet-check-fails-not-rooted?hl=en",
+    "title": "Pixel 4 suddenly not certified, can't use Google Pay and Safetynet check fails. Not rooted.",
+    "content": "I've had a Google Pixel 4 since november 2019, and I've been using Google Pay with it almost daily since then and it's been working great without issues, until today. Suddenly I got a notification from Google Pay that I can no longer use my phone for contactless payments, and when opening the Google Pay app I got the message that claims that my phone doesn't meet software standard and that it might be rooted or running uncertified software. I have never rooted my phone and I haven't unlocked  the bootloader either, it's still completely stock as far as I can tell and it's recently updated with the latest security update (april 5 2021).\n\nI tried a Safetynet tester-app and it also says that my Pixel 4 failed the compatibility test, and it says that it fails the Basic Integrity and CTS profile match tests. In the Google Play app, it also says that the phone is not Play Protect certified.\n\nI have tried clearing app data and cache in both Google Play and Google Play Services and rebooting several times, but nothing seems to solve the problem.\n\nAny ideas how this might have happened and/or suggestions on what I can try to make the phone certified again? The only solution I can think of right now is a factory reset, but I obviously would prefer not to have to do that, since it involves a lot of work to restore everything.\n\nThanks in advance!",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4",
+    "post_time": "2021-04-10T19:31:40.81413+00:00",
+    "reply": "1 Reply"
+}

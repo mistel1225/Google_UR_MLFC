@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/26242078/pixel-3-keeps-crashing-when-reboot-initialised?hl=en",
+    "title": "Pixel 3 keeps crashing when reboot initialised",
+    "content": "I have a Pixel 3 that crashes when I initiate a reboot from within the OS - it cannot be restarted until i plug it into the power (even though it indicates there is charge).\nIf I reboot it while it is plugged into a power source it works just fine.\n\nI have noted that it does seem to lose its charge quicker than normal.\n\nPart of my troubleshooting thus far has been a factory reset and removing non essential apps.\nI have also run a TestM H/W check and it reported no issues.\n\nI can only think that the charge connector may be playing up but i don't know how to validate this.\n\nAnyone have any thoughts?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2020-01-21T01:40:04.011943+00:00",
+    "reply": "1 Reply"
+}

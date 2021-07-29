@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/37461180/microphone-input-audio-output-pixel-3?hl=en",
+    "title": "Microphone input/Audio output pixel 3",
+    "content": "Im Trying to Stream video on a pixel 3, Video is good but audio quality is not good enough for streaming .\nSo I attached rode videomicro go through adapters to USB C port in pixel3 then Pixel 3 thinks there are headphones plugged in so sends audio to usb C port so no sound. in the settings menu I can change media audio output to bluetooth speaker to workaround problem. \n\nusing Zoom or similar software (not google meet because it doesnt switch to landscape mode filming on a phone and has weird cropping on portrait mode) audio output is not media output but phone audio output - there is no option to change phone audio output to bluetooth speaker. I have ordered an adapter to split USB C port into 2 audio ports, I will update if that works. \nIt would be nice not to have to use an extra adapter to solve this problem - especially as I think this wouldnt be a problem if I had a 3a which has a headphone jack as well as usb C. \n\nany way I can route phone audio output to a bluetooth speaker? \n\nCheers",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2020-04-02T13:44:51.169367+00:00",
+    "reply": "0 Replies"
+}

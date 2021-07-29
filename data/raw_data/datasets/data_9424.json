@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/90930803/previous-pin-verification-after-factory-wipe?hl=en",
+    "title": "Previous Pin Verification After Factory Wipe?",
+    "content": "I was having corruption issues with Photos on my brand-new Pixel 4a so I did a factory restore from recovery mode. It went smoothly, and when the phone booted up again I was surprised to find it requesting my previous PIN for verification.\n\nI remember my PIN so it wasn't an issue, but what's the point of this measure? Theft prevention? FRP? If that's the case then should not the FRP have kicked in before I reformatted and not after? Seems pretty silly to let a thief reformat a phone.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 4a",
+    "post_time": "2020-12-29T02:34:31.823656+00:00",
+    "reply": "1 Recommended Answer"
+}

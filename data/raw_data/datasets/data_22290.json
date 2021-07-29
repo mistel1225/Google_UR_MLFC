@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/34620365/sideload-not-work-on-pixel2-usb3-0-issue?hl=en",
+    "title": "sideload not work on pixel2, usb3.0 issue?",
+    "content": "I want to update to Android 11 dp2. And my pixel2 is Verizon version, so it's the only way to update, since bootloader can't unlock.\nPixel cannot sideload ota on usb3.0 devices. Already tested on windows and Ubuntu. It just stuck  in the sideload mode displaying \"verifying the package\", and there is no message in terminal after typing \"adb sideload xxx.zip\". But 10+ minutes  later, nothing changed, still verifying the package. I have checked the SHA-256 of the file. It is right. I tried the different full-ota file and usb cable . Still the same. \nI got some information from others. They say it's the type C-to-C  cable won't work. After they changed into type C-to-A cable. It works fine. However,  it never works on my pixel2. I have got one anwser saying it won't work on usb3.0, but work on usb2.0. And my computer only have usb3.0. Is it true? I cannot test. Please help me. Thanks!",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2020-03-21T04:15:15.261333+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/57948993/need-help-connecting-pixel-3-to-pc-via-usb?hl=en",
+    "title": "Need help connecting Pixel 3 to PC via USB",
+    "content": "I have been trying to get my Pixel 3 connected to my PC for quite some time now. I want to use it while developing in Android Studio. It used to work just fine, but then I switched motherboards to an Asus Prime A320M-K and a Ryzen 9 3900 along with an SSD. The connection still works on my laptop and my wife's laptop, so I know it is not the USB cable. Mine is a Lenovo IdeaPad that I just use for small stuff. I don't know what hers is.\n\nI have tried everything that I could find on the issue. Adding MTP drivers manually with \"add legacy drivers\" in the driver manager. Manually installing the mtp.ini in Windows\\INF. I've installed Media Feature Pack. I've updated my chipsets and all my drivers. And several other things that I can't think of off of the top of my head.\n\nLiterally nothing appears in my device manager when it is plugged in. In the USB preferences on the phone, the only options that are not grayed out are \"USB controlled by\" and its two radio buttons: \"Connected device,\" and \"This device.\" Both of which do absolutely nothing.\n\nI'm at a loss at this point.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2020-07-09T08:52:06.369685+00:00",
+    "reply": "3 Replies"
+}

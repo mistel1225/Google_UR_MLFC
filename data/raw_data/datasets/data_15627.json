@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/73498382/google-messages-rcs-duplicate-image-glitch?hl=en",
+    "title": "Google Messages RCS Duplicate Image Glitch",
+    "content": "Encountered a very annoying bug with Google Messages that can be easily replicated. It only occurs in RCS enabled conversations; SMS/MMS conversations are not affected. \n\nIf you either clear Google Messages data, or restore a conversation from backup, you will invariably find that any photo you were sent has been duplicated. The duplicate appears as a low resolution, pixelated version of the original, almost akin to a thumbnail, and cannot be individually deleted. \n\nI'm using a Pixel 3a on Android 11. Another user encountered this issue using a Pixel 4 XL on Android 10. To say this bug is ridiculous would be an understatement. Has anyone else experienced it and, more importantly, does anyone have a solution? I've attached a sample screenshot.",
+    "is_img": 1,
+    "category": "Other",
+    "post_time": "2020-09-27T06:31:40.571337+00:00",
+    "reply": "0 Replies"
+}

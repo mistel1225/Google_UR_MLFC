@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/110228967/pixel-4a-front-facing-camera-not-focusing-correctly-on-subject-fix?hl=en",
+    "title": "Pixel 4a front-facing camera not focusing correctly on subject (FIX)",
+    "content": "The Pixel 4a has a well-documented problem with the Pixel 4a front-facing (selfie) camera not being focused on the subject.  It is fixed focused 10 feet behind the subject, even at the recommended distance of 18\" or more - the subject remains out of focus and blurry while the background is crisply in focus.\n\nHere's a test my professional video engineer dad ran on the 4a front-facing camera:\n\n\"The problem is a design or manufacturing fault.  Here are photos of the Pixel front facing camera as delivered and with a +2 or +3 close-up filter.  There are focus star charts at the subject distance of 14\" and also in the background at 9 feet.  As set at the factory the background is more or less in focus, but the subject is not.  It's better with a +2 close-up filter taped over the camera lens, and perfect with a +3 close-up filter.  Clearly the camera is not focused properly, either because the wrong focal length was spec'd or delivered for the camera, or because the lens is too close to the sensor.  The simplest fix for existing phones, under the circumstances, would be for Google to admit the camera has a fault, and send a small stick-on +3 close-up filter to place over the camera lens to anyone who requests one.\"\n\nStep up Google, and make good on your defective camera.",
+    "is_img": 1,
+    "category": "Camera, Google Pixel 4a",
+    "post_time": "2021-05-18T01:13:18.397891+00:00",
+    "reply": "5 Replies"
+}

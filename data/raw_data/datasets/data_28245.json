@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/11852077/assistant-popup-is-full-screen-instead-of-a-small-overlay?hl=en",
+    "title": "Assistant popup is full screen instead of a small overlay",
+    "content": "Recently, whenever I trigger the assistant by squeezing the sides, holding the home button, or swiping from the bottom corners (Android Q gesture), I get a full screen UI as shown in the image below, rather than the normal, small pop up with the \"Hi, how can I help?\" prompt and \"Swipe up to see your updates\" text. The only time I get the normal popup is when I press the assistant icon on the right of the home screen search bar, or when I swipe and hold from the bottom corners.\n\nI am currently on Android Q Beta 6, however this issue was present while I was on Android P. I have tried uninstalling all updates and reinstalling, joining the beta and leaving, and clearing the cache.",
+    "is_img": 1,
+    "category": "Google Assistant and Voice Actions, Google Pixel 2",
+    "post_time": "2019-08-12T20:12:38.223657+00:00",
+    "reply": "2 Replies"
+}

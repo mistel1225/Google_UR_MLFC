@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/80579572/pixel-4-xl-screen-goes-black-and-unresponsive-during-phone-calls-since-upgrade-to-android-11?hl=en",
+    "title": "Pixel 4 XL screen goes black and unresponsive during phone calls since upgrade to Android 11",
+    "content": "Since Android 11, my face unlock no longer works and the screen goes black and unresponsive during phone calls. The only way I can get my screen to work is if the other party in the call hangs up. I can't use the dial pad or press the hang up button since the screen is all black. \n\nI have tried all the fixes mentioned so far. I do not have a screen protector and the proximity sensor is working. I installed an app to test it. I have cleared the phone cache and uninstalled and reinstalled the phone app. The best fix that works so far is booting the device in safe mode then restarting it. After a safe mode boot, the screen works fine during calls and the face unlock works, but only for a few hours. I have been booting my phone into safe mode and rebooting numerous times a day, because I use my phone for work. I tried factory restoring and that didn't work either.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4 XL",
+    "post_time": "2020-11-02T16:57:52.773348+00:00",
+    "reply": "18 Replies"
+}

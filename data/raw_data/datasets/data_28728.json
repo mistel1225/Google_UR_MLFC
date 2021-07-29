@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3321469/cannot-set-up-wifi-nfc-tag?hl=en",
+    "title": "Cannot set up WiFi NFC tag",
+    "content": "It used to be that you could long press the wifi network and write the network to an NFC tag. It seems that the option now only exists for networks that are saved and in range, but not currently connected. However, even then, when I enter the password for the network, it days the password is invalid, which I know is not true. Has this function been deprecated? I just want to create a tag for guests to log into my home WiFi without them needing to download some other NFC app.",
+    "is_img": 0,
+    "category": "Device Performance",
+    "post_time": "2019-03-31T10:16:28.313824+00:00",
+    "reply": "1 Recommended Answer"
+}

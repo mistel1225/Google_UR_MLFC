@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/13770529/how-to-stop-play-store-from-crashing-within-30-seconds-of-opening?hl=en",
+    "title": "How to stop Play Store from crashing within 30 seconds of opening?",
+    "content": "Hi, I have upgraded (OTA) my Pixel 2 from Android 9 to Android 10. When I now launch the Play Store, it comes up and crashes within 30 seconds. Sometimes it gets to \"Download Pending\", sometimes to \"Downloading\", but never actually started a download. This means I can not install and update Apps now.\n\nI have tried cleaning the cache and data of both Play Store as Play Store Services. Have tried Safe Mode. Have uninstalled Play Store and Play Store Services updates. All to no avail. When looking at the process list, it appears that the underlying Play Store Service process suddenly dies. All permissions are enabled.\n\nAnything else that I can try. I am afraid of doing a factory reset. Besides the extra work re-instating something that I already have, what if that does not fix the Play Store issue. That would mean that I can no longer use my phone.\n\nAny pointers/ideas are appreciated.\n\nI am a massive Android and Pixel fan since the very beginning. Never had a problem. Sad to see so many Pixel upgrade issues. Must have been a very rushed release in the end. \n\nThank you.",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 2",
+    "post_time": "2019-09-07T03:05:54.991147+00:00",
+    "reply": "12 Replies"
+}

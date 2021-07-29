@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/102150585/your-device-is-corrupt-adb-hangs-on-verification-when-sideloading?hl=en",
+    "title": "\"your device is corrupt\" & ADB hangs on verification when sideloading",
+    "content": "I have a stock Pixel 2xl.  Google replaced it maybe a year ago because my first one had a non-op camera (known issue).  Replacement has been fine until yesterday. \n\nYesterday I was switching apps in the car.  I may have accidentally selected the Google Auto app, which I ignore (don't need it), and my phone instantaneously rebooted.  When it rebooted it stopped here:\n\n\nFirst time seeing that screen... corruption?  I called Google.  A tech walked me thru recovery, including factory wipe.  But I couldn't finish loading my data because I wasn't near wifi.  Later that evening I found out my phone still booted to the corruption screen. \n\nThe only thing left that I can think to do is sideloading the OS via ADB.  Never used it, but found instructions and got to where ADB offered the phone the zip file with the OTA (I think its called).  Windows CMD doesn't ever show any changes in its window; phone shows it finds the zip file, and then hangs on verifying it.  If I pull the USB cable out it shows this:\n\n\nI've tried several troubleshooting steps with no change.",
+    "is_img": 1,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2021-03-14T08:55:38.585977+00:00",
+    "reply": "7 Replies"
+}

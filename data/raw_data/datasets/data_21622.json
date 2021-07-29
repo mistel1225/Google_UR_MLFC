@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/36030116/is-it-possible-to-rollback-from-android-11-developer-beta-preview-on-pixel-3-with-locked-bootloader?hl=en",
+    "title": "is it possible to rollback from android 11 developer beta preview on pixel 3 with locked bootloader?",
+    "content": "hello!\nI sideloaded my pixel 3 from verizon (with locked bootlader) to andoid 11 developer preview 1 (blueline-ota-rpp1.200123.016-c2191743). few days ago i receive ota update to beta preview 2, and sensors(such as proximity) stop working.\n\nI tried to sideload full ota image of andoid 10 or developer preview 2 with no luck because this errors:\nadb: sideload connection failed: closed\nadb: trying pre-KitKat sideload method...\nadb: pre-KitKat sideload connection failed: closed\n\nis there any way to rollback to android 10? and whta to do next? just wait for next ota? will i finally receive public beta and then final release?\nor should i buy new phone, because everyday using now is impossible due to many bugs and broken android pay?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2020-03-27T18:30:45.948274+00:00",
+    "reply": "1 Recommended Answer"
+}

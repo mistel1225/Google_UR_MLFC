@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/16478238/after-battery-replacement-camera-works-only-while-charging-or-battery-loaded-50-error-code-4?hl=en",
+    "title": "After battery replacement camera works only while charging or battery loaded (>50%) - Error code: 4",
+    "content": "Hi,\n\nafter a battery replacement, the camera is only working correctly (camera image freezes or stays completely black) if the battery is loaded (better maximum, e.g. > 50%) or while charging w/ current (battery level is unimportant).\nWhat can it be, is it a bad battery? I'll debugged (attached and prepared for a diff) and the final exception is:\n\nE/CAM_VirtualCameraManage: Failed to open camera device 0. Error code: 4\n\nEDIT: I can't post log files or long posts... Attached as images.\n\nEDIT 2: Battery was replaced from a 3rd party support. Original battery was damaged from water while charging. Phone works perfectly as usual as before and everything as expected with the original data. Can't prove what causes the issue to get warranty from the 3rd party support as there in no similar problem or question in the community.",
+    "is_img": 1,
+    "category": "Camera, Google Pixel 2",
+    "post_time": "2019-10-10T14:41:03.385005+00:00",
+    "reply": "2 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/111742393/using-external-audio-with-pixel-4-video?hl=en",
+    "title": "Using external audio with Pixel 4 video",
+    "content": "Hi,\nI am currently investigating getting a renewed Pixel 4 phone specifically for the camera. One of the things I would like to be able to do is use audio from a USB audio interface when recording video (I want to record myself playing guitar and have the sound coming from my PC's DAW as the sound source rather than ambient sound from the mic). To do this I need to be able to connect the USB interface directly to the Pixel 4. I cannot find out anywhere if this is possible. It seems that I need USB OTG functionality for this to work, but I cannot find out anywhere if the Pixel 4 supports this as all specs just mention USB C 3.1. Has anybody tried this successfully? I am looking at the iRig Stream interface to take the sound from my PC and convert it to USB C.\nThanks for any info\nColin",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 4",
+    "post_time": "2021-05-30T13:57:45.098913+00:00",
+    "reply": "1 Reply"
+}

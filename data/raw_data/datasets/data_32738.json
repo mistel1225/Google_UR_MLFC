@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3007040/battery-use-airplane-mode-vs-shutdown-power-up?hl=en",
+    "title": "battery use airplane mode vs. shutdown/power-up",
+    "content": "This is more a question than a problem: is there any data on the battery use trade of going to quiescent airplane mode vs. the mAhr used to shutdown and then power back up (boot)? At some point, it seems to me, there'd be a tradeoff between the minimal usage of the phone's battery capacity in radios off sleep vs. the no consumption time added to the mAhr consumption for shutdown and startup. I've always figured for 5 hrs or more of flight time (US transcon or mainland-Hawaii) I'd power down but for less I'd just go airplane mode. I have no idea if that's a good trade. E.g., let's say it takes 1 mAhr per hour of airplane mode sleep and 5 mAhr to shutdown+reboot, that'd be the five hour trade.",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 2",
+    "post_time": "2019-03-25T17:48:07.799078+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1510398/no-sound-notification-any-ringtone-for-incoming-call?hl=en",
+    "title": "No sound notification (any ringtone) for incoming call",
+    "content": "Symptoms:\n===========\nIf I connect the head set then I can hear the ring tone for the call \nVideo taken with Camera app plays volume fine. \nMusic plays out normally\nCannot hear Alarm Volume\nspeaker calls are one way (remote able to hear)\nchanging ringtones is not heard (without the headset)\nSlider (Sound settings) on Media/Call Volume makes sound\n           while the slider on Ring/Alarm does not\n\nTried: \n======\nSafe mode --- Same issue\nPhone reset -- Same issue\nSettings>>Apps&Notifications>>All Apps>>3-dot menu>>reset app preferences\nSettings -> Apps & notifications -> Advanced -> App permissions -> Microphone  --> Removed all Apps\nTurned off Active Edge > Squeeze for silence\nTurned off other Gestures\nDo not Disturb is not turned on \n\nIs it possible that lower speakers on the phone has gone bad \n     (as I haye issues with Ringtone, Alarm, loudspeaker)? \n\nAny other suggestions?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-02-07T15:26:48.343852+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/42743750/pixel-3a-recording-of-time-lapse-video-recording-failure?hl=en",
+    "title": "Pixel 3a Recording of Time Lapse Video recording failure",
+    "content": "Hi there,\n\nI have made multiple attempts to make time lapse video recording on food processing which is developing over few hours. The natural idea was to do it overnight when I am not using my phone for routine operations. I have all the set up with lightning and tripod + developer option for always on while charging set to on. \nFor this kind of recording I have to choose 120x speed and short recordings coming alright. \nThe problem is when I am trying to record overnight. I had multiple failures there,\nThe latest attempt when I examined the result brought a mp4 file with size of around 300 MB, which I guess has been recorder over approximately 4 hours looking at the details  info of the file.\nUnfortunately the file can't be played neither on the phone nor on external apps on PC. \nI have tried VLC Player - came nothing. \nI have try to import the file in Adobe Premier for deeper inspection. \nThe result was ( see attached screenshots):\n- The  Import reported Generic Error;\n- File importer detected inconsistency of the structure [ Name of The file ] . Reading and writing this file matadata (XMP) has been disabled. \n\nI have not found similar  issues reported in the community and trying to get some advice if someone has come to such and any suggestions to overcome this, so I use the feature as Intended.\n\nAppreciate all contributions in advance.\n\nThanks!\n\nSvetlozar",
+    "is_img": 1,
+    "category": "Camera, Google Pixel 3a",
+    "post_time": "2020-04-27T09:21:48.24973+00:00",
+    "reply": "1 Recommended Answer"
+}

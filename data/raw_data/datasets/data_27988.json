@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/14981464/got-bricked-pixel-and-pixel-xl-running-android-q-beta-4?hl=en",
+    "title": "Got bricked Pixel and Pixel XL running Android Q Beta 4",
+    "content": "Hello! I have two original pixel phones. They both were on Android Q b4 and they went bricked tomorrow night :( \nThe fist one has a bootloop. I can got to fastboot but can not flash it with factory image because bootloader wasn't unlocked also I can not got to recovery mode (it just reboots all the time).\nThe second one is completely dead :( I can not turn it on. I got only short vibration and nothing happens. In windows device manager it detects as Qualcomm 9008. I haven't found any repair solution over the Internet. Maybe there are some software which can repair my phones? \nI live in Ukraine and as I see there are no official service centers for RMA or something :(\nHow can I get my phones to work?\nThank you!",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2019-09-22T00:59:53.072525+00:00",
+    "reply": "1 Recommended Answer"
+}

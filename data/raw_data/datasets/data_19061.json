@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/60242127/pixel-2-gets-very-hot-and-has-charging-connected-device-via-usb-when-nothing-connected?hl=en",
+    "title": "Pixel 2 gets very hot and has \"Charging connected device via USB\" when nothing connected",
+    "content": "The problems:\n- The phone becomes very hot, even when not connected to a charger\n- Doesn't immediately recognize some of the charges, but after going to USB Preferences and choosing \"this device\" it does charge for any charger.\n- Constantly shows notification \"Charging connected device via USB\" even when nothing is connected.\n\nI tried cleaning the charging port and factory reset, and it didn't help. Moreover, after turning off and on I got database corrupted and had to do factory reset again.\n\nMy phone is still under warranty, what should I do?",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 2",
+    "post_time": "2020-07-21T14:48:48.508067+00:00",
+    "reply": "2 Replies"
+}

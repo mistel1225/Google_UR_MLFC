@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/13316433/pixel-2-camera-not-starting-not-focusing?hl=en",
+    "title": "Pixel 2 Camera not starting & not focusing",
+    "content": "Ref. https://support.google.com/pixelphone/thread/3734037?hl=en&fbclid=IwAR03EVN_7jFuue1KmQCixvZyCvfauVkHYaSocGYrgzz3JiyHEo5KfnUitkc\n\nThe answer there is marked as an answer, but it doesn't fix our problem. Answer says symptoms point towards a hardware problem, but given the additional information from multiple users it does not seem to be a hardware problem.\n\nAfter an update this summer Camera won't start on Pixel 2 and Pixel 2 XL for some users. Sometimes it may start (just after reboot or if you hold phone upside down a few times while starting camera), then it will not focus. This only applies to main camera, and applies to any application attempting to use camera.\n\nThis is clearly not a hardware problem and it affects multiple users. And it came the same day as phone was updated. I assumed a fix would follow soon, but it did not.\n\nReboots, clear cache, uninstall and reinstall camera, resetting phone, etc has not helped.\n\nPlease acknowledge error and give feedback on plans forward.",
+    "is_img": 1,
+    "category": "Camera, Google Pixel 2",
+    "post_time": "2019-09-01T09:23:50.184034+00:00",
+    "reply": "1 Recommended Answer"
+}

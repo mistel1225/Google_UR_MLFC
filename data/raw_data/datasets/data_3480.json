@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/105622202/pixel-5-boot-loop-how-to-recover-data?hl=en",
+    "title": "Pixel 5 Boot Loop How to Recover Data?",
+    "content": "My Pixel 5 is brand new and while I was reading news it suddenly did reboot. Ok no problem it will be back in a few minutes. But after another reboot I was greeted with a text message \"Android System cannot be loaded ...\" in big red letters. \nI did retry > 7 times in a row reboot again without any success. The Recovery only allows me to reset the device to factory defaults. But I want to keep my photos which are due to privacy reasons not synced with Google. \nAfter reading a bit more I did find out that I could rewrite the OS Image again to the device via adb in recovery mode\nhttps://developers.google.com/android/ota#redfin\nhttps://www.getdroidtips.com/february-2021-patch-pixel-device/\nhttps://www.android-recovery.net/apply-update-from-adb-sideload.html\nhttps://support.google.com/pixelphone/thread/17930356?hl=en\n\nI do not need Android Studio but only the  Platform tools which is a small download to use adb to flash the OS back to the Pixel 5. After getting an outdated ODB file I was able to find the latest one my phone is using \ngoogle/reding/redfin\n11/RQ2A.210305.006/719741\nThe second attempt to flash the device did work but I still cannot get out of the boot loop? What can I do to get my photos back without a factory reset? The device is not rooted or anything special just an expensive brick right now. \n\nIf there is no way to get my data back and the phone has no SD Card Slot I really question the engineering skills at Google to forbid me to download my own data when the OS crashes hard which is not such uncommon as it looks to be a pretty often visited topic.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 5",
+    "post_time": "2021-04-09T18:01:35.092137+00:00",
+    "reply": "5 Replies"
+}

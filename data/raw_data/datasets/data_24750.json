@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1707673/pixel-sailfish-no-longer-charging-from-pd-charger?hl=en",
+    "title": "Pixel (Sailfish) no longer charging from PD charger",
+    "content": "BUG: After extended running, my 1st gen Google Pixel phone (Sailfish), which had been working on a PD charger, stopped charging on the PD charger, although it still charged on non-PD chargers. I verified that the PD charger and USB type-C cable were good with another Pixel, USB type-C cable, and PD charger. I was only able to solve the PD charging problem by powering off the Pixel and powering it back on. Apparently during the extended running, it had gotten itself into a state where it would not recognize PD chargers. \n\nDevice model: Google Pixel (Sailfish)\nAndroid version: 9 (PQ2A.190205.003)\nCarrier: T-Mobile USA",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel",
+    "post_time": "2019-02-18T02:11:36.801671+00:00",
+    "reply": "10 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/21496355/bluetooth-problems-with-new-pixel-3axl?hl=en",
+    "title": "BlueTooth problems with new Pixel 3aXL",
+    "content": "In a nutshell,  I am trying to connect my new Pixel 3aXL to my Chromebook (Acer Spin 13).\nI am not sure if this is a Pixel issue or Chromebook issue...as it looks like it might be a software issue with both of them.\n\nThe Pixel will pair just fine with any device so far, it just won't connect more than about 1 second. The 1 exception I have found so far is my Ubuntu (18.04)home automation pc(Intel Nuc).  It pairs and connects just fine with it. File transfers work fine in both connections.\n\nRight now the Pixel can't connect more than 1 second to my Nexus 5x, Moto X4 or the Chromebook.\nI believe this is just a software issue, otherwise why would it connect to Ubuntu yet not any of my Google devices?\n\nOne thing I noticed and it might be related : The Pixel accepts Ubuntu as a trusted device but not the chromebook because it can't make the connection.\n\nThanks.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a XL",
+    "post_time": "2019-11-29T18:14:46.064559+00:00",
+    "reply": "1 Reply"
+}

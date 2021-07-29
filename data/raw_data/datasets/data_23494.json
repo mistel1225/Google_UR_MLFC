@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/8344164/block-phone-numbers-using-wildcards?hl=en",
+    "title": "Block phone numbers using wildcards",
+    "content": "Is it possible to block calls using wildcards in the number? If not, can that feature be added?  \n\nMost of my spam calls now come from spoofed numbers starting with a particular area code and exchange, but the last 3-4 digits change each time to avoid call blockers.  \n\nSo I would like to enter the number to be blocked using wildcards to match the offending pattern. For example:  312-555-1***",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 3 XL",
+    "post_time": "2019-06-19T21:48:13.950723+00:00",
+    "reply": "6 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/105201602/pixel-4a-keeps-trying-to-restart-factory-reset?hl=en",
+    "title": "Pixel 4a keeps trying to restart/factory reset",
+    "content": "A couple of days ago my pixel 4a randomly shut down saying something like “factory reset, restarting”, then when it came back on saying “Cannot load Android system. Your data may be corrupt. If you continue to get this message you may need to perform a factory data reset and erase all user data stored on the device”. I then clicked try again and the phone worked fine for about 5 minutes before shutting down again in the same way. This happened a few more times (each crash around 5 minutes after the last) before I noticed a “device personalisation services has stopped responding” notification had popped up quickly on the screen. I then disabled the device personalisation services application, which did stop the phone from crashing, however I now can't use any of the features that the app offers.\nI did also try uninstalling and reinstalling the updates for the app, then re-enabling it,  but the phone continued to shut down, so at the moment I've just left the device personalisation services app disabled. \n\nI'd be grateful for any advice on how I can solve this issue, preferably without a factory reset. Might it be something that's fixed in the next update of the device personalisation services app?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4a",
+    "post_time": "2021-04-06T09:37:48.226758+00:00",
+    "reply": "3 Replies"
+}

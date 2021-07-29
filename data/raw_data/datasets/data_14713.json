@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/76023317/pixel-4xl-front-camera-freezing-when-zoomed-in?hl=en",
+    "title": "Pixel 4xl Front camera freezing when zoomed in",
+    "content": "This issue has persisted for me on EVERY app that utilizes my camera (instagram, messenger, facebook, the native android camera app, etc) since the last major android update.\n\nI cannot zoom in further than 1.6x on the rear facing camera on my pixel or else the feed from the camera will freeze until i lower the zoom back down to 1.6x or lower. The app doesn't crash, the phone doesn't freeze, but the video feed to the screen locks onto whichever image was last captured at 1.6x. \nOther layers on top of the camera like the leveling guides still will appear when \"frozen\" zoomed in.\n\nI have tried clearing the camera cache, cleaning the lens, restarting the phone, rebooting into safe mode, and every other troubleshooting step I've seen listed online short of replacing the phone or completely factory resetting it since others i've seen describing similar issues didn't have the issue get fixed when they did a reset.\n\nPlease fix this google. This phone has been great for the most part, but this is a huge let down.",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 4 XL",
+    "post_time": "2020-10-10T01:10:29.561062+00:00",
+    "reply": "1 Reply"
+}

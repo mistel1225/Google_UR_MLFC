@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/23050267/bricked-pixel-3xl-bootloader-locked-how-can-i-revive-it?hl=en",
+    "title": "Bricked Pixel 3XL. Bootloader locked. How can I revive it?",
+    "content": "My Pixel 3XL is in an infinite bootloop after September Android 10 update. I did it via OTA without issue, just that when the phone rebooted the Google logo hangs, or sometimes it tries to turn into the colored G and freezes until it reboots again. I have tried Rescue OTA from 20.C3 (the build that recovery shows) until December. None of them do anything to my phone. It remains in the same loop. Sometimes it shows powered by Android at the bottom but nothing else. I've tried to flash a factory image but guess what: my phone is 100% stock (no root, no magisk, no twrp, bootloader locked) as it should be, but I can't flash a factory image FROM Google because my bootloader is locked. What the hell is going on here?!?! A disciplined costumer who just wants to enjoy his phone as Google made it , loses it by an OTA mistake (I'm not the only one) and there is no way to recover it? Apple has iTunes, Samsung has Smart Switch, and I cannot believe that Google doesn't have an utility to recover the phone to its original status. Now, after I put my disappointment in this post, can someone help me? Also I live in Cuba so no warranty stuff applies to me. Thanks in advance",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3 XL",
+    "post_time": "2019-12-17T03:25:55.191044+00:00",
+    "reply": "1 Reply"
+}

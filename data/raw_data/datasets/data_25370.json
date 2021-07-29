@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/11223481/preferred-network-type-when-set-as-lte-is-causing-problems?hl=en",
+    "title": "\"Preferred Network Type\" when set as LTE is causing problems",
+    "content": "Internet and all other cellular related connections are lost when \"Preferred Network Type\" is selected as \"LTE\".  Incoming and outgoing Calls along with Internet work only when \"Preferred Network Type\" is selected as \"2G\".\nThis seem not to be a Sim / Network provider related problem since same Sim works perfectly fine in other devices (my device is a Pixel 2 XL).\n\nIssue was not seen earlier and has been happening since a month.\n\n* I've tried updating / adding new APN after getting all required info from provider and this has not helped. \n* I've tried toggling between options present under \"Preferred Network Types\".  Able to achieve Network connectivity only on selecting the option \"2G\"",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-08-03T18:46:27.068329+00:00",
+    "reply": "9 Replies"
+}

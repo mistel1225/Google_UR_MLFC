@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/104897725/play-store-using-large-amount-of-mobile-data?hl=en",
+    "title": "Play store using large amount of mobile data",
+    "content": "I have noticed that on my Pixel 4a that the Google Play Store tends to use a large amount of mobile data. I have the store set to download only over WiFi, and even that is set to manual. Despite that, I have occasionally seen notifications that it is doing a 'system update' while I'm not on WiFi. Over the past 2 weeks, it has used 172M, with about 113M as 'foreground' and the rest as background. Worse, I never open up the play store when not on WiFi, so I can't see where all that foreground data is coming from.\nAny ideas on what is going on? Any settings that I missed?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
+    "post_time": "2021-04-03T15:35:43.702472+00:00",
+    "reply": "1 Reply"
+}

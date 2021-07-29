@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/52423155/infinite-bootloop?hl=en",
+    "title": "Infinite bootloop",
+    "content": "My 2016 Google Pixel crashed a day ago, while using it, and now stuck in an infinite boot loop. This problem has been described a thousand times before, but I found something unusual, not mentioned before.\nWhile in bootloop, I hold down volume down button alone, and it enters the bootloader menu, without touching the power button.\nAside from that it really doesn't look like a stuck power button. When the phone is off, this one button trick doesn't work, Recovery mode doesn't work either, choosing any option takes it back into the bootloop, however I can switch it off with power off option, and then it stays off for any amount of time.\nBeing in Eastern-Europe, we have no authorized dealers and repair shops for google devices. Does this mean I have to dump my phone? Or is there a way to repair it?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2020-06-09T20:28:28.99162+00:00",
+    "reply": "1 Reply"
+}

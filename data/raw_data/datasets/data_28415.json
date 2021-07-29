@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/13814397/couldn-t-back-up-data-please-try-again-later-is-shown?hl=en",
+    "title": "\"Couldn't back up data - Please try again later\" is shown",
+    "content": "When accessing Settings->System->Backup and tapping Back up now, backing up to Google Drive tries to start, but gives me an error message: \"Couldn't back up data - Please try again later\". However, this happens after my phone does a partial back up to Google Drive before I restart it. Also, the \"Couldn't back up data - Please try again later\" error message deletes my phone's backup from Google Drive.",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 2",
+    "post_time": "2019-09-07T16:53:43.423935+00:00",
+    "reply": "0 Replies"
+}

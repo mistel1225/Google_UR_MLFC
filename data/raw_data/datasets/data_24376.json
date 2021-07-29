@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/25596611/please-add-volte-support-for-south-korea?hl=en",
+    "title": "Please add VoLTE support for South Korea.",
+    "content": "Please add VoLTE support for South Korea.\n\nPixel phones can't use VoLTE(Voice over LTE) voice communication in South Korea.\n\nThat's partly because South Korean carriers use a special VoLTE standard called 'TTA-VOLTE'.\n\nAnd it's also partly because Pixel phones' firmware doesn't include the information for supporting Korean carriers' VoLTE.\n\nThe problem can be solved simply by adding a little amount of carrier support information, via firmware updates. iPhones and various Android phones are already supporting VoLTE in South Korea.\n\nSouth Korean carriers (SK Telecom, KT) are reducing resources for 3G network so doing voice communication with Pixel phones in South Korea is getting harder every year. (Call drop, Low quality voice)",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
+    "post_time": "2020-01-14T06:14:22.621333+00:00",
+    "reply": "2 Replies"
+}

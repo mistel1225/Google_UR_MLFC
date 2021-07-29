@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/105498162/pixel-3-proximity-and-ambient-light-sensor-stopped-working-since-android-11-update?hl=en",
+    "title": "Pixel 3 - proximity and ambient light sensor stopped working since Android 11 update.",
+    "content": "Since Android 11 update the ambient light sensor and proximity sensors stopped working on Pixel 3. Double tap to wake, adaptive display, and darkening the display during phone call no longer works. I have toggled the switches and my phone is not in battery saver mode. I have also tested the sensors with an app called CPU Info and they are not showing readings at all.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2021-04-08T17:09:02.935822+00:00",
+    "reply": "1 Reply"
+}

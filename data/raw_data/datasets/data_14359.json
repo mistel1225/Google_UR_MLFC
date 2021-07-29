@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/76977488/latest-android-update-corrupted-my-operating-system?hl=en",
+    "title": "Latest android update corrupted my operating system",
+    "content": "I just updated the latest android 11 security update. When my phone rebooted, I was at an unresponsive lock screen for about 10 minutes, so I tried holding the power button to force power off. When I rebooted I got a black screen with a warning telling me my device was corrupted and to visit g.co/ABH and to press the power button to continue. Pressing the power button brings me to another black screen with the google logo where it freezes again. Holding the power button to force power off results in the same warning screen.\n\nI can't factory reset because I can never even make it to the lock screen, let alone settings. I've tried loading a full OTA through adb, but it can't detect my device. I've tried unlocking the bootloader through fastboot but it doesn't seem to to recognize the command \"fastboot flashing unlock\" despite that being the instruction everywhere I look.\n\nMy phone is now for all intents and purposes a brick.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 4",
+    "post_time": "2020-10-14T20:20:37.597513+00:00",
+    "reply": "1 Reply"
+}

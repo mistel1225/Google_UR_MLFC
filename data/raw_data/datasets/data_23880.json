@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9543266/battery-drops-from-100-to-99-while-plugged-charging-p3?hl=en",
+    "title": "Battery drops from 100% to 99% while plugged charging (P3)",
+    "content": "Hi guys, since several weeks my phone has a problem while charging. Using stock charger + cable, it reaches 100% without a problem but then after maybe 20-30minutes at 100% it drops to 99% or even 98%. All this happens while the phone is plugged in.\n\nThis doesnt affect my battery life and everything else in the phone works fine. I have tried:\n\nDraining and charging it while off (it reaches 100% and never drops that way, that made me suspect it could be a software problem), after turning it on it happens again. \nCharging it in safe mode, the same happens.\nCleaning the charging port.\n\n(Attached is a screenshot of my charging status, the light green bar in the left shows the phone was plugged in and \"charging\" but as you can see at 10:17:56pm it dropped to 99%)\n\nAny idea?\n\nI updated to android 10 dp4 but exactly the same happened while running latest android 9.",
+    "is_img": 1,
+    "category": "Battery and Power, Google Pixel 3",
+    "post_time": "2019-07-09T11:08:24.542673+00:00",
+    "reply": "2 Recommended Answers"
+}

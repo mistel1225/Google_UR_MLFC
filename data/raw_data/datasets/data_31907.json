@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/4608677/usb-type-c-to-3-5-mm-dongle-stopped-working-even-pc-cant-recognize-the-phone?hl=en",
+    "title": "USB type C to 3.5 mm dongle stopped working even pc cant recognize the phone.",
+    "content": "Dongle suddenly stopped working so what I did is factory reset the phone still no fix then I thought it can be fixed through OTA on recovery ( via ADB ) still no fix because my PC can't detect the phone it shows no notification. This was all working before then suddenly it stopped working I think the problem is on the port but charging still works and fine. I can hear clicking sounds when I put the earphones the sound where you spam it in and out. btw before it stopped working I did try to test the water resistant in this phone by dipping it flat on a pool still works well but charging did not work for many hours when it fully dried I clean it using toothpick then the charging is working now. This is where the dongle stopped working I think and the pc of course ( its where the pc won't detect the phone not the pc is not working okay ). I know the problem is not from the dongle or the USB cable I used to connect it to my pc but the software or hardware is ( i think its from software ).I red something about this on the other threads and they said it has a problem on the hardware it wasn't allowing the device to read via android auto or any computer. So the problem is kinda like on the drivers... nah tried reinstalling it still no work . Maybe they disable this via network by verizon so i cant find a way to unlock the bootloader. idk why they would do that to their customers and yes my device is pixel 2 xl verizon moddel :) . Any help?.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-04-21T12:42:28.362906+00:00",
+    "reply": "0 Replies"
+}

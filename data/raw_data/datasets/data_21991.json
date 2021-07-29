@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/35651229/unable-to-make-or-recieve-calls-over-wifi?hl=en",
+    "title": "Unable to make or recieve calls over Wifi",
+    "content": "In my home, I have no mobile service. I've recently been re-assigned by my work to work from home, and need to be able to make and recieve calls to do so. I have been unable to get calls over Wi-Fi to function on my Pixel 2, which should natively support it. \nI have contacted the Google Fi support team and worked through the following troubleshooting:\nConfirm the OS is updated\nConfirm Messenger, Phone, Carrier Services, and Hangouts are updated\nConfirm the Wi-Fi connection is functional by using the web browser\nMaking calls over Wi-Fi while Airplane Mode is enabled\nAt this point, a technician was able to do a remote Opt-in for Wi-Fi that allowed me to make/recieve calls for approxemately 36 hours. When I was unable to make calls again, I worked through the previous troubleshooting in addition to:\nRestarting the phone in Safe Mode and attempting calls\nRestoring the phone to Factory Settings\nInstalling Hangouts Dialer (no longer supported) to make calls.\nWith Hangouts Dialer, I was able to make calls through that app, but no through the phone app. I was not able to recieve calls. After installing Hangouts Dialer we worked through all of the above troubleshooting steps through Safe Mode, as well as uninstalling and reinstalling Hangouts with no success.\n\nI was then advised to post my problem in the Hangouts Help community as well as here, and that a technician would be with me in a few minutes.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 2",
+    "post_time": "2020-03-26T01:32:05.025425+00:00",
+    "reply": "5 Replies"
+}

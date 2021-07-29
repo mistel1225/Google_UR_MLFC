@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/94210029/android-11-wifi-certificate-issues?hl=en",
+    "title": "Android 11 Wifi certificate issues",
+    "content": "Since updating to Android 11 and trying to connect to our enterprise wifi the do not validate option for the certificate is no longer an option. I understand that we must now install the certificate on our device. I work in the IT department and our parent company who controls our wifi sent me the public certificate but when I try to import it I get an error message saying \"Private key required to install a certificate\". I am not sure where to go from here. My parent companies IT does not want to provide the private key as that kind of defeats the purpose doesn't it? Are they sending the wrong certificate?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
+    "post_time": "2021-01-19T19:24:24.487216+00:00",
+    "reply": "3 Replies"
+}

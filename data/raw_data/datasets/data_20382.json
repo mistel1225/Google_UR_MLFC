@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/54931004/pixel-4-youtube-playback-issues?hl=en",
+    "title": "Pixel 4 Youtube Playback Issues",
+    "content": "The issue is that when I use my Pixel Buds with my Pixel 4, Youtube videos will start to randomly pause, attempt to catch up and then start to pause again. It's like I'm dropping frames, but worse. However, the audio continues as usual with no hiccups. Usually when the video is playing somewhat as usual the audio is behind by several seconds, in some cases as much as 10 seconds. \n\nHere is what I have done:\n\nI have turned it off and on again\nCleared both the cache and storage of the Youtube app\nUninstalled and reinstalled the Youtube app \nUpdated the Youtube app (I tried to play a couple of videos before updating and the problem still persisted)\nRebooted into safe mode and tried the same process again\n\nI have also contacted Google support and they told me that the best they could do was send me the link to the troubleshooting page where it basically told me to do everything that I have already done, again. \n\nI'm trying to figure out if this is a hardware issue or if there are more things I can try before giving up and looking for different phone options.\n\nEdit: I may have figured out the issue. Problems went away when I enabled AAC on my Pixel Buds. I was experimenting to see if turning off HD Audio would help increase battery life, mainly because I could not hear too much of a difference between having AAC on vs off.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
+    "post_time": "2020-06-22T16:29:25.426052+00:00",
+    "reply": "1 Reply"
+}

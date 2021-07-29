@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/95980587/bluetooth-issues-on-android-11-pixel-3a?hl=en",
+    "title": "Bluetooth issues on Android 11 Pixel 3a",
+    "content": "Hello,\n\nWe are developing an app that uses BLE Beacons to update data from a remote device.\n\nUsing an app like NRF Connect we can see the number of BT devices around. Where as other devices see 12-14 the pixel 3a sees only 2-3.\n\nI'm not sure I can roll back my device and definitely do not want to as permissions have changed so much in Android 11 that you HAVE to use a new device to ensure it works. \n\nPlease Please fix the issue.\n\nThanks Tim",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2021-01-31T15:38:39.131836+00:00",
+    "reply": "0 Replies"
+}

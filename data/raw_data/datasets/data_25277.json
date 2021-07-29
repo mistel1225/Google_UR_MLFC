@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9877120/pixel-3-can-not-open-web-pages-served-on-local-network-by-a-specific-host?hl=en",
+    "title": "Pixel 3 can not open web pages served on local network by a specific host",
+    "content": "I do web and mobile development on several hosts on my local network. My Pixel 3 can open these web pages just fine via the 192.168.x.y:port address. Except for one host.\n\nWhen running a web page (say, a react app via \"yarn start\") on my Windows 10 Pro laptop, every other host on the network can see the application running on port 3000 except my Pixel 3, which simply times out. In the attached image you can see that Chrome in the Pixel 3 grabbed some of the content, but not all of it.\n\nNote that this is not specific to port 3000. Any local web application (including an ionic app served with --devapp) times out in the same fashion.\n\nThe Pixel 3 can load these services from every other host on the network, and every other host on the network can load the services from the Win 10 Pro laptop.\n\nAny ideas about what's going on or how to debug the issue?  I see this i the console:\n\nGET http://192.168.86.146:3000/static/js/bundle.js net::ERR_CONNECTION_TIMED_OUT\nGET http://192.168.86.146:3000/static/js/0.chunk.js net::ERR_INCOMPLETE_CHUNKED_ENCODING 200 (OK)\n\nThanks in advance!\n\nPS: the image below is from chrome's remote debugging facility.",
+    "is_img": 1,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-07-14T13:46:31.680543+00:00",
+    "reply": "8 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/7019077/the-usb-not-recognized-error-of-death?hl=en",
+    "title": "The \"USB Not Recognized\" error of Death",
+    "content": "Okay, I have scoured the forums (fora?) so I'm not just posting here without due diligence. Until a few months ago I was able to connect to my Windows system via USB, transfer files, everything was peachy. Then somehow I started getting the \"USB Device Not Recognized\" error. Tried every one of my six systems, tried different USB-A to USB-c (2.0 and 3.0) cables, tried different ports, updated my Pixel OS, am in Developer Mode, deleted Storage and Media caches and data - nothing changes.\nI've tried to download the latest Pixel 2 drivers but everything is Zipped and when I unZip the packet there's no executable or seemingly anything I can use to point the :Unknown USB Device\" in Device Manager to an updated driver.\nAnyone have any new ideas?\nThanks for looking and any advice you might have.\nTom",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-05-29T16:02:06.493898+00:00",
+    "reply": "0 Replies"
+}

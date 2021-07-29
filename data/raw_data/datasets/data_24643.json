@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/24884899/bluetooth-disconnects-if-using-google-meet-and-receive-inbound-call?hl=en",
+    "title": "Bluetooth disconnects if using Google meet and receive inbound call",
+    "content": "When on a Google meet conferance, and using a Bluetooth headset device.. if you receive an inbound phone call, and reject it, the Bluetooth connection to the Google meet conferance is broken.   You have to turn Bluetooth off and on or power down/up the Bluetooth device . \n\nI also found a similar issue while using my Verizon onetalk app, which is linked to our sip Verizon voip phones.  While on a Verizon onetalk call, on speaker phone, and you receive an inbound carrier call, and reject it.. you have to switch to handset and back to speakerphone to get call audio back.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel",
+    "post_time": "2020-01-07T02:00:04.1281+00:00",
+    "reply": "0 Replies"
+}

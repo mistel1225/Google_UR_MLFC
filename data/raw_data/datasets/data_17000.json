@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/69246259/the-pixel-3a-camera-fails-to-adjust-to-correct-white-balance-settings-mostly-in-outdoor-scenarios?hl=en",
+    "title": "The Pixel 3A Camera fails to adjust to correct White Balance Settings mostly in Outdoor scenarios",
+    "content": "The Camera Image Quality Tuning of Pixel 3A specifically for Auto White Balance parameters is somewhat incorrect as it fails to detect correct WB settings when Camera app is opened in Outdoor and Sky is present in the scene, it makes the whole preview Blueish color and gets adjusted only when a white color scene is panned in the preview,\nProvide an update to resolve this issue & take it as high priority as Google Pixel Devices are known for its unbeatable Camera Performance \n\nJust tweak the AWB algorithm, then test and give an OTA to all devices",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 3a",
+    "post_time": "2020-09-05T15:39:24.303829+00:00",
+    "reply": "1 Reply"
+}

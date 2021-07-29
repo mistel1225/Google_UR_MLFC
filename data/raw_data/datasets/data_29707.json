@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9114529/pixel-3a-wont-start-after-android-q-beta-4-update?hl=en",
+    "title": "Pixel 3a wont start after Android Q Beta 4 update",
+    "content": "Hi All,\n\nJust got Pixel 3a and immediately update to Android Q. After restart - it stuck in bootloop and then after few restart Android Pie was there. Then i again install Android Q Beta 4 and now it is stuck and says cannot find operation system (see attached photo). Device will not start.\n\nStuck here.....I have NOT unlocked the bootloader as well. When going to fastboot mode......all option leads to attached image. \n\nI cannot install img file from adb because phone is locked. \n\nAny help will be appreciated.I have played with Pixel 3a for ONLY 30 minutes............\n\nThanks, Amrit",
+    "is_img": 1,
+    "category": "Other, Google Pixel 3a",
+    "post_time": "2019-07-02T12:42:34.232099+00:00",
+    "reply": "2 Recommended Answers"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/79022507/why-does-chrome-display-a-different-tab-s-content-when-i-click-on-a-text-box-to-type?hl=en",
+    "title": "Why does Chrome display a different tab's content when I click on a text box to type?",
+    "content": "Often when I press/click on a text entry box on webpages (e.g. PhpBB forums) in a Chrome tab, the keyboard pops up, and the contents of a different tab appear. This prevents me selecting text or the cursor position. However, when I type, the display reverts back to the correct tab. Clicking again will switch the tab display again.\n\nSee the screenshot for an example: compare the URL bar to the screen.\n\nThis has persisted through reboots and the update from Android 10 to 11.",
+    "is_img": 1,
+    "category": "Other, Google Pixel 4",
+    "post_time": "2020-10-25T11:26:52.617394+00:00",
+    "reply": "2 Replies"
+}

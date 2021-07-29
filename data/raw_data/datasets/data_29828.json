@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9109034/pixel-2-xl-usb-issues?hl=en",
+    "title": "Pixel 2 XL USB issues",
+    "content": "Hi guys. I'm experimenting USB issues After the july 2019 security update on my pixel 2 XL.\nI have the feeling that the OTG functionality Is inverted. If i connect the device to the PC under the USB option \"USB controlled by\" Is selected \"this device\" instead of remote device (the phone has to be the device and the PC the host...). Instead, if i connect my Google usb-c headphones, It says \"controlled by remote device\", but it might be exactly the opposite! Any ideas on that?\nThank you.\nMatteo",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-07-02T10:51:03.514719+00:00",
+    "reply": "2 Recommended Answers"
+}

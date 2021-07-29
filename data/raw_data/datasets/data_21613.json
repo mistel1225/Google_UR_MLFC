@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/40222466/pixel-2-xl-lock-screen-loop?hl=en",
+    "title": "Pixel 2 XL lock screen loop",
+    "content": "Phone was unresponsive after sitting overnight plugged in, as though powered off but was slightly warm to the touch. Pressed the power button, phone came back to life with a message that the OS may be corrupt and options to do a factory reset or retry. Retried, phone booted but now the lock screen loops about once per second. The phone can be powered down/restarted and bootloader menus are still accessible. Booting into Recovery Mode only goes as far as a \"No Command\" message and needs to be force shut down by holding the power button. Short of a factory reset, is there a way to recover from this?",
+    "is_img": 0,
+    "category": "Homescreen and Launcher, Google Pixel 2",
+    "post_time": "2020-04-15T14:17:19.57641+00:00",
+    "reply": "4 Replies"
+}

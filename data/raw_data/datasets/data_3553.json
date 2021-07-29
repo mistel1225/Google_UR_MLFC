@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/105727018/animation-bug-in-recents-screen?hl=en",
+    "title": "Animation bug in recents screen",
+    "content": "Hi, i noticed animation bug in recents screen.\nMy Pixel 5 running on April build. I tried factory reset, flash factory image with full wipe, but nothing fix this. When i using gestures this bug is only on first screen of app, with button navigation i have bug on every screen.\n\nSolution is turn off animation duration scale in developer option. Thanks. Sorry for my english.",
+    "is_img": 1,
+    "category": "Homescreen and Launcher, Google Pixel 5",
+    "post_time": "2021-04-10T17:00:08.016685+00:00",
+    "reply": "1 Reply"
+}

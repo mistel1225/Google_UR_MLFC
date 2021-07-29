@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/4776686/does-anyone-know-what-a-collectorconfig-folder-or-collectorglobal-file-is-it-won-t-go-away?hl=en",
+    "title": "Does anyone know what a .collectorConfig folder or .collectorGlobal file is? It won't go away",
+    "content": "In the files folder, there is a new .collectorConfig folder. Inside that folder is a .collectorGlobal file at 0-byte size. My phone is bare and only has factory apps aside from Norton. Norton doesn't pick anything unusual up with this folder. Google searches yield almost zero results with the few there are, saying its either fine or it's malware. This folder was not on my phone the other day but now it is, and when I delete it, it immediately returns. I performed a factory reset on my phone, at the suggestion of a Google chat agent (who said this folder is not apart of Google OS) and that worked for a short 30 minutes and I thought I was fine... but it is back. Does anybody have any clue as to what this is? The last thing I want is something siphoning off info nonstop. \n\nSide note- I could not find anything through malware scans with Norton or Kaspersky and there wasn't anything unfamiliar in my app list in SafeMode.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2019-04-24T03:47:41.811711+00:00",
+    "reply": "4 Replies"
+}

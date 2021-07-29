@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/87793599/gesture-navigation-edge-linger-is-interfering-with-app-use?hl=en",
+    "title": "Gesture navigation edge linger is interfering with app use.",
+    "content": "There is a delay to long-press input on the edges of the Pixel 5 screen.\nI've made a video demonstrating how bad this is:\n\nI was suspicious that this is related to the newest version of gesture navigation that requires swiping from the let or right to go back (which is horrendous by the way). Now I seem to have a new reason to hate the newest gesture navigation. Looking at the \"Recommended answer\" to this question:\nhttps://support.google.com/pixelphone/thread/33825970?hl=en\nThey effectively mention that there is a \"linger\" when you put your finger on the edge that must timeout before input is sent to the app. This is crazy!!! How that could be considered a good idea is beyond me.\n\nPlease fix this at least for when we switch to 3-button navigation. You should also probably kill gesture navigation or at least the part that requires swiping left and right because it's a hideous hack.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 5",
+    "post_time": "2020-12-09T18:10:44.399264+00:00",
+    "reply": "2 Replies"
+}

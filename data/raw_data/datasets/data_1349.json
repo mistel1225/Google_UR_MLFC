@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/111121087/android-forgets-vibration-and-haptic-feedback-settings?hl=en",
+    "title": "Android forgets vibration and haptic feedback settings",
+    "content": "The volume bar has a button to toggle ring/vibration/silent modes. When switching from \"silent\" to \"ring\", all vibration settings are cleared and all three sliders are maximized.\nIt's very unfortunate when the user prefers to tone down (or disable) haptics, as switching profiles brings them back every time, at full force.\n\nA friend of mine was able to reproduce the problem on a Pixel 4a, running Android 12 beta 1. The Pixel 4a shows toggles in place of sliders, but the effect is the same.\n\nMy Pixel 5 is ~2 Days old, it's up to date as of the time of writing (Android 11).\n\nvideo on youtube",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 5",
+    "post_time": "2021-05-25T09:33:24.785435+00:00",
+    "reply": "2 Recommended Answers"
+}

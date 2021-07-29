@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/65397445/google-assistant-unlock-while-on-pixel-stand?hl=en",
+    "title": "Google Assistant Unlock while on Pixel Stand",
+    "content": "When Google Assistant is triggered via headset without using \"Hey or Okay Google\" it does not unlock phone when it's on the Pixel Stand.  Any actions I dictate are carried out by the assistant but since the phone doesn't unlock it fails.  \n\nIt seems to be unaware the phone didn't unlock to carry out the commands.  For example it will say calling xxx-xxx-xxxx number in my headset but it never dials.\n\nIf I take the phone off the stand Google Assistant works properly even if it's locked.\n\nIf I unlock the phone while on the stand and use the Assistant it works perfectly.\n\nIf I use the wake words for the assistant it unlocks the phone on the stand and works perfectly.  (Problem with this is that I have other devices in the room and they always pick up my commands instead of the phone.  I tested by muting the other devices.)\n\nIf I use a non Pixel wireless charging stand it works perfectly when the phone is locked.\n\nSo its something specific about the Pixel stand.\n\nThis is annoying because when I want to make calls with my headset using the assistant while the phone is charging, I have to first unlock it prior to using the assistant.",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 4 XL",
+    "post_time": "2020-08-17T19:35:10.044885+00:00",
+    "reply": "2 Replies"
+}

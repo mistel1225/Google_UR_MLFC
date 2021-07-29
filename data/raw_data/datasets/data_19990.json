@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/15945247/unable-to-send-or-receive-messages-through-the-messages-app-on-android-10?hl=en",
+    "title": "Unable to send or receive messages through the Messages app on Android 10",
+    "content": "I installed Android 10 on my Pixel 3 on Sunday, and it was functioning just fine for a while. I was able to send and receive SMS messages through the messages app.\n\nYesterday, upon sending a text, my phone shut off and went into a boot loop. I was able to get the phone back on by booting into recovery mode. This happened a few more times when trying to send texts, but it eventually stopped. Now when I attempt to send a message through the Messages app, it disappears and does not send.\n\nIf I have the Messages app set as default, I will not receive texts whatsoever.\n\nIf I use the Verizon \"Message+\" app, I can send and receive SMS and MMS messages just fine.\n\nTroubleshooting steps I have already tried:\n- Delete app cache and app data for Messages app\n- Delete app cache and app data for all SMS/MMS/messaging related apps\n- Rebooting the phone\n- Removing and reinserting my SIM card\n\nI feel as though this issue might be related to chat features, because the settings sometimes says \"Chat features are not available for this device.\" If I switch my default sms app to Message+, then back to Messages, I can enable chat features and I can send and receive texts for about 30 seconds. Then the app goes back to not allowing me to send or receive anything. \n\nKind of bummed that I can't use such a basic smartphone application on Google's latest phone on their latest OS. But at least I can work around this for now with a different default SMS app.\n\nAny help would be appreciated!",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-10-03T18:36:32.653165+00:00",
+    "reply": "1 Recommended Answer"
+}

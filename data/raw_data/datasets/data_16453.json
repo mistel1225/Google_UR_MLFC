@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/71407888/how-do-i-view-internal-app-files-in-android-11?hl=en",
+    "title": "How do I view internal App files in Android 11?",
+    "content": "Hello.\n\nRecently, I tried to extract audio from an app in the Android/data/ directory but the default file manager app doesn't show anything there anymore! I tried installing a third party file manager but it returned with an \"access denied\" error.\n\nI heard about this \"Scoped Storage\" thing, but I just want to know how I can access the internal files for apps that are usually in Android/data/.\n\nSome help or a nudge in the right direction would be nice.",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 3a",
+    "post_time": "2020-09-16T04:25:08.156351+00:00",
+    "reply": "0 Replies"
+}

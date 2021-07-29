@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/99509971/pixel-2-loses-network-while-on-wifi?hl=en",
+    "title": "Pixel 2 loses network while on wifi",
+    "content": "I've been having this problem for several months now. What happens is that the phone remains connected to wifi with a strong signal (I'm sitting beside it) but network speeds drop to zero.\n\nThe problem doesn't affect my wife's Pixel 3 or our two Macs so we can rule out router failure.\n\nDisconnecting from/reconnecting to wifi resolves the problem but only for a few minutes.\n\nI've tried the following fixes to no avail:\n\n1. Forget / readd wifi network\n2. Reboot phone / router\n3. Reset network settings\n4. Set Google DNS servers\n5. Disabled Google Location Accuracy\n6. Factory reset phone\n\nHelp.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2021-02-24T07:41:24.076636+00:00",
+    "reply": "2 Replies"
+}

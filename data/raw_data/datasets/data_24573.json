@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/25033152/googleeuicc-don-t-support-china-unicom-because-no-ca-certificates?hl=en",
+    "title": "GoogleEuicc don't support China Unicom because no CA certificates",
+    "content": "Chinese carrier China Unicom and China Mobile use their own CAs for esim sm-dp+ server\nGoogleEuicc(com.google.android.euicc) don't have their CA certificates, so connection will fail at first.\n\nsm-dp+ domain: esim.wo.com.cn\n\nI SHOULD feed back to the developement team, however I just can't find any way to do so.\nor my feedback just never gain an reply...\n\nso i write here.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2020-01-08T13:02:09.272478+00:00",
+    "reply": "1 Reply"
+}

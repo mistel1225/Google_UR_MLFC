@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/69918490/factory-reset-and-new-android-os?hl=en",
+    "title": "Factory reset and new Android OS",
+    "content": "Okay, here is probably the easiest question(S) you'll see all day but one that I really haven't found clear answers to. Apologies in advance if someone links me to the answers that I should have found on my own. :)\n\nI dabbled in the beta and always ended up opting out due to crashes when running any Bluetooth connection. This would allow factory reset to the current factory Android 10 image. I was never able to pin down the issue but I suspect it may not occur if I did a complete Hard Reset (delete all data,  start with a pristine image).\n\nI'm now installing the final release an an OTA update. If it fails in similar fashion, can I do a factory reset that clears all data, apps., settings, etc., that will then install the Android 11 image? As a follow-up question, in the event that fails what options may I have to factory reset back to a known stable Android 10 image.",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 3a XL",
+    "post_time": "2020-09-08T22:56:48.545913+00:00",
+    "reply": "1 Recommended Answer"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2126212/pixel-2-xl-black-screen-how-to-tell-if-it-can-be-fixed-or-not?hl=en",
+    "title": "Pixel 2 XL Black Screen / How to tell if it can be fixed or not",
+    "content": "Hi everyone,\nI have a Pixel 2 XL, everything was working fine until the other day I dropped it\nNow the screen is completely black, doesn't turn on\nIt doesn't have any scratches or anything, it just doesn't turn on\n\nIf I put my finger in the fingerprint scanner, I can feel it vibrate\nSo it seems like it is somewhat working\n\nI can get to fastboot by doing the volume down + power combo, and I can see it when I run fastboot devices command\nBut I cannot get it to show on adb devices, maybe because I'm missing steps, but it's kinda hard when you can't see the screen\n\nSo now I'm wondering if it's just the screen that is not working, and I can maybe order one from eBay or something, or if it is the mainboard that is not working well, in which case, well, guess there is not much else to do\n\nAny suggestions?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2019-03-07T17:26:36.185745+00:00",
+    "reply": "0 Replies"
+}

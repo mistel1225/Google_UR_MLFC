@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/73119366/do-not-disturb-makes-no-sound-for-call-from-starred-contacts?hl=en",
+    "title": "Do Not Disturb Makes No Sound for Call from Starred Contacts",
+    "content": "My device is set to \"Do Not Disturb\" but to interrupt for calls from starred contacts. However, calls from starred contacts do not ring.\n\nI checked my sound settings and \"ring & notification volume\" is turned on and loud. \n\nIf I change the \"Do Not Distrub\" settings to interrupt for calls from any contacts, it still does not ring when a contact calls.\n\nThe only time it will ring in \"Do Not Disturb\" is if I set it to interrupt for *any* call.\n\nSo it's something to do with the contacts not interacting with \"Do Not Disturb\" maybe? I just updated to Android 11, problems started after update.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 3a",
+    "post_time": "2020-09-25T02:06:18.745242+00:00",
+    "reply": "3 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/54815313/touchscreen-stopped-working?hl=en",
+    "title": "Touchscreen stopped working",
+    "content": "Hey everyone, after I updated to the Android 11 Beta, my Pixel 2 XL´s touchscreen randomly started locking up, not allowing any inputs.\n\nI had to sideload an old factory image via ADB, the problem seemed fixed at first, but returned, now under Android 8.\n\nThis is not a hardware issue as the screen randomly decides to work and after the phone reboots or comes out of sleep, dies again.\n\nPlease help, I´ve been extremely happy with my phone for multiple years now and this issue is destroying my entire trust in the Pixel brand.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2020-06-22T01:27:25.825464+00:00",
+    "reply": "2 Replies"
+}

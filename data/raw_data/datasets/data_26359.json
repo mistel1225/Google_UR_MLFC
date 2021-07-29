@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/19704090/during-setup-the-feature-to-automatically-verify-the-google-account-is-not-working?hl=en",
+    "title": "During setup, the feature to \"automatically verify the Google account\" is not working.",
+    "content": "I've discovered an issue where during Pixel setup, when the user has their SIM card in the phone and wants to add their Google account during setup but also has 2-factor authentication enabled, the feature that automatically verifies the account is not working. \n\nOnce the user signs in with their password, they are greeted with a screen that says: \"automatically verifying your phone via text message... this may take a few moments\". However, while the text message does come through (you can see it after phone setup in Messages), the feature that automatically verifies the phone is not working. It just sits there continually without any feedback. If the user wants to continue setup, they need to either not sign in during setup to their Google account or use one of their backup codes/another method if they keep 2-factor on. \n\nAnyone else experienced this during setup ?",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 3",
+    "post_time": "2019-11-14T00:04:35.907187+00:00",
+    "reply": "1 Reply"
+}

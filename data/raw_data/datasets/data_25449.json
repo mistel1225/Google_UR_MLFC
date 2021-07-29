@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/15525479/restore-a-cloud-backup-without-device-password?hl=en",
+    "title": "Restore a cloud backup without device password",
+    "content": "Hello, \nI hope someone from Google can help on this. I recently changed my locksceen password but i used it in combination with fingerprint. Yesterday my device restarted itself and, as usual, was asking for the password instead of fingerprint. Unfortunately i couldn't remember it and after quite a few failed attempts, i factory reset my phone through recovery mode. When it powered on again, through the device setup steps, i tried to restore my last cloud backup. I understand that the backups are encrypted not only using my google account password but also the lockscreen password. As mentioned, i cannot remember that password so again, after a few attempts on that process, i got a message saying my backup will be deleted after 5 more failed attempts. Not sure if there is any way to call tech support at Google or even if Google from inside can restore this for me, provided i have any google account info needed on hand?\nThank you",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-09-28T13:11:05.702642+00:00",
+    "reply": "3 Replies"
+}

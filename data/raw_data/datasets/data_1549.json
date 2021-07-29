@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/111214672/dual-sim-on-off-with-my-app-in-google-pixel-5?hl=en",
+    "title": "Dual SIM on/off with my APP in google Pixel 5?",
+    "content": "Is it possible that we write an app which can control Dual SIMs on/off?\nI noticed that there is no SIM enable/disable android API.\nIf we don't have or don't want to modify android source， can modifying linux kernel source achieve It?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
+    "post_time": "2021-05-26T02:32:30.688543+00:00",
+    "reply": "1 Recommended Answer"
+}

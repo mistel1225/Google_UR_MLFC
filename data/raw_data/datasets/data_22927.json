@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/29159513/pixel-4-failed-to-install-esim?hl=en",
+    "title": "Pixel 4 failed to install eSIM",
+    "content": "My Pixel 4 failed to install eSIM.\nI check the log like this when I added eSIM:\n\nSuccessfully download profile.\nloadBoundProfilePackage callback onException\n\nEuiccServiceImpl.a: Failed to download/install profile.\n\nThe same profile works on my Pixel 3.\nPlease help me 😊",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
+    "post_time": "2020-02-19T08:19:07.752929+00:00",
+    "reply": "2 Replies"
+}

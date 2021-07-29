@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/98885473/android-11-pixel-phone-online-certificate-status-options-when-using-802-1x?hl=en",
+    "title": "ANDROID 11 PIXEL PHONE ONLINE CERTIFICATE STATUS OPTIONS WHEN USING 802.1X",
+    "content": "Can anyone explain what means each option when we select the ONLINE CERTIFICATE STATUS of a 802.1X (PEAP) WIFI connection?. I am using an Android Pixel Phone version 11.\n\nThere are 4 options: \n1.-Do not validate\n2.-Request Certificate status\n3.-Require Certificate Status\n4.-Require all non-trusted certificates statuses\n\nOption 2 and 3 for example looks similar\n\nthanks",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel",
+    "post_time": "2021-02-19T20:20:45.380642+00:00",
+    "reply": "0 Replies"
+}

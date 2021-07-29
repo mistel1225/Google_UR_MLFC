@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/97569295/updates-failing-and-audio-playback-not-working?hl=en",
+    "title": "Updates failing and audio playback not working",
+    "content": "I have seen other folks with these issues since the Android 11 update and it is getting to a point where it is ridiculous. Any apps that play audio skip like an old CD whenever the screen is locked/timed out (cloudlibrary and spotify specifically). I have done all of the workarounds (uninstall and reinstall, clearing cache, battery settings, etc.) and nothing fixes it for more than an hour or two. I have deleted the spotify app and only use it through my chrome browser now (where it doesn't skip when the screen times out). \n\nWhen I have looked into continued bug fixes/security updates/patches, my phone recognizes that it needs an update, but fails every time I try to install it. I just get \"update failed, try again later\". \n\nAny insight is appreciated! Or at least an indication of when we can expect this issue to be fixed. It's frustrating to pay for apps/services that worked great until the new android update and are now almost impossible to use.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3a XL",
+    "post_time": "2021-02-10T20:35:37.753938+00:00",
+    "reply": "1 Reply"
+}

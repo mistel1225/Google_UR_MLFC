@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/50192434/bug-with-android-10?hl=en",
+    "title": "Bug with Android 10",
+    "content": "With my Pixel 2 on Android 10 I have this option turned on under mms messages: \"send & receive when mobile data is off\".  It works but the problem is that it turns mobile data on for all apps (not just mms).  And to make matters worse it leaves mobile data on and doesn't automatically turn it back off.  This resulted in me getting a huge data overage bill with MOBILE DATA OFF!  So is this going to be fixed in Android 11?  Either mobile data can only be used for MMS (like the option implies)? Or can it at least turn mobile data back off after allowing the MMS to come through?  Thank you.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2020-05-30T21:30:49.890305+00:00",
+    "reply": "1 Reply"
+}

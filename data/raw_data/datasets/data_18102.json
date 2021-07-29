@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/59880962/my-pixel-3-doesn-t-support-5ghz-wifi?hl=en",
+    "title": "My Pixel 3 doesn't support 5GHz WiFi",
+    "content": "Hello!\nI live in Kazakhstan and my Pixel 3 does not see WiFi 5 GHz. This is because in the old base frequencies for 5 GHz were not available in our country. But in 2018 these frequencies were added.\nLink to updated file https://git.kernel.org/pub/scm/linux/kernel/git/sforshee/wireless-regdb.git/tree/db.txt#n873\nWhat to do in this situation?\nHow do I contact tech support to update the WiFi rules?\n\nUPDATED\n__________\nDigging further about my problem, I found this document:\nhttps://android.googlesource.com/kernel/common/+/android-trusty-3.10/Documentation/networking/regulatory.txt\nIt says that the CRDA data is taken from the repository that was last updated 6 years ago:\ngit: //git.kernel.org/pub/scm/linux/kernel/git/linville/wireless-regdb.git\nSeriously?! It might be time to move to a more lively branch:\ngit: //git.kernel.org/pub/scm/linux/kernel/git/sforshee/wireless-regdb.git\n\nHow can I convey information to the developer?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2020-07-19T15:46:46.847419+00:00",
+    "reply": "6 Replies"
+}

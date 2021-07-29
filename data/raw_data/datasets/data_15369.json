@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/72967080/can-t-rename-folder-with-apostrophe-in-the-name-on-android-11?hl=en",
+    "title": "Can't rename folder with apostrophe in the name on Android 11",
+    "content": "Just like the title said, folder with apostrophe in its name can't be renamed. It can be created, deleted, and even moved, but not renamed. This is honestly the stupidest bug I've encounter since using Android. I've seen quite a few people mentioning this on reddit and other places, but seems like no one able to resolve this, yes, that includes wiping the phone. I had no problem before updating to Android 11 via OTA this morning.\nCreate a folder with apostrophe in its name\nRename it\nProfit\nRenaming with different file manager app is not possible too.\nRenaming with ADB Shell give Bad address error message.\n\nCome on guys.",
+    "is_img": 1,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2020-09-24T08:59:56.648606+00:00",
+    "reply": "3 Replies"
+}

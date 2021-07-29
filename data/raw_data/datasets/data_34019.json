@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1809214/devices-tethered-to-pixel-3-xl-can-t-use-openvpn-via-udp?hl=en",
+    "title": "Devices tethered to Pixel 3 XL can't use OpenVPN via UDP?",
+    "content": "Hi all, discovered a strange bug with the Pixel 3 XL.  I use OpenVPN to connect back to my home network when I travel.  Usually this is done via the 4G hotspot provided by a mobile device I'm carrying.\n\nRecently upgraded to the Pixel 3 XL and found that when tethered to that hotspot, I cannot connect to my OpenVPN instance at home if I use UDP.  The initial handshake packet doesn't even reach the router (looking at packet captures).  Where as if I put my SIM card into an iPhone or a Nexus 5X/6, it works just fine.\n\nWhen I've tested other OpenVPN connections, I get the same results if using UDP.\n\nNow have to resort to TCP, which makes Windows RDP completely unusable because of the overhead via TCP.\n\nI've been scouring the internet trying to find somewhere to submit a bug report to Google... Even tried to ring them.  No help at all.  Does anyone know how I get make the Pixel 3 XL dev's aware of this?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2019-02-23T00:06:27.864478+00:00",
+    "reply": "1 Recommended Answer"
+}

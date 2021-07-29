@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/109728253/google-app-discover-adds-www-google-com-amp-s-in-front-of-url?hl=en",
+    "title": "Google app Discover adds \"www.google.com/amp/s/\" in front of URL",
+    "content": "The Google app's Discover gives me a news feed (provided as cards) when I swipe to the left from the Pixel home.\n\nSelecting any one of the cards opens the appropriate website in the browser (I've set Settings > General > Browser settings > Open web pages in Google app > off).\n\nRecently, the app has started a new trick. When opening the website, it adds www.google.com/amp/s/ to the front. For example, for the URL\nhttps://amp.classicfm.com/composers/beethoven/fur-elise-intervals-inverted/\nthe app opens the browser to\nhttps://www.google.com/amp/s/amp.classicfm.com/composers/beethoven/fur-elise-intervals-inverted/\n\nThis is highly irritating, because it means that the target website cannot access its own cookies. I have to repeatedly accept the cookies warning, and log into the website… Again.\n\nIt also adds a thin full-width card at the top of the page showing the website that it opened (see the attached screenshot). This adds to the irritation, because it means that when I scroll down, the top URL bar is prevented from disappearing as it's supposed to do.\n\nMy workaround, which is a pain to have to keep doing, is to let Google app Discover open the website, edit the URL, scroll to the left, and remove www.google.com/amp/s/ from the URL.\n\nCuriously, Google app doesn't do this with every website, but it does do so with the vast majority of them. I cannot discern a pattern, why it does most but skips a few.\n\nHow can I turn off this new \"feature\", please?",
+    "is_img": 1,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2021-05-13T18:29:53.608939+00:00",
+    "reply": "1 Recommended Answer"
+}

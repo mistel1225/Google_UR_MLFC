@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/59351864/pixel-4-july-2020-security-update-lte-no-longer-connecting-forced-to-switch-to-3g-tmobile?hl=en",
+    "title": "Pixel 4 July 2020 Security Update - LTE No Longer Connecting, Forced to switch to 3G. TMOBILE",
+    "content": "My Pixel 4 got the July 2020 security update this morning. After the update LTE no longer works and I am forced to manually switch to 3G in order to be able to make calls.\n\nTurning off WiFi and removing then re-inserting the sim card appears to allow LTE to connect again in the status bar, but when I attempt to make a call I get a pop up stating 'Mobile network is not available'.\nWiFi calling also does not work unless I am connected to 3G.\n\nThis doesn't appear to be a network issue with TMobile as I have another identical Pixel 4 that has not been updated with the latest security patch and LTE works fine.\n\nAny resolutions to this?\nAm I going to have to wait for another security patch for this to get fixed?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
+    "post_time": "2020-07-16T16:40:16.802357+00:00",
+    "reply": "1 Recommended Answer"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/104483286/wifi-calling-cannot-hear-remote-party-on-tmobile-pixel5-4a5g?hl=en",
+    "title": "wifi calling - cannot hear remote party on Tmobile (Pixel5, 4a5G)",
+    "content": "I have a problem with Wifi Calling and Tmobile that affects both our Pixel 5 and 4a5 G phones.\nOften, when on all call that starts, or switches to wifi calling, the callee can no longer be heard.  They can continue to hear me.\n\nIf you disconnect the wifi network you are able hear them again.  This happens often.  A reboot clears it for a few calls until it starts again.  \n\nThis has been reported in multiple forums on pixel 5 and 4a 5G devices:\n\nhttps://www.reddit.com/r/tmobile/comments/kv9ui5/wifi_calling_one_way_audio/\n\nhttps://community.t-mobile.com/accounts-services-4/wifi-calling-in-pixel-4a-5g-i-can-t-hear-34648\n\nhttps://community.t-mobile.com/network-coverage-5/android-pie-wifi-calling-has-one-way-audio-only-12942?postid=127919#post127919\n\nhttps://www.reddit.com/r/GooglePixel/comments/m3w497/pixel_5_wifi_calling_issue/?utm_medium=android_app&utm_source=share\n\nI captured a bug report the last time this happened on a call and are happy to share this with engineering if it will help.\n\nMarch update.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 5",
+    "post_time": "2021-03-31T02:28:24.113277+00:00",
+    "reply": ""
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/13917234/upgrade-to-android-10-disables-instant-hot-swap-between-e-sim-and-physical-sim?hl=en",
+    "title": "Upgrade to Android 10 disables instant hot swap between e-SIM and physical SIM",
+    "content": "I have Pixel 2 XL. Prior to upgrade to Android 10, I was able to easily swap between Google Fi on e-SIM and Verizon MNVO on my physical SIM from Carrier settings under Network & internet. Since upgrade to Android 10, whenever I switch back to Google Fi, the phone stops seeing physical SIM.\n\nThe only option to re-enable physical SIM now is to either re-insert SIM card try or click on + next to Mobile network option and simulate \"downloading\" a virtual SIM which will fail but in the process re-enable the physical SIM installed in your phone. That is a major bug preventing seamless switch between Google Fi e-sim and physical SIM. When physical SIM is activated, it can see two SIMs -  inactive downloaded SIM for Google Fi and active physical SIM. Once I enable in options SIM for Google Fi and confirm switch, it no longer sees the physical SIM.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-09-09T03:36:44.422069+00:00",
+    "reply": "1 Recommended Answer"
+}

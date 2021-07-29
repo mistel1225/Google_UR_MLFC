@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/48514738/infinite-loop-can-get-to-fastboot-cant-get-to-recovery-mode-screen?hl=en",
+    "title": "Infinite Loop. Can get to Fastboot, cant get to Recovery Mode screen.",
+    "content": "I am stuck in an infinite loop. Please help!\n\nGot a security upgrade last week on Pixel 3. Got black screen of death. Called carrier support - Got a refurb unit last night through carrier. Got android OTA security update this AM. After complete, hour later, Unit stopped charging, got black screen of death (again) on new refurb.\n\nNow - Can get to bootloader screen only when I plug it into my laptop, not my aftermarket Pixel charger from amazon (weird). If I unplug the phone from laptop, black screen of death. Plug it in? - can get to bootloader.\n\nWould factory reset - but when I click it - I get the blinking text \"Google\" on my screen as if it is in a bootloop.\n\nAnd rinse repeat.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3a",
+    "post_time": "2020-05-22T19:33:28.106617+00:00",
+    "reply": "1 Reply"
+}

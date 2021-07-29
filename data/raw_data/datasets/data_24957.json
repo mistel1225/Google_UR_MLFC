@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/23714410/screenonreceiver-onreceive-error-when-unlock-pixel-4-xl?hl=en",
+    "title": "ScreenOnReceiver.onReceive() error when unlock Pixel 4 XL",
+    "content": "I don't know if anyone else having this issue. I tried to search on Google and didn't have any luck finding solution, or any post regarding on this.\n\nJust got my Pixel 4 XL and set it up from my old Pixel 2 XL backup. With some known setting changes to personalize my experience. Then I end up to having this error.\n\nThe error pop up everytime I unlocked my phone in a \"Known Location (Home)\" (SmartLock Setting) by swap up screen and either SmartLock or FaceID unlocked the phone.\n\nThe pop up (message details below) shows on the bottom of the screen.\n\nScreenOnReceiver.onReceive(): Attempt to invoke virtual method 'boolean android.hardware.fingerprint.FingerprintManager.isHardwareDetected()' on a null object reference\n\nFrom the error message, it's definitely related to some setting or apps that try to check if the figerprint reading exist, however, on the latest Android 10 on Pixel 4 Series, finerprint sensor no longer exist.\n\nI don't know if it's some mis-configuration caused this or some Play Store apps caused this. I couldn't find anywhere to fix this. Could anyone please point me to the correct direction? Or if this is a system bug, will this expect to be fixed soon?\n\n(Note: I tried to disable the \"Known Location\" SmartLock but the error exist)",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4 XL",
+    "post_time": "2019-12-24T16:20:34.551354+00:00",
+    "reply": "3 Replies"
+}

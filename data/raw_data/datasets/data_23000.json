@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/24212438/what-do-all-the-recovery-mode-menu-options-mean?hl=en",
+    "title": "What do ALL the Recovery Mode menu options mean?",
+    "content": "Let me make this clear: I do not need someone to redirect me to existing threads about using recovery mode, UNLESS those threads answer my ACTUAL question (which none seem to do). My wife's Pixel 2 is currently puking in a bootloop. I can get it into Recovery Mode and access the menu. I even know what MOST of the options mean from previous Android phone issues over the years. The one menu option I DON'T  understand is the one listed as \"Mount /system\". I have an idea what this might mean, but no one on the Internet seems to have asked THAT specific question. If it means what I think it does, I might be able to to use it to assist with part of my particular problem and just skip directly to Factory Reset afterwards (Using adb to reload the OS without disturbing data is not an option right now, and I need this phone back up and at least limping along sooner rather than later). What I need to know is this: does \"Mount /system\" allow me to mount the phone's partitions and access them from another computer/device without having to boot the Pixel's full OS? IFf not, what IS it for?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2019-12-30T12:49:35.187838+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/27990772/where-did-the-status-bar-go-and-how-do-i-activate-it?hl=en",
+    "title": "Where did the status bar go, and how do I activate it?",
+    "content": "When trying to pull down the status bar and check settings (i.e. if Bluetooth is connected, if I'm on wifi, if I'm on data, what my battery is etc.), nothing happens when I swipe down at the top.\n\nAlso It takes a significant amount of time for the navigation panel at the bottom to activate when I swipe up.\n\nThis thing is not showing up (picture is of an older version of the phone, I have the pixel 4)\n\nUpdate: I went to check my phone's operating system to include in this post, and after going into:\nsettings > system > advanced ... I updated a few gestures settings and the top status bar turned back on.(?) \nRunning Android 10.",
+    "is_img": 1,
+    "category": "Device Performance, Google Pixel 4",
+    "post_time": "2020-02-07T16:38:29.316239+00:00",
+    "reply": "1 Reply"
+}

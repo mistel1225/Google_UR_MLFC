@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/40745670/sip-calling-account-cannot-be-used-sim-no-signal?hl=en",
+    "title": "SIP Calling account cannot be used \" SIM No Signal\"",
+    "content": "Just posting a workaround that doesn't involve restarting the phone. Currently it appears that SIM Accounts as default is broken in Android 10, unless you have a perfectly unwavering network connection.\n\nWORKAROUND:\nSelect a SIM based calling account as Default, save, then Switch back.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
+    "post_time": "2020-04-18T00:09:13.191471+00:00",
+    "reply": "1 Reply"
+}

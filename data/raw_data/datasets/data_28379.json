@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/13908749/why-does-google-play-music-not-play-the-requested-song-when-using-google-assistant?hl=en",
+    "title": "Why does Google Play Music not play the requested song when using Google Assistant?",
+    "content": "My Pixel 2 XL sits in a car mount when I'm driving and is connected to my car's stereo via aux cable (and USB-C adapter).\n\nA few weeks ago I started to notice that when I told it to play a song, it would find that song in GPM, but wouldn't play it.\n\nSo for example, I say, \"Hey Google, play Piano Man by Billy Joel.\"\nIt'll respond with, \"OK, Piano Man by Billy Joel, here it is on Google Play Music.\"\n\nThen I look at the phone and the lockscreen widget for GPM has the correct song queued up, but it won't start playing. If I press the Play button manually then it'll play, but otherwise it won't ever start on its own.\n\nI've looked through settings but cannot for the life of me find anything that is stopping music from playing. Has anyone experienced this before?\n\nIt's happening on Android 10, but also happened on Pie. The phone is completely stock with no root or mods.",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 2",
+    "post_time": "2019-09-09T00:29:29.9853+00:00",
+    "reply": "1 Reply"
+}

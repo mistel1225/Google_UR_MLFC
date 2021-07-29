@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/104322590/scrolling-issue-when-in-facebook-and-then-passed-through-to-realtor-com-or-zillow-com?hl=en",
+    "title": "Scrolling issue when in Facebook and then passed through to realtor.com or zillow.com",
+    "content": "Just noticed this fairly recently, most likely after the March update.  When in Facebook, if I am presented a link to realtor.com (or zillow.com), and upon going there, when I try to scroll through the listing photos, it is very jumpy and erratic, definitely not smooth.  This does not happen if I open the realtor.com app (or zillow), just when following a link presented from within Facebook.  It does not happen when just scrolling through Facebook feed.\nMy partner has a Nokia 8.3 and he does not have this same scrolling issue, it is smooth.\nI tried uninstalling WebView updates, did not help.  I tried disabling webview, and after that links would not resolve from within Facebook.\nAny help would be much appreciated.  Thanks!",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4a (5G)",
+    "post_time": "2021-03-29T17:44:18.491449+00:00",
+    "reply": "1 Recommended Answer"
+}

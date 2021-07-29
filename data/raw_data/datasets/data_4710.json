@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/103412126/multiple-apps-are-crashing-on-launch-suddenly-why?hl=en",
+    "title": "Multiple apps are crashing on launch suddenly. Why?",
+    "content": "Hello, this issue started happening suddenly today. Attempting to launch some apps will see them go to their launch screen, then minimize back to home screen. The app is still present if i swipe up, but if i select the window, the same thing happens again.\n\nAlso, the google search bar and google app will crash as soon as I type one character in the search bar.\n\nClearing the app data for the affected apps (google and otherwise) works briefly, but before long they begin to not stay up again.\n\nStarting in safemode sees the Google app issue continue.\n\nI'm at a loss as to why this suddenly started happening. I've completely reinstalled the affected apps as well, but the issue pops up again.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3a XL",
+    "post_time": "2021-03-22T21:17:11.111982+00:00",
+    "reply": "6 Replies"
+}

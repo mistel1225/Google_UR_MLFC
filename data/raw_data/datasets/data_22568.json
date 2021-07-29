@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/23336967/how-do-i-extract-the-depth-map-image-from-a-portrait-mode-photo?hl=en",
+    "title": "How do I extract the depth map image from a portrait mode photo?",
+    "content": "I'm trying to extract the depth map image from a photo (the bokeh blur background) I find it strange that I can edit the blur effect with Google Camera but with no other app or program. My goal is to upload the image to facebook and use its option to upload it as a 3d image. I used to be able to do this with the Pixel 3 but then after an update, the ability was lost. I now have a Pixel 4 and still am unable to do this. Follow me so far? \nThere are two websites designed to extract the depth map image. But they don't recognize the Pixel 4 camera portrait mode photo. These sites are:\nhttp://www.hasaranga.com/dmap/\nand\nhttp://depthy.me/#/\nThese used to work for me on the Pixel 3\nAgain the data is there as I can edit using the Google Photo App.",
+    "is_img": 1,
+    "category": "Camera, Google Pixel 4",
+    "post_time": "2019-12-20T03:12:49.492823+00:00",
+    "reply": "5 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/68209114/pixel-4a-headphone-jack-max-volume-inconsistent?hl=en",
+    "title": "Pixel 4a - Headphone Jack Max Volume Inconsistent",
+    "content": "I've noticed an issue with my new 4a, and while it's not always an issue, I can't ever intentionally reproduce the fix. When attached to my car stereo via the headphone jack, I have my phone volume set to max. 95% of the time, the max volume is significantly lower than that of my Galaxy Note4 and Note8, but randomly my 4a max volume will be just as loud, if not louder, than those two phones. When this happens, if I disconnect the aux cable and reattach the sound will go back to being quiet.\n\nCould I turn my car volume up? Not really. The 4a is typically so much quieter, that in order to achieve the volume of my Note phones, I have to turn the car volume beyond what the amp is really capable of (sounds terrible, will burn up the amp).\n\nI've tried removing the cable and turning up media volume, changing music apps (and YouTube), and different cables. Keep in mind that all MP3 files are the same between my Pixel and Note phones.\n\nAny ideas what's going on here?\n\n**EDIT**\nI get the same exact result when booted into safe mode. However, I've found that if I repeatedly unplug and plugin the aux cable, eventually the volume will be normal. It's very annoying to do, but at least something I can reproduce now.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 4a",
+    "post_time": "2020-08-31T16:06:20.17505+00:00",
+    "reply": "29 Replies"
+}

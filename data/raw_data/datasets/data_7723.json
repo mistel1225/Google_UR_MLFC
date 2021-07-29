@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/95605838/when-paired-with-lcd-hands-free-bluetooth-rear-view-mirror-pixel-3a-xl-cannot-utilize-external-mic?hl=en",
+    "title": "When paired with LCD hands free bluetooth rear view mirror Pixel 3a XL cannot utilize external mic",
+    "content": "Google Pixel 3a XL Android 11\n\nDevice connected is a Master Tailgaters CMR-43-A1B Bluetooth Rear View Mirror 4.3\" Auto Adjust Brightness LCD  Hands Free Calling. It functions well with an iPhone 8. When paired with my Pixel 3a XL the person receiving my call cannot hear my voice. This doesn't happen with the iPhone. Also the \"OK Google\" assistant works with the mirror's mic. I can also make an audio recording through the rear view mirror to the Pixel. so the mirror's microphone is definitely working.  The software in the mirror is read only; there are no settings that can be accessed or changed.\n\nThere is something within the Pixel's settings or software which is not utilizing the mirror's microphone while making a phone call. \n\nIn \"Settings > Connected Devices > Bluetooth Devices > Rear View Mirror > Settings\" I selected \"Forget\".\nThen I paired them together but the external mic wouldn't work in a phone call.\n\nI performed the > System > Reset options >> Erase all data (factory reset). Then restarted, paired the Pixel with the mirror; it still won't work. \n\nI contacted Google Support (https://support.google.com/pixelphone#topic=7078250).\nThey called me. I described the above but after a while I was cut off and wasn't called back.\n\nWhat could possibly be wrong with my Google Pixel 3a XL ?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a XL",
+    "post_time": "2021-01-29T02:07:05.740065+00:00",
+    "reply": "0 Replies"
+}

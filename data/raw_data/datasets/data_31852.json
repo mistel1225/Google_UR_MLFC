@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/4683266/userdata-corrupt?hl=en",
+    "title": "userdata corrupt?",
+    "content": "My Pixel 3 went suddenly black, and rebooting resulted in a bootloop, stuck at the google logo.\nSo I tried to flash the latest factory image (April). Keeping the -w option (erasing userdata) results in an error message \"failed to erase partition\", bootloop still there.\nI fear that some hardware defect on the internal storage messed up my partiotions...\nAny help?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-04-22T17:52:22.390697+00:00",
+    "reply": "1 Reply"
+}

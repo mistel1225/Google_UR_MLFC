@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3746569/how-to-fix-android-q-bootloader-error?hl=en",
+    "title": "how to fix Android Q bootloader Error",
+    "content": "I was using Pixel 2 with Android P.\nThen I joined the Android Q Beta Program , and received a qpp2.190228.021 OTA update.\nAfter the system update complete I reboot the device.\nThen the phone reboot to bootloader with ERROR : Slot Unbootable : Load Error\nI can't restart to recovery mode , it showed the same ERROR : Slot Unbootable : Load Error.\nI tried to connect to PC and use fastboot.exe to flash factory image ,but the fastboot.exe can't recognize the phone . I can't find the device in windows devices manager either.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2019-04-07T15:31:53.097196+00:00",
+    "reply": "1 Reply"
+}

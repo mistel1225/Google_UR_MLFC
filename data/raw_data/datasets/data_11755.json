@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/84290985/unable-to-reconnect-to-google-fi-vpn-after-disconnecting-without-restarting-phone?hl=en",
+    "title": "Unable to reconnect to Google Fi VPN after disconnecting without restarting phone",
+    "content": "Occasionally I need to disconnect the always-on VPN on my Pixel 3A with Fi service, to access something that doesn't work with a proxy. I select \"Disconnect,\" not \"Forget,\" and the Google VPN remains in the list of VPNs available to me. But tapping on it in the list does nothing and presents no options. The 3 dots menu only offers me the choice to \"Forget\" but nowhere is there an option to Connect again. I have to restart my phone to get the always-on VPN back, which is really a pain when I'm debugging a webpage that's having issues and I need to keep going back and forth between VPN and no VPN to check the problem out.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2020-11-20T19:29:55.553343+00:00",
+    "reply": "1 Recommended Answer"
+}

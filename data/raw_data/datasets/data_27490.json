@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/16445301/video-continues-audio-after-closing-app-since-android-10?hl=en",
+    "title": "Video continues audio after closing app since Android 10?",
+    "content": "On both You Tube and Plex, when I close the app (not just app switching or minimizing) the audio of the video that was displaying continues. If I swipe up to view running apps, the app isn't there, there is no bottom right windowed video. I can reopen the app and the audio continues. \n\nIf I clear all apps, even though the app related to the audio isn't there, the audio will stop. Specific to You Tube, occasionally by opening a random other app, the bottom corner window will then display.\n\nThis started after updating to Android 10, but thankfully it's the only bug I can report.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3a",
+    "post_time": "2019-10-10T04:59:18.762076+00:00",
+    "reply": "1 Recommended Answer"
+}

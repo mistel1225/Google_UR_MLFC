@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/102547252/pixel-3-xl-when-connecting-wi-fi-it-s-causing-draytek-router-to-alert-icmp-attacks-on-firewall?hl=en",
+    "title": "Pixel 3 XL when connecting Wi-Fi it's causing Draytek router to alert ICMP attacks on firewall",
+    "content": "After updating the Pixel 3 XL to March 2021 update, when I connect the phone to my Wi-Fi network it causes my draytek firewall router to alert me for ICMP attacks.  It's definitely this device.  I kept it off the network for days and no issues at all, as soon as I put it back onto wifi I begin getting these alerts regarding ICMP attacks and they come from about 10 different IP addresses. I contacted the router manufacturer and they found no issues with the settings in the router and stated it's actually doing its job by blocking these attempts.  Not sure what's going on but Pixel 3 XL is supposed to be secure this doesn't seem so secure.  My wife has a Pixel 3a on same wifi network and no issues with her phone.  I've reset to factory and still the same issue occured.  Any one have any ideas?  Could it be a defective phone?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2021-03-16T23:47:52.893665+00:00",
+    "reply": "9 Replies"
+}

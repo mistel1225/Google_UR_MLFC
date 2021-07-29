@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/70789656/system-update-stuck-at-installing-system-update-for-days?hl=en",
+    "title": "System update stuck at \"Installing system update...\" for days",
+    "content": "I have a Pixel 3 with up-to-date Android 10 on Fi.\n\nA few days ago (after I saw that the Android 11 update was out) I checked the Preferences-System-System update page and it was showing \"Preparing to update\" with an activity spinner under it and nothing else.  It showed that for two or so days.  Then a day or two ago it changed to \"Installing system update...\"  And that is what it still says.\n\nI've tried rebooting the phone but it hasn't made any difference\n\nEarlier today I got a notification that I needed to update the phone but I don't know what I was supposed to do since there wasn't any action I could take to do that.\n\nThe phone is and has been continuously connected to wifi and otherwise works fine (according to my ISP's test page download speed to the phone is fine and browsing works fine).  According to my router, unless I'm using the phone on the internet myself (browsing, basically), the phone isn't downloading anything.\n\nI presume that this isn't normal - if it is, t certainly shouldn't be.\n\nHelp???",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2020-09-13T00:35:09.004453+00:00",
+    "reply": "2 Recommended Answers"
+}

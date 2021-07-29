@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/22067681/need-help-setting-up-phone-dialer-and-sip-accounts?hl=en",
+    "title": "Need help setting up phone dialer and SIP accounts",
+    "content": "I'm trying to set up my new pixel to permit outgoing calls using either my network provider or a voip service.   On my old phone I used to use csipsimple app which made it simple to selecct which service to use for an outgoing call.  On the pixel I am hoping to use the native android support, with no 3rd party app.\n\nI have found where to add the sip account details, but can not find any way to see if the device is successfully registered.  Is there some way to see this info?\n\nThen when I make a call I can find no place to instruct the dialer to use the voip service instead of the normal network provider.   How do I do this?\n Here:  https://support.google.com/phoneapp/answer/2811843?hl=en  under \"option 2\" is a step by step which fails for me at step 2.  It says to \"tap MORE ...\" but there is no option called \"more\".     When I launch the phone app it  opens in the favourites/recent/contacts list with an icon for the dialer.  Click the icon and I'd expect to see an offer of which account to use for the call, but no.  \n\nBasically I'm looking for a guide somewhere that will help me set this up.\n\nThankls.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 3a XL",
+    "post_time": "2019-12-06T02:41:34.744782+00:00",
+    "reply": "0 Replies"
+}

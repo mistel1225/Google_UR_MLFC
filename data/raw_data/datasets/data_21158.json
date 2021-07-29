@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/47500127/why-is-my-3xl-failing-to-wake-and-crashing-while-charging?hl=en",
+    "title": "Why is my 3XL failing to wake and crashing while charging?",
+    "content": "My 3XL has been perfect up until this year.\nThere are two main issues that have arisen:\nThe device will sometimes crash while charging\nRebooting from this event causes another crash during boot just after the google logo.\nRemoving the usb-c cable stops it from crashing.\nAttempting to wake my device up from sleep proves to be fruitless.\nFingerprint sensor has a delayed vibration.\nDouble tapping power button to launch the camera causes the phone to spur to life after ~30 seconds.\nRestarting the device (by holding power button) is the quickest solution.\n\nPhones are a critical day-to-day device, this is just unacceptable.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3 XL",
+    "post_time": "2020-05-18T08:28:45.477424+00:00",
+    "reply": "8 Replies"
+}

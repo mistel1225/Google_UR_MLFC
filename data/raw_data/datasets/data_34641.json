@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1513719/pixel-boot-issue-won-t-boot-into-safe-or-recovery-mode-adb-doesn-t-recognize-it?hl=en",
+    "title": "Pixel boot issue(won't boot into safe or recovery mode). adb doesn't recognize it",
+    "content": "Anyone have any solutions for the Pixel boot loop issue? I can't boot into recovery mode or safe mode. And adb does not recognize my device. I can access the bootloader, but recovery mode fails as well. Once I was able to get to the android on his back with a red warning sign and the text \"no command\" underneath. But all the other times it reboots before getting to that screen. When I had the screen up I tried to access it by adb devices, but was unable too. It rebooted automatically in under a minute.\n\nAny help is appreciated. Thank you.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2019-02-07T18:35:53.954688+00:00",
+    "reply": "3 Replies"
+}

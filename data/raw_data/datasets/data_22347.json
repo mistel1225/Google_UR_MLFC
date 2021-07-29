@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/34183095/google-pixel-crashed-and-now-only-mounting-to-pc-as-qualcomm-hs-usb-qdloader-9008?hl=en",
+    "title": "Google Pixel crashed and now only mounting to PC as \"Qualcomm HS-USB QDLoader 9008\"",
+    "content": "How did the issue occur: I tried to launch the youtube app, the phone froze and would not boot back up\n\nIssue: Phone does not boot, mounts to coumputer as \"Qualcomm HS-USB QDLoader 9008\"\n(The device can be forced into fastboot with some patience, when you select \"START\" it bootloops and ends up with a black screen again, starting the recovery works)\n\nThings that I tried & do not work:\nReset device via fastboot\nReflash stock rom via fastboot (tells me the system is too large to write)\nReflash stock rom via ADB (also cannot write system)\nFormat data via fastbooted TWRP (worked, didn't help)\nDelete cache, fails with \"< waiting for any device >\nErasing 'cache'                                    (bootloader) Erasing active slot \"_b\"\nFAILED (remote: 'Partition table doesn't exist\n')\nFinished. Total time: 0.165s\"\nThis leads me to believe that the partition table got deleted\n\nIs there any way to fix this?",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel",
+    "post_time": "2020-03-18T20:33:57.260328+00:00",
+    "reply": "2 Recommended Answers"
+}

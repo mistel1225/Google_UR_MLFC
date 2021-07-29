@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9903774/my-phone-will-connect-to-wifi-and-the-internet-just-fine-but-will-give-me-the-error-no-internet?hl=en",
+    "title": "My phone will connect to WiFi and the Internet just fine, but will give me the error \"No Internet\"",
+    "content": "YouTube, Reddit, etc works just fine, I am just getting the error for no apparent reason.\n\nI believe this is because I have a custom home network with a very strict firewall. What port/protocol do I have to allow through to allow my phone to \"phone home\" and realize that it has connection to the internet.\n\nFor further detail I have an extended ACL on a Cisco router that basically only allows echo-replies, established TCP traffic, and enough UDP for my ISP to send my router a DHCP address (bootpc and bootps)",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-07-14T23:36:18.372638+00:00",
+    "reply": "2 Recommended Answers"
+}

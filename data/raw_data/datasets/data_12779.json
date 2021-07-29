@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/80796079/how-to-stop-google-assistant-searching-email-to-remind-me-to-pay-bills-i-already-paid?hl=en",
+    "title": "How to stop Google assistant searching email to \"remind\" me to pay bills I already paid?",
+    "content": "Today Google assistant popped up a notification that I have an unpaid power bill, and if I don't pay it by tomorrow my power will get shut off. I frantically logged in to the power company site, only to find that all my bills are paid. It turns out that Google assistant combed through my email, found LAST month's billing notice, and saved it until it would have been overdue before \"reminding\" me. Google assistant has no way to know whether a bill was paid or not, so it has no business combing my email and regurgitating random bills that I never asked it to remind me about. How do I prevent this from happening again?",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 3a XL",
+    "post_time": "2020-11-03T18:28:24.509036+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/21212010/fastboot-flashing-unlock-is-not-allowed-for-pixel-3a-xl?hl=en",
+    "title": "Fastboot flashing unlock is not allowed for pixel 3a XL",
+    "content": "Hello guys!\nMy phone pixel 3a XL couldn't unlock device,is say:\nD:\\fastboot-win(your file)>fastboot flashing unlock\n                                                   FAILED (remote: 'flashing unlock is not allowed')\nfastboot: error: Command failed\n\nOEM unlock is failed,too:\nD:\\fastboot-win(your file)>fastboot oem unlock\n                                                   FAILED (remote: 'Invalid oem command unlock')\nfastboot: error: Command failed\n\nSo need back to google survice fixed it,or send to google corporation mail,get unlock.bin file?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3a XL",
+    "post_time": "2019-11-26T13:49:10.336598+00:00",
+    "reply": "1 Recommended Answer"
+}

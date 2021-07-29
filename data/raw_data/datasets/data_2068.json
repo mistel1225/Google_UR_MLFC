@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/109956975/bricked-not-responsive-emergency-download-mode-edl?hl=en",
+    "title": "Bricked not responsive Emergency Download Mode (EDL)",
+    "content": "https://forum.xda-developers.com/t/fix-pixel-3-qusb_bulk_cid-xxxx_sn-xxxxxxxx.4205331/\n\nSame thing happened to my Pixel 3 this morning. Everything was fine last night, woke up this morning and the phone won't turn on or reboot. Power button isn't responsive, Power button + Volume down to get into recovery mode is also not responsive. When I connect my phone to my PC I also get QUSB_BULK_CID:xxxx_SN:xxxxxxxx.\n\nI did some searching around and it sounds like the phone might be stuck in Emergency Download Mode? Anyone have a solution on how to fix this issue?\n\n\nQUSB_BULK_CID:xxxx_SN:xxxxxxxx.",
+    "is_img": 1,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2021-05-15T16:52:58.71013+00:00",
+    "reply": "0 Replies"
+}

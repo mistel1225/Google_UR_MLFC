@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/25007048/pixel-4-xl-driving-mode-not-turning-on-automatically-affecting-android-auto-startup?hl=en",
+    "title": "Pixel 4 XL Driving Mode not turning on automatically affecting Android Auto startup",
+    "content": "I just got a 4 XL and I am having problems with it not starting Android Auto when it connects to my car head unit BT.  I tried all the fixes suggested in the AA forum to no avail.\n\nThen today for the first time when I drove off and had the phone on a holder, a notification appeared saying Driving Mode enabled and then AA started. So it appears AA not starting is not an AA issues but Driving Mode not being enabled. I can't recall what I was doing when it suddenly showed the notification and I can't reproduce it. Cearly if Driving Mode is detected and the option is to start AA (versus Do Not Disturb or Nothing) then AA will start. AA not starting must be because Driving Mode is not being detected but I have no idea how to turn that feature on or work out how the phone detects driving mode",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 4 XL",
+    "post_time": "2020-01-08T06:30:23.809524+00:00",
+    "reply": "1 Recommended Answer"
+}

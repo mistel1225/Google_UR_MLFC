@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/73008304/missing-notification-top-status-bar-when-exiting-full-screen-apps?hl=en",
+    "title": "Missing notification/top status bar when exiting full screen apps.",
+    "content": "1. Use a full screen app\n2. Press the middle button to return to home\n3. Everything on home looks normal, except that the notification bar doesn't show. \n\nOnly when I swipe down does it show up suddenly.\n\nI've tested with a few apps, and believe it is only affecting certain full screen apps - I'm not sure what the criteria is here.\nThis started happening only after the Android 11 update, on a Pixel 3.\n\nEDIT: Yes, I've tried turning it off and on, and yes I have tried safe mode. \n\nI have video evidence of it happening in both safe mode and normal mode. After some investigating, I believe the issue may be related to apps with heavy resource use e.g. playing music and using the camera at the same time (took me about 30 tries to reproduce the bug using this method in safe mode, ymmv) - much easier in normal mode by just using an app with intensive graphic processing.",
+    "is_img": 1,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2020-09-24T14:07:04.349807+00:00",
+    "reply": "0 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/40415887/now-playing-info-broken-on-always-on-display?hl=en",
+    "title": "Now playing info broken on Always On Display",
+    "content": "I am experiencing the same issue reported here:\nhttps://support.google.com/pixelphone/thread/17058270?hl=en\n\nBut for Now Playing information. The text is \"cut\" in the first couple of rows of Pixels. I wonder if this is due to the shifting of pixels to prevent burn-in...\n\nThat thread was closed without a solution, that's why I'm opening this one.\n\nI've tried clearing storage & data for Pixel Ambient Services, to no avail.\n\nAlso, my device is a 2 XL (only 2 was available in the dropdown...)\n\nRunning QQ2A.200405.005\n\nAny help appreciated",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2020-04-16T12:19:11.41922+00:00",
+    "reply": "3 Replies"
+}

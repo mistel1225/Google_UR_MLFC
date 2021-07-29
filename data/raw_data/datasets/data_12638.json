@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/80564229/pixel-2-xl-having-vertical-colored-lines-appearing-on-frontal-camera-after-the-beta-3-of-android-11?hl=en",
+    "title": "Pixel 2 XL having vertical colored lines appearing on frontal camera after the Beta 3 of Android 11.",
+    "content": "Since Android 11 beta 3, my frontal camera has shown vertical colored lines in whichever application that uses it.\nDuring the beta program I opened a bug report on Issue Tracker (here), and I was able to downgrade back to Android 10. But after the stable update, I am locked in a Android version that killed my frontal camera overall usability. Downgrading is impossible, since Verizon won't let me unlock my own phone's bootloader.\n\nThese recordings show my problems: imgur.com.\n\nI either need help communicating this issue to Google's Android devs, or downgrading to Android 10.",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 2",
+    "post_time": "2020-11-02T16:49:10.072378+00:00",
+    "reply": "1 Reply"
+}

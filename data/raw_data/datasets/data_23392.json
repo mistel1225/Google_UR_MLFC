@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/28226919/can-t-seem-to-get-adb-updates-to-work?hl=en",
+    "title": "Can't seem to get ADB updates to work.",
+    "content": "I've already tried using 2 different OTA updates. When rebooting back into the Android Recovery screen, the OTA version is still the same one that was installed when the phone started doing this. It's not actually -using- the updates I've installed. I can't seem to boot the phone into safe mode to see if it's an app messing with everything. I'm just at a loss because there is so much on my phone that I really would rather not lose. \n\nAny ideas?\nIs there any way to use ADB to boot into Safe Mode?\nIs my only option to really just factory reset everything? \n\nCurrent Blueline version: QQ1A.200105.002\nI've tried installing both 200105.003 and 200205.002- each time I go through the installation process via ADB and get \"installation complete through ADB with status 0.\" - the device continues it's boot loop until I get brought back to the android recovery screen. - then it shows the original 200105.002 version as being used at the top.\n\nThanks in advance to anyone who might be able to help.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2020-02-10T02:14:56.750291+00:00",
+    "reply": "5 Replies"
+}

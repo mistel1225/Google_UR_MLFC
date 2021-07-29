@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/89671260/notifications-dismissed-without-appearing-bubbles-not-working-no-notification-sound?hl=en",
+    "title": "Notifications Dismissed without Appearing, Bubbles Not Working, No Notification Sound",
+    "content": "Push notifications are being automatically dismissed on my Pixel 4a 5G before I can see/respond to them in the Status Bar. Message Bubbles and Notification Dots are also not appearing. Chrome download notifications hang, after the download is complete and cannot be cleared from the Status Bar either (and continue to sporadically chirp the whole time a file is downloading). Download notifications can only be cleared with a restart.\n\nAll apps are set to notify in the Notifications setting menu and I checked that Do Not Disturb Mode is off. I also tried toggling the Battery Saver on and off, and have also tried booting the phone in Safe Mode to see if some app is the culprit, with no luck (problem persists even in Safe Mode).\n\nThis is extremely problematic, because it basically means the phone can't \"phone.\" Even dialer Notifications don't come through, so unless I'm staring at the phone screen every waking minute, I have no idea who's trying to communicate with me and on what app.\n\nPlease help. As you can imagine, it's very urgent.",
+    "is_img": 1,
+    "category": "Device Performance, Google Pixel 4a (5G)",
+    "post_time": "2020-12-21T02:23:39.568009+00:00",
+    "reply": "0 Replies"
+}

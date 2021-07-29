@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/95027036/android-11-in-pixel-4a-with-my-app-installed-crashes-app-if-mobile-data-turned-off-during-use?hl=en",
+    "title": "Android 11 in Pixel 4a with my app installed crashes app if mobile data turned off during use",
+    "content": "I am developing an app.  It is designed to work online and offline.  If I am offline and open the app all is well.  Same for if I am online and open the app.  However, if I already have the app open and turn off network data the app crashes.  If, without closing the app, I then turn data back on again the app immediately recovers.  I have looked at all options and it works fine in my development environment, just not on the actual phone.\n\nI am wondering if my code is wrong or if it is an issue with the phone or android that I will not be able to overcome.\n\nPlease advise\n\nThanks",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
+    "post_time": "2021-01-25T11:46:21.141236+00:00",
+    "reply": "1 Reply"
+}

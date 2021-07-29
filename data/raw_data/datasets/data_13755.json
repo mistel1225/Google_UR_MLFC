@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/78366190/how-to-change-the-default-account-for-new-contacts-and-new-events?hl=en",
+    "title": "How to change the default account for new contacts and new events?",
+    "content": "Hello all,\n\nI am a happy user of Android 11 on a Pixel 3a. I decided to host my contacts and my calendar events on my own Nextcloud server using the davx5 (CalDAV/CardDAV provider for Android).\n\nSo:\n\n- I deleted all my contacts on https://contacts.google.com/\n\n- I deleted my events and calendars on https://calendar.google.com/calendar. Unfortunately, it is impossible to delete the \"Reminders\", \"Tasks\", and my name calendars (I imagine these are default mandatory calendars)\n\n- I synced with my Android\n\n- I disabled the sync of \"Calendar\", \"Contacts\" and \"Tasks in Calendar\" for my google account in the \"Accounts\" settings\n\nNow, my Android is clean from any google contact or event. But when I create a new contact or a new event, they are added to my google account by default... So I need to be careful to chose the davx5 account each time.\n\nSo my question is simple; how can set my davx5 as the default account for my new contacts or events?\n\nThanks for any help!",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 3a",
+    "post_time": "2020-10-21T19:47:49.497145+00:00",
+    "reply": "0 Replies"
+}

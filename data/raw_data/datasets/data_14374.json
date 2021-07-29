@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/76887261/pixel-4-chrome-crashing-on-startup?hl=en",
+    "title": "Pixel 4 - chrome crashing on startup",
+    "content": "I woke up this morning and suddenly my phone is unable to open chrome. When I tap it, I see the window opening but then it immediately disappears. I've force stopped it, cleared both the cache and the storage, and rebooted.\n\nLooking at this helpful page, it both tells me that chrome cannot be uninstalled and also that I should uninstall it and reinstall it in order to fix any problems.  Thanks, Google.  \n\nhttps://support.google.com/chrome/answer/95319?co=GENIE.Platform%3DAndroid&hl=en\n\nI've downloaded and I'm running the beta version of chrome from the play store, and that seems to be working fine. I'm wondering if it was some sort of chrome update that tripped over its own feet. But without the ability to uninstall and reinstall, I can't attempt to correct that. Am I stuck just waiting for the next chrome update and using the beta version until then? Or is there something else I can do to attempt to reload chrome from the play store?\n\nThanks all!",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4 XL",
+    "post_time": "2020-10-14T12:43:44.980765+00:00",
+    "reply": "1 Recommended Answer"
+}

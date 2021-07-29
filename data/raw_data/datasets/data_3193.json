@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/106669829/after-connecting-to-a-bluetooth-device-and-disconnecting-i-can-no-longer-hear-audio-in-phone-calls?hl=en",
+    "title": "After connecting to a bluetooth device, and disconnecting, I can no longer hear audio in phone calls",
+    "content": "About 6-8 weeks ago this started, and I guess I am now kinda frustrated by it , so I wanted to see if others are experiencing this.  When I connect to my car or headset Bluetooth, then disconnect, if I try to make a call I hear no audio what so ever unless I flip to speakerphone or reconnect a Bluetooth device.  Through all my troubleshooting, I figured out that I can resolve this by forcing the phone in to the boot loader, selecting restart boot loader, then selecting start and getting back in to the phone.  It is then good until the next time I have to go hands free with Bluetooth again.  SUPER frustrating. \n\nAny thoughts?",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 5",
+    "post_time": "2021-04-18T16:36:07.832283+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/13686112/airplane-mode-breaks-wifi-connection?hl=en",
+    "title": "Airplane mode breaks Wifi connection",
+    "content": "Upgraded to Android 10.  The WiFi will work fine if cellular connectivity is enabled.  Now, if the airplane mode is activated, it breaks the WiFi connectivity ability.  Turn on Airplane mode, then activate WiFi -- WiFi will connect to router, drop, reconnect, drop, etc.  It won't every fully connect to WiFi.  If I turn off airplane mode, WiFi will continue to not connect (despite having been connected prior to airplane mode).\n\nIf I restart with the airplane mode on and WiFi on, it will do the same thing (won't connect).  If I turn off the airplane mode (without restarting), WiFi still will not connect.\n\nIf I restart with the airplane mode off and WiFi on, it will immediate connect to WiFi upon startup.\n\nIs this a bug in Android 10 on Pixel Original?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel",
+    "post_time": "2019-09-06T01:47:45.895893+00:00",
+    "reply": "11 Replies"
+}

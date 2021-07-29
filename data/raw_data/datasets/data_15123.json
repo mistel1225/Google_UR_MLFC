@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/73202644/pixel-3-failed-to-load-verify-boot-images-fastboot-mode?hl=en",
+    "title": "Pixel 3 Failed to load/verify boot images - Fastboot mode",
+    "content": "Hi\n\nMy USB C Port on my pixel 3 was not working reliable anymore. I did order a replacement port and replaced it. Now the device starts up in Fastboot Mode with the \"Enter Reason: failed to load/verify boot images\"\n\nI connected it to my mac and downloaded the android platform SDK. It responds here.\nWhen I try to flash the bootloader, I get the following error\nFAILED (remote: 'error getting device locked state No Response')\n\nI think this error comes up, because I did not unlock the bootloader. But I cannot unlock the bootloader because android does not boot up.\nI did not enable USB debugging, and I cannot enable it now.\n\n\n\nAny suggestions?\n\nThanks for your help\nJanis",
+    "is_img": 1,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2020-09-25T13:55:44.35508+00:00",
+    "reply": "1 Recommended Answer"
+}

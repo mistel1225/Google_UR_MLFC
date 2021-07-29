@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/59898798/how-do-i-transfer-files-from-pixel-3a-android-10-to-a-macbook-catalina-straight-answer-here?hl=en",
+    "title": "How do I transfer files from Pixel 3a (Android 10) to a Macbook (Catalina)? STRAIGHT ANSWER HERE!",
+    "content": "19 JULY 2020\nTRANSFERRING FILES FROM PIXEL 3a (ANDROID 10) TO A MACBOOK (CATALINA)\n\n1. Make sure the Android File Transfer app is downloaded on your Macbook before you start - https://www.android.com/filetransfer/ \n2. On your Pixel 3a, go to Settings, System, Developer Options (you can search for this at the top of the screen if Developer Options is not immediately obvious to find).\n3. Scroll down to Default USB configuration and select.\n4. Select File transfer/Android Auto.\n5. Connect your Pixel 3a to your Macbook with a USB-C cable (with the phone unlocked) and the Android File Transfer app should open a window with your Pixel's file directory.\n\nHopefully, this is a one-stop question and answer thread for when people ask the same thing in the future! There's a couple of Pixel 3a screenshots below for guidance. The above should apply to Macbook owners using other recent iOS versions.",
+    "is_img": 1,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2020-07-19T17:54:51.712372+00:00",
+    "reply": ""
+}

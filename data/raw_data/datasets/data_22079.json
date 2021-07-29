@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/12740836/lockscreen-loop-pixel-looping-back-to-pin-screen-after-correct-pin-is-entered?hl=en",
+    "title": "Lockscreen Loop: Pixel looping back to PIN screen after correct PIN is entered",
+    "content": "I have recently updated my Google Pixel XL to Android 9. Noticed that when I entered in my PIN it didn't unlock straight away so was using just my fingerprint to unlock whenever I went to use the phone. Then had the bright idea of restarting the phone to see if that fixed the PIN issue...except when restarting, a PIN is required as double security. I am now stuck: I enter my PIN and the screen goes black as if it was unlocked but then comes back to the lock screen. I keep typing in my PIN and it just keeps coming back to the same lock screen. \nNo, I have not forgotten my PIN. It accepts the PIN as correct because any other combination comes up as \"Wrong PIN\" but when I type in the right PIN it goes black and comes back to lock screen. \nI have since done several restarts and still no change\nTried rebooting in safe mode but still comes back to lock screen after I log in\nHas this happened to anyone and what did you do to fix it? I really don't want to have to delete everything and reset",
+    "is_img": 0,
+    "category": "Homescreen and Launcher, Google Pixel",
+    "post_time": "2019-08-24T18:21:51.850485+00:00",
+    "reply": "2 Recommended Answers"
+}

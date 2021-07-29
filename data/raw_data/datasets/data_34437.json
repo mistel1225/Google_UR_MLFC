@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1629446/gps-takes-a-long-time-to-start-navigation-both-on-waze-and-on-google-maps?hl=en",
+    "title": "GPS takes a long time to start navigation both on Waze and on Google Maps.",
+    "content": "The GPS takes a very long time to start navigation. It's not due to slow internet connection as I checked my speed was well above 50 Mbps when the issue occurred. \n\nOn some occasions the navigation would start off fine and suddenly lose GPS signal in the middle of navigation and would not recover to find the GPS signal.\n\nThe issue started arising after the December update. A fix that I have found to have worked on Reddit was to clear the maps' cache, disable improve location accuracy under Google Location Accuracy, restart the phone and re-enable improve location accuracy.\n\nThis fix however is temporary as the issue would arise again after 2-3 trips on any of the navigation apps. If anyone out there knows a permanent solution to this issue, please help.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-02-13T23:18:10.33787+00:00",
+    "reply": "1 Reply"
+}

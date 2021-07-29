@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/42124271/pixel-3a-corrupted?hl=en",
+    "title": "Pixel 3a corrupted",
+    "content": "Android stuck in Recovery. \n\nAfter the recent April 2020 security patch, it worked for one day. Then it went into recovery mode with error,\n\"cannot load android system. Your data may be corrupt....\". \n\nIs there anything I can do and avoid the factory reset ? \n\nI tried the \"adb sideload <image>\" command. I have the same issue after loading the latest OTA image from android. \n\nPlease help.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3a",
+    "post_time": "2020-04-24T07:51:12.702545+00:00",
+    "reply": "5 Replies"
+}

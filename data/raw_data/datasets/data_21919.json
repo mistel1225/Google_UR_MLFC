@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/26010989/screen-recorders-on-google-pixel-3-xl-record-only-top-part-of-the-screen?hl=en",
+    "title": "Screen recorders on Google Pixel 3 XL record only top part of the screen",
+    "content": "I've tried recording the screen of my Google Pixel 3 XL with both the built-in screen recorder functionality (enabled with the following command: adb shell settings put global settings_screenrecord_long_press true) and various third party apps (e.g. ScreenCam Screen Recorder and MNML Screen Recorder). The problem with all of these methods is that the final recording shows only the top part of the screen instead of full screen and the resolution of the recording is just 1440x1080 instead of 1440x2880 (or 1440x2960 when the notch is enabled). This happens also in landscape and the recording is then 1920x1392 and shows just the left part of the screen.\n\nI've also tried the built-in recording functionality in safe mode and the issue persists, leading me to believe that it's not caused by any third party applications installed. I've tried the same apps and the built-in screen recording functionality on two other Android devices (regular Pixel 3 and Pixel 2 XL) and both of those devices were able to record the screen properly. All of these devices run the latest version of Android with January security patches.\n\nAny ideas on what might be causing this and steps for further troubleshooting?",
+    "is_img": 0,
+    "category": "Other",
+    "post_time": "2020-01-18T12:53:43.154168+00:00",
+    "reply": "7 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/36586094/phone-app-misbehaves-after-system-update-during-travel?hl=en",
+    "title": "Phone app misbehaves after system update during travel",
+    "content": "(Pixel 3 XL) Hello there - got the last system update (3/5/20 patch) while traveling. After getting back to the US I noticed that call screen is gone from my Phone app. Turns out that when you update outside the US, features available only in the US might become unavailable (at least call screen), regardless of your billing address, location, WiFi IP address, or cellular antennas used. Googles TS solution was to revert the phone app to its factory version (App info -> top right menu -> uninstall Updates), which does work. However, after every restart, the call screen feature is gone again - not sure if only from the phone app settings or the feature itself - and I have to force stop the phone app and reopen for it to come back. \nAny idea how to convince the phone app, or maybe the system in general, that the US version of the system and features should apply?\nMany thanks!",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2020-03-29T22:08:55.262847+00:00",
+    "reply": "2 Replies"
+}

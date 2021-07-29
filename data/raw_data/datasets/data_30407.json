@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/7622474/why-is-my-pixel-xl-2016-stuck-in-google-white-screen-when-i-reboot-the-phone-after-wiping-data?hl=en",
+    "title": "Why is my Pixel XL 2016 stuck in Google white screen when I reboot the phone after wiping data?",
+    "content": "Good day!\n\nMy Google Pixel XL (2016) on on boot loop last night therefore I was force to hard reset it. But this is the result:\n---Wiping data...\nFormatting data...\nE:/sbin/mke2fs_static failed with status 37\nE:format_volume: Failed to make ext4 on /dev/block/platform/soc/624000.ufshc/by-name/userdata: No such file or directory\nData wipe failed.\nE:Failed to clear BCB message: failed to write /dev/block/platform/soc/624000.ufshc/by-name/misc: I/0 error\n\nWhen I proceeded to REBOOT SYSTEM NOW, I'm stuck with white screen with Google on it.\n\nNeed advice. Hope there's still hope.\n\nThank you!",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2019-06-08T03:19:17.627829+00:00",
+    "reply": "1 Recommended Answer"
+}

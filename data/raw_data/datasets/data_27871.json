@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/15438612/android-10-build-no-qp1a-190711-020-c3-play-store-doesn-t-list-my-apps?hl=en",
+    "title": "Android 10 build no. QP1A.190711.020.C3, Play store doesn't list my apps.",
+    "content": "Hello all,  the other day, Sept 24th, I updated my phone with Android 10 build no. listed above. Now when I open the Play Store none of my apps are listed in the update tab or installed tab. The only thing I see in the update tab is apps scanned box and no updates available box. In the installed tab I only see my storage usage.  If I tap on the 3 bars to the left I get a white screen with a rotating wait circle that goes nowhere, nothing happens.\nSeems to be a play store connectivity issue but I never get any error messages.  \nI tried uninstalling the Play Store updates, cleared memory, cache in the Play Store, Play Services, Connectivity Services, removed my Google account and then added it back, nothing worked ........ ???? \nThanks",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3a",
+    "post_time": "2019-09-27T11:40:22.190498+00:00",
+    "reply": "2 Recommended Answers"
+}

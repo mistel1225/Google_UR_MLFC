@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/95657764/battery-inaccurate-after-android11-update-slow-100-to-60-then-drops-to-0-in-seconds-any-idea?hl=en",
+    "title": "Battery % inaccurate after android11 update. Slow 100 to ~60, then drops to 0 in seconds. Any idea?",
+    "content": "After update to android 11 the battery % started being inaccurate.\nAfter a full charge the phone would start at 100% and slowly get to 60%-70% (could take a full day), and suddenly drop within seconds to zero and the phone would shut down.\nIf I charge it and then open it at a lower % (like 30%) and then disconnect the charge, it would stay at 30% and be stable.\nScreenshot below shows the sudden drop, this is now happening daily.\nReading online suggested factory reset won't help. Tried pressing the phone in the back based on some reddit thread, also didn't help.\nAnyone has any idea what to do?",
+    "is_img": 1,
+    "category": "Battery and Power, Google Pixel 3",
+    "post_time": "2021-01-29T11:30:01.670136+00:00",
+    "reply": "1 Reply"
+}

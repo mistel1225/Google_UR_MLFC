@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/73287516/pixel-2-stuck-in-broken-setup-after-android-11-update?hl=en",
+    "title": "Pixel 2 stuck in broken setup after Android 11 update",
+    "content": "So I updated to android 11 and now my phone is basically dead.\n\nMy Cellular network stopped working completely, and so did the Wifi and the settings app kept crashing every time other time I opened it.\n\nWifi was stuck toggled off, if I toggled it on it would go back off.\nIt said there was no SIM card detected.\n\nSo I booted up the bootloader, went in recovery mode and wiped/factory reset the phone like google support told me to do.\n\nNow my phone is stuck in the android 11 setup which it can't finish since the settings app/ui keeps being non-responsive/showing black screens and the SIM card and wifi is not detected, thus I can not advance in the setup.\n\nSo basically google fucked my phone and won't help because it's out of warranty.\n\nI tried sideloading the latest update 2 times and the same issue persist.\nI can't flash my phone to a previous version of android ( android 10 for example ), because I can't access the settings app to turn on OEM unlocking to be able to unlock the bootloader and flash the device.\n\nSo I'm guessing my phone is completely dead unless they release a new OTA update that I could sideload that would fix all those issues?\n\nWhy did they release android 11 publicly if it breaks so many phones?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2020-09-25T22:22:31.213686+00:00",
+    "reply": "2 Replies"
+}

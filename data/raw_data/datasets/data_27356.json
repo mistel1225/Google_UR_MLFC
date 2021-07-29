@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/5489616/having-trouble-receiving-mms-on-the-att-network?hl=en",
+    "title": "Having trouble receiving mms on the ATT network",
+    "content": "This started last night, I have a Google Pixel 2 XL on the ATT network. I can’t receive mms but I can send mms. Can anyone higher up look into this? I’m getting the run around from Google and ATT at the moment. I thought this was fixed in the April 2018 update last year but have seen various posts across here, Reddit and XDA of this issue being prevalent.What I’ve found that works was disabling “Enhanced 4G LTE Mode” in the mobile network settings.Ive never had to disable that until now,before  Friday I was receiving mms with that enabled no problem. This is the security bulletin that says the issue was fixed and a representative here confirming it.\nhttps://source.android.com/security/bulletin/pixel/2018-04-01\nhttps://support.google.com/pixelphone/forum/AAAAb4-OgUsBwyxuNcJj-U/?hl=en&gpf=%23!msg%2Fphone-by-google%2FBwyxuNcJj-U%2FlqmlbC0tAgAJ&msgid=lqmlbC0tAgAJ",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-05-05T01:37:21.827816+00:00",
+    "reply": "31 Replies"
+}

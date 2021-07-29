@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/7321784/android-vr-developer-incompatibility-between-google-cardboard-library-and-jni?hl=en",
+    "title": "Android VR Developer: Incompatibility between Google Cardboard Library and JNI.",
+    "content": "I bought a Pixel 3 around a month ago to use it as my testing device for my applications. I am working on VR/AR applications. I have been trying to use some libraries that are written in C++ together with the Google Cardboard Library. To do so, I have been using the JNI in Android Studio (The NDK is obsolete for this matter). However, when I run my application, it says that my device runs different ABIs that my application does not. Also every time that I tried to create a new project that includes native C++ as default and then include the Google VR library, the same error occurs again. \n\nI would like to know if the root cause of my problem is my phone or if it is Android and the Google VR library.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-06-03T09:11:19.797171+00:00",
+    "reply": "0 Replies"
+}

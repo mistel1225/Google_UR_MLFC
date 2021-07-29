@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/105744626/pixel-3-search-results-in-chrome-not-showing-the-related-search-drop-down?hl=en",
+    "title": "Pixel 3 search results in Chrome not showing the related search drop down",
+    "content": "When I perform a search in Chrome it will bring me to the search results page, but clicking anywhere on the screen will take me to a new search. This doesn't happen always. This is not a virus. It seems to happen to my first search after Chrome has been inactive for a bit.\n\nWhat appears to be happening is the Chrome suggested/related search dropdown is hidden and overlayed across the screen, so clicking (tapping) anywhere triggers a new search using the suggested/related keywords. I say this because using the back button will return me to my original search where I can now see the previously hidden dropdown that contains the search phrase I am going back from.\n\nThis is on a Pixel 3. All updates applied (ss of April 10, 2021). Running Android 11. It started months ago and I lived with it, but recently factory wiped the phone and the behavior is back after letting Google Play do its update thing. Hence, not a virus. It only happens on my Pixel 3, hence posting here.\n\nI have tried to disable search suggestions, but in typical industry fashion all instructions and help are for 12 versions back and whatever you are looking for is only accessible after you perform the super secret handshake and is definitely not where they say it should be.\n\nI have a video that sort of shows the issue but can only attach a picture so instead you get this long winded ramble. Obviously difficult to describe so even more difficult to search for a solution.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2021-04-10T21:07:24.063833+00:00",
+    "reply": "1 Reply"
+}

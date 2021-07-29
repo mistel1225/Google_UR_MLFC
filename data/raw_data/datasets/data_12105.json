@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/69898415/i-upgraded-pixel-3-to-android-11-recents-screen-is-not-showing-screenshot-and-share-buttons?hl=en",
+    "title": "I upgraded Pixel 3 to Android 11. Recents screen is not showing Screenshot and Share buttons.",
+    "content": "I performed upgrade to Android 11 from the standard System Update function. Most things seem to be updated and system shows Android 11, but the Recent Apps screen still shows suggested apps at the bottom, and doesn't show the expected Screenshot and Share buttons.\n\nEdit: JPHrost was correct. I was using 2 button navigation, and after switching to Gesture navigation it is now displaying as expected.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2020-09-08T20:43:21.201308+00:00",
+    "reply": "2 Recommended Answers"
+}

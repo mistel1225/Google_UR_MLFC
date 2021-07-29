@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/63549395/battery-estimates-wildly-optimistic-until-dead?hl=en",
+    "title": "Battery estimates wildly optimistic (until dead)",
+    "content": "This issue has been ongoing for roughly the last month. I suspect it began with an OS update but am not completely sure, as I couldn't be sure of the issue until about a week after it started.\n\nThe phone will start off the day at 100%, and gradually go down to about 93% over the course of the day. The problem is that the phone is not actually at 93% but at 0% at that point, at which it realizes \"uh-oh, my battery is empty\" and promptly shuts down.\n\nThis is particularly frustrating because it usually would not be difficult to plug it in or turn on battery saver, but I am not notified of the impending doom, eventually causing significant interruption.\n\nThanks in advance!",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 4",
+    "post_time": "2020-08-08T04:38:57.615489+00:00",
+    "reply": "1 Reply"
+}

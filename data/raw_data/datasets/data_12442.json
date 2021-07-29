@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/81199893/fix-for-pixel-2-freezing-on-pattern-unlock-both-android-10-and-11?hl=en",
+    "title": "Fix for Pixel 2 freezing on pattern unlock? (Both Android 10 and 11)",
+    "content": "I see that people have been having issues with pixel devices freezing on both pattern and pin lock screens when trying to unlock phone, but surprise surprise...all those threads are closed without any proper resolution that I could find.\n\nI was having issues with not being able to unlock my Pixel 2 on an older build of Android 10, so I did a clean install of the latest Android 11 build (October 2020) and the problem started back up not more than a few hours after a fresh install.\n\nWhen I enter the lock pattern on my phone, it doesn't hold the pattern. The line between the dots I just connected disappears when I swipe to the next dot, and when I complete the correct pattern the phone just becomes unresponsive instead of unlocking.  My screen is not cracked, and scrolling is buttery smooth from side to side/up and down.\n\nSince I have fingerprint set up I can still unlock the phone, but I am worried that as soon as I restart the phone I will be locked out of it just as I was on Android 10...I have also tried completely turning off google assistant to no avail. \n\nHas anyone had any luck fixing this issue for good?\n\nThanks",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2020-11-05T18:31:01.907888+00:00",
+    "reply": "1 Reply"
+}

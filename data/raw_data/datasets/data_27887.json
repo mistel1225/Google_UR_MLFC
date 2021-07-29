@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9452471/notification-banners-and-sounds-not-working-for-some-apps?hl=en",
+    "title": "Notification banners and sounds not working for some apps",
+    "content": "I have been using the Pixel 3a for the last 2 months but since the last couple of days the notifications are not working properly. Some apps like Outlook do not show the notification banner or dot or play the sound but the mails are received normally. Some other apps such as Duo Mobile simply play a notification sound without showing up in the banners. The notification settings clearly show that the OS is in fact receiving the push notifications and is sending them as usual but they do not seem to show up on the screen. In a way the notifications are silently being delivered to the app but do not alert the user in any way whatsoever.  The only way to access these is to magically stumble upon the app which is quite annoying. I tried to disable battery optimization for these apps but to no avail. These apps are allowed to show all notifications in my settings and my DND is turned off. The problem started before the July security update patch, which I did install now but the problem still persists.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3a",
+    "post_time": "2019-07-07T23:36:44.333427+00:00",
+    "reply": "7 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/109489874/unable-to-show-weather-info-for-this-location-pixel-5?hl=en",
+    "title": "Unable to show weather info for this location - Pixel 5",
+    "content": "I have the same issue as seen on a similar post earlier this year - the weather displays accurately for my location in the \"At a Glance\" homescreen widget. However, when I click on the icon, I get the message \"Unable to show weather info for this location.\" When I click in the \"Search places\" bar, I see an empty slot labeled \"Your location\", but it's blank. Normally it would list my actual location, London UK. \n\nThis is not affecting Assistant features. When I ask, \"What's the weather?\" it is able to tell me the London weather.\n\nI have done many things to try to fix this:\nReset App Permissions\nFactor Reset Device\nCheck that Location is on and enabled for Google and Pixel Maps\nChecked Roaming settings\n\nAny thoughts on what could be causing this would be greatly appreciated.",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 5",
+    "post_time": "2021-05-11T20:08:19.62065+00:00",
+    "reply": "0 Replies"
+}

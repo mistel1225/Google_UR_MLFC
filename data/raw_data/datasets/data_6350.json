@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/79269011/pixel-5-not-detected-by-pc?hl=en",
+    "title": "Pixel 5 Not Detected By PC",
+    "content": "Hello,\n\nI seem to be having an issue with my Pixel 5 where it is not detected by any of my PCs. I've tried connecting it to my PC as well as two laptops through a USC C to A cable (as none of my other devices have USB C plugs) and it's the same thing for all: The Pixel 5 is not detected. Windows doesn't even play the \"device connected\" sound and it doesn't show in Device Manager as a Portable Device or Unknown Device.\n\nYou'd think it's the cable but when plugging in my Essential PH-1 it works flawlessly and so does a Galaxy S10 on all three computers so this seems like not a Windows or cable issue but rather a Pixel issue. Also, the phone manages to charge while it is off using that same cable but immediately stops when turned back on which suggests a software issue. I also got the phone to connect ONCE, however, that was after it never being able to connect so I went into device manager and uninstalled all other phones as well as the Android ADB drivers.\n\nIt worked then but then I finished the day, turned off my PC, and today the problem is back on but this time without anything to uninstall to make it magically work (except for the Pixel 5 device itself which wasn't being detected as present. I tried updating the drivers and then uninstalling but it didn't work and now I truly have nothing).\n\nI've tried turning USB Debugging on and off.\nI've tried changing the Default USB Settings to each option.\nI've tried plugging the cable into another port.\n\nAnybody got any solutions?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 5",
+    "post_time": "2020-10-26T18:29:15.763944+00:00",
+    "reply": "25 Replies"
+}

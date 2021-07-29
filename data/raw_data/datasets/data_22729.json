@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/4571266/can-google-enable-volte-vowifi-in-pixel-3-on-the-o2-network-in-germany?hl=en",
+    "title": "Can Google enable VoLTE/VoWifi in Pixel 3 on the O2 network in Germany?",
+    "content": "Pixel 3 does not show the option to enable VoLTE/VoWIFI.\nThe carrier (O2, via reseller Aldi Talk) has enabled it, it seems to work on phones from other manufacturers. Likewise, the features should work on Pixel 3.\n\nhttps://forums.lenovo.com/t5/Moto-X4/VoLTE-on-ALDI-TALK/td-p/4222588\nGathered from this link and some more research, it seems that the IMSI numbers starting with 26207 are enabled, but this number is no longer used, as two phone networks merged and now all start with 26203 (same with my sim card).\n\nWould it be possible to fix this?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-04-20T18:53:20.878197+00:00",
+    "reply": "7 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9043431/google-usb-c-type-adapter-not-working?hl=en",
+    "title": "GOOGLE USB C TYPE ADAPTER NOT WORKING",
+    "content": "I have been using my pixel 2 xl for almost 9 months. Today I tried to play music via usb c to audio jack dongle (which is original and supplied in the pixel 2 xl box) but music started playing from the speakers. Yesterday it was working just fine. My headphone is working on every other device I own. I thought that my usb c to audio jack dongle is broken but I tried it on the usb c port in the laptop and it is working just fine. When I connect the dongle to my phone, there is a notification of charging connected device via usb. On tapping for more options I tried to change the usb control to 'this device' but it says that it cannot switch. All options under 'use usb for' are grayed out. I tried to switch on usb debugging in developers option and turned off  tethering hardware acceleration option (these were some potential fixes I saw on the net) but nothing worked. I updated my phone to the latest version of android p (security patch level feb 5 2019) and have restarted my phone multiple times but nothing is working. I also tried to connect my phone to my laptop via usb c but my device is not being recognized by the laptop. My phone is charging just fine. I am sure this is some software issue and I am getting very irritated because nothing is working. Please help asap.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-07-01T10:26:22.393951+00:00",
+    "reply": "4 Replies"
+}

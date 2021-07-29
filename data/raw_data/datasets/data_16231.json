@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/71961382/android-11-on-pixel-4-has-a-bug-that-impairs-launch-of-assistant?hl=en",
+    "title": "Android 11 on Pixel 4 has a bug that impairs launch of Assistant",
+    "content": "I have a Pixel 4 and recently upgraded to Android 11. It turns out Android 11 has a bug on the Pixel 4 and once you upgrade the OS you can no longer launch the Assistant by voice. The Google Assistant will instead keep saying \"can't reach Google at the moment\". I have tried every normal fix and have tried a session with Google Help chat including a factory reset. The problem only occurs when starting the Assistant via voice. However, when I click in the search field in the Google app and then ask for a search via voice, it works fine. So the problem is in the handoff from saying OK Google to getting the Assistant to listen and respond. You might say this is Not OK Google! And it’s not the account, as the same account on my older Pixel with Android 10 is fine, so it’s only after upgrading to Android 11 on the Pixel 4 that I’ve had this issue. So I’m 99% sure there’s a bug that Google needs to patch here. This should be elevated to the respective device and product teams ASAP. I'm an executive in the wireless business, so I'm not an alarmist or confused consumer, I'm pretty sure of this information for the reasons stated.",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 4",
+    "post_time": "2020-09-19T01:05:07.888288+00:00",
+    "reply": "1 Recommended Answer"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/23535438/why-is-there-a-delay-in-being-able-to-select-an-app-when-returning-to-the-home-screen?hl=en",
+    "title": "Why is there a delay in being able to select an app when returning to the home screen?",
+    "content": "Running Nova launcher and gesture navigation after the Dec update.  If I'm in an app and swipe up to return to the home screen there's a delay in being able to run another app.  It's about a second delay before the white bars appear in the corners and that's when I can access other apps.  No idea what the white bars are for, or why there's this lag but both are annoying.  Also, I have all animations turned off but there's still the screen shrink one when swiping up for home. That doesn't happen when using two button navigation and pressing the home button.  Any fix for either of those issues?\n\nEdit:  Delay issue doesn't happen if back swipe is used to exit an app back to the home screen.  Also, no animation and no white corner bars.  Looks like waiting for those corner bars before taking input is the issue with swipe up.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2019-12-22T13:10:27.146972+00:00",
+    "reply": "5 Replies"
+}

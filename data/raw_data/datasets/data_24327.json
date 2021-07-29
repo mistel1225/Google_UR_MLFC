@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3184741/cant-connect-to-wifi?hl=en",
+    "title": "cant connect to wifi",
+    "content": "This is a only an issue with one particular WiFi network, at my work. I connect to a guest network at work, and it requires a login name and password. One day, on my Google Pixel, I allowed it to save the password for the WiFi network. This was a mistake, as now the network will not allow me to login anymore. When it asks me to `sign in to WiFi network', which is routine, it now brings me to a blank page 'connectivitycheck.gstatic.com'. Nothing happens at this blank page. I cannot sign in at all. I think it's because it is trying to use this saved password, which my WiFi network does not allow. I've already tried turning on and off phone, forgetting network, reseting all networks, updating software on phone, and no luck. I cannot reset router at my work as it's for the entire building of 100's of people. Any suggestions on how to get my Pixel to forget this saved password?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel",
+    "post_time": "2019-03-28T17:59:02.301279+00:00",
+    "reply": "1 Recommended Answer"
+}

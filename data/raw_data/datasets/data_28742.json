@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/12678932/unable-to-select-user-certificates-in-any-app?hl=en",
+    "title": "Unable to select User Certificates in any app",
+    "content": "In any app that creates an ipsec tunnel that is authenticated with a user certificate I am unable to select any installed user certificates. They always return with \"no certificates found\" . I am able to see the certificates in Settings -> Security & Location -> Encryption & credentials -> User Credentials .\n\nThis is happening across all apps that attempt to access those resources.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-08-23T21:11:04.396231+00:00",
+    "reply": "0 Replies"
+}

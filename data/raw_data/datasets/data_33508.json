@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2060468/pixel-3-camera-bug-when-using-nightmode-or-hdr-features?hl=en",
+    "title": "PIXEL 3 Camera bug when using Nightmode or HDR features",
+    "content": "My new Pixel 3 (not XL) produce major artifacts when using HDR or Nightmode.\n\nThese artifact appear immediately after the 'Processing...' finish (left image). \n\nWhen I turn off HDR or Nightmode, there is no 'Processing...' therefore the image doesn't get these artifact (right image).\n\nTried factory reset, camera app clear cache. Same result, the image is being shoot properly and after a second of 'processing' the image get these artifact.",
+    "is_img": 1,
+    "category": "Camera, Google Pixel 3",
+    "post_time": "2019-03-05T12:19:33.83113+00:00",
+    "reply": "1 Recommended Answer"
+}

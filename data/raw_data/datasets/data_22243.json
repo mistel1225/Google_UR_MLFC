@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/35137606/always-on-display-not-working?hl=en",
+    "title": "Always-On Display not working",
+    "content": "Everything was fine so far. But today I restarted my Pixel 3a XL and noticed that Always-On Display is not working. It looks like it is disabled, i. e. just black screen when locked. However 'Double Tap to Check' and 'Lift to Check' features are working.\n\nI tried to disable/enable Always-On Display (Settings - Display - Locked Display - Always-On) or to reboot the phone but it doesn't help.\n\nI tried to google this problem and found few similar issues caused by enabled battery saving mode (but mine is disabled) or by problems with proximity sensor (but mine works fine during calls and adaptive brightness works fine too).\n\nPixel 3a XL with Android 10 (QQ2A.200305.002)",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3a XL",
+    "post_time": "2020-03-23T15:05:06.638301+00:00",
+    "reply": "3 Replies"
+}

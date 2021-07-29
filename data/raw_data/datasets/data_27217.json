@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/6394225/pixel-2-xl-google-camera-fatal-error?hl=en",
+    "title": "Pixel 2 XL Google Camera fatal error",
+    "content": "Steps I tried to resolve:\n\n1.  I was receiving the fatal error when using the Google Camera app on Android Q Beta.\n\n2.  Cleared the storage (data and cache) and it did not help. \n\n3.  Uninstalled the app updates and re-updated and it didn't help. \n\n4.  Restarted into safe mode and it still persisted.\n\n5.  Downloaded another camera app to see if it was purely a software problem - had the same issue.\n\n6.  Factory reset the phone and it did not resolve it.\n\n7.  Opted out of the beta program thinking that may be the issue and factory reset as a result of the downgrade to Android P.  This also did not resolve my problem. \n\n8.  Repeated steps on Android Pie - no change\n\nNote:  Both cameras on my Pixel 2 XL do not function.\n\n\n\nPlease assist or point me in the right direction.\n\nThank you!",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 2",
+    "post_time": "2019-05-19T02:58:55.569632+00:00",
+    "reply": "1 Recommended Answer"
+}

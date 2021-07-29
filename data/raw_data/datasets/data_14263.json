@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/77178989/placing-a-phone-call-using-google-assistant-on-android-auto?hl=en",
+    "title": "Placing a phone call using Google assistant on android auto",
+    "content": "When attempting to make a call using Google assistant on android auto, I lose all Android auto audio. The call is placed, and the far end can hear me, but I can not hear the far end. If I hang up the call, the media audio does not return. The only remedy I've found to this so far is physically disconnecting my phone from the head unit and reconnecting. If I disconnect the phone from the head unit during a call, the audio will suddenly return (as calls are always made over bluetooth, while media audio uses the USB connection). If I place a call by manually pulling up my phone book on the android auto screen, it works without issue. Something about Google Assistant is messing up this audio routing handshake. This happened only intermittently months ago, but now occurs every time.\nI am using a Pixel 4 with a Pioneer AVH-4200NEX head unit. The head unit is running the latest firmware.",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 4",
+    "post_time": "2020-10-15T19:05:50.437376+00:00",
+    "reply": "0 Replies"
+}

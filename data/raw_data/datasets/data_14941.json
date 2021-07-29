@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/58410516/mobile-radio-power-off-won-t-turn-back-on?hl=en",
+    "title": "Mobile Radio Power off/won't turn back on",
+    "content": "This past week, whenever my phone has restarted, I would then have no wifi or network access at all. After looking around I managed to get into the phone info service using (*#*#4636#*#*) and I could see that the 'Mobile Radio Power' option was off, I turned it back on and nothing would happen, I then restarted my phone whilst it was on and then all was well. However, today when I try to turn on the mobile radio power, it toggles itself back off almost instantly or if there is a app switch/phone lock. I am now stuck with absolutely no connection to anything at all.\n\n I have also tried flashing the phone back to android 9 as I thought this could have fixed the issue however I get the same thing\n\nIf anyone could shed some light onto the problem i'd greatly appreciate it.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2020-07-11T21:06:00.190161+00:00",
+    "reply": "9 Replies"
+}

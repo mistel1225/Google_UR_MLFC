@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/13759146/pixel-android-9-phone-app-cannot-use-sip-only-when-there-is-no-sim-card-installed?hl=en",
+    "title": "Pixel Android 9 phone app cannot use SIP only when there is no SIM card installed.",
+    "content": "I have a SIP calling account setup so the Android phone app can use it to make a VoIP call over WiFi. That works perfectly to make and receive calls.\n\nWhen/if I remove my phone's SIM I am not able to use my SIP calling account. There is a pop up that says 'chose sim for this call' with 2 options 'Emergency calls' and then another entry with my SIP call account details. Both options are greyed out.\n\nI have a Samsung s5 with LineageOS 16 and SIP calling works regardless of whether I have a SIM card installed. If there is a SIM then the SIP call uses mobile data, no SIM the SIP call uses WiFi.\n\nI'm looking to use my SIP calling account when traveling to other countries when my SIM would not be active.\n\nThanks.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 3a XL",
+    "post_time": "2019-09-06T22:51:06.991375+00:00",
+    "reply": "3 Replies"
+}

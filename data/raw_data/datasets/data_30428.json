@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/7595809/earbuds-stopped-working-security-update-can-t-download-device-not-recognized-on-mac-for-sideloading?hl=en",
+    "title": "Earbuds stopped working, security update can't download/device not recognized on mac for sideloading",
+    "content": "For Google Pixel 2 XL\n\nLast month, i noticed that wired headphones using the google dongle stopped working, only playing sounds through the front speaker. I bought a new pair of headphones, directly USBC, and they do not work either. Both are being recognized by the phone as a device and pop up the message 'charging the connected device via USB' or something similar. \n\nI immediately looked online for help, and it suggested that there are frequent software issues with the usb port and suggested i keep up with security updates, so I tried to download that (always set to update automatically), but with no luck. It bounced the loading bar for an hour on otherwise stable home wifi just trying to download 167 mb.\n\nI also tried cleaning out the physical port itself, but I highly doubt it is that. \n\nPlan 3, i researched sideloading and wanted to update the device that way. but upon connecting to my Mac (with platform tools and android file transfer ready and updated) and the phone does not register as a device. It is actively charging the battery via the usbc to usba cord.\n\nI'm getting the error no devices/emulators found on terminal.\n\nSO plan 4, i called google support. They told me to do a factory reset. \n\nI am so, so desperate. Is there no way to fix this?",
+    "is_img": 0,
+    "category": "Device Performance",
+    "post_time": "2019-06-07T16:31:07.03824+00:00",
+    "reply": "1 Reply"
+}

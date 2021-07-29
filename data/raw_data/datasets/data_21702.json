@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/41487053/i-cannot-longer-take-slow-motion-videos-on-my-pixel-2-since-last-updates?hl=en",
+    "title": "I cannot longer take slow motion videos on my Pixel 2 since last updates",
+    "content": "I have a Pixel 2 with Android 10 (QP1A.191005.007.A1), Google Camera version (Mar 11, 2020 [ 7.3.021.300172532 ] ), but noticed the issue a couple of months ago.\n\nWhenever I try to take a slow motion video after 3 - 4 seconds a message shows up with the text \"Something went wrong. Part of this video may not be saved\". Then, if you try to open the video you can ear some audio but the video is freeze. Also, the total time of the video is insane (e.g. 52 hours 46 minutes)\nHere're a couple of screenshots https://imgur.com/a/c5yJfCd\n\nI followed all the troubleshooting steps to try to fix the problem (reboot phone, safe mode, delete cache and storage,..) and the only thing that worked was Uninstalling Updates. If I update the app again, the issue comes back.\n\nI don't know how to report the bug",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 2",
+    "post_time": "2020-04-21T12:57:45.26734+00:00",
+    "reply": "1 Reply"
+}

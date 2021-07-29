@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/113804002/google-pixel-4a-cannot-connect-to-network?hl=en",
+    "title": "Google Pixel 4a: Cannot Connect to Network",
+    "content": "Recently, my Google Pixel 4a's SIM card reader was damaged so I decided to try out an eSIM. I got the QR Code from my carrier (AT&T) and the device said the eSIM was active. However, the phone still says it has no service (emergency calls only).\n\nHere is what I have tried:\nI have made sure my APN settings are set. They weren't at first, but I set them up and still had no service.\nI have tried changing the preferred network type by dialing *#*#4636#*#* and setting it there, \nI have tried dialing *#*#72786#*#* to reset my network settings. Dialing 72786 did not pop any kind of menu for me, it just cleared out the dial (I am not sure if this is expected behavior or not).\nI also tried resetting my network connections by going to Settings > System > Advanced > Reset options > Reset WiFi, mobile & Bluetooth.\n\nIs there anything else I can try? I assumed an eSIM would work as I believe it was just the physical SIM card port that was damaged. Also, AT&T has said that everything is correct on their end so it is possible the phone is just permanently damaged.\n\nHere is an image of my Phone Information in case any of those settings are incorrect. Interestingly my Phone Number does not show up. Does this mean it isn't setup correctly?",
+    "is_img": 1,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
+    "post_time": "2021-06-16T18:35:38.837277+00:00",
+    "reply": "3 Replies"
+}

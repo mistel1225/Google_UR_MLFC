@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/58048537/how-can-i-get-the-phone-app-to-only-display-contacts-from-one-google-account?hl=en",
+    "title": "How can I get the phone app to only display contacts from one google account?",
+    "content": "I have two google accounts on my phone and as a result, I've ended up with duplicate and useless contacts on my phone list. (The contacts app works very well [as it allows viewing contacts from individual accounts];  but the phone app merges all the disparate account contacts into one giant mess.) This isn't ideal.\n\nI have tried removing one account, turning off sync, adding the account back, turning on airplane mode, turning sync back on and then turning off sync for contacts. But this does not work because the contacts are synced immediately when the account is added. Evidently there is no getting around this.\n\nI have also tried clearing the cache and data for both the phone and contacts list. But this does not remove the synced contact data either.\n\nThe only effective solutions I've found are either, removing one of the google accounts or deleting contacts from one or the other account. Neither of these are good solutions.\n\ntl;dr: How can I get the phone app to only display contacts from one google account (on a phone with two accounts signed in)?",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 3a XL",
+    "post_time": "2020-07-09T19:45:44.8428+00:00",
+    "reply": "2 Replies"
+}

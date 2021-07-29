@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3306020/esim-not-usable-after-update-android-9?hl=en",
+    "title": "eSIM not usable after update Android 9",
+    "content": "eSIM was usable (setting > mobile network > carrier > add carrier > add esim by QR) everything is working fine and very happy with the esim service.\n\nhowever, nightmare after update android 9\n1. esim became not usable\n2. factory reset (esim reset is checked)\n3. setup the phone and realized carrier setting is unavailable (setting > mobile network)\n4. hard reset\n5. still no carrier setting. so basically i cant add new carrier\n\nit seem android 9 locked/removed esim feature from this device.\n\nhow can i turn back on \"carrier setting\" on this phone to do QR scan ?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2019-03-31T01:49:55.670119+00:00",
+    "reply": "1 Recommended Answer"
+}

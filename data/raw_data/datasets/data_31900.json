@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/4522230/backed-up-app-data-list-empty-is-my-app-data-lost?hl=en",
+    "title": "Backed-up app data list empty. Is my app data lost?",
+    "content": "I did a factory reset of my Google Pixel 2 phone and later realised I didn't find my restore code for my Google Authenticator app. So I did a new reset and chose to backup from my Google Drive backup that was only 1 day old to save my mistake.\nMy background picture was back, as phone numbers, sms and soon all my apps were back. But no apps had their data left. \n\nSo I went to Settings > Google > Backup > App Data and saw that the Backed-up app data list is empty. Automatic Restore is on and in the backup menu it says \"Waiting to Back Up\"\n\nBy this list being empty: does this mean I lost all my data? There is a possibility it have never saved any data at all, or did it get cleared when I did my factory reset?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2019-04-19T21:30:24.216768+00:00",
+    "reply": "1 Recommended Answer"
+}

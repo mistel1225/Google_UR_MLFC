@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/101723199/holding-volume-up-to-hear-notifications-with-usb-c-buds-not-working-while-in-the-pocket?hl=en",
+    "title": "Holding Volume up to hear notifications with usb-c buds not working while in the pocket",
+    "content": "Since one update from the end of the last year, the function to get Google Assistant read the time and notifications by holding volume up button with usb-c pixel buds no longer works while the phone is in the pocket.\n\nI originally hoped that it'd be fixed in later monthly patches, but it's not. My guess is that the function is disabled after the proximity sensor is activated (which also disabled ambient display as expected). \n\nI hope that this would be fixed soon after I post the issue here due to the fact I had submitted several feedbacks using pixel support with no response.",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 3a",
+    "post_time": "2021-03-11T09:34:12.508533+00:00",
+    "reply": "0 Replies"
+}

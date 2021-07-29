@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/102988063/pixel-stand-not-charging-pixel-3?hl=en",
+    "title": "Pixel Stand not charging Pixel 3",
+    "content": "For a couple of years, my Pixel Stand worked perfectly with my Pixel 3. I place it in the stand, the little stand light comes on and my phone charges.\n\nHowever, a while ago now (maybe around the time I updates to Android 11, maybe earlier) it does nothing. I place the phone on the stand (vertical or horizontal) and it doesn't register - no light, no charging.\n\nIf I place my wife's iPhone on the stand it starts charging immediately, so it just seems to be my phone. Unfortunately I haven't had the opportunity to try my phone on another wireless charger to rule out hardware issues.\n\nHowever, a month ago I did a bunch of things and managed to get the Pixel Stand working, but now it's stopped again. I tried to repeat what I did last time but have had no luck.\n\nPreviously, I cleared the data (storage and cache) for the Pixel Stand app, and also uninstalled all its updates, and \"forgot\" the stand from my Bluetooth connected devices list. I also tried safe mode. After a restart or two I found that putting my phone on the stand prompted the Pixel Stand to start charging and it opened the Pixel Stand assistant setup.\n\nI then updated the Pixel Stand app again and it still worked for a while but maybe a week later it stopped. Now I've repeated all the same steps and still nothing.\n\nHas anyone managed to figure this out?",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 3",
+    "post_time": "2021-03-19T19:07:51.403491+00:00",
+    "reply": "0 Replies"
+}

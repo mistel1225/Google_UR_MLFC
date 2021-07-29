@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/7004333/how-the-priv-apps-llkagent-connmo-diagmon-and-os-on-are-build-to-the-product-partition?hl=en",
+    "title": "How the priv-apps (LLKAgent, ConnMO, DiagMon, and os on) are build to the product partition?",
+    "content": "I have got to know how to build the android-img from AOSP, but I need to add my app to the product-partition together with priv-apps that are already there: (AppDirectedSMSService, DiagMon, ConnMO, etc.). I cannot find how this apps are build into the product partition.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2019-05-29T11:20:08.682106+00:00",
+    "reply": "0 Replies"
+}

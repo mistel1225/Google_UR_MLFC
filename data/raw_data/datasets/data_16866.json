@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/69979448/picture-texts-over-wifi-failing?hl=en",
+    "title": "picture texts over wifi failing",
+    "content": "I've been seeing issues sending pictures via text messages when connected to my wifi. When sending, it will stall for awhile and then fail. Sometimes it goes through after multiple reattempts, other times will be received even though it shows failed on my end, and sometimes I have to disconnect from the router entirely. Someone sent me a group of pics the other day and it sent me 7 copies over the course of 6 hours. I have tested my internet speed and I'm getting the expected numbers, and everything else seems to be working fine. \n\nI've originally gone to the vendor of the router and have been going back and forth for weeks with no resolution. During the testing, however, I found that using a different sms app other than messages has resulted in better functionality. I prefer messages and it's hard for me to believe it's the app when I can send pictures just fine from other locations but I thought I'd check here.\n\nHas anyone experienced this issue or have any thoughts on how/why it's happening? \n\nphone: pixel 3\nrouter: xr500\nalt app that i tried: chomp",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2020-09-09T06:04:37.780747+00:00",
+    "reply": "0 Replies"
+}

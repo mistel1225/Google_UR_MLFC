@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/40733351/face-unlock-inconsistent-when-used-with-skip-lock-screen-disabled-and-reach-to-unlock-enabled?hl=en",
+    "title": "Face unlock inconsistent when used with \"skip lock screen\" disabled and \"reach to unlock\" enabled",
+    "content": "I have \"reach to check phone\" enabled, \"lift to check phone\" disabled, and \"skip lock screen\" disabled, since the latter is the only way to be able to read my notifications without unlocking, and I don't want my screen always lighting up when I pick up my phone.\n\nReach to check seems to be only a partial unlock. Tapping on the screen or hitting the power button will cause it come up to normal brightness and expand my notifications, but reaching over will only display the wallpaper and lock icon at low brightness and without expanding the notification icons.\n\nWith this setup, I'm often picking up my phone (triggering reach to unlock as it sees my hand) and swiping up to unlock from the partial unlock state. If I time it just right (just wrong?), I run into a race condition of sorts, where the lock icon becomes unlocked but it pops up the pattern unlock a moment later, like in the attached image below. If I then hit the back button and swipe up again, it unlocks my phone as expected, but about 80% of the time my first swipe fails to unlock.\n\nI don't know if it's something unique to my device, or if this particular setup and use case is just exceedingly rare. But I run into this issue several times a day and it's starting to get on my nerves. Can anybody else confirm that this is a reproducible problem?",
+    "is_img": 1,
+    "category": "Device Performance, Google Pixel 4",
+    "post_time": "2020-04-17T22:17:09.846718+00:00",
+    "reply": "6 Replies"
+}

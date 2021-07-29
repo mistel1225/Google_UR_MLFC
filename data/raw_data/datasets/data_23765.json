@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/4827185/where-can-i-find-the-serial-number-of-the-pixel-3-devices?hl=en",
+    "title": "Where can I find the serial number of the Pixel 3 devices?",
+    "content": "For our Google's MDM solution I need to add the company owned devices in advance with serial number. I thought it was the IMEI number and it was confirmed on several places. After enrolling the device it has been recognised as a user owned device as the MDM didn't connect the phone to the inventory based on the IMEI number. After checking the device's info page in the G Suite admin it turned out that it actually has a serial number different from the IMEI. Google Cloud support couldn't assist as they have considered the issue as a topic for Pixel support. As their line is closed at the moment I thought I will drop a question here maybe someone has a solution.\n\nI would need to figure out the serial number of Pixel 3 phones without actually activating them one by one on our MDM system. Any idea how to solve it?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-04-24T20:25:47.731583+00:00",
+    "reply": "2 Recommended Answers"
+}

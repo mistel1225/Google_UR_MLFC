@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/94077934/wifi-wont-connect-to-no-internet-wifi-connection?hl=en",
+    "title": "Wifi wont connect to no Internet wifi connection",
+    "content": "I have a number of devices that to set up provide a wifi hotspot which you then connect to in order to configure,  eg to set up amazon alexa. \nI'm unable to setup these devices with my pixel because each time I try the pixel connects to the devices wifi, then checks for an Internet connection and because it can not find one it disconnects and reconnects back to the home wifi. \nAt the moment this means I'm unable to setup such devices, I don't recall this problem on previous versions of android and I'm getting no luck from Google searching!\n\nHow do I disable this override of the wifi connection whenno Internetis detected?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
+    "post_time": "2021-01-18T23:05:24.270912+00:00",
+    "reply": "1 Reply"
+}

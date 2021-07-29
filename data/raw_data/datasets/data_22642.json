@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/32205221/pixel-4-xl-keeps-crashing-when-getting-calls-in-android-auto?hl=en",
+    "title": "Pixel 4 xl keeps crashing when getting calls in Android auto",
+    "content": "I have found that my Pixel 4 xl is crashing everytime I use Android Auto and anyone calls,or even when after using Android Auto and I get a call from someone or I need to call someone the screen freezes and then crashes. Throws a ANR on system UI and/or ANR on dialer app. The phone becomes too slow have to force restart the phone. \n\nThis was happening with my new Pixel 4xl which I reported and they under warranty sent me a refurbished phone back.(what a shame on Google for this bad service). Apparently it turns out the refurbished phone also have same issue. It seems to be software bug but Google never responded even after sending system generated logs and bug reports. \nAlso I tried reading the logs seems to be there is a binder lock on the telephony manager service that is blocked forever which crashed.\nAnother one was that ANR was waiting for ANR to release lock to report an ANR.\n\nCan there be any way to fix this ? \nI tried installing other dialers supported by Google they don't work.\n\nMeanwhile,will again try to send feedback or logs to Google for fixing.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 4 XL",
+    "post_time": "2020-03-03T19:35:02.02191+00:00",
+    "reply": "5 Replies"
+}

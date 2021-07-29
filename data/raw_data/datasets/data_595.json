@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/21094119/persistent-notification-charging-connected-device-via-usb?hl=en",
+    "title": "Persistent notification 'Charging connected device via USB'",
+    "content": "I am seeing a persistent Android System notification: \n\n\"Charging connected device via USB\" when it is not plugged into anything. \n\n\"USB controlled by\" is set to 'connected device' even when the phone is not plugged into anything, and I cannot change this. \n\nThe notification disappears as I charge the phone (which is also intermittent), but then reappears as soon as it's unplugged. \n\nI have tried charging the device from a different cable and my computer, but the problem continues.",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 3",
+    "post_time": "2019-11-25T09:27:02.52808+00:00",
+    "reply": "167 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/42200605/airplane-mode-not-working-in-android-10?hl=en",
+    "title": "Airplane Mode not working in Android 10",
+    "content": "Hello,\n\nSince Android 10, Airplane mode simply isn't working. When I click the quick toggle or the toggle in Settings, the icon in the status bar replaces the network icon. But if I pull down the notif/QS tray the network icon is back there. \n\nThe 4G QS toggle is greyed out, but my 4G connexion is still active and I can place calls and send SMS. After a long time (don't know how long, >20 minutes) or an unknown event, airplane works finally works and shuts down connexions.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2020-04-24T15:43:27.998907+00:00",
+    "reply": "15 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1502193/assistant-is-not-giving-confirmation-sound?hl=en",
+    "title": "Assistant is not giving confirmation sound",
+    "content": "EDIT: Got it. Settings > Accessibility > Switch Access. Flip to on. Exit when it asks you to choose a device.\n\nWhen I activate assistant in any way, I do not receive the confirmation sound that my phone is listening. I've found other threads about this, and from them tried disabling Bluetooth and clearing my cache and data from the Google app, but they did not work. I've looked at every setting and at accessibility and nothing has fixed the problem.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-02-07T04:30:24.557733+00:00",
+    "reply": "3 Replies"
+}

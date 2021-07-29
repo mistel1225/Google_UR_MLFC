@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/40040181/pixel-3-adb-screen-recorder-video-cropping?hl=en",
+    "title": "Pixel 3 ADB Screen Recorder Video Cropping",
+    "content": "I have authorized developer options on my Pixel 3 XL and have enabled screen recording using the ADB command. The issue arises when screen recording that the final video only captures the top half of the screen when in portrait mode. Landscape views when recording only capture the left half of the screen. Has anybody experienced this? As it is a developer option I'm sure there is no clear answer.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2020-04-14T16:56:32.619726+00:00",
+    "reply": "1 Recommended Answer"
+}

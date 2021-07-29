@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/7959543/force-gateway-address-possible-on-pixel-3xl?hl=en",
+    "title": "Force gateway address possible on pixel 3xl?",
+    "content": "Need to force gateway address on pixel 3 XL. Pixel persists with 192.168.1.1 but 3rd octet should be \"2\". Will connect eventually with numerous forced \"forget\" connections then routes internet perfectly. \n\nPerversely, when 3rd octet was \"1\", pixel connected to tp-link extender (2.4 and 5 GHz) but no internet at all. Nexus 'phones in same room connect fine to Internet using \"1\" but also have trouble using \"2\". \n\nBtw, all the wifi details were transferred to pixel from 6p during setup. Reluctant to go nuclear and reset all network connections due to lots of 3rd party wifi setups.\n\nSo, either need to force gateway address or work out why nexus 5 and 6p connect and route to internet via extender but pixel connects to extender with no internet access via 192.168.1.1 yet connects and routes internet fine via 192.168.2.1.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2019-06-13T15:39:00.176076+00:00",
+    "reply": "2 Recommended Answers"
+}

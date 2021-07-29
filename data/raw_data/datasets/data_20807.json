@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/50456806/can-t-enable-volte-on-pixel-3a-carrier-supports-it-on-my-device?hl=en",
+    "title": "Can't enable VoLTE on Pixel 3a, carrier supports it on my device",
+    "content": "After doing a bit of googling I still can't figure out how to enable VoLTE or WiFi calling on my Pixel 3a (G020G, unlocked). Both are supported by my carrier (Freedom Mobile) for my device. When I type *#*#4636#*#* and select \"Phone Information,\" the VoLTE provisioned and WiFi Calling provisioned flags are greyed out and I can't select them. VoLTE and WiFi calling don't show up in network settings. \n\nI noticed a few people have asked this question before, but it still has not been answered and the threads are locked. Has anyone found a fix for this issue yet?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2020-06-01T06:01:17.338241+00:00",
+    "reply": "8 Replies"
+}

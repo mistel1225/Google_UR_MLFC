@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2154542/my-battery-drain-a-lot-when-idle-what-to-do-i-think-wifi-is-not-disconnected-when-it-should?hl=en",
+    "title": "My battery drain a lot when idle, what to do ? I think WiFi is not disconnected when it should",
+    "content": "Yesterday I run battery historian , took a bugreport and saw that WiFi was in state completed instead of disconnected. Is that normal ? \nObviously I wasn't connected to WiFi nor did I have anything related to WiFi running. \n\nAnyway I can fix by my self, already tried factory reset.\n\nThanks",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 3",
+    "post_time": "2019-03-08T14:34:53.420872+00:00",
+    "reply": "0 Replies"
+}

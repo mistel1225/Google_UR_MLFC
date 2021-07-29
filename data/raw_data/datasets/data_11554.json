@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/80089960/pixel-5-display-constantly-flickers-between-90hz-and-60hz?hl=en",
+    "title": "Pixel 5 display constantly flickers between 90Hz and 60Hz",
+    "content": "I got my Pixel 5 couple of days back and I have noticed an issue that I would like to bring up. The brightness seems to flicker whenever I tap on the screen. On further troubleshooting I found out that it only happens when the phone is using smooth display (90Hz). For some reason the screen constantly flickers between 90 Hz and 60 Hz. The issue disappears as soon as the Force 90Hz refresh rate is enabled (from developer options) or not using smooth display option at all (using 60Hz by default).\nI was able to reproduce this and verify the issue by having the option enabled for displaying refresh rate on the screen (from developer option) and it kept on flickering between 90 and 60 Hz constantly when using smooth display.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 5",
+    "post_time": "2020-10-30T22:51:56.880292+00:00",
+    "reply": "7 Replies"
+}

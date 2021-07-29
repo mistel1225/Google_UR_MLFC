@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/77548689/cannot-sideload-adb-sideload-onto-pixel?hl=en",
+    "title": "Cannot sideload ADB Sideload onto Pixel",
+    "content": "Does anyone know what it means when I do a adb sideload and it gives the message \"adb.exe: sideload requires an argument\"?  My phone bricked on me when I tried to do an OTA Update and I followed all teh directions from Techno Bill from this thread:\nhttps://support.google.com/pixelphone/thread/29037052?hl=en\nEverything checks out until I go to load the OS and I get this message:\nadb.exe: sideload requires an argument\nHelp!  I'm stuck and can't find any info online regarding this error.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4",
+    "post_time": "2020-10-17T17:07:26.31065+00:00",
+    "reply": "1 Reply"
+}

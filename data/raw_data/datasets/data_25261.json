@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/23060486/my-pixel-doesn%E2%80%99t-boot?hl=en",
+    "title": "My Pixel doesn’t boot",
+    "content": "Hi there:\nI’ve got a second-hand Pixel 1 last week, I unlocked, installed TWRP and rooted yesterday, but I unrooted today because some reasons.\n\nThen I did a wrong decision, I erased the phone by System Settings, and locked it.\n\nAfter I locked it, when I boot it, it only have Google logo flash for about 0.1second then gone.  I tried to flash the factory images from Google, but it requires unlock to flash it.\n\nIt’s available to boot to bootloader/fastboot, but unavailable to boot to recovery or the system now\n\n\n\n\nI even can’t unlock it now because I can’t get into the System to turn on “Allow unlock OEM loader”, so it got failed.  I used fastboot OEM unlock and fast flashing unlock, they both doesn’t work.\n\nI don’t really want to send the phone back to Google US because I doesn’t live in America, so it’s not really easy and really expensive to send it, and I also really need this phone because the battery of my old phone is almost dead. And the Google Support Team in my country/region says that I can’t send to the repair center locally because they only accept Pixel 3/3XL/3a/3aXL/4/4XL\n\nThanks the suggestions from you guys!",
+    "is_img": 1,
+    "category": "Other, Google Pixel",
+    "post_time": "2019-12-17T06:28:43.846786+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/111531579/pixel-2-xl-stuck-in-bootloader-and-bootloader-is-locked?hl=en",
+    "title": "pixel 2 xl stuck in bootloader and bootloader is locked",
+    "content": "fastboot don't work i can get in recovery but can't get anything to connect to it in recovery, it will recieve fastboot commands in bootloader but flashing is locked. can't factory reset there is no option for it. i have tried every guide i could find and nothing works. google told me that it was there fault but they will not help me. i know they could unlock the bootloader but they will not. im beginning to think this phone is a permanent brick.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2021-05-28T15:43:29.814444+00:00",
+    "reply": "1 Reply"
+}

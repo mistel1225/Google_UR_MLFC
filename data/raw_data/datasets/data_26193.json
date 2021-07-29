@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/20493407/a-mistake-in-the-greek-translation-in-the-webpage-reverse-image-search?hl=en",
+    "title": "A mistake in the Greek translation In the webpage \"Reverse Image Search\"",
+    "content": "Hello,\n\nA mistake in the Greek translation\nIn the webpage \"Reverse Image Search\",\n\n\"Visually Similar images\" at the bottom of the page\nIs translated in Greek as\n\"Οπτικά πανομοιότυπες εικόνες\"\n\nWhich literally means\n\"Visually Identical images\"\nand is obviously wrong.\n\nThe correct translation is\n\"Οπτικά παρόμοιες εικόνες\" or just plain\n\"Παρόμοιες εικόνες\"\n\"Similar images\"\n\nI have reported this from the Chrome app,\nas well as two other bugs, long ago.\n\n\nPinch to zoom doesn't respond immediately, or at all, on some sites like\nCrowdin (a translation site), and others\n\nAnd also\nChrome settings > Accessibility > Text size 160%\n\nThe letters in Crowdin are not all the same.\nhttps://crowdin.com/translate/foldersync/10726/en-el#5467726\n\nSome are too small and others are the right size\n\nThese things worked perfectly before.\nThe problems begun only with the new Chrome updates.\n\nNot only they never fixed this,\nbut they never bothered to reply.\n\nI post it here, because I don't know what else to do.\n\nThere are also some mistakes in the Greek translation in the YouTube app,\nbut I don't think that they really care.\n\n\nThanks",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2019-11-19T17:36:53.440254+00:00",
+    "reply": "0 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2007532/no-sounds-headphone-jack-speaker-call-video-or-sound-slider?hl=en",
+    "title": "No sounds, Headphone jack, speaker, call, video or sound slider",
+    "content": "Hi,\n\nJust as some other people I have problems with the sound of my original pixel (android 9, security patch of 05 feb 2019)\n\nit started a couple of weeks ago where the sound sometime stopped working, or when i've tried to make a phone call. The call connects, but the screen freezes and no sounds works.\n\nat the moment there is no sound trough the headphones, only sometimes trough the speakers but no clear indication why it works or not. There is no call sounds, picking up calls or calling.\nno sound slider that you can activate trough the volume buttons. and trough the settings menu the phone freezes, resulting in a restart required.\nI have noticed that a restart sometimes temporarily solves the issues but they all seem to come back within 5 to 60 minutes. Because if this, i doubt that it is a hardware failure, and since it started after the latest security patch, maybe something changed.\n\nSo far i've tried:\n- using different headphones and Bluetooth devices\n- removing unnecessary apps\n- removing apps since the problem started\n- clearing all cache data on the phone\n- soft reset\n- factory reset and re-update the entire phone to the latest android version and security settings.\n\nSo far non of this seems to help.\nI have generated some bug reports at different intervals but was not able to find anything with my limited knowledge.\n\nCan somebody help me fix this issue?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2019-03-03T12:43:38.294925+00:00",
+    "reply": "3 Replies"
+}

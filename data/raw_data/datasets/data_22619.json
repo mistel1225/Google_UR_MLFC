@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2109434/can-t-set-up-call-forwarding-on-consumer-cellular-at-t-network-with-pixel-3?hl=en",
+    "title": "Can't set up call forwarding on Consumer Cellular/AT&T network with Pixel 3",
+    "content": "Call forwarding query/set-up fails with new pixel 3 phones on Consumer Cellular/AT&T network.\n\nA recent upgrade to pixel 3 phones encountered errors when trying to set up call forwarding to our Google Voice numbers.  When trying to enter in the MMI code, we would receive the error \"Call forwarding Connection problem or invalid MMI code\".  Trying to check the call forwarding setttings via the phone dialer setup menus failed with \"Call settings error.  Network or SIM card error\".  Several calls to CC support failed to resolve this issue, and I ended up needing to move the SIM to a Motorola Moto G2 phone in order to be able to update my call forwarding settings.  This lack of basic call forwarding support is unacceptable for a flagship android device.  Is this problem in the works to be resolved?  I would hate to need to keep my Motorola phones around to perform this basic configuration setting.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-03-07T02:58:33.087284+00:00",
+    "reply": "14 Replies"
+}

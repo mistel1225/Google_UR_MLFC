@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/23354945/pixel-2-stuck-in-boot-up-page-and-i-can-t-even-start-safe-mode?hl=en",
+    "title": "Pixel 2 stuck in boot-up page, and I can't even start safe mode",
+    "content": "My Pixel 2 is stuck in the boot up page (G logo with the progress bar below it).\n\nIt just stays on this page until the battery is drained. It does not continuously restart.\n\nI managed to access the fastboot and recovery modes, and did a restart from there, but the problem still persists.\n\nI also tried to start the phone in safe mode by holding the volume down button during boot up, but nothing happened.\n\nIs a factory reset my only option at this point?\n\nCan I copy my files using recovery mode?\n\nIt's a shame that Nexus and Pixel phones have had these issues...\n\nPlease help.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2019-12-20T08:59:45.244027+00:00",
+    "reply": "3 Replies"
+}

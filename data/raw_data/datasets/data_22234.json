@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/35226734/failed-to-load-verify-boot-images-after-windows-10-update?hl=en",
+    "title": "\"failed to load/verify boot images\" after Windows 10 update",
+    "content": "Got my Pixel 3a today, set it up with a PIN and fingerprint recognition. Saw there was an update to Android 10 (it was on 9), so I allowed that to download and install. After a reboot, it wanted my PIN, but wouldn't accept it. I powered it down and rebooted. It booted into Fastboot Mode, which fails with the message \"failed to load/verify boot images\". It's using Boot-slot a. I use the volume keys to select \"Rescue mode\" and press power, but it repeats the Fastboot failure. I haven't yet put a sim card into this phone, but can't see why that would make a difference.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3a",
+    "post_time": "2020-03-24T00:49:01.07068+00:00",
+    "reply": "1 Recommended Answer"
+}

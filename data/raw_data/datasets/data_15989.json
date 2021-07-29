@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/64503373/face-unlock-for-pixel-4xl-hasn-t-worked-since-launch?hl=en",
+    "title": "Face Unlock for Pixel 4XL hasn't worked since launch.",
+    "content": "Trying to use face unlock results in the error message, \"Can't verify face. Try again.\"\n\nDeleting face data and adding it again gives the error message, \"Enrollment was not completed. Face enrollment didn't work.\"\n\nTurning off all unlock options (PIN, etc.) and then power cycling the phone allows me to re-add the face data, but it only works for a few minutes, before resulting in both errors again.\n\nThis issue has existed for me for at least 9 months. I assumed updates would fix it, but I can't wait any longer.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4 XL",
+    "post_time": "2020-08-13T04:24:11.250535+00:00",
+    "reply": "4 Replies"
+}

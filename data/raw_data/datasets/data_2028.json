@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/107703381/phone-insists-on-going-to-slow-sa-5g-rather-than-faster-nsa?hl=en",
+    "title": "Phone Insists on Going to Slow SA 5G Rather than Faster NSA",
+    "content": "I am on T-mobile.  It seems that 95% of the time when there is an NSA and SA signal available, the phone will choose the SA signal.  By way of contrast, I have a Samsung S21, and using at the same location it always goes to the faster NSA signal.\n\nThis makes for a very significant speed degradation.  Doing a side by side test, with the Samsung and Pixel both using T-mobile postpaid SIMs, the Samsung speed was 154 mbps, and the Pixel was 12.3 mbps.  The Samsung used an NSA signal, and the Pixel used SA.\n\nI'm about to put the Pixel on Swappa due its slow speed.  Is this a known problem?  Is there any way to have the phone go for the faster NSA signal rather than the slower SA one?  Samsung can do it, why can't Google?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a (5G)",
+    "post_time": "2021-04-27T03:01:15.966265+00:00",
+    "reply": "9 Replies"
+}

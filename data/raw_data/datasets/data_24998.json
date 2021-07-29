@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/23918857/mms-sent-to-sim-i-use-for-data-and-calling-also-send-to-other-number-on-my-dual-sim-pixel-3a-xl?hl=en",
+    "title": "MMS sent to SIM I use for data and calling also send to other number on my dual SIM Pixel 3a XL",
+    "content": "MMS (such as photos) sent to the number that's set up as my default for data and phone calls get sent as a group message with the person sending the MMS/photo, my default number, and my *other* SIM number.\n\nFor example, if I'm texting with someone on my default number and they send a photo, the photo appears in a different group thread between the three numbers mentioned above. SMS continue to go to the original thread.\n\nMy setup: Optus on my virtual SIM as default data and voice; Google Fi on my physical SIM as my secondary number. I regularly use both to text. MMS sent to my Fi number don't seem to have this issue.\n\n(One thing I mean to try (but haven't yet) is whether turning off the \"receive MMS\" advanced option for my secondary Fi number will solve the issue on the main Optus line. With that off, I won't be able to send or receive MMS on my secondary line at all, but at least it will narrow down the problem if correct. I will update this thread as relevant -- would appreciate any advice on the meantime.)",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a XL",
+    "post_time": "2019-12-27T04:14:17.426131+00:00",
+    "reply": "0 Replies"
+}

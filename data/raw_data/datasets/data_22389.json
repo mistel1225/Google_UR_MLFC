@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/33537807/used-pixel-3-native-sip-client-can-t-establish-voice-bearer-over-mobile-data?hl=en",
+    "title": "Used Pixel 3 native SIP client can't establish voice bearer over Mobile Data",
+    "content": "Just got my first Pixel, a used Pixel 3 from the US that I'm using in Canada.\n\nI long ago moved to a full SIP solution for my voice calls, and like to use the native Android SIP client, which was previously working in my Essential PH-1.\n\nPixel SIP calls work fine over Wifi, and the signalling works fine over Mobile Data (i.e. incoming/outgoing calls will ring), but the moment that someone picks up the phone and the call attempts to establish a bearer (i.e. voice connection), the call immediately drops.\n\nI've done pretty much everything I can think of... wiped the phone and installed a new image, reset network settings, but the problem remains.\n\nThe one thing I think might be happening is that the phone might be somehow locked to not allow VoIP traffic over mobile data, which I know is a thing. Is there anyway to check that setting from the phone?  It wasn't a problem with the PH-1, so I don't think it's a network setting, unless it's a restriction that the PH-1 somehow avoided. It could also be something specific to the Pixel's APN handling, in case that's generally a problem?\n\nAny suggestions appreciated!",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2020-03-14T14:23:10.330722+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/21841166/pixel-launcher-constantly-crashes-after-installing-december-2019-patch-on-pixel-2?hl=en",
+    "title": "Pixel launcher constantly crashes after installing December 2019 patch on pixel 2",
+    "content": "Pixel launcher constantly crashes after installing December 2019 patch on pixel 2, even after multiple reboots. \nI am unable to use my phone for at least 30 minutes.\nAlso, after 5 minutes of constant struggle I have managed to access phone storage on PC.\nI even tried to kill pixel launcher using adb but getting error -\nerror: device '(null)' not found\nI was then able to upload Screenshots using google assistant to open google photos, as I have set auto-backup on. Here is the link - https://photos.app.goo.gl/jm5ABtW92Y9xkfTL8\nKindly contact me ASAP. \nAs I am locked out all my accounts due to two-factor authentications (except Google, thank god I had already login on my PC.)\n\nUpdate 1 - Just now I have changed my default browser to Nigrara from Pixel Launcher, yet it's still crashing. I am not able to force stop as I can use any conformation window as new pop-up saying `Pixel Launcher keeps stopping` keeps on re-appearing on my phone as can be seen on screenshots.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-12-03T17:07:36.053691+00:00",
+    "reply": "2 Replies"
+}

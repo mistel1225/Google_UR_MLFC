@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1636358/mobile-data-leak?hl=en",
+    "title": "Mobile Data Leak",
+    "content": "Mobile data being used despite mobile data being turned off.\n\nFor example:\n13 Feb 07:59      Using the internet  8KB          £2.00\n12 Feb 23:12      Using the internet  1KB          £2.00\n\nAt this time the phone was sitting unused on a shelf with mobile data off. It's a pay as you go contract and the result is EXCESSIVE data charges are incurred for simple using minuscule amounts of data.\n\nI think I have solved this as today the pattern of usage I saw previously was not repeated but I'd like to hear from anyone else who has had a similar experience and whether they solved it the same way.\n\nI searched for 'data saver' settings, turned it on, pressed unrestricted data and found two apps (Carrier Services and Google Play) that were enabled for unrestricted data. I turned these off.\n\nThanks.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel",
+    "post_time": "2019-02-14T09:07:15.539696+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/98749260/volume-deceasing-increasing-all-the-way-after-a-single-button-press?hl=en",
+    "title": "Volume deceasing/increasing all the way after a single button press",
+    "content": "There has been a small problem with my Pixel Phone that I thought was perhaps a hardware failure due to a drop or mishandling. However recently I discovered a pattern and figured out how to replicate the problem, leading me to believe it is a software issue.\n\nWhenever I go to take a screenshot, there is the chance that I hit the volume down button before the power button. It will still take the screenshot, but if the volume is pressed directly before the power button, the slider will go all the way down and remain on screen until the volume key is pressed again, even if the slider is pulled back up.\nI also used the ringer off command, and that one has an even easier timing to replicate, but I still wasn't sure it was a software issue.\n\nThen I accidentally used the fingerprint sensor and pulled down the notifications bar immediately after I pressed the volume down/up key. The same thing happened where it acted like I was holding it down. I tried to replicate it with the touchscreen pull down to avail.\n\nJust to note, this only occurs under those circumstances as far as I am aware and hope to see a fix so that I do not accidentally lower me volume while taking a screenshot or accidentally raise my volume to max when trying to silence my phone.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3a",
+    "post_time": "2021-02-18T23:43:53.280552+00:00",
+    "reply": "1 Reply"
+}

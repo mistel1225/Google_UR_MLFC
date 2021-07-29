@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/14981665/does-pixel-original-refuse-to-connect-to-2-4ghz-when-5ghz-is-present?hl=en",
+    "title": "Does Pixel (original) refuse to connect to 2.4Ghz when 5Ghz is present?",
+    "content": "I bought a used Pixel. It would not connect to the 2.4Ghz wifi in my home. I assumed wifi was totally broken.\n\nI enter wifi password, it says \"connecting\" briefly, then reverts to \"Saved\".\n\nNothing worked. I tried:\nRebooted phone\nRebooted routers (I have two routers with different SSIDs)\nFactory reset phone\nInstalled Android 10 via USB and ADB\nCreated open wifi network on router\nRebooted phone, router, factory reset again\nBooted phone into safe mode\n\nBut then I took it to the library and it connected just fine to the open 2.4Ghz network.\n\nThen I took it to a friend's and it connected to the 5Ghz, but refused to connect to her 2.4Ghz, just like mine. I don't want to use 5Ghz. The range is terrible and it drains  the battery.\n\nReading many forums, I am starting to think the phone refuses to connect to 2.4Ghz if 5Ghz is present.  Can this be a deliberate feature?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel",
+    "post_time": "2019-09-22T01:04:36.383598+00:00",
+    "reply": "1 Recommended Answer"
+}

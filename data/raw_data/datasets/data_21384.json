@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/44777743/pixel-3-radios-keep-disconnecting-when-phone-heats-up?hl=en",
+    "title": "Pixel 3 radios keep disconnecting when phone heats up",
+    "content": "When the pixel 3 heats up from things such as wireless charging or high cpu usage, the radios (wifi, voice, mobile data, Bluetooth) are constantly disconnecting and reconnecting.\nThe worst case is international travel. The \"hard work\" of switching networks (Google Fi) makes the phone heat up, then the radio disconnection problem starts to interfere with provisioning to the point where the phone needs to be powered off for 15 minutes to cool down before I can stay connected to anything (even wifi) long enough to get online.\nMy other pixel 3 doesn't do this, so I am going to assume I have bad hardware. Has anyone else experienced this?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2020-05-06T08:59:26.351294+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1713871/portrait-mode-background-blurring-how-it-works?hl=en",
+    "title": "Portrait mode background blurring: how it works?",
+    "content": "Hello, I'm trying to understand how portrait mode works. I've a specific question: when I shoot a portrait picture, Pixel creates a directory containing two files: a regular picture (with background), and a background blurred picture. Maybe it's useful for adjust the blurring level after shooting. The strange thing is when I remove all pictures except the blurred one. Then, I'm still able to adjust the blurring level, and also remove blurring and restore the backgroup. Where are the background information, if I've removed the picture with clear background? Many thanks",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 3 XL",
+    "post_time": "2019-02-18T11:05:40.021519+00:00",
+    "reply": "0 Replies"
+}

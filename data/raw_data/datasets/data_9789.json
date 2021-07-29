@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/89698569/pixel-5-wifi-setting-has-no-none-option-in-phase-2-authentication-for-my-work-wifi?hl=en",
+    "title": "Pixel 5 wifi setting has no \"NONE\" option in phase 2 authentication for my work wifi",
+    "content": "I recently bought Pixel 5 to use in my workplace. However, I cannot setup my workplace wifi as \"NONE\" option from phase 2 authentication is not available.\n\nFound some threads, answers and workaround online yet still unable to connect.\nContacted my company service desk, they also have no idea.\n\nNeed help with this.\n\nbelow is my company wifi setup\n\nEAP method: (PEAP)\nPhase 2 authentication: (None)\nCA certificate: (unspecified) or select Do not Validate\nUser certificate: (unspecified)\nIdentity: (your company user name) \nAnonymous identity: (blank)\nPassword: (your password)",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
+    "post_time": "2020-12-21T06:23:16.649139+00:00",
+    "reply": "1 Reply"
+}

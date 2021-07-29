@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/40912706/bluetooth-reconnects-automatically-after-hitting-disconnect?hl=en",
+    "title": "Bluetooth reconnects automatically after hitting \"disconnect\"",
+    "content": "I have multiple bluetooth devices in my home for playing music. When I turn on my bluetooth I will manually connect it to the device I want to play music with. But, then my phone will begin to autoconnect to every other bluetooth device in my home which creates numerous issues. Sometimes the music will start playing in the room I am not in. Sometimes it will pause my music. Sometimes it makes it so that my music will not play through any of the multiple devices my phone is connected to. Then, when I manually disconnect every other bluetooth device in my home my phone instantly begins trying to reconnect to those devices repeating the same cycle of bluetooth issues. Am I missing something? How do you manually disconnect a device and prevent it from reconnecting? I'm confused why there is a disconnect button if it doesn't work because the device will reconnect. I do not want to \"forget\" devices because then I have to reconnect a device every single time I want to use it. Is there some way to disable auto connect or is this just a bug?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2020-04-18T19:04:20.822334+00:00",
+    "reply": "1 Recommended Answer"
+}

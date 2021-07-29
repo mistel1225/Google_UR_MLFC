@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/11742539/alarm-sounds-at-minimum-volume-despite-maximum-volume-setting-rebooting-fixes-it-why?hl=en",
+    "title": "Alarm sounds at minimum volume despite maximum volume setting. Rebooting fixes it. Why?",
+    "content": "Twice in the last week or so my Pixel 2 alarm has gone off at minimum volume instead of maximum volume (the settings do show maximum volume).  The phone's display shows the alarm is going off but the phone only vibrates a little and emits a very soft beep-beep occasionally.  The first time it happened was for my morning wake-up and Do Not Disturb was set but Settings > Do Not Disturb > Sound & vibration showed \"Muted, but allow alarms and touch sounds\".  I believe I tried setting other alarms and got the same behavior until I rebooted, which restored normal behavior.\n\nIt happened again just a few minutes ago for a 10:30pm alarm.  DnD was not on.  Again I heard only a soft beep-beep periodically along with the alarm playing at minimum volume.  I snoozed the alarm for 10 minutes.  I set another alarm for 10:38 and got the same behavior when it went off--a soft beep-beep and the alarm at minimum volume.  I rebooted the phone.  It was back up by 10:39 and when 10:40 came, the alarm properly sounded.\n\nBluetooth was not on for either of the failures.\n\nAn $800 phone with a manufacturers alarm that doesn't work is pretty disappointing.  My $100 Sanyo Incognito feature phone alarm never, repeat never, failed me in eight years. I guess I need to get it out as a backup.\n\nI've submitted essentially the same info via the Clock app's \"Send Feedback\".\n\nI'm up to date on updates.  Build PQ3A.190801.002.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2019-08-11T05:16:51.042935+00:00",
+    "reply": "1 Reply"
+}

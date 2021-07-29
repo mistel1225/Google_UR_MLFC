@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/79320935/assistant-needs-to-download-data?hl=en",
+    "title": "Assistant needs to download data ???",
+    "content": "1. Phone is set in Italian.\n2. Vocal output is set in Italian.\n3. Assistant is set in Italian and English.\n\nQuestion 1: how many places language has to be set?\n\nRegarding point 3 this is how settings look: it's in Italian but it says \"Assistant languages\" on top and you see both italian and english.\n\nQuestion 2: why under english it says \"The new google assistant is not supported in these languages on your device\"\n\nIf I remove english\n\nwhen saying \"ok google\" instead of the usual assistant tab at the bottom the following full page appears\n\nIt says: \"Assistant needs further downloads. An error occurred: make sure to be online and retry\". If I hit the \"download\" button, it returns a \"no connection\" error.\n\nPlease help.\nThanks",
+    "is_img": 1,
+    "category": "Google Assistant and Voice Actions, Google Pixel 4 XL",
+    "post_time": "2020-10-27T01:27:59.588956+00:00",
+    "reply": "1 Reply"
+}

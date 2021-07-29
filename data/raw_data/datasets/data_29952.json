@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/8895544/do-not-disturb-rule-not-enabling?hl=en",
+    "title": "Do Not Disturb rule not enabling?",
+    "content": "I'm having problems with time-based Do Not Disturb rules not activating.\n\nThe rule is:\n\nDays: Mon, Tue, Wed, Thu, Fri\nStart Time: 10:59PM\nEnd Time: 8:30AM next day\nAlarm can override end time: Enabled\n\nDuring initial creation at night, the rule works but then it doesn't automatically enable the next day. Even if I toggle the rule from on to off and then back to on, it doesn't enable. I have to delete and create a new rule to make it work.\n\nDevice is a Pixel 3XL running stock Android with latest patches.\n\nAny ideas? Thanks!",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2019-06-28T18:20:12.625512+00:00",
+    "reply": "5 Replies"
+}

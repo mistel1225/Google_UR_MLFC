@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/29479054/vowifi-calls-abort-on-vodafone-germany?hl=en",
+    "title": "VoWiFi calls abort (on Vodafone Germany)",
+    "content": "Hi guys.\n\nI have a Pixel 4 XL, and I'm on Vodafone Germany.\n\nWith my old Pixel 2, VoWiFi was rock-solid. Calls were never interrupted.\n\nSince two weeks now, I have a Pixel 4 XL, and under the same circumstances calls abort all the time after 5-10 mins. It doesn't matter who I call (fixed or mobile network), or who calls me. It is definitely my VoWiFi.\n\nFor me it's hard to believe it's a network-side issue (with network I mean operator network), but I believe it must be an instability in the implementation of the Pixel 4 XL's VoWiFi client.\n\nAnyone else having this? Any recommendations how to track this down?\n\nMany thanks in advance for any help.\n\nKr,\n\nRalf",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
+    "post_time": "2020-02-22T11:32:31.444114+00:00",
+    "reply": "3 Replies"
+}

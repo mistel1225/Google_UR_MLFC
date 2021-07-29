@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/34439920/pixel-4-unable-to-scan-for-le-coded-advertising-on-the-primary-channel?hl=en",
+    "title": "Pixel 4 unable to scan for LE Coded advertising on the primary channel",
+    "content": "I got a Pixel 4 to do long range testing for an IoT device, but unfortunately, it doesn't seem to be seeing any LE Coded PHY advertising packets when the IoT device is advertising LE Coded on the primary channel.\n\nIt sees LE 1M, but if I have to be close to the device to see the initial advertising packet---it defeats the whole purpose of having long range. The phone itself can advertise with LE Coded on both primary and secondary channels, I don't understand why it won't scan when it's LE Coded on the primary.\n\nOther phones like the One Plus 6 and Samsung S10+ seem to be fine with scanning LE Coded on both primary and secondary channels.\n\n0. Am I doing something wrong? Is there something I can do to force it to scan LE Coded on the primary channel?\n1. Is this the case with all Pixel phones that support LE Coded PHY? I'll have to avoid them if that's the case.\n2. Is this a hardware limitation by the Bluetooth chip?\n3. If not 2, can we at some point expect that the device will be able to see long range LE Coded advertising packets on the primary channel?\n\nThank you!",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
+    "post_time": "2020-03-20T06:28:51.074628+00:00",
+    "reply": "1 Recommended Answer"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/43287332/google-messages-app-in-chat-mode-sends-sms-when-mobile-internet-is-available-but-wifi-is-down?hl=en",
+    "title": "Google Messages app in chat mode sends SMS when mobile internet is available but WiFi is down",
+    "content": "Hi, I would like to report a problem with Google Messages app.\nProblem\nWhen the chat features are enabled and the internet via WiFi is down but the mobile internet is working, the Messages app resends messages via SMS.\nMore specifically\n1. Connected via WiFi.\n2. ISP internet is down due to outage\n3. Mobile internet is on however but the device is connected to WiFi without internet\n4. Chat features enabled over WiFi or mobile data\n5. I send a message to another chat message enabled contact\n6. The message is sent via SMS without being alerted about it.\nThe remedy is to send the message via mobile data when the WiFi internet is unavailable. At least try \nI was under the impression that it would try WiFi first then mobile data before taking the recourse to SMS. Clearly the app jumps to SMS in the first instance itself.\nI was billed £1.30 by my network provider for international SMS due to the above scenario. My internet via my ISP was down at the very time I was using the chat message.\nPlease find a few screenshots of this illustrating the scenario in the link below\nhttps://photos.app.goo.gl/PGEwBMJ1EieHiuXb8\nPlease do not hesitate to get in touch.\nKind regards\nSesh",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 3 XL",
+    "post_time": "2020-04-29T16:15:34.269233+00:00",
+    "reply": "2 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/103416174/can-i-group-my-sms-messages-from-a-snmp-trap-alert?hl=en",
+    "title": "Can I group my SMS messages from a SNMP Trap alert?",
+    "content": "I use my Pixel to receive messages from work that leaves a Linux server as a SNMP Trap message and arrives at my ATT text address as a text message (SMS I think. Not MMS). Anyhow, it arrives from the same email address userabc@companyname.com but in my phone (or maybe from the SNMP Trap) it uses some kind numbering system that just keeps incrementing each message by +1. So If I add userabc@companyname.com to my contact list, I do not get all the messages to show up under that single contact. Every text is arriving as a brand new message from a brand new contact (+1). Each message displays as 1 of 7 through 5 of 7 in a single text. I never see 6 of 7 or 7 of 7 displayed.\n\nDoes anyone know of a way that I can get these texts to arrive under a single contact in my phone? I usually end up deleting the message after I address the issue, so what I'd like to do is delete the Single group of SMS texts instead of scrolling through my list of SMS texts where I have to delete 75 individual text messages or whatever the total list of \"n\" alerts are for that period of time.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 5",
+    "post_time": "2021-03-22T22:04:13.293858+00:00",
+    "reply": "8 Replies"
+}

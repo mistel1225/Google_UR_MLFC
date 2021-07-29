@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/28359094/overview-gesture-support-for-third-party-launchers?hl=en",
+    "title": "Overview/gesture support for third party launchers?",
+    "content": "Hello! I got my Pixel in October and I absolutely love it. There's only one flaw though. I've been a lifetime user of Nova Launcher, which has always been consistently up to date with gestures and the latest aesthetics to come to Android. However, I noticed that in Android 10 (and Android Pie as well) transitions and animations between the Overview menu and the home screen are very choppy. \n\nI've done some research and discovered that this issue is caused by Google integrating the Overview menu with the launcher, which is a fantastic idea. However, it cripples third-party launchers because the app has to have system permissions in order to modify the Overview menu. So, this makes the Pixel Launcher the only launcher that supports Android 10 animations and gestures properly. The only way to solve this is by rooting your device, which I don't want to do. \n\nI know that Google had a similar issue introducing the Android 10 gesture nav system and making it compatible with 3rd party launchers. My question: is Google going to eventually fix this, and allow third-party launchers to modify the Overview menu? I would really hate to see Android turn into iOS, with no options available.\n\nThanks!",
+    "is_img": 0,
+    "category": "Homescreen and Launcher, Google Pixel 3a XL",
+    "post_time": "2020-02-11T08:46:19.948718+00:00",
+    "reply": "1 Reply"
+}

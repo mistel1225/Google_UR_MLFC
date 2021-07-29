@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/33117413/pixel-3-march-update-won-t-power-on-after-being-switched-off-or-restarted?hl=en",
+    "title": "Pixel 3 - March Update, won't power on after being switched off or restarted.",
+    "content": "Since installing the March Update last Thursday 5th March my Pixel 3 started draining the battery really fast, like within 4 hours. So I backed up and factory reset it.. on doing so the phone would not power back on after restarting. plugged in the power back in pushed the power button and the phone continued to factory reset, set it all back restored my backup and powered down the phone and it wouldn't switch on till the power was plugged in even with 87% battery. does exactly the same for restart. \n\nClean the power power still the same, it charges no problem at all but does it hell want to turn on! \n\nSo I backed it up again, download the OEM firmware unlocked the bootloader and adb'd the latest oem firmware onto it. and restored my backup and it's still doing the same. \n\nI've rang customer services and they are unaware of the problem recommend I should phone who I bought the phone off. Anyone experiencing similar problems?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2020-03-11T10:30:17.166481+00:00",
+    "reply": "0 Replies"
+}

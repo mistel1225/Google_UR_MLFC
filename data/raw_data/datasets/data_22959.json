@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/21606290/pixel-2-shuts-down-with-high-cpu-load-at-medium-low-battery-percentages?hl=en",
+    "title": "Pixel 2 shuts down with high CPU load at medium-low battery percentages.",
+    "content": "I've encountered an interesting issue with my Pixel 2. My old Pixel 2 started shutting down when using CPU intensive tasks at lower battery percentages. At first it was only when live video stream (Duo, skype) below 20%, the phone would randomly die. However over the issue became worse, with the device consistently crashing after simply taking a photo (both in the camera app and snapchat) below 30%. So I got the device replaced from my carrier (still under warranty). When I got the new Pixel 2 I did the obvious thing and drained it to 15% battery life and started snapping pictures like crazy, and the device did fine. At this point I proceeded setting up my device like normal. However, after only a day or two the same problem started happening, this time even worse. I can now cause my phone to crash by listening to bluetooth audio (spotify) and taking a picture (snapchat) below 60% battery. The most interesting thing is that the only thing that changed from before (15% and taking pictures fine) and now (60% and crashing) is the most recent updates to Android 10. Is anyone else having this issue? Did I get extremely unlucky to have my refurbished phone die the same way as my previous phone, or is there something in the new Android 10 that is causing errors in the power management?",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 2",
+    "post_time": "2019-12-01T02:29:34.034173+00:00",
+    "reply": "1 Recommended Answer"
+}

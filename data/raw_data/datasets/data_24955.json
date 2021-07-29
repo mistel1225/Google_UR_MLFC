@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/20710446/wifi-connections-in-some-apps-does-not-work-after-google-android-pixel-security-update-nov-2019?hl=en",
+    "title": "WiFi connections in some apps does not work after Google Android Pixel Security Update - Nov 2019",
+    "content": "WiFi functionality is significantly degraded on both of our Pixel 2 XL phones after Google Android Pixel Security Update - Nov 2019 (Build QP1A.191105.004).\n\nThe phones appear to connect to WiFi as usual but some apps simply cannot  recognize or use that connect. Others seem less affected. Notable problems are Twitter and Xfinity Connect. Twitter simply fails to load content and the Xfinity app reports that it cannot connect to the network all while the WiFi status icon shows a strong active connection and other apps will work fine. This occurs with theses phones on our home network and other WiFi networks while other devices on those networks continue to work without issue. It just became an issue after this recent Android update and no other changes have been made (especially to 2 different phones). Sometimes toggling WiFi of and on will work briefly but not all the time and not for long. This situation is extremely irritating and forces data usage when not needed or desirable. Please look into this ASAP.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-11-21T14:51:42.46877+00:00",
+    "reply": "6 Replies"
+}

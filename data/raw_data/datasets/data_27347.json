@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/16828481/pixel-2-set-up-issues-following-factory-reset?hl=en",
+    "title": "Pixel 2 Set-Up Issues following Factory Reset",
+    "content": "My Pixel 2 abruptly got stuck on the boot loop screen after a restart. I forced several hard restarts with the same result. After running through the solutions provided in Google's support documentation, I was forced to perform a factory reset.\n\nWhen setting up my device, I went through the entire set-up process (using the same owner account as before and passing the 2-Factor Authentication.) This went mostly smoothly, and I was prompted to recover old device data and Google Pay information, which was correct. On the final step of set-up, \"adding finishing touches,\" I received a dialog that reads:\n\n\"Not Signed In.\nTo use this phone, you first have to sign in to the owner's Google Account in use on this phone when it was last reset.\nBecause you haven't done so, you have to set up the phone again.\"\n\nI've repeated this several times with the same results. I've had the same primary Google Account for a decade (this one) and it's also in use on my Google Home devices which are still functioning correctly. I'm completely at a loss as to what the issue is and what I can do to solve it. I even tried setting up an additional Google Account during the set-up process with the same results.\n\nHas anyone else had this experience? Given the weird restart issues I'm concerned it's a hardware problem and the phone may need to be replaced, which is a shame considering it's less than 2 years old.\n\nEDIT: For some additional context, my phone is on Google Fi.",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 2",
+    "post_time": "2019-10-15T03:03:14.064145+00:00",
+    "reply": "1 Recommended Answer"
+}

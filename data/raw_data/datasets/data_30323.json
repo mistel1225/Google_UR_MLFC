@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1520722/pixel-backup-to-google-drive-backup-now-button-greyed-out-shows-waiting-to-backup?hl=en",
+    "title": "Pixel Backup to Google Drive - Backup Now button greyed out shows Waiting to Backup",
+    "content": "I noticed in settings that Backup to Google Drive is active but the Backup Now button was greyed out.  The Active backups all show \"Waiting to Backup\" except Contacts showing 2 hours ago and Photos showing yesterday.  Verifed that all SYNC options were set.  Looked into Google Drive and Backup folder had last backup 56 days ago.  So.  I reset the backup to Google Drive option off and on and rebooted phone. SO Google drive no longer shows a backup file from 56 days ago in Google Drive. Updated System software to Feb update. No change.  BTW I have WIFI 100GB access. I also tried Safe Mode, checked device and Google drive for plenty of storage. Still none of these things worked.",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2019-02-08T03:28:27.008901+00:00",
+    "reply": "5 Recommended Answers"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/22649374/pixel-4-xl-green-tint-issues-at-low-brightness-video-demonstration?hl=en",
+    "title": "Pixel 4 XL -- GREEN TINT issues at low brightness -- video demonstration",
+    "content": "Pixel 4 XL has green tint issues at low brightness, a lot of people experience them.\nHere's a video demonstration: https://www.youtube.com/watch?v=yfZEtTYs5r8\n\nPixel 4 XL in this video is on latest December update, unlocked (build number QQ1B.191205.012.A1)\n\nI want to emphasize that this issue was here since day one -- but it's mostly only visible when 90Hz is on. People started reporting it after November update more often because it enabled 90Hz on all brightness modes. Previously it switched to 60Hz at lower brightness.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4 XL",
+    "post_time": "2019-12-12T15:17:22.863342+00:00",
+    "reply": "1 Recommended Answer"
+}

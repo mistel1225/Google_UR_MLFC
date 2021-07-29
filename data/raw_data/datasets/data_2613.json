@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/107678455/dual-wifi-and-lte-connectivity-does-not-work?hl=en",
+    "title": "Dual Wifi and LTE connectivity does not work",
+    "content": "I am working on a technology that uses WiFi and LTE connectivity simultaneously. While testing on my Pixel 3a, I am seeing that LTE is put to sleep when there is a wifi network available. \n\nLTE being on sleep stops our technology to perform on pixel devices the same as other Android phones.\n\nIs there a work around to this where I can keep both connections active?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2021-04-26T21:05:27.352722+00:00",
+    "reply": "3 Replies"
+}

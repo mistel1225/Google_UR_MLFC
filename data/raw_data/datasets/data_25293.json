@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1408101/h-e-l-p-cant-load-android-system-pixel-2xl?hl=en",
+    "title": "H E L P ! cant load Android system - Pixel 2XL",
+    "content": "HI everyone! I suddenly got a black screen on my pixel 2XL,  saying it can't load the android system and that data may be corrupt and may need to reset. I haven't made any changes to the phone prior to this and it worked perfectly.\nthe only thing I remember is that it was waiting to restart after a version update (but I didnt perform the restart). \nI installed the Google USB driver so it would recognize it and hopefully get into fastboot. (ran it via cmd - Win7, 64 bit)\nwhen in 'Recovery Mode', I got the little green fella on his back with 'No command' messgae.\nPressed Power + power up but nothing happens.\nIs there anything I can do to correct it without data resetting the system?\nWould love to hear any advice!\nCheers\nBenny",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-02-01T21:57:41.640871+00:00",
+    "reply": "3 Recommended Answers"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1724346/major-flaw-in-the-do-not-disturb-feature?hl=en",
+    "title": "Major flaw in the Do Not Disturb feature",
+    "content": "Since the unnecessary \"overhaul\" of the Do Not Disturb feature some months ago, I have been unable to find a way to completely silence my pixel 2 phone. Specifically, incoming calls through WhatsApp always make the phone ring NO MATTER what. Based on some research, it seems WhatsApp classifies incoming whatsapp calls as \"High priority notifications\" and that causes those notifications to override DND.\n\nIf anyone is aware of a setting/feature that I may be missing that would resolve this issue, please provide some information. If not, this seems to be a classic example of over-engineering by Google (similar to their messaging platforms saga). I don't blame WhatsApp for this issue since DND is (or should be) a system level setting and individual apps should not be able to override that, otherwise it defeats the whole purpose.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2019-02-18T21:43:16.870388+00:00",
+    "reply": "1 Recommended Answer"
+}

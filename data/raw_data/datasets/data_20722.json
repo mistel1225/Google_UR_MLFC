@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/52480185/pixel-2-echo-complaints-callers-can-hear-themselves-but-i-can-t-hear-the-echo-solutions?hl=en",
+    "title": "Pixel 2 echo complaints, callers can hear themselves but I can't hear the echo, solutions?",
+    "content": "I have a Pixel 2 (Non-XL) and over the last few weeks whenever I speak with someone they complain of an echo. When someone calls me (or I call them) they are able to hear me clearly, but when they speak they hear an echo of their own voice (that I do not hear). According to the callers, the issue is worsen when I switch to speaker mode.  When I use a usb-c headset or a bluetooth headset the issue goes away. I tested it out myself by using the phones of my friends and family to call myself, and I too can hear the echo. It seems like there's some kind of feedback loop in one of the mics or the speakers (perhaps one isn't muting correctly?), has anyone else experienced this problem? Did you find a solution?\n\nThings I've tried so far that have NOT worked:\n\nbooting in safe mode and trying wifi calling\ndeleting all audio/video recording apps that may be causing some kind of interference\nrolling back the google phone app (and also clearing cache and storage)\nVarious carrier sim cards (AT&T, Verizon, T-mobile) to see if it's carrier-related\nHaving people call me from different phone types (samsung, iphone, LG, HTC)",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 2",
+    "post_time": "2020-06-10T03:56:05.683883+00:00",
+    "reply": "3 Replies"
+}

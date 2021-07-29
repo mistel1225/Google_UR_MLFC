@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/27749469/google-pixel-3a-xl-android-10-upgrade-vpn-doesn-t-work-over-cellular-data?hl=en",
+    "title": "Google Pixel 3a XL Android 10 Upgrade - VPN doesn't work over Cellular Data",
+    "content": "I just upgraded to Google Pixel 3a XL and using it on Sprint network. On Android 9 (I was on it for an hour or so before I upgraded to Android 10), I was able to connect to my VPN using strongSwan VPN client app using LTE connection. After I upgraded to Android 10, I am unable to connect to my VPN using the same app over LTE. I can connect to VPN if I am on a WiFi. I have another device that runs Android 9 and VPN works just fine using the same app on LTE. \n\nWhat is blocking the VPN access on Android 10 over cellular data. Other users have reported similar issue on different network / different VPN. See here https://forums.oneplus.com/threads/vpn-pia-not-connecting-with-android-version-10.1135776/\n\nAlso, I don't see APN settings under Network&Internet --> Mobile network --> Advanced. Also, where is the UICC setting? How can I tell if my device is locked or unlocked? I don't know if this Android 9 vs Android 10 issue or Google Pixel 3aXL limitation since this is my first Google Pixel device. On Samsung S8+ running Android 9, I see both APN and UICC settings. Not to mention VPN is working just fine over cellular data.\n\nI would sincerely appreciate any help here. Thank you.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a XL",
+    "post_time": "2020-02-05T15:16:12.159688+00:00",
+    "reply": "2 Replies"
+}

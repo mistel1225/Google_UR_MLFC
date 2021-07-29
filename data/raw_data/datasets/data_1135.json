@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/111076377/google-pixel-5-doesn-t-connect-with-anything?hl=en",
+    "title": "Google Pixel 5 doesn't connect with anything!",
+    "content": "The Googe Pixel 5 does not connect with anything on a USB.\n\nI have a Toyota Rav4 with Android Auto. I have the necessary Android Auto app on it, and supposedly when I connect to the USB port auto is supposed to have access to various apps (including, most importantly, the Maps app. Unfortunately, all that happens when I plug in the USB is the Pixel 5 goes into charging mode. It does not connect to Auto at all.\n\nI also find that the Pixel 5 does not connect to any of my computers. When I connect to the USB port the Pixel 5 goes into charging mode. It does not mount as a portable device like other smartphones do. I have no access to anything on it at all.\n\nWorse: I am a developer working on an app which I would like to run on a Pixel 5. I have installed the latest Google adb driver on my PC and have put my Pixel into Developer mode,  but because the phone does not properly connect I cannot debug or otherwise test my software using it.\n\nAnd to add insult to injury, the blasted phone doesn't consistently communcate with my smartwatch. This is a Bluetooth connection that all too often fails.\n\nI am almost ready to ditch this phone and go back to the Samsung phones that have worked so consistently and well with my Android Auto and my Android Studio development system. I am, however, hoping that someone can tell me how to make this thing work the way it is supposed to.\n\nDoes anyone have any idea how to get this phone to communicate properly with USB connections???",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
+    "post_time": "2021-05-24T22:48:11.731614+00:00",
+    "reply": "3 Replies"
+}

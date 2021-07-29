@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/39690763/unable-to-sideload-200227-014-on-pixel-2-xl?hl=en",
+    "title": "Unable to sideload 200227.014 on Pixel 2 XL",
+    "content": "我有开发者预览版2，我无法通过ADB或SD卡进行侧面加载。看到这里：https :  //imgur.com/tstwtp4\nADB失败[10:47:42]〜/下载$ platform-tools / adb sideload flame-ota- rpp2.200227.014-c5755f61 \\（1）.zip adb：侧载连接失败：关闭adb：尝试在KitKat侧载之前方法adb：KitKat之前的侧载连接失败：已关闭\n它也无法挂载SD卡。\n这是我的adb版本\n[10:48:26]〜/ Downloads $ platform-tools / adb --version Android Debug Bridge版本1.0.41版本29.0.6-6198805\n\nadb：侧载连接失败：已关闭\nadb：尝试KitKat之前的侧载方法\n亚行：KitKat之前的侧载连接失败：已关闭",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2020-04-13T02:18:43.32851+00:00",
+    "reply": "1 Reply"
+}

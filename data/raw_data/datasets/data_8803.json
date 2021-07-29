@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/92834996/no-support-for-volte-for-european-networks?hl=en",
+    "title": "No support for VoLTE for European networks",
+    "content": "I own the Pixel 4, used in Poland, operator Orange. I travel a lot across EU. Unfortunately, Pixel line is not supporting VoLTE in most of European countries.\n\nThe source of the problem lies in Google. Operators have enabled VoLTE on networks and provided setting to GSMA’s Centralised Device Settings Database. Google is failing to take this setting and push an update to phones.\n\nSamsung can handle this. Apple can handle this. Why Google is struggling to do it? And when we will get the VoLTE support in EU?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4",
+    "post_time": "2021-01-10T09:40:48.710941+00:00",
+    "reply": "3 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/19196284/feature-request-lockdown-option-needs-to-be-more-configurable?hl=en",
+    "title": "Feature request: Lockdown option needs to be more configurable",
+    "content": "In the Android 10 security settings (Pixel 3) there are several Smart Lock features.\n* On-body detection\n* Trusted places\n* Trusted devices\n* Voice match\n\nThis thread is not to discuss the security effectiveness of some of these options. However, if someone wants more security, then the Smart Lock features can be disabled by using the Lockdown option from the power menu.\n\nThe Lockdown feature also applies to the fingerprint reader. But I don't want to be conscious all the time of when to disable the fingerprint reader with the Lockdown option everywhere and all the time. This can be done much smarter by combining it with the Smart Lock features.\n\nFor example, I think it would be great to combine trusted places with the fingerprint reader. Thus creating e.g. the policy that a pincode is always needed to unlock the device, except for when at home or other trusted places. Such as at home, at work or at university you can then conveniently use the fingerprint reader. But not when on the go. It would also be great (for some users I suppose) to even enforce the pincode + fingerprint (or any other combination possible on a device) for extra two factor authentication at e.g. a sensitive workplace or country.\n\nThis would greatly improve Android's security smarts. Please consider combining these existing security features.",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 3",
+    "post_time": "2019-11-10T16:04:19.56764+00:00",
+    "reply": "1 Reply"
+}

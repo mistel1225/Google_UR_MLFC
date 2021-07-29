@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/104597036/android-system-webview-update-89-0-4389-105-causing-gmail-app-to-crash?hl=en",
+    "title": "Android System WebView update (89.0.4389.105) causing GMail app to crash",
+    "content": "For 3 weeks now I have had an issue with the GMail app on my Pixel 5 crashing when opening certain emails or clicking to open links. I have reported it to Google and have gone around in circles with various reset procedures and work arounds. What I have established is that the Android System WebView update (89.0.4389.105) which is meant to be resolving the problem is for me actually causing the problem. If I uninstall updates to WebView the problem goes away but as I prefer to allow automatic updates on my phone it gets this update installed again and the issue returns.\n\nAnyone else having this experience?\n\nThanks.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 5",
+    "post_time": "2021-04-01T00:00:31.084977+00:00",
+    "reply": "0 Replies"
+}

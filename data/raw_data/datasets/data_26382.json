@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3426191/two-step-verification-prompt-stopped-working?hl=en",
+    "title": "Two step verification prompt stopped working",
+    "content": "Hi,\n\never since I added a second g suite account to my work profiles I am experiencing problems with the two step verification prompt: it doesn't work anymore. here is a screenshot of what it looks like, saying \"It looks like you have a compatible phone, but it's not online\".\n\nthe funny thing being that it still works on my personal account, set up on the same pixel 1. also authenticator app etc. works fine. and I tried getting the prompt back by removing the newly added work account (with wifi, without wifi, with VPN off, etc.). still no luck. i also checked that any notification or privacy settings in accounts.google.com are not preventing notifications or the like.\n\nsince I really like not having to go through the hassle of resetting my phone and setting everything up again I'd would greatly appreciate if you could help.\n\nbest\njakob",
+    "is_img": 1,
+    "category": "Setting up and Personalizing your Device, Google Pixel",
+    "post_time": "2019-04-02T07:10:50.363226+00:00",
+    "reply": "1 Recommended Answer"
+}

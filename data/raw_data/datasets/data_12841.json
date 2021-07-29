@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/80553533/notifications-still-buzz-when-default-sound-is-set-to-none?hl=en",
+    "title": "Notifications still buzz when default sound is set to \"None\"",
+    "content": "Steps to reproduce:\n1. Hit up or down on the volume rocker and put into vibrate mode\n2. Go to Settings --> Sound --> Advanced --> Default notification sound. Choose 'None' from 'My Sounds' group.\n\nObserved: Apps like Gmail and Outlook will continue to vibrate the device on newly incoming notifications, even though these notifications do not have 'Vibrate' enabled\n\nExpected: Nothing should vibrate since the default notification sound is set to 'None' and the specific notifications are not set to 'Vibrate'.",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 3a",
+    "post_time": "2020-11-02T16:01:07.391966+00:00",
+    "reply": "1 Recommended Answer"
+}

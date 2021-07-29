@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/52097239/pixel-phone-freezes-during-startup?hl=en",
+    "title": "Pixel phone freezes during startup",
+    "content": "Since a couple of days I can't startup my Pixel device as it will freeze about 10-20sec in; the screen will freeze, become unresponsive and the only thing that still works is forcibly turning the device off by holding the power button for 30s. I can't get into the setting menu or anything like that, as it will freeze before that. I am however able to get into recovery mode, issue doesn't seem to impact there.\n\nI've tried:\n- Safe mode; still freezes at start up\n- Factory reset; still no result\n- Sideload the latest OTA update; again stuck at start up\n\nHope that anyone has any other suggestions?",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2020-06-08T12:12:57.586333+00:00",
+    "reply": "1 Recommended Answer"
+}

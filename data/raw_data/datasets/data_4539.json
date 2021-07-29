@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/103540288/when-will-android-system-webview-be-fixed?hl=en",
+    "title": "When will Android System Webview be fixed?",
+    "content": "There's myriad of posts here in the last 24 hours regarding the issue with apps closing/crashing immediately, with the temporary fix being to \"uninstall\" Android System Webview (which appears to actually just be reverting to an older version of the app/service), it's obvious there's an issue with the recent update to said app.\n\nThe fix worked for me, but I'm worried that it will be happening again because I have automatic app updates enabled, as I'm sure others do as well.\n\nI'm also sure that the app wasn't updated on the 12th \"just for fun\" - There's most likely a reason it needed to be updated and now we're missing out on the improvements.\n\nWhen can we expect the issue with the updated version of Android System Webview to be fixed and a new update to roll out?\n\nDo we all need to keep checking this forum every day until someone from Google gives us the \"all good?\"",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2021-03-23T15:39:22.891234+00:00",
+    "reply": "1 Recommended Answer"
+}

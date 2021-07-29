@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/65603160/unable-to-unlock-bootloader-oem-unlock-disabled?hl=en",
+    "title": "Unable to unlock bootloader (OEM unlock disabled)",
+    "content": "The device isn't recognized via ADB.\nI can boot to Bootloader\n\nThe phone was working fine with the latest google stock android 10, i decided to lock the bootloader cuz the phone was getting overheated so i thought it'd be a good idea to lock the bootloader. Prior to do that, it asked me to erase everything! I erased everything and when i tried to reinstall the stock image it asked me to unlock the bootloader!!\nThe problem is that USB debugging isn't enabled and the phone is empty with no system!",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2020-08-18T19:26:10.33009+00:00",
+    "reply": "1 Reply"
+}

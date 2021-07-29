@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/7619107/pixel-2-battery-drain?hl=en",
+    "title": "Pixel 2 Battery Drain",
+    "content": "I've had my Pixel 2 since release and far it has been a great experience! Over the past month or so I've noticed the battery draining fast and charging slow. To the point where it will only charge with the rapid charger. Charging via USB from my PC or car does not charge my phone anymore (they used to charge it fine, just slower of course) because my phone is using more power than those ports can provide! \"Carrier Services\" and \"Google Play Services\" usages are high for some reason.  My understanding is that other apps piggyback off them so there could be some app that is draining my battery in the background. Problem is I have no idea which app it mignt be.  Is there any way to find which apps are piggybacking off Carrier/Google Play Services?\n\nWhat I've tried:\n-Rebooting phone (no effect)\n-Safe mode (used for about a day with no unusual battery drain so appears to be a third party app)\n\nMy battery usage: https://imgur.com/a/j2c3RmO",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 2",
+    "post_time": "2019-06-08T01:36:13.112711+00:00",
+    "reply": "1 Recommended Answer"
+}

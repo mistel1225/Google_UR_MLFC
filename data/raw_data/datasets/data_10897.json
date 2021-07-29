@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/86168356/google-assistant-will-not-play-songs-on-spotify?hl=en",
+    "title": "Google Assistant will not play songs on Spotify",
+    "content": "My Google Assistant will also play certain things on Spotify when asked. Using voice commands or typing commands the assistant will open and play Artists for example if I give the command to play *artist* it will jump to and start playing the Spotify \"This is *artist*\" playlist without any problems. \n\nThe problem occurs if I ask the assistant to play a specific song, playlist and artist. It will pause the current track or open Spotify if it was not already open but does not begin playing the song. \n\nThe assistant is understanding the command and has picked up the correct spelling in every case and even fills in the blanks for me so I am not entirely sure why it will not work.\n\nI have checked the permissions given to the assistant, the Spotify account is linked and set as the default music application. I have also tried unlinking the Spotify account and linking it again.\n\nI'm not sure what else is best be to try but I've just upgraded from the Pixel 2 and it was working flawlessly on there.",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 4a (5G)",
+    "post_time": "2020-11-30T20:21:06.105354+00:00",
+    "reply": "2 Replies"
+}

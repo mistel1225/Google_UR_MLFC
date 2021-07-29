@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/93245403/google-pixel-4a-screen-flickering-on-wake-up?hl=en",
+    "title": "Google Pixel 4a Screen Flickering on Wake-Up",
+    "content": "Before I jump into the issue, I want to highlight that it persists on 2 devices: older Pixel 3a, and a newly bought 4a. \n\nUpon waking the phone up (either power button, or by double tapping), the screen will flicker and flash a fully bright snapshot of the lock screen the last time the phone was locked (i.e., if I locked the phone at 4:20pm and unlocked it at 5:30pm, the flickering will show the score with 4:20pm for about 0.5 of a second). After that flickering, it will turn off again and return to most up-to-date lock screen within that 0.5 second window. Troubleshooting steps that I have performed:\n\n1. Safe Mode Boot (worked)\n2. Factory Resets (didn't work)\n3. Turning off Animations (\"worked\")\n4. Google support (no real help)\n\nWhile methods 1 and 3 provided more insight into what the problem might be originating from, the issue still persists on both devices. At this point in time it's extremely frustrating that even the most recently purchased 4a is having an issue that was discovered back in 2019. Especially if the 4a was bought as a gift and going through the RMA process will create more hassle and based on other people's responses won't give me a phone that has this fixed. \n\nIf there is an opportunity to open an active ticket with engineering, I would appreciate that. Otherwise, I'm highly considering returning the phone.\n\nThank you!",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4a",
+    "post_time": "2021-01-13T04:10:14.991111+00:00",
+    "reply": "0 Replies"
+}

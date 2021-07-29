@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/104780112/problems-with-sound-level-of-external-mic-movo-tpm100-with-usb-c-connector?hl=en",
+    "title": "Problems with sound level of external mic (Movo TPM100, with USB-C connector)",
+    "content": "I purchased the external mic to improve the sound quality of my audition videos on my Pixel 3a. However the Movo TPM100 records at a significantly lower volume than my phone's internal mic, even when using 3rd party camera apps. \n\nEDIT\n\nAfter a bunch of tests on different devices, and consulting with the mic's manufacturer, it seems that the problem is my Pixel 3a's battery not providing enough power to the microphone. The phone isn't in battery saver mode, and adaptive battery has been turned off. It's been suggested that it may be a hardware issue. \n\nIs there any way to fix this?",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 3a",
+    "post_time": "2021-04-02T14:35:20.551097+00:00",
+    "reply": "0 Replies"
+}

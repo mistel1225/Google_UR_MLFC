@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/18928162/pixel-3-4-xl-reboot-suddenly-when-i-use?hl=en",
+    "title": "Pixel 3&4 XL reboot suddenly when I use",
+    "content": "I was used the Pixel 3 XL, it reboot suddenly when I used the phone. After rebooting, I can use it normally for a time, and it reboot again. Then I buy the Pixel 4 XL, but it still has same issue. Due to both the Pixel 3 XL and Pixel 4 XL has same issue, I think that is not a hardware issue, and maybe cause by some application that I installed on both phone, but I don't know which.\nBoth phone, my system is update to newest version system, and all application is updated, too. The disk space of phone has over 80GB space. I think if I enter the safe mode, the phone will normal, but I can't find with application is the root cause.\nI am a software engineer, can I find which application cause the system reboot from the system log (for example, kernel message or logcat)?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 4 XL",
+    "post_time": "2019-11-08T06:04:42.919962+00:00",
+    "reply": "0 Replies"
+}

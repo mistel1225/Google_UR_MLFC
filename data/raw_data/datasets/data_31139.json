@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/6010742/carrier-aggregation-mode-issues?hl=en",
+    "title": "Carrier Aggregation Mode Issues",
+    "content": "I have a US Pixel 2 and a US Pixel 3 in Thailand.  The Pixel 2 works fine except for seemingly slow mobile data.  I moved the sim from the 2 to the 3.  Then both wifi and mobile data would constantly reset.  Replaced sim, 5 factory resets, troubleshot at the carrier and with Google support which authorized a replacement.  After thinking about the issue, I turned off LTE on the 3 and everything starting working.  Before this, the 2 never showed LTE but the 3 would on occasion.\nI know the 3 has added some bands that the 2 didn't have which probably allowed the 3 to attempt LTE.  I have seen a setting on the 3 something like Enable Carrier Aggregation Mode but I can no longer find it.  I know that US carrier aggregation is not compatible with Thai bands.  I have a feeling that the CA setting only appears if LTE is connected.  Since turning LTE on is so unstable that I can not get it to show LTE for more than a few seconds.\nTherefore, how can I turn off the Carrier Aggregation mode if I cannot keep LTE on long enough?\nI could be wrong, but I believe that would solve the issue and still give me better performance than my current 3G setting.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-05-12T22:49:33.327318+00:00",
+    "reply": "0 Replies"
+}

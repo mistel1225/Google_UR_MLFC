@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/101353367/fastboot-shows-debug-policy-enabled-how-to-disable?hl=en",
+    "title": "Fastboot shows debug policy enabled- how to disable?",
+    "content": "Hello,\n\nHaving once flashed official aosp-redfin-userdebug and then revert back to stock, now in the fastboot screen the entry **Debug Policy(a): enabled(not-in-list)** appears. So far, I could find no means yet to revert this.\n\nEnabled debug means in my understanding that the device now is prone to “investigations” from outside, at least if someone obtains physical access to my phone. This would invalidate the actual goal I have with locking the Bootloader.\n\nAre my assumptions correct? How can debug policy get disabled?  \nThanks for any hint\n\n*FastBoot screen content*\n\n\\- product revision\n\n\\- bootloader version\n\n\\- baseband version\n\n\\- serial number\n\n\\- secure boot: production\n\n\\- NOS production: YES\n\n\\- DRAM 8GB\n\n\\- UFS 128GB\n\n\\- Device state: locked\n\n\\- Boot slot: a\n\n\\- Enter reason: Combo key\n\n\\-Debug Policy(a): enabled(not-in-list)\n\n\\-Debug Policy(b): enabled(not-in-list)",
+    "is_img": 0,
+    "category": "Other, Google Pixel 5",
+    "post_time": "2021-03-08T21:27:27.008168+00:00",
+    "reply": "0 Replies"
+}

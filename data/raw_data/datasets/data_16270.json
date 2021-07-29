@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/72020765/android-11-and-wifi-dot1x-certificates?hl=en",
+    "title": "Android 11 and Wifi dot1x Certificates",
+    "content": "Has anyone here attempted to connect to a dot1x authenticated Wifi network and had it work reliably since upgrading to Android 11?  This is typically the sort of authentication you would find in a corporate network and not at home.\nI have a dot1x authentication setup with EAP/MSCHAPv2 backended to AD, working just fine with Android 10, but after upgrading to Android 11 the setting to either \"Do not validate\" the certificate or to select the certificate never saves, and the Wifi setting for selecting the certificate to use always reverts to using System certificates for the dot1x.\nThis inability to save the settings completely breaks all dot1x on Wifi, and as far as I can tell this is going to be a massive showstopper for anyone using Android 11 in a corporate environment.  Basically it won't work and Android 11 devices cannot be used.\nI have a Pixel 2, Pixel 3XL and Pixel 4XL all experiencing the exact same thing.  All worked perfectly with Android 10 and earlier using the exact same settings.\nIf I change to another SSID with WPA2-PSK everything is fine, but this is not ideal - really need to be using the dot1x SSID not the WPA2 SSID.\nI logged a bug report on this during the Android beta and after the final release, but it was rejected on the basis of this being a support problem even though it is clearly a regression from Android 10.\nI would be very interested to know if anyone else has this working with Android 11 or if even anyone has tested it out.  Or better still if you were able to come up work a workaround :-)",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
+    "post_time": "2020-09-19T10:54:30.897983+00:00",
+    "reply": "0 Replies"
+}

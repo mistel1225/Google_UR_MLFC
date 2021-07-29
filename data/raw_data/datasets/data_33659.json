@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1984262/multiple-sms-messages-grouped-as-unknown-sender-upon-import?hl=en",
+    "title": "Multiple SMS messages grouped as unknown sender upon import",
+    "content": "I have recently upgraded from Huawei Mate 9 to a Pixel 3 XL.  I did the setup and data transfer between the two phones through the provided transfer cable and everything that could come over did.  The issue I have is that the SMS messages on the Pixel phone have multiple entries from a sender known as Unknown Sender.  When you view the messages, you see that messages from a number of senders have been grouped into this contact - you can see their profile pictures, their contact details when you press the messages info toggle, but they do not get grouped with other messages from the same contact.  All contacts and accounts have transferred successfully to the Pixel.  I tried a message transfer using SMS backup and Restore (has worked on perfectly on multiple android devices) - all the messages are in the generated backup file and they can be viewed in the SMS Backup and Restore app, and can be restored perfectly on my old Android device, but the Unknown Sender shows up again in Android Messages on the Pixel 3XL.   Is there a workaround to this issue?  I tried a) deleting the app data and the cache ; and b) uninstalled updates to the Android Messages App.  The issue did not go away in either case.  Short of resetting the phone and trying again, I don't know what else to do.  There is some app data that does not get backed up by Google and I don't want to lose that data right now.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 3 XL",
+    "post_time": "2019-03-02T12:52:24.575067+00:00",
+    "reply": "1 Recommended Answer"
+}

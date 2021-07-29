@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/97793312/why-does-pixel-5-not-find-the-lastest-security-patch-when-checking-for-updates?hl=en",
+    "title": "Why does Pixel 5 not find the lastest security patch when checking for updates?",
+    "content": "I have been trying for days now to apply the latest Feburary security patch on my Pixel 5 which I have bought in January 2021.\n\nI'm trying to check for updates via Settings > System > Advanced > System update\n\nThen the phone keeps on \"Checking for updates...\" forever, it will not terminate until I actively go back or the display turns off after timeout. If I do so, and open the System update again, it tells me that the last successful check for updates was just now and system is up-to-date.\nBut this is obviously wrong, since it shows security patch level from 5th December 2020.\n\nI already contacted Google support. They suggest a factory reset, which I really want to avoid since it will take me many hours to set up everything again.\n\nAre there any suggestion, what I can do?\n\nI attached also two screenshots (Sorry, they are in German).\n\nChecking for updates FOREVER (until user interaction / timeout):\n\nScreen after opening the System update again (last check only minutes ago):\n\n\nThank you!",
+    "is_img": 1,
+    "category": "Other, Google Pixel 5",
+    "post_time": "2021-02-12T12:14:32.443385+00:00",
+    "reply": "1 Recommended Answer"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/6592543/pixel-bricked-after-trying-to-install-the-newest-android-q-beta?hl=en",
+    "title": "Pixel bricked after trying to install the newest Android Q Beta",
+    "content": "Hi,\n\nI have the following issue with my recently purchased Google Pixel smartphone. The other day I was trying to update to the Android Q Beta, but in the middle of the process the phone turned off.\nAll I have now is a phone with a locked bootloader. I cannot neither unlock the bootloader nor sideload any OTA (when I try doing so I get a \"no devices/emulators found\" message). I tried unlock the bootloader with the Unified Anroid Toolkit, but no go because of the same message.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2019-05-22T13:16:18.418321+00:00",
+    "reply": "2 Replies"
+}

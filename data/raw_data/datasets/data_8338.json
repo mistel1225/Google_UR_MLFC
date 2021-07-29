@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/94056117/i-m-unable-to-completely-turn-off-the-sound-on-my-pixel-3xl?hl=en",
+    "title": "I'm unable to completely turn off the sound on my pixel 3XL",
+    "content": "This is more of a vexing issue.\n\nWhen I try to turn off the volume on the pixel 3xl there is always sound playing very faintly from the speaker at the bottom of the phone. This is particularly noticeable when using a streaming video service such as zoom or Google Hangouts.\n\nTo reproduce (with zoom):\n1. Join a meeting\n2. Select 'call in over the internet' when promoted\n3. Mute your audio (i.e. turning off your microphone)\n4. Mute the call volume (top left hand corner of the zoom call) \n5. Mute the volume in settings (on the right hand side of the phone, lower the volume. When the volume dialog comes up on the right hand side of the screen, lower your phone volume, lower your music or device audio, click on the bell icon until there is a line through it) \n6. Whether you bring zoom back into focus or not, you will hear a very soft audio of the call playing from the bottom speaker.\n7. Lowering the volume through 'do not disturb' lowering all of the sounds, including alarm volume, from settings, had no effect\n\nThis issue doesn't occur on other android phones we tested (samsung galaxy, various models) (iPhones, various models) (laptop computers, various models)\n\nDoes anyone have any idea? I am convinced that either we are missing something very obvious, my phone has had its security compromised or.... What? \n\nI know it's a minor issue but it's quite vexing. Any help would be very much appreciated.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2021-01-18T19:00:38.080851+00:00",
+    "reply": "0 Replies"
+}

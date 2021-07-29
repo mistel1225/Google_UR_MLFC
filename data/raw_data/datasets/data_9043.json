@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/92122970/cannot-enable-rcs-chat-features-with-t-mobile-r15-sim-card?hl=en",
+    "title": "Cannot enable RCS chat features with T-Mobile R15 SIM card",
+    "content": "I got the new T-Mobile R15 SIM card to use with my Pixel 5 a couple of months ago, but have since been unable to turn on RCS chat features. I've tried numerous troubleshooting methods such as clearing app data for Carrier Services and Messages with no success. I've also attempted to enter my phone number to disable chat in case my previous SIM card was still active for RCS, but get the message \"Chat features can't be turned off for this device or phone number without assistance. Contact your carrier.\" When reaching out to T-Mobile most of their help desk team have no clue what RCS is and provide no help.\n\nWhen I go to the Chat features settings page it would showing 'verifying' for several days and then eventually change to 'Chat features unavailable for this device. No compatible SIM card detected.' Is this a known issue with T-Mobile's R15 SIM card on the Pixel 5? I've seen others reporting this issue on other sites as well.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 5",
+    "post_time": "2021-01-05T16:13:06.25926+00:00",
+    "reply": "0 Replies"
+}

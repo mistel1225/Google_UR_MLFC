@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/97907921/pixel-5-gestures-3-button-navigation-broken-dead-unresponsive-bottom-part-of-screen?hl=en",
+    "title": "Pixel 5 Gestures & 3-Button Navigation Broken. Dead/Unresponsive Bottom Part of Screen",
+    "content": "My swipe up to home gesturing does not work nor does the 3 button navigation. When in development mode with swipe trace on pixel simply does not register any taps at the bottom portion of my screen. I'm able to swipe down to about Y:2210 but then it shows up in the dY:991 area.\n\nI have:\nRemoved screen protectors\nStarted in Safe Mode\nRebooted\nFull shut-down and booted again\nFactory Reset\n\nAnd still nothing is working.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 5",
+    "post_time": "2021-02-13T05:24:24.442331+00:00",
+    "reply": "2 Replies"
+}

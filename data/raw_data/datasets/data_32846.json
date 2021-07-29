@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/2795297/pixel-1-randomly-crashing-after-factory-reset?hl=en",
+    "title": "Pixel 1 randomly crashing after factory reset.",
+    "content": "My Pixel 1 has been randomly crashing lately. The interface will lock up for about 5-10 seconds, then kick me back to type in my password as though it has rebooted, but without actually performing a reboot (no startup animation, just directly back to the login). When I log in and check uptime in Termux, it shows that the device hasn't actually restarted, as my uptime reflects the time that I actually last performed a full reboot.\n\nThis will happen seemingly randomly, whether I'm using the device or it is sitting idle. I performed a factory reset and am experiencing the same behavior afterward.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2019-03-21T18:07:23.378211+00:00",
+    "reply": "1 Reply"
+}

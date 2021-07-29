@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/75976052/pixel-4a-not-receiving-non-sms-text-messages?hl=en",
+    "title": "Pixel 4a Not Receiving (non-SMS) Text Messages",
+    "content": "Situation : I'm not receiving text messages on the Pixel 4a unless they are sent as \"SMS\".\n\nDetails:\nI just enabled my brand new Pixel4a (non-5G edition) last night.\nPixel4a is not receiving Text messages unless they are sent to me as SMS only. \nNon-SMS messages (the kind where the sender can track when the message was delivered, and read, etc...), never make it to my brand new Pixel 4a\nInterestingly, those non-SMS messages sent to me are arriving on my old Pixel XL, the one I started migrating away from last night.  This is true even though I have disabled Google Fi on my old phone.\nSo, SMS go to the Pixel 4a, non-SMS go to my old phone.\nPixel4a seems to only be sending text messages as SMS as well (not sure why or how it decides to do so)\nMy wife uses a Pixel (XL) and tried sending me a Text (non-SMS) and it indicated it would be delivered \"When the user is online\".  I was online.  It gave her the option to send as SMS, and then it delivered no problem.\n\nWe are both on Google Fi (although Fi / SMS is working fine - SMS works).\n\nQuestions:\nIs there a setting I can check to enable non-SMS text, or does Google enable it automatically on their end?\nIf auto, how long will Google take to enable?\n\nI have already referenced this page, which doesn't offer any help for my situation: https://support.google.com/messages/answer/6080337\n\nAny help is appreciated.  I don't want to be missing text messages from other Google users.\n\nThanks",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4a",
+    "post_time": "2020-10-09T18:27:35.218467+00:00",
+    "reply": "2 Replies"
+}

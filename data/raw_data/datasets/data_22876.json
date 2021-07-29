@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/10919821/incorrect-times-in-calendar?hl=en",
+    "title": "Incorrect times in Calendar",
+    "content": "Times become incorrect after entering into calendar. eg I enter an appointment for 9am, add other details, and save. On refreshing the calendar, the time is showing as 10am. If I click on the event, and open, the time is still showing 10am. If I click the Edit button, this then shows the time as 9am. \nHave tried changing the System Timezone from auto to manual (+10hrs - Aus/Qld), and makes no difference.\nAlso have Business Calendar 2 installed, and by default, this shows the time as 10am, but if I change Settings>Times>Use home timezone, to 'selected', it corrects the issue (but not the setting I want, as this will show ALL appointments in home timezone time. even when travelling...)\nPhone is fully updated (5 July, 2019)\nSolution appreciated.\nThanks, John.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-07-30T11:04:29.912421+00:00",
+    "reply": "4 Replies"
+}

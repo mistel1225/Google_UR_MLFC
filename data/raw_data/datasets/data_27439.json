@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/16153384/android-10-erroneously-indicating-roaming?hl=en",
+    "title": "Android 10 erroneously indicating Roaming",
+    "content": "My Pixel 3 XL phone, recently updated to Android 10, has been showing \"preferred system -- roaming\" for several days. I am not and Verizon confirmed that.  Roaming affects many phone behaviors and apps so I want it fixed :)\n\nAccording to Verizon CSR, \"Google is probably checking to see if the phone is connecting to the home SID, which you are not connected to. This is by definition roaming, but isnt what is traditionally referred to as roaming.\"  Whether that definition is correct or not, the diagnosis probably is.  \n\nNo network troubleshooting with Verizon corrected it including resetting network connections (erasing any downloaded SIMs) and reactivating the SIM.  Next step is to get a replacement SIM.  \n\nThis is new behavior with Android 10 as nothing else has changed on my end -- highly request a fix",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2019-10-06T13:59:19.900253+00:00",
+    "reply": "4 Recommended Answers"
+}

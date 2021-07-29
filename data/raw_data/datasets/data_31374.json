@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/5666600/photo-backup-to-different-account?hl=en",
+    "title": "photo backup to different account",
+    "content": "I have two Google accounts.  Everything gets backup to account #1 except photos which get backed up to account #2.  When I go to the backup settings, with either account, and look at the photos and videos, it will always say \"checking status...\".\nIn any event, I want to change the photo backup account to account #1.  I change it in the backup settings.  If I then open the photos app, there will be cloud with a line through it.  If I tap the cloud, I get a \"Backing up to a different account\" and the account that I want to backup to and a settings gear.  Tapping the gear just takes me to the settings where I can select either of my two accounts. There is no number displayed or anything that indicates a backup is being done.  If I look at My Drive, account# 2 has no backups at all.  Account# 1 has the backups I requested but no Photo backups.\nSo, how can I make it backup to the account that I want and get it working?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2019-05-07T17:04:54.868509+00:00",
+    "reply": "1 Reply"
+}

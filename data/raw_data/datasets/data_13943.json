@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/77960785/pixel-5-lte-advanced-not-working?hl=en",
+    "title": "Pixel 5 LTE Advanced not working?",
+    "content": "Hello,\nI have recently upgraded from a Pixel 2 to a Pixel 5.\nSince the switch I have observed that I can't seem to get a LTE Advanced connection (T-Mobile Germany) anymore.\nIt does not seem to be a problem with the carrier since I have tried putting the same SIM-card first into the Pixel 2 and then into the Pixel 5: I have even put the phones in exactly the same spot in my house... the Pixel 2 immediately shows the LTE+ symbol whereas the Pixel 5 only shows LTE and never switches to LTE+ (tried this several times). Download speeds are also significantly slower on the Pixel 5 (tested with Ookla Speedtest App; Pixel 2 with LTE+ about 30-35 Mbps, Pixel 5 with LTE about 12-15 Mbps).\nDoes anyone have an idea how to fix this?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
+    "post_time": "2020-10-19T21:26:47.030806+00:00",
+    "reply": "0 Replies"
+}

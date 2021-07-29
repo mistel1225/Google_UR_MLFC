@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/111562230/sip-calling-accounts-issues?hl=en",
+    "title": "Sip calling accounts issues",
+    "content": "Unable to select any of my SIP accounts to dial out.  Google phone displays the account selection dialog to choose an account however the two SIP accounts I have added both report \"No signal\" one account is with a big name SIP carrier provider and the other is my own personally built dedicated cloud server with full gigabit band with and absolutely not restrictions or blocks of any kind. There is absolutely no reason for any kind of connection issues to be reported. Incoming calls work just fine! I have configured these servers onto my freshly and pristine installation of android OS as well as many previous attempts on other phones and have had this issue as well as many other issues trying to use my SIP services on my phone. This problem has been an issue for every company that I know of that uses SIP as well as my own personal experience. When is google going to show this problem some attention? How can I disable google phone from pre-checking signal status or quality prior to allowing the use of sip carriers for phone calls?\n\nIf you search for \"sip calling\" in any of google's help fourums you will not find an single post, not 1 with a solution. Who cares what android touts as \"features\" on their phones if they don't work. Same applies for android device policies, it's all BS. I'm going to recommend iPhone at any of my clients from now on. They don't ignore issues like this for this long. If you're going to have the feature then fix it! if not, stop BSing and take it off so people know Android doesn't support SIP.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 5",
+    "post_time": "2021-05-28T19:22:51.7473+00:00",
+    "reply": "0 Replies"
+}

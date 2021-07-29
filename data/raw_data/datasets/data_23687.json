@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/26827065/how-can-i-get-the-navigation-bar-to-show-all-the-time-even-in-games-and-immersive-apps?hl=en",
+    "title": "How can I get the navigation bar to show all the time (even in games and \"immersive\" apps) ?",
+    "content": "When I run a full-screen (or so-called \"immersive\" app), if I want to access the notification drawer or the navigation bar (the 3 buttons at the bottom of the screen), I need to tap/drag the edge of the screen. In many apps, that causes the app to register an extra tap, and very often, this causes unwanted actions that I need to cancel (sometimes multiple times in a row because after canceling the action, I resume what I was trying to do, i.e. bring up the notification drawer or the navigation bar, and this causes one more unwanted tap).\n\nI found many posts and even apps promising to make the navigation bar disappear, but I would like to do the opposite: I would like the navigation bar to be shown all the time, so that I don't need the extra tap to access it (same for my notification drawer).\n\nIs this possible, and how?\n\n(I tried installing apps that provide soft keys using accessibility mechanisms, but they draw the soft keys on top of other applications. Then I need to constantly move the soft key bar depending on which app I'm using, since the extra soft keys hide a part or another of the running app UI, so it's not a viable option, unfortunately.)\n\nThanks!",
+    "is_img": 0,
+    "category": "Other, Google Pixel 4 XL",
+    "post_time": "2020-01-27T06:24:33.427658+00:00",
+    "reply": "3 Replies"
+}

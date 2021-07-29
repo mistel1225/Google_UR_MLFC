@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/14769511/pixel-3-blueline-volte-vodafone-cz?hl=en",
+    "title": "Pixel 3 (blueline) VoLTE Vodafone CZ",
+    "content": "I need enable VoLTE on Google Pixel 3 (blueline) phone for provider Vodafone CZ. I make some investigations about it:\n1. My operator (Vodafone CZ) provisioning VoLTE and VoWiFi without device/phone/vendor filtering.\n2. My sim card inserted into other phone (Nokia 4.2) registers into ims and on this phone VoLTE and VoWiFi works like charm.\n3. My sim card inserted into Google Pixel 3 do not register device into ims and VoLTE and VoWiFi do not works.\n4. If i extract content of current factory image for Google Pixel 3 there is partition vendor and on this partition is something what will be \"Qualcomm profile\" (configuration of phone part) for my operator (Vodafone CZ) and it is VoLTE configuration. Path to this file on vendor partition is: vendor.img/rfs/msm/mpss/readonly/vendor/mbn/mcfg_sw/generic/EU/Vodafone/VoLTE/CZ/mcfg_sw.mbn. I think that my Pixel 3 only do not know that there is this configuration file and do not load correct configuration for my operator.\n\nMy questions is:\nIt is possible that Google modify firmware for Google Pixel 3 (blueline) to enable VoLTE and maybe VoWiFi for my operator?\nIs there something what i can do for asked modification? Ask operator or anything else?\nIs there some reason why asked modification is not possible?\n\nThank You for any answers.\nDaniel",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-09-19T11:55:28.834064+00:00",
+    "reply": "6 Replies"
+}

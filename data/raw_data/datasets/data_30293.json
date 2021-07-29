@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/7936519/pixel-phone-bootloop?hl=en",
+    "title": "Pixel phone bootloop?",
+    "content": "My phone was on charge the other day, and would randomly stop charging and then start charging again; I assumed nothing of it and guessed the cable was maybe a little bit off. I come back to my phone around (if I recall correctly) an hour later to find it on the startup Google logo screen.\n\nI guessed it maybe crashed, so let it do its thing again. However, it kept doing this, showing a black screen, and then starting again. I then attempted to go into recovery mode, but it failed to boot that initially, and repeating the same results as with a normal boot. After some time, it eventually loaded normally! I put in my password, opened the phone, and after ~30 seconds, it froze and subsequently turned off, and tried to start again.\n\nI managed to get into recovery mode after this, and I did a factory reset. Upon booting, it did the same thing for a few times then showed the \"Hello\" page. Again, after about 30 seconds, it crashed and repeated the same thing again.\n\nI left it overnight to do this, and when I came in the morning I could set it up; after around a minute from fully setting it up, it crashed again!\n\nI have no clue what this issue is, I got this phone around February 2018, I didn't expect it to die so quickly.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2019-06-13T07:42:20.442985+00:00",
+    "reply": "1 Reply"
+}

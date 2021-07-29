@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/111858697/buttons-and-gesture-navigation-unresponsive-sometimes-flickers?hl=en",
+    "title": "Buttons and gesture navigation unresponsive, sometimes flickers",
+    "content": "On my Pixel 4a, when I try to navigate in 3 button navigation mode, the buttons are completely unresponsive. Sometimes if I push them repeatedly for minutes on end I can get one to go, but generally it doesn't work. I've had to exclusively use gesture navigation.  In this mode, the swipe up feature to go home also does not work, but the sideways swipe to go back does work. I can only navigate to the homescreen with voice commands.\n\nSometimes when I am in button navigation mode, the buttons will flicker, rapidly pressing themselves over and over again, making the phone completely unusable. In gesture mode, this manifests itself by the screen jittering from app to app, sliding left and right from one screen to another.  \n\nHere is a list of what I have tried:\n1. Changing between gesture and button navigation modes\n2. Restarting the phone\n3. Restarting the phone in safe mode\n4. Factory resetting the phone\n5. Updating to android 12\n6. Removing the screen protector\n\nAfter the update to android 12, navigation worked normally for about 15 minutes before the flickering started and then the buttons stopped working again. The two issues seem to be connected somehow. None of the other fixes did anything at all.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 4a",
+    "post_time": "2021-05-31T14:52:45.692212+00:00",
+    "reply": "1 Reply"
+}

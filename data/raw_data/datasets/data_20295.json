@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/55338760/ipv6-issues-neighbor-discovery?hl=en",
+    "title": "IPv6 Issues (Neighbor Discovery)",
+    "content": "I've been having intermittent with IPv6 connectivity on my Pixel 4 that seems to be isolated to the Pixel only. On some circumstances, the Pixel seems to refuse to response to IPv6 Neighbor Solicitations, from my router/other network devices, so devices are not able to send it packets.\n\nI have taken packet traces from my WiFi AP and from other WiFi devices which show the broadcasted Soliciations, but the AP never sees a response from the Pixel. Sometimes this seems to clear itself up, while other times it will go on for hours or even days.\n\nThis manifests itself as terrible performance in apps, as things attempt to communicate over IPv6 until it eventually times out since it cannot receive any packets in response.\n\n\nNote that my ISP/internal network was full native IPv6 support and other devices on the network are able to communicate using global IPv6 addresses to the geater web with no issue.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 4 XL",
+    "post_time": "2020-06-24T20:28:58.402337+00:00",
+    "reply": "0 Replies"
+}

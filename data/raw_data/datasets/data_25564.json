@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/22431933/battery-percentage?hl=en",
+    "title": "Battery Percentage",
+    "content": "When I unplug the phone at 92%, the battery meter jumps to 97% and when I unplug at 95%, it jumps to 100% and similarly, when I unplug at 88% it jumps to 93% (always a 5% increment). Strangely this behavior is replicable only above 80% charge. I once removed at 60% and it was at 60%. Anyone else having this issue and any idea if this is software or the real battery issue?",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 4 XL",
+    "post_time": "2019-12-10T08:09:48.828544+00:00",
+    "reply": "2 Replies"
+}

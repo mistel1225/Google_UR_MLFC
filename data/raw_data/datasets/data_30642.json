@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/6967817/the-gps-on-my-pixel-2-stops-updating-in-google-maps-and-other-third-party-apps-that-use-location?hl=en",
+    "title": "The GPS on my Pixel 2 stops updating in Google Maps and other third-party apps that use location.",
+    "content": "It appears, I can't say conclusively, that around the time of the May security update on my Pixel, GPS and location services intermittently stop updating. For example, apps that use the phone's location (Google maps-- both on the handset and android auto, mapmyride, ingress) will not change my location as I move around. Sometimes, google maps on android auto will update, but only around every 10-20 seconds, and will place my blue dot someplace random in the vicinity, nowhere near me. \n\nA restart will fix the problem, every time. But usually about once a day it comes back, requiring another restart. Very annoying. \n\nI've done the following: \nCleared storage and cache for apps that use locations.\nCleared storage and cache for Google Maps. \nTurned location services on and off, and set to \"high accuracy\" \n\nThanks for your help. I *really* don't want to have to factory reset my phone...",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-05-28T19:54:41.756846+00:00",
+    "reply": "6 Replies"
+}

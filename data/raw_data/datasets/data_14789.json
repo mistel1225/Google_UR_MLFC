@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/75540599/android-auto-won-t-display-maps-on-sync-after-android-11-upgrade?hl=en",
+    "title": "Android Auto won't display Maps on SYNC after Android 11 upgrade",
+    "content": "Good news, well sort of.\nI have everything working for me on my Pixel 2 phone after the v11 OTA upgrade.\nThe bad news is it took a fair amount of work.\nMy wife has an identical Pixel 2 phone as mine.\nI had upgraded to Android 11 in September but she had not. This is the only material difference between the two phones.\nMy previously fully functional link to my Ford SYNC 3 no longer displayed Google Maps AFTER the upgrade to v.11 .\n\nI tried her phone in my F-150 and it worked fine, first try after the normal setup.\nI could not downgrade to Android 10 easily, so I reviewed tech articles and decided on a Backup and Factory Reset (Erase all data on the phone ) and a selective restore from the backup. I didn't reinstall Android Auto with the other apps but rather reinstalled it from Google Play.\nAfter removing the phone from the SYNC and re-pairing and adding it back to Android Auto I was able to use the Google Maps function to display in SYNC.\nI will update you if other issues arise.\nHope this can help someone with similar issues.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2020-10-07T22:16:10.960177+00:00",
+    "reply": "1 Reply"
+}

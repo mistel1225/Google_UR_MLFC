@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/57418515/phone-connected-to-headset-via-bt-but-tones-and-icon-indicate-phone-speaker-until-connection?hl=en",
+    "title": "Phone connected to headset via BT, but tones and icon indicate phone speaker until connection",
+    "content": "tl;dr: Phone should gives some indication of BT-connected call *before* it begins dialing.\n===\nI find this maddening. \n\n1. My phone is connected to my headphones for calls (but I don't necessarily know that for certain).\n\n2. I begin dialing, but dialpad tones sound through the phone speaker, which makes me think I may not be BT connected. \n\n3. The icon that shows upon completion of the dialing shows the Speaker icon for a second before switching to the BT icon. \n\n4. So every time I dial, I have a heart-stopping moment of Uh oh, I'm not on bluetooth, I better rip these headphones off before someone answers!\n\nSounds trivial, but my headphones (Bose 700) are multi-device and switch from one sound source to another, so it's possible it's not a BT call. I'd like the dial tones to sound though BT (so I'm reassured my phone is actually using my headphones), and I'd like to see some visual confirmation *before* the call actually connects. I know I can check \"Connected devices\" before initiating each call, and that's what I end up doing because I'm paranoid. Often I start dialing, hear the tones issuing from the phone speaker, and see the Speaker icon, and hang up, check that I'm connected to my headphones (I usually am), and initiate the call again.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 2",
+    "post_time": "2020-07-06T14:21:25.141007+00:00",
+    "reply": "1 Reply"
+}

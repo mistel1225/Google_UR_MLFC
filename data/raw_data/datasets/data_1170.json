@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/112298316/pixel-5-latest-updates-cant-connect-to-802-1x-protected-wifi-cisco-wlc-2504-and-microsoft-npas?hl=en",
+    "title": "Pixel 5 Latest updates cant connect to 802.1x protected wifi Cisco WLC 2504 and Microsoft NPAS",
+    "content": "Tried importing my root ca and a user certificate then i go to the network put in TLS \nthen for the ca certificate it does not have my root certificate showing up as an option to select but the wifi cert is there and the user cert i select the one i uploaded\nit wont let me connect what do i do?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 5",
+    "post_time": "2021-06-04T04:46:50.10335+00:00",
+    "reply": "0 Replies"
+}

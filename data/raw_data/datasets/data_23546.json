@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/27808625/auto-hard-pause-with-saved-number-issue?hl=en",
+    "title": "Auto Hard Pause with saved number issue",
+    "content": "I have an issue when using a saved meeting number that had an auto Hard Pause followed by the meeting code.\nI have it formatted as XXX-XXX-XXXX;XXXXXXX#\nThis never dials correctly.\nHowever if I use the saved number without the meeting code XXX-XXX-XXXX then manually add the wait followed by the meeting code it works.\nattached are screenshots showing the saved number and results of the call.",
+    "is_img": 1,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 4 XL",
+    "post_time": "2020-02-05T22:02:31.999596+00:00",
+    "reply": "6 Replies"
+}

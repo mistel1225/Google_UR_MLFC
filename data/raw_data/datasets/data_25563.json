@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/22446748/could-a-system-app-update-be-causing-battery-problems?hl=en",
+    "title": "Could a system app update be causing battery problems?",
+    "content": "Ever since Beta 3 of the Android 10 Update, my phone's been shutting off early. It consistently shuts off around 30% However occasionally when using the camera app it also turns off as high as 70% \nSo far I've tried several different \"fixes\"\n• Adjusting battery settings\n• Looking for any apps using more battery than usual\n• Using the phone in safe mode to see if it still shuts off early (it does)\n• Factory Resetting the phone\n• Downgrading the phone to Android 9\n\nNone of these permanently solved the problem BUT surprisingly downgrading to Android 9 did solve the problem for about a day. It went all the way down to 0. I didn't download any other apps but the problem consistently started again so I was wondering if maybe it's an update to the system apps that may be causing the problems.\n\nI've read several articles about people with related issues and how it is probably related to an old battery. I'm not ruling that out as a possibility but seeing as the warranty time is up and it's not really feasible for me to get the battery replaced, I'm still searching for a solution on the off chance it isn't a hardware issue",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel",
+    "post_time": "2019-12-10T12:23:39.107168+00:00",
+    "reply": "0 Replies"
+}

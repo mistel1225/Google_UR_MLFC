@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/6943125/app-pop-ups-visible-but-invisible-to-touch?hl=en",
+    "title": "App Pop ups visible but \"invisible\" to touch",
+    "content": "This has happened in multiple apps.  But Spotify is a good example.\n\nAfter a while spotify pops up an ad for premium.  With dismiss at the bottom of the picture.  Faintly in the background around the edges of the picture ad, you can see the screen the ad is overlaying.\n\nNow I can touch dismiss.  But what happens is I touch the things in the background behind dismiss.  I can use the back button.  But the ad is still there, overlaying the new display for the app.  I can close spotify completely to make the issue go away.\n\nI get similar effects in other apps that pop up a screen/ad in front of the app.\n\nStrikes me like a driver/firmware issue where the display is hanging onto some graphics the app thinks it's closed.\n\nAny ideas.  Phone's out the box yesterday, and all updated.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3a",
+    "post_time": "2019-05-28T11:54:20.47134+00:00",
+    "reply": "1 Recommended Answer"
+}

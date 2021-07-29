@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/101519151/speakerphone-issue-when-using-bluetooth-watch?hl=en",
+    "title": "Speakerphone issue when using bluetooth watch",
+    "content": "I have a Pixel 5 now, but this issue also occurred with my previous Pixel 3, and possibly the Pixel 1, though I never investigated it more thoroughly.\n\nWhen my phone is bluetooth paired with my Samsung Gear S3 watch, and I make or receive a Duo video call, the bottom speaker won't activate despite the icon being appropriately highlighted on the screen.  The call's sound comes out through the upper speaker at a normal phone call level, obviously not loud enough for talking over video chat.\n\nThe problem is remedied by turning off bluetooth, even mid chat. Once bluetooth is off, the bottom speaker immediately turns on, usually with the volume set very low and needing to be turned up.\n\nI suspect there is an internal issue with identifying what speaker should be playing, because in regular phone calls the UI allows for a three-way selection of sound source: 1) Phone 2) Speakerphone 3) Bluetooth (watch); however in video calls there is only an off/on button for the speakerphone.\n\nI searched forums for anyone else experiencing this issue but did not identify it. Though I suspect this may just be because of the difficulty of describing the issue in a succinct enough manner to find the appropriate search keywords.\n\nIt is mostly just an annoyance as I can fix it as needed, but any solution would be appreciated, thanks.",
+    "is_img": 0,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 5",
+    "post_time": "2021-03-09T22:47:09.40187+00:00",
+    "reply": "0 Replies"
+}

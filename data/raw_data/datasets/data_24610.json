@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/24956875/pixel-4-is-randomly-rebooting?hl=en",
+    "title": "Pixel 4 is Randomly Rebooting",
+    "content": "I just got my Pixel 4 yesterday, and it was working great after importing all my data from my old phone (Original Pixel). But today I've been experiencing the following issues regularly:\n\nThe phone will randomly reboot\nCertain apps will stop working, and will sometimes crash when opened. This can also occasionally cause the phone to reboot\nThe phone will also sometimes get caught in a boot loop, where it restarts over and over and the only way to stop it is to force a restart by holding down the power button.\n\nThere is a security update available, but whenever I try to do it I get an \"Installation Failed\" error.\nI have tried the following solutions:\n\nRestarting in safe mode and trying the security update (update still fails)\nResetting the phone to factory defaults (update still fails)\nResetting the phone and not importing data from the old phone (Adding everything again manually)\nEnsuring that all apps are up to date\n\nI am not sure what else can be done apart from getting a replacement.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4",
+    "post_time": "2020-01-07T18:08:20.265985+00:00",
+    "reply": "1 Reply"
+}

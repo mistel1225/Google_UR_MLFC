@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/79760284/pixel-3-esim-not-functional?hl=en",
+    "title": "Pixel 3 eSIM not functional?",
+    "content": "Hi, I've ordered used Pixel 3 from Ebay USA seller, I don't remember exactly which network it used previously or was locked to. What I know is that it wad stated as fully unlocked, and considering the fact that now I'm using it with Georgian physical sim card, I can assume that it is unlocked.\nThe problem is when I try to download eSiM. As you can see from attached screen shots, there is a + sign next to a Mobile Network, if I press that and choose to download eSIM instead, camera activates and it's ready to scan a barcode provided by network provider, but after scanning it just hangs saying \"Checking network info\" and that's all (I even left it for a night). I've a good wifi signal during the process, also tried to repeat the process with removed physical sim, still no luck. \nThe strange thing is that, when I call to my network provider support they say that somehow a number is already registered and shows a status as activated. It means that my phone somehow has \"downloaded\" eSIM but I cannot see or use it. \nThen after some googling I've found this article:\nPixel 3: Phones bought with service from any US or Canadian carriers other than Sprint and Google Fi don't work with eSIM. Phones bought in Australia, Taiwan, and Japan also don't work with eSIM.\nCan you help me to identify to which network my phone was tied previously? Or is it still possible to \"fully unlock\" my phone so I can use eSIM functionality? ",
+    "is_img": 1,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2020-10-29T08:39:21.163983+00:00",
+    "reply": "1 Recommended Answer"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/110895288/pixel-4a-multi-touch-not-working-with-weird-solution?hl=en",
+    "title": "Pixel 4a Multi touch not working with weird solution",
+    "content": "Only 1 touch point is available rather than multiple touch. I suppose that is a hardware problem. \n\nSolution: \nStep1: Setting > System > Developer Mode > Input > 1. switch on touch response, 2. cursor location \n\nStep2: You should see a white spot & cross when you touch the screen, and the locus of motion. \n\nStep3: Now, go to lock screen & notice the top left corner.\n\nStep4: Turn your phone to horizontal position\n\nStep5: Push your screen really hard until the top left corner shows 2/2 or more",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4a",
+    "post_time": "2021-05-23T12:07:12.700624+00:00",
+    "reply": "0 Replies"
+}

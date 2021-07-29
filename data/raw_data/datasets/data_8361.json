@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/93594829/pixel-doesn-t-change-lte-to-3g?hl=en",
+    "title": "Pixel doesn't change LTE to 3G",
+    "content": "Hi. I found an issue. If device is connected to LTE without Internet connection it doesn't want change to 3G but 3G has good connection quality and has Internet. If i change to 3g manually (in Settings) i will have GSM and Internet but if LTE by default i will have GSM without Internet.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
+    "post_time": "2021-01-15T14:02:25.290102+00:00",
+    "reply": "2 Replies"
+}

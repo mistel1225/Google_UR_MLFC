@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1959728/in-the-stock-sms-program-my-character-counter-counts-the-same-character-as-a-different-value-help?hl=en",
+    "title": "In the stock SMS program my character counter counts the same character as a different value, help?",
+    "content": "The quickest way to show the problem is to type a message that approaches the 1st text limit. Once remaining characters are visible (3 remaining in this example) go to any \"space\" in the text and delete it and re-type it. Repeat repeatedly. One would expect, characters left count to go from 3 to 4 and back to 3. However, I notice about a 10% fail rate of counting the character correctly. 3 to 4 to 3 to 4 to 3 to 8 to 3 to 4. This leads to text messages that register as shorter/longer than actually displaying. This happens pretty reliably.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-03-01T13:24:11.81123+00:00",
+    "reply": "1 Reply"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/81495311/pixel-2xl-charging-bug-won-t-charge-strange-behavior-when-powered-off?hl=en",
+    "title": "Pixel 2xl Charging Bug- Won't charge, strange behavior when powered off",
+    "content": "Previous owner of the phone reported that the phone would no longer charge. He booted it up sometime later and it was functional.\n9 months later, I'm getting the same issue. The phone suddenly would not recognize that it was plugged in. Turned the phone off and plugged in. Charging symbol appeared (battery w/ lightning bolt) approximately 3 seconds. Then the top of the screen would fill with multicolored white (ranging from green to pink) pixels, and the symbol would turn to a grayed out solid battery (no lightning bolt), approximately 3 seconds. Then the screen would turn completely black, and it would begin again.\nBacked up data, performed a factory reset, but the problem remained.\nWhen I swapped back to the OEM cable (two months ago, phone had refused this cable (full charge in 6 hours), and swapping cables returned it to normal charging habits) The phone recognized the charger, gave haptic feedback, and began charging. 30 seconds later, it powered off and reverted to the strange symbol behavior.\nI have cleaned the port, and, at the advice of some forums, raised the phone's temperature above 20°. Neither have produced different results.",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 2",
+    "post_time": "2020-11-07T09:57:29.29724+00:00",
+    "reply": "0 Replies"
+}

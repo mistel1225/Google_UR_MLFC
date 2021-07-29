@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/105109288/pixel-4a-won-t-boot-and-pixel-repair-usb-site-doesn-t-recognize-my-carrier?hl=en",
+    "title": "Pixel 4a won't boot and Pixel Repair USB site doesn't recognize my carrier",
+    "content": "My phone unexpectedly and abruptly rebooted yesterday morning (April 4th) and now after about 2 minutes of the boot animation running places me on a screen that says \"Cannot load Android system.\"\n\nI am really not looking forward to a factory reset and data wipe because I have ~25 two-factor auth secrets stored in Google Authenticator and it's quite a significant effort to redo all of that.\n\nI know other people have faced this issue so I tried a few things, rebooting into recovery mode and sideloading the latest OTA update (March 2021) from https://developers.google.com/android/ota which did complete successfully according to ADB and output on the device itself, but did not resolve the failure to boot Android.\n\nSo first set of questions: is it possible that the April OTA update has caused this? I don't think I downloaded the April OTA update on my Pixel but maybe it was downloaded automatically? When will the April OTA update be posted so that I can try sideloading that?\n\nMy second question is related to the apparently new Pixel Repair USB-enabled web app available here: https://pixelrepair.withgoogle.com/. I have tried going through the steps there, and everything seems to work fine and USB is connected but despite having purchased my device through Google Fi the site refuses to believe me (see screenshot). Has anyone else had success using this Pixel Repair tool with a Pixel device purchased from Google Fi?",
+    "is_img": 1,
+    "category": "Other, Google Pixel 4a",
+    "post_time": "2021-04-05T15:21:43.628058+00:00",
+    "reply": "5 Replies"
+}

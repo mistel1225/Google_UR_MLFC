@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1277204/text-msg-request-fails-using-google-assistant-oops-can-you-try-again?hl=en",
+    "title": "Text msg request fails using google assistant \"Oops... Can you try again?\"",
+    "content": "When not connected to my car via Android Auto, using Google Assistant and asking \"send text msg to 'name'\" the GAsst answer is \"Oops... Can you try again?\" When connected to Android Auto and same request is made, the response is \"Huh, there seems to be a problem.\" I can receive calls and text msgs both when in car (via AA) and not connected to car. I can also use GAsst to make calls (\"ok google, call 'name' at home\"). So the problem seems isolated to the text msging.",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel",
+    "post_time": "2019-01-25T17:23:11.023797+00:00",
+    "reply": "10 Replies"
+}

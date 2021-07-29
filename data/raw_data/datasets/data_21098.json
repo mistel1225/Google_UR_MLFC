@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/48297940/gestures-require-two-gestures-to-work?hl=en",
+    "title": "Gestures require two gestures to work",
+    "content": "In last few days the back gesture on my Pixel 4 has started to require me doing the gesture twice to work. First gesture opens just shows some grey bar at the bottom of the screen (see screen shot). While that bar is visible and I do the back gesture again, it works.\n\nThis happens across all apps, but not in Safe Mode. I did clear cache on Google Play, Pixel Launcher, restarted phone, but no help. \n\nSame behavior is with Assistant gesture from bottom corner, it requires two gestures. Also simple swipe from bottom to open app list behaves the same and requires two swipes as first it just shows the bottom bar.\n\nAny tips how to pinpoint the reason for this? Some recent app update maybe, but how can they affect all screens on the phone? I did uninstall Swiftkey as a test, but no change.",
+    "is_img": 1,
+    "category": "Homescreen and Launcher, Google Pixel 4 XL",
+    "post_time": "2020-05-21T18:46:08.79448+00:00",
+    "reply": "1 Recommended Answer"
+}

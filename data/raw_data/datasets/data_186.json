@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/114524724/issue-charging-phone?hl=en",
+    "title": "Issue charging phone",
+    "content": "I have a new Verizon branded ixel 4a 5G. I like the form factor and the phone. But there is an issue when I try to charge it. I will describe the issue after I explain the steps that I have gone through:\nRestarted the device (cold start)\nStarted the device in Safe mode\nFactory reset the device (based on email from Google support)\nUninstalled several applications\n\nThe issue is as follows. When I plug the phone into the wall to charge, it does not charge. I am using the original cable. If I go into settings and look for the USB settings, the item for \"controlled by\"  \"connected device\" is often active. Sometimes when I attempt to switch to \"This device\" it switches and charges OK. Sometimes it refuses to switch. And occasionally, even when the phone is plugged in, both \"Connected device\" and \"This device\" are grayed out. The strange effect is that I do not connect the phone to a PC.\n\nIn conducting another experiment, it appears to matter which way up I insert the charging cable. Insertimg the cable one way up, the phone charges fine (does not switch to \"USB controlled by Conneted device\". However inserted the other way up it either reverts to USB controlled by Connected device, or it simply does not detect that a cable is plugged in at all.\n\nI have tried with other USB-C cables (purchased from Verizon), and the behavior is consistent. \n\nThis has been happening quite consistently for several weeks. Does anyone have any thoughts as to why?",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 4a (5G)",
+    "post_time": "2021-06-22T18:14:01.60397+00:00",
+    "reply": "1 Reply"
+}

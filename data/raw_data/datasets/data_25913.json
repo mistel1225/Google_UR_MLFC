@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/21438810/want-to-put-your-own-mp3-s-on-a-pixel-3-but-having-issues-try-this?hl=en",
+    "title": "Want to put your own mp3's on a pixel 3 but having issues? Try this!",
+    "content": "I found some articles that suggested the the ringtone had to be both in the Pixel 3a/Ringtones folder and the Pixel 3a/Android/media/com.google.android/Ringtones folders.  My phone does not have a com.google.android folder, instead it has a com.google.android.soundpicker folder.  \nWorking off the theory that the underlying issue is the Sounds app is not playing nicely with the native Android setup, I decided to try manually adding a Ringtones folder in the Pixel 3a/Android/media directory, and placing the file both there and in the \"official\" Ringtones folder, then restart the phone, and that got it to work.\n\nI suspect there was a release where someone updated the app but missed updating a folder path in an associated file.  Since I had tried a bunch of other stuff before adding the new folder, I was going to do some regression testing to confirm exactly where all the files needed to be, but got sidetracked.\n\nHope this is helpful.  Copied from Brian Hassler, buried under another post.",
+    "is_img": 0,
+    "category": "Setting up and Personalizing your Device, Google Pixel 3",
+    "post_time": "2019-11-29T02:13:21.498711+00:00",
+    "reply": "1 Reply"
+}

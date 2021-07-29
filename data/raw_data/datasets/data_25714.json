@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/14729594/android-10-bug-%E2%80%93-app-switcher-creates-ghost-app?hl=en",
+    "title": "Android 10 bug – App switcher creates \"Ghost\" app",
+    "content": "My pixel updated itself to Android 10 this morning. I was saddened to almost immediately notice a bug:\n1. Run an app (eg. Clock).\n2. Touch \"Back\" button to exit app.\n3. Touch \"App Switcher\" button to see app still running.\n4. Swipe up to \"kill\" app.\n5. Touch \"App Switcher\" button to see app still running – or is it?\n6. Touch app to receive message \"App isn't available\".\nThe app has become a \"ghost\"!\nIt gets weirder:\n7. Run another app.\n8. Touch \"App Switcher\" button. Watch as second app screenshot shrinks, then morphs into that ghost app.\n9. Touch app to again receive message \"App isn't available\".\nSo far, nothing else seems broken, and this isn't serious for me. It's just unsettling that something is noticeably unwell and reducing my faith in my previously trusty Pixel.",
+    "is_img": 0,
+    "category": "Homescreen and Launcher, Google Pixel",
+    "post_time": "2019-09-18T23:23:57.304623+00:00",
+    "reply": "8 Replies"
+}

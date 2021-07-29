@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/14099427/headphone-clicker-doesn-t-work-reliably-when-phone-is-locked?hl=en",
+    "title": "Headphone clicker doesn't work reliably when phone is locked",
+    "content": "I have a fairly standard wired headphone with one of those clicker buttons to resume music/podcasts.\n\nIf the phone is unlocked, it works perfectly to both pause and resume music.\n\nWhat I've noticed is that if the phone is locked, the clicker doesn't work reliably to resume playing.\n\nWhat is odd is that if I click and then interact with my phone (e.g. lift it up, press a volume button), even when it's still locked, the click then registers.\n\nE.g. it's something like:\n\n1. I click the headphone clicker to stop my music (works perfectly)\n2. I wait a while (e.g. a minute)\n3. I click the headphone clicker to resume my music - Nothing happens\n4. I press the volume button on the phone, or move it around\n5. Instantly the click gets registered and my music plays.\n\nThis used to work perfectly with Pixel 1 (and various Nexus phones before that).\n\nI'm wondering if it's some kind of power saving feature? Maybe my apps are asleep and interacting with the phone briefly wakes them up to handle the click?\n\nI've seen this behaviour in both Spotify and BeyondPod.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3a",
+    "post_time": "2019-09-11T09:02:05.699079+00:00",
+    "reply": "0 Replies"
+}

@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/12723685/got-bootloop-with-my-pixel-1st-gen-because-of-my-ignorance?hl=en",
+    "title": "Got bootloop with my Pixel (1st gen), because of my ignorance.",
+    "content": "About a month ago, I rooted my Google Pixel.    It went well.  But with bootloader unlocked, a warning screen message shows up upon booting and I didn't like it, so I re-locked bootloader by turning of \"OEM Unloking\" in Developer options!!    I should have done \"fastboot oem lock\".\n\nSince then, my Pixel got bricked.    Trying to turn it on, it enters bootloop.    With \"Volume down + Power\", I can enter fastboot mode, but fastboot can do nothing like \"fastboot boot twrp.img\", \"fastboot oem unlock\", \"fastboot flash recovery twrp.img\"....everything fails because they are not \"allowed.\"\n\nSo what can I do?\n\nAfter that I got the idea of re-locking in developer option was too bad.   I rooted two Xperias and a Cubot x15  (Chinese android) and knew changing developer option is important and difficult if the phone isn't on.\n\nSo anyone knows any remedy?    I'm in Japan, and the only repair shop in Japan handles only Pixel 3 series.   I bought mine at ebay from the U.S.    So I need help, even in a foreign country.\n\nThanks in advance!",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2019-08-24T13:32:35.48511+00:00",
+    "reply": "5 Replies"
+}

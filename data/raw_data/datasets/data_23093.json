@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/29037052/pixel-2-xl-in-boot-loop-trying-to-install-ota-image-but-terminal-isn-t-recognizing-device?hl=en",
+    "title": "Pixel 2 XL in boot loop - trying to install OTA image but Terminal isn't recognizing device",
+    "content": "I have a Pixel 2 XL that just went into a boot loop yesterday. I am hoping I don't need to factory reset as there are a ton of precious photos on there that aren't backed up (shame on me!).\n\nI am going through the recovery steps of installing an OTA image and have installed ADB and fastboot on my Mac, but my issue is that when I type in the command \"adb devices\" in Terminal I keep getting the \"command not found\". I have made sure that when I am doing this my phone is the Apply Update From ADB state.\n\nWhen my phones plugged into the USB of my computer it isn't recognized in the size bar of the Finder, but when I go to About this Mac and then select System Report and look at the USB Device Tree section it displays Pixel 2 XL (only when my phones in Apply Update from ADB State is it recognized there). I have tried a different cord on a different Mac and the same thing happens (only recognized in the USB Device Tree section).\n\nHas anyone else experienced? If so, is there a way to reconcile? Thank you in advance!",
+    "is_img": 0,
+    "category": "Other, Google Pixel 2",
+    "post_time": "2020-02-18T03:20:51.909901+00:00",
+    "reply": "1 Reply"
+}

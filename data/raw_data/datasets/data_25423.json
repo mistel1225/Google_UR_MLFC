@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/22746322/pixel-3a-video-seems-to-take-crazy-amounts-of-storage?hl=en",
+    "title": "Pixel 3a video seems to take crazy amounts of storage",
+    "content": "I recorded a video earlier on my Pixel 3a with settings of 30fps, video-stabilisation on, 4K off and using the H.265 codec.\n\nI recorded about 6 minutes 30 seconds and the resulting video file is 0.91GB (922.7MB)!\n\nI then did two test videos, each 10 seconds, and using H.265 it came to 24.8MB and with H.264 gives a file-size of 28.8MB.\n\nNearly 30MB every 10 seconds seems crazy to me. Anyone else get this on their Pixel 3a? Is this a bug in the Google Camera app? Or is this normal?\n\n(In contrast, if I take a regular photo, each file is around 1.5MB each, on average, which is totally normal to me.)\n\nThanks!",
+    "is_img": 0,
+    "category": "Camera, Google Pixel 3a",
+    "post_time": "2019-12-13T16:06:48.222674+00:00",
+    "reply": "0 Replies"
+}

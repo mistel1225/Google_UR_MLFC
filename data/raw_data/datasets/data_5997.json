@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/100281426/alarm-routines-not-working?hl=en",
+    "title": "Alarm routines not working",
+    "content": "I'm having a persistent issue where the routines I have set up to run after my alarm do not run. I dismiss my alarm and nothing happens. The only thing that consistently works to ensure the routine runs is if I clear the cache a few minutes before the alarm goes off. This obviously isn't a real solution though, since it would require me to wake up before my alarm goes off every day.\nThis has been going on for months. I've tried updating, clearing cache, reinstalling, or removing recent updates to the Google and Clock apps with no success. I tried clearing the cache immediately before going to sleep, no success. I tried disabling Digital Wellbeing, and that seemed to work for a few days, but this morning my routine again didn't run. Everything I've tried either does nothing or gives me a few days with a working alarm routine before going back to routines not running.",
+    "is_img": 0,
+    "category": "Google Assistant and Voice Actions, Google Pixel 3a",
+    "post_time": "2021-03-01T15:27:31.1473+00:00",
+    "reply": "0 Replies"
+}

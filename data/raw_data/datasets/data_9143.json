@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/91617446/remaining-battery-charge-and-battery-usage-don-t-add-up-to-100?hl=en",
+    "title": "Remaining battery charge and battery usage don't add up to 100%",
+    "content": "When I check the battery usage at, lets say 50% remaining battery level I would expect that all apps listed in the \"Battery usage\" sum up to a 50%, so that together its 100%.\n\nPercentages on my phone never sum up to 100% (usage of all apps is only about 20% at 50% of battery level), suggesting that some usage is unregistered by the app.\nIt's it correct and the system is actually not recorded as battery usage?",
+    "is_img": 0,
+    "category": "Battery and Power",
+    "post_time": "2021-01-02T08:49:41.789069+00:00",
+    "reply": "1 Recommended Answer"
+}

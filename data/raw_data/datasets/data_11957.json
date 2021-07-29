@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/83477083/issues-with-pixel-5-bluetooth-playback-in-car-audio?hl=en",
+    "title": "Issues with Pixel 5 Bluetooth playback in car audio",
+    "content": "The Bluetooth audio in my car from my Pixel 5 does a strange thing: instead of smooth playback, I get two seconds of silence followed by two seconds of audio, with the audio being sped up like it was catching up from the period of silence. This is constant through any audio stream (Pandora, YouTube, Google Maps navigation, my own music files, etc.), and it only happens through my car's UConnect audio system (regular Bluetooth headphones do not exhibit this issue). My previous Android phones (like the Essential Phone, which was running Android 10) had no issues playing back audio. Are there some Bluetooth settings that need to be adjusted, or would this be a bug requiring a software fix?",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 5",
+    "post_time": "2020-11-17T15:23:29.273854+00:00",
+    "reply": "0 Replies"
+}

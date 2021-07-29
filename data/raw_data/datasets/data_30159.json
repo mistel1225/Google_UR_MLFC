@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/8315462/google-pixel-3-freezes-when-unlocking-it-from-sleep-using-the-fingerprint-scanner?hl=en",
+    "title": "Google Pixel 3 freezes when unlocking it from sleep using the fingerprint scanner",
+    "content": "I recently purchased a Google Pixel 3 phone, which have worked perfectly until a few days ago. The problem is extremely annoying, since it takes 30-60 seconds to unlock the phone from sleep mode.\n\nThe problem is as follows; when I want to wake the phone from sleep mode by using the fingerprint scanner, the screen goes black and does not come back to life until after 30-60 seconds. It is my impression that the phone recovers faster, if I press the power button a few times to activate the camera. After the phone recovers from the freeze, it is working fine. However, in most cases the phone displays the message \"System UI doesn't respond\". Once the phone goes back into sleep mode, the problem arises again.\n\nThe phone is up to date running Android v9, 5th June 2019, and there is still 75% free storage space left.\n\nI have tried to reset the app preferences and also in desperation done a complete factory reset, but the problem still persists. If I start the phone in safe mode, the problem still persists. Some posts mention that deactivating the Digital Health App could resolve the issue, but it did not work either.\n\nPlease help.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 3",
+    "post_time": "2019-06-19T12:28:59.920555+00:00",
+    "reply": "1 Recommended Answer"
+}

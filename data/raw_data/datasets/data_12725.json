@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/69916905/when-i-open-the-keyboard-in-messages-setting-a-toast-notification-saying-null-pops-up-on-the-bottom?hl=en",
+    "title": "When I open the keyboard in messages/setting, a toast notification saying null pops up on the bottom",
+    "content": "UPDATE:\nMAJOR THANKS TO KEITH WHO SOLVED THE PROBLEM. THE ISSUE IS DUE TO FIREFOX LOCKWISE. UNINSTALL THE APP AND IT WILL GO AWAY.\nEvery time I open up a google app (settings, play store, messaging, etc) and use the keyboard, a little toast notification (grey/white bubble at the bottom of the screen) pops up and covers the keyboard for a few seconds saying null. Every time without fail, a little bubble, and the word null. It happened right after I upgraded to android 11. It's very annoying.\nDevice: Pixel 4a\nOS: Android 11",
+    "is_img": 0,
+    "category": "Homescreen and Launcher, Google Pixel 4a",
+    "post_time": "2020-09-08T22:44:49.112626+00:00",
+    "reply": "1 Recommended Answer"
+}

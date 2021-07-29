@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/6425188/screen-won-t-sleep-after-hey-google-answered-by-another-device?hl=en",
+    "title": "Screen won't sleep after \"Hey Google\" answered by another device",
+    "content": "Hello,\nI've got a Google Home and a Pixel 2 XL.\nWhen I say \"Hey Google\", both devices wake and the Google Home appropriately answers.\nThe issue is that sometimes my Pixel 2 XL's screen will not go back to sleep.  I believe it's when both devices can detect the \"Hey Google\" prompt but only the Google Home was able to make out my subsequent command because my voice wasn't loud enough for the Pixel at least to hear.  As a result, the phone remains on the Google Assistant listening screen (but it's not really listening because it won't transcribe any dictation) and it won't sleep until I manually tap the screen.  I've found my screen on like this for hours at a time.\n\nWhen both devices detect the \"Hey Google\" AND the subsequent command, there's no issue.  The phone displays that it's answering on another device and the screen promptly sleeps thereafter.\nThanks for any assistance.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 2",
+    "post_time": "2019-05-19T16:46:31.729224+00:00",
+    "reply": "1 Reply"
+}

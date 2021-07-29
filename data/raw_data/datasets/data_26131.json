@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/18696469/the-search-in-phone-book-returns-duplicate-contacts-but-in-contacts-app-there-are-no-duplicates?hl=en",
+    "title": "The search in phone book returns duplicate contacts, but in contacts app there are no duplicates.",
+    "content": "In the phone app when I search for contacts the search returns duplicate contacts.\n\n\n\n\nI search the contacts app and there are no duplicates. So my phone book has no duplicates.\n\n\nI cleared the cache for the phone app and the search returned the same duplicates.\n\nI cleared the storage for the phone app and this resoles my problem. No more duplicates.\n\n\nBut after a few minutes, the search begins to return duplicates again and I have to clear the storage again.\n\nI mention that everything is updated, including the November patch.\nIn the time I did the screenshots I did not call any of the contacts.\nFor the contacts I use google account.",
+    "is_img": 1,
+    "category": "Contacts, Calls, Voicemail, Google Pixel 4",
+    "post_time": "2019-11-06T08:53:12.17412+00:00",
+    "reply": "1 Recommended Answer"
+}

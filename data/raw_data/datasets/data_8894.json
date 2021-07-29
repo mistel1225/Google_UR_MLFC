@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/92511966/pixel-3-4-december-2020-update-wpa2-enterpise-can-no-longer-connect-android-system-update-11?hl=en",
+    "title": "Pixel 3/4 December 2020 update & WPA2 Enterpise. Can no longer connect. Android System update 11",
+    "content": "Now that the December 2020 update is here, on the Pixel 3 and 4 phones, google has taken the option away to \"DO NOT validate\" the certificate for the WPA2 Enterprise SSID, in preparation  for WPA3,  while forcing the user to \"use system certificates\", and only allowing Android not to validate under the  Online certificate status. I received the update on Dec 5, 2020, and could not connect to WPA2 Enterprise wireless after that, while happily doing it before the update. The problem happens with the new Android System 11 update and support for WPA3.  Our School Enterpise Network does have a certificate on it's NPS server, and all Apple iOS, Chromebooks and windows devices, connect to the system no problem and support certificate pinning.  Android does NOT support certificate pinning.  So the question is, what new combination of settings for PIXEL 3/4 do I need to Validate the SSL cert on Android System update 11, and connect to or WPA2 Enterprise Wireless?\n\nI tried SEVERAL combinations, of old settings that worked, and new settings, with the DOMAIN section (which should be the DNS name of the CERT) to try and validate the certificate and get on the network.  ANy suggestions.  The NPS certificate is issued by the WIndows DC, and signed by it for the NPS server and is good until May 2021.\n\nIt should be noted not all Android devices have taken this update yet..which complicates maters.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2021-01-08T00:35:30.564408+00:00",
+    "reply": "1 Recommended Answer"
+}

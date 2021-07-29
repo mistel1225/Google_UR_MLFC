@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/15403693/android-10-notification-sometimes-lots-of-empty-space-won-t-dismiss?hl=en",
+    "title": "Android 10 Notification sometimes lots of empty space, won't dismiss",
+    "content": "I have an issue since upgrading my Pixel XL to Android 10: every now-and-then my notifications will take up half the screen when I pull down my notification drawer, and they can't dismiss (even though they should be dismissable) Also when scrolling through the notifications, it seems like this \"empty white space\" will weirdly stay static and cut off the text of the notification window, as so:\n\nView the video: https://drive.google.com/open?id=1ZEsiPQTmTq-hvzv3f57opKWK607fGve7\n\nIs there any way to fix this? Restarting my phone doesn't work. I don't know how to reproduce it, but it happens a few times a week.",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2019-09-26T23:54:15.586649+00:00",
+    "reply": "13 Replies"
+}

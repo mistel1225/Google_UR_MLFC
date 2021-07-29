@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/92259093/how-fast-does-a-pixel-4-xl-battery-charge?hl=en",
+    "title": "How fast does a Pixel 4 XL battery charge?",
+    "content": "I've been trying to determine if my Pixel 4 XL charges at a \"good\" rate.\nIn the 10-50% charged range, it charges pretty consistently 1% increase per 36-38 seconds.\nIs that ok?  Good?  Bad?\n\nThe battery is documented as 3700 mAh.\nI assume that number is for 3.7V.\n\nI hope I'm not publicly embarrassing myself with a simple error in my arithmetic...\n\nI did a naive calculation based on above and arrive at,\nif the 18W charging was 100% efficient,\ncharging would increase 1% per 27.4 seconds.\n\n\nComparing with my 36-38 seconds instead,\nI'm getting only 13W effective results.\n\nOr said in terms of efficiency, I'm getting only approx 72% efficiency.\n\nPardon my geeky question.  But I'm wondering.\nIs 72% efficiency reasonable?\nIs 36-38 seconds to raise battery charge by 1% pretty average for this battery+phone?\n\nMaybe some readers will time their phone battery charging and post their results, please.\nThanks",
+    "is_img": 0,
+    "category": "Battery and Power, Google Pixel 4 XL",
+    "post_time": "2021-01-06T12:36:29.165953+00:00",
+    "reply": "14 Replies"
+}

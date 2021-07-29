@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/70759134/camera-app-closes-immediately-after-opening-it?hl=en",
+    "title": "Camera app closes immediately after opening it",
+    "content": "my device is Pixel 3xl, after upgrading to android 11, if i open google camera app it closes immediately without any feedback message also all apps now can't access the camera.\ntried to install 3rd party camera app but i end up with this error message: \nFailed to open camera.\ncamera maybe in use by another application?\n\nsolutions that i tried:\n1. clear cache and storage then force stop camera app.\n2. restart in safe mode.\n3.reset app preference\n\nyour help and support is highly appreciated.",
+    "is_img": 0,
+    "category": "Camera",
+    "post_time": "2020-09-12T19:38:54.449031+00:00",
+    "reply": "1 Recommended Answer"
+}

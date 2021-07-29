@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/9696651/activate-volte-support-for-orange-romania?hl=en",
+    "title": "Activate VoLTE support for Orange Romania",
+    "content": "Hello,\n\nI have spoken to an Orange representative and they've triggered a provision for VoLTE (only VoLTE, he said that Wifi Calling is not provisioned for the Pixel 3 yet). \n\nThe SIM itself is working with VoLTE as using it into a different Samsung phone works. But on the Pixel 3 I cannot get the menu item in settings to enable \"Enhanced 4G LTE mode\". \n\nFurthermore in the *#*#INFO#*#* Phone Information menu, the \"VoLTE Provisioned\" option is greyed out and going into IMS Service Status, I see \"Voice over LTE: Unavailable\". Both screenshots attached.\n\nI have manually added the IMS APN required for IMS Registration, but the phone does not want to use it. I have double checked with Orange Romania and they told me VoLTE should work on the Pixel 3!\n\nPlease advise on how to enable this.\n\nRegards,\nIonut",
+    "is_img": 1,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3 XL",
+    "post_time": "2019-07-11T16:53:03.668378+00:00",
+    "reply": "11 Replies"
+}

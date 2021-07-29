@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1727833/connect-to-a-lan-only-wifi-network?hl=en",
+    "title": "Connect to a LAN only Wifi Network",
+    "content": "This issue has been going on for awhile and I've had two support chats over the span of a couple months to see if my first feedback report got resolved.  So in a nut shell. I'm trying to set up wifi smart devices. The way these devices work is they create a wireless AP that has no internet access (LAN network) that you need to connect to in order to give the smart device your home wireless info. The problem is when I connect to any network that doesn't have internet access I get booted off after 3-10 seconds because the network doesn't have internet, And then the phone automatically connects to my home wireless that has internet. Both Yeelight and Magiclight products I've encountered this issue. I've tried forgetting and reconnecting to my networks in different orders, I've tried click the stay connected when the popup for no internet comes up, I've tried resetting the phone, I've looked for options in Advanced Wireless and in Developer and found nothing. I thought I recalled in previous versions of android having a checkbox like 'Check for internet Access' but I could be wrong. If anyone could provide insight or explain why my phone shouldn't be allowed you connect to a wireless network that doesn't have internet. It would be very much appreciated.",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 2",
+    "post_time": "2019-02-19T02:22:29.015043+00:00",
+    "reply": "0 Replies"
+}

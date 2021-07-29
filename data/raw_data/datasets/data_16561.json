@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/71021478/android-11s-select-text-feature-not-recognizing-different-languages-when-copied-to-clipboard?hl=en",
+    "title": "Android 11s select text feature not recognizing different languages when copied to clipboard",
+    "content": "When I used the new select feature in the recent apps screen to select cyrillic (Russian) text (which the select tool recognizes and highlights) I noticed that android 11 uses english letters when the selection is copied to the clipboard.\n\nIs there a setting that will make the new select feature recognize cyrillic (or any other language other than english)?\n\nIf not then I'd assume this is a defect because selecting text via the keyboard works with any language I throw at it.",
+    "is_img": 0,
+    "category": "Other, Google Pixel 4 XL",
+    "post_time": "2020-09-14T07:03:32.378549+00:00",
+    "reply": "0 Replies"
+}

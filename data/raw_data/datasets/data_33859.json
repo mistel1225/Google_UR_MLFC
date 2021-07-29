@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/1880316/now-playing-not-working-consistently?hl=en",
+    "title": "Now Playing not working consistently",
+    "content": "Hey,\n\nI got my Pixel a few days ago and noticed that Now Playing is almost never working. In 6 days, it only detected 1 song, while at least 10 others should have been detected (most of them are pretty well-known, so probably exist in the offline database). \nFurthermore, if I try to add the History widget to my home screen, it will just bring up the popup window saying that Pixel Ambient Services keep closing. If I'm in a launcher, it will make it crash, and if in the Pixel Launcher, it'll just do nothing after I close the window.\nI tried changing the notification and lock screen access for Ambient services, uninstalled and reinstalled the service, but nothing changes.\n\nAny idea ? Thx",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-02-26T09:04:35.149127+00:00",
+    "reply": "1 Reply"
+}

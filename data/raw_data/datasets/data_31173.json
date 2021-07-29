@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/5972507/pixel-phone-keeps-showing-system-process-has-stopped-responding-and-crashing?hl=en",
+    "title": "Pixel phone keeps showing \"System Process has stopped responding\" and crashing.",
+    "content": "My Pixel XL 32GB has started crashing randomly.\n\nKeeps showing \"Process System has stopped responding\" and asking to close, wait or send feedback.\n\nI've tried resetting, factory resetting, flashing factory image via fastboot, nothing fixes it. Phone becomes unstable within 5 minutes of power on and freezes. Brightness goes to all high, and phone gets disconnected from ADB. Only thing it responds to is a hard reset.\n\nNow the only thing that works is putting it in safe mode.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel",
+    "post_time": "2019-05-12T08:23:44.094271+00:00",
+    "reply": "1 Reply"
+}

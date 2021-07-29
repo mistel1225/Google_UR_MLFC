@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/63526856/unable-to-install-android-8-1-or-newer-android-versions-on-pixel-sailfish?hl=en",
+    "title": "Unable to install Android 8.1 or newer Android versions on Pixel (Sailfish)",
+    "content": "Hi,\n\nAfter I manually erased all the partitions on my Pixel (Sailfish) by using fastboot erase < name of the partition) on bootloader screen (please don't ask me why I did that :-| ) , I am not able to install Android 8.1 or any newer Android versios on that. I can install only Andorid 7.11 to 8.0 versions from google factory image site.\n\nif I install Android 8.1 or newer version, the device constantly reboots and sometimes stops in stock recovery or on the bootloader screen. I have tried pretty much everything with no sucess. Before erasing partitions, phone was working fine with Android 10 with December 2019 updates.\nI will be ok and satisified if I can at least get Android 8.1 with July 2018 updates. Can someone please help me figure out what the heck is wrong with my device. There is no physical, or electrical damage on the device whatsoever.\n\nThanks.",
+    "is_img": 0,
+    "category": "Other, Google Pixel",
+    "post_time": "2020-08-08T01:16:57.037923+00:00",
+    "reply": "1 Reply"
+}

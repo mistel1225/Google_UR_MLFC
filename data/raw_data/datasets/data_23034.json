@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/29360431/the-gmail-app-won-t-fetch-new-mail?hl=en",
+    "title": "The Gmail app won't fetch new mail",
+    "content": "The Gmail app on my Pixel 3a suddenly stopped to fetch new mail until I opened the app and pulled to refresh manually. First yesterday, I \"fixed\" it with the deletion of the app's data and updates, reloading the actual version followed by a fresh setup. \n\nThat worked until this morning. The app stopped again fetching new mail until I open the app and do a manually refresh. \n\nThere is no network issue. As my iPhone is next to me it will fetch new mail with the iOS Gmail app immediately as the new mail arrives at the server. Same goes to my Chromebook and the Gmail web version.\n\nOnly the Android Gmail app makes that trouble. \n\nSadly there is no option to reach out to the apps developers, so what can we do? \n\nRegards\nTom",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3a",
+    "post_time": "2020-02-21T06:11:10.045279+00:00",
+    "reply": "3 Replies"
+}

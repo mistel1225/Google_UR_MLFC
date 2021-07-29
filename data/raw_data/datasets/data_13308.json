@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/79450504/can-you-fix-a-backup-file-that-is-not-restoring-correctly?hl=en",
+    "title": "Can you fix a backup file that is not restoring correctly?",
+    "content": "I have a Pixel 3 that was backed up prior to a mandatory factory reset (required to get call service back from a carrier). The backup was successful and I could see that it had all the required components prior to the factory reset. However, after reset and the attempt to restore the backup the phone is only pulling in the apps (not the device settings, call history, or SMS data). I verified in the Google drive that the Backup file is showing data in those areas but it will not pull into the phone. I am well aware that the only way Google states you can access the backup contents is via a restore process on a phone when you set it up, but as I have said this is not working correctly. I have tried the process several times on this phone and on another pixel 3 device without resolution.\nDoes anyone have any ideas on how to restore the data found in this file to the phone?",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2020-10-27T16:58:57.75274+00:00",
+    "reply": "0 Replies"
+}

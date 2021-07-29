@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/109858600/tap-to-wake-lift-to-wake-not-working-and-screen-goes-black-during-phone-call?hl=en",
+    "title": "Tap to wake, lift to wake not working, and screen goes black during phone call",
+    "content": "I recently got a replacement phone from Google, and tap to wake, always on display, and lift to wake don't work, or only work sporadically. Also, when I make a call, the screen goes black, even though I don't have the phone to my face. From what I've seen, it looks like a problem with the proximity sensor, but I'm not sure how to fix it. I downloaded the adrosensor and the proximity number doesn't change (it's either at 2 or 0, regardless of any gestures I make over the sensor.) But the androsensor app says it was designed for older models or older Android versions, so I'm not sure if it's the right diagnostic tool. Whatever the case, how do I fix it? Or do I need another replacement device? Thanks in advance!",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 5",
+    "post_time": "2021-05-14T20:15:48.299229+00:00",
+    "reply": "2 Recommended Answers"
+}

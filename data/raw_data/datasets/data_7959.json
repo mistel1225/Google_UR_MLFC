@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/94821935/ble-scanning-always-on?hl=en",
+    "title": "BLE scanning always on",
+    "content": "I noticed that BLE Scanning is always on on my device, even if BT or BT scanning are off. etc.. The culprit is ''GOOGLE_SERVICES\" , which in fact are 2 Google apps or services :com.google.android.gms and com.google.android.gsf...\nI experienced severe battery drain since a while, getting worse by each day, even in safe mode and nothing points out to a specific app in particular (FR did not change anything). \nCould this be a lead and how to stop it? Not sure if it uses a lot of battery power but still weird...",
+    "is_img": 1,
+    "category": "Battery and Power, Google Pixel 3a",
+    "post_time": "2021-01-23T19:17:06.685025+00:00",
+    "reply": "2 Replies"
+}

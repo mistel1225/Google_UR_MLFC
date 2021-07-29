@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/80544883/live-transcribe-doesn-t-work-on-my-pixel-5?hl=en",
+    "title": "Live Transcribe doesn't work on my Pixel 5",
+    "content": "Live Transcribe doesn't operate on my Pixel 5. The Recorder app works fine, and recording audio with the Camera app works fine. The Microsoft Translator app, which has a similar function but can't run continuously, also works fine. Live Caption works fine for media and calls.\n\nI have ensured I have the appropriate Microphone permission enabled. I have also enabled the Storage permission since it's there, but not specifically requested. I have disabled and reenabled the noted permissions repeatedly. I have updated to the newest version of Live Transcribe in the play store, and both the original shipped version on the phone and the update do not function. I have force stopped the app, cleared cache and storage, rebooted. Nothing - the sound presence bubble at the top right indicates no sound heard. Desperate to get this working. If I can't, the phone will have to be returned.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 5",
+    "post_time": "2020-11-02T15:11:26.906547+00:00",
+    "reply": "1 Recommended Answer"
+}

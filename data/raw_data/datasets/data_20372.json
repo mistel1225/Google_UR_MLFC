@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/54880896/any-changes-in-files-under-wpa-supplicant-8-of-aosp-pixel-code-is-not-reflecting-in-system-img?hl=en",
+    "title": "Any changes in files under wpa_supplicant_8/ of AOSP Pixel code is not reflecting in system.img",
+    "content": "Was working in Andorid 9 code base. In order to track wifi related issues, have included additional debugs prints in some files under wpa_supplicant_8/, but it was not effective after flashing system.img to the pixel 3a device. So I have below few queries.\n1. How to make my wpa_supplicant related debug prints effective or what else needs to be changed through Code. \n2. What is the wpa_supplicant packaging flow, does these changes goes to system.img or any other images.\n3. I couldn't see vendor.img in the AOSP out/target/product/sargo/ even on clean build. But I could see it in Factory image. How can I build vendor.img through AOSP",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3a",
+    "post_time": "2020-06-22T11:33:07.274163+00:00",
+    "reply": "2 Replies"
+}

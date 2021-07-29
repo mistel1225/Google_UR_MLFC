@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/3022029/why-are-my-use-usb-for-settings-disabled?hl=en",
+    "title": "Why are my \"Use USB For\" Settings Disabled?",
+    "content": "I've worked with 2 different Google Store Support reps, and all steps have failed. On my Pixel 3, we have tried resetting the phone, changing the developer default USB use for settings, new USB A to USB C cables, Installing a Windows MediaFeaturePack-OOB-Package on my PC, All to no avail. If anyone can help, please reply.\n\nAddition to this post a day later:\n\nAfter working with Google Support, I tried one suggestion of theirs...\n\nDust off the female USB-C connection port on the phone...\n\nHow does one do that I thought?... Duh!, use a can of compressed Gas/air made for dusting off electronics... I put the little red extension tube on the can, pointed at the USB-C port, and gave it a few quick busts of air... Then I tried to connect the USC-A to USB-C cable to My PC and the phones's port, and instantly the phone recognized the PC and un-greyed or enabled the \"USB use for\" settings allowing me to change the setting to \"file transfer\".\n\nI must say a big Thank You to Google Support technicians for their patience and assistance with this issue... I hope this post is useful for everyone with the same issue i have seen posted in the support forum...",
+    "is_img": 0,
+    "category": "Connectivity, Network, Bluetooth, Google Pixel 3",
+    "post_time": "2019-03-25T23:39:11.307122+00:00",
+    "reply": ""
+}

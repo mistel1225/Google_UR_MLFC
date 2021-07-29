@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/103508126/some-apps-are-not-starting-stops-in-seconds?hl=en",
+    "title": "Some apps are not starting / stops in seconds",
+    "content": "I have a few apps that are not starting anymore, they start but in 1-2 seconds are moved in background and I see the home page (for the games I can see loading screen). The affected ones are:\nGoogle search bar from home, Gmail, Clash Royale, Hogwarts Mistery, Adventure Escape Mysteries.\n\nOther apps are loading fine: Chrome, banking, discord, pokemon go, revolut, whatsapp etc.\n\nRestart phone did not worked, I'm up to date with the updates, remove app cache did not worked, remove data/ reinstall the app worked partially, if I close the app the issue appears, if after install I leave it in background is working when I'm bringing it back.\nSo the issue appears after first closing the app.\n\nChanges to Wifi/data mobile, bluetooth/airplane mode did not do any improvement. I can not link the issue with any change to the phone, it appeared while using it.\n\nI still have to try safe mode and reset to factory but I was wondering if anyone else have this strange behavior or have other suggestion.\n\nThank you.\n\nUpdate: Safe mode did not worked, search and gmail are still not working.",
+    "is_img": 0,
+    "category": "Device Performance, Google Pixel 4a",
+    "post_time": "2021-03-23T12:17:56.575919+00:00",
+    "reply": "1 Recommended Answer"
+}

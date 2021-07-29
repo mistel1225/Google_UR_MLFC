@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/17930356/is-there-a-way-to-bypass-the-cannot-load-android-system-error-without-losing-personal-data?hl=en",
+    "title": "Is there a way to bypass the \"Cannot load Android system\" error without losing personal data?",
+    "content": "Hello everyone, really hoping that someone might have some suggestions about recovering photos and files from a phone that's essentially demanding a hard reset.\n\nEarlier today my Pixel 3 battery died and when I tried turning on the phone after charging it, it displayed \"Cannot load Android system. Your data may be corrupt. If you continue to get this message, you may need to perform a factory data reset and erase all user data stored on this device.\" And then my options were \"Try again,\" which took me to the same screen, and \" Factory data reset.\"\n\nI tried using the recovery mode but that just takes me to the \"No Command\" screen with a dead-looking Android icon. If I press power + volume buttons from there, it takes me to another screen that has the following options: Reboot system now/Reboot to bootloader/Apply update from ADB/Apply update from SD card/Wipe data & factory reset/Mount system/View recovery logs/Run graphics test/Power off. I tried the first two options (reboot system & reboot to bootloader) to no avail but don't know what the other options do.\n\nIs there anything at all that can be done? Any suggestions would be much appreciated!",
+    "is_img": 0,
+    "category": "Other, Google Pixel 3",
+    "post_time": "2019-10-28T15:51:27.489854+00:00",
+    "reply": "11 Replies"
+}

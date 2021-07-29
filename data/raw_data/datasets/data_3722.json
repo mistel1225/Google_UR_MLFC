@@ -1,0 +1,9 @@
+{
+    "url": "https://support.google.com/pixelphone/thread/71923225/android-11-issue-with-gesture-navigation-and-full-screen-apps?hl=en",
+    "title": "Android 11 - Issue with gesture navigation and full screen apps",
+    "content": "Having updated to Android 11, I'm finding issues with using the gesture navigation. It can't seem to decide whether it wants to be portrait or landscape, and in some full screen apps, the bar remains and means I can't tap on anything at the edge of the screen without the phone thinking I'm trying to navigate.\n\nCan't seem to add a screenshot here, but in some full screen apps, I still have the navigation bar/line/whatever it's called on the right of the screen when held landscape (opposite end to the notch). When it's here, I can't interact with anything in-app at the edge of the screen.\n\nOther times, the bar is at the bottom where it ought to be, but it doesn't go away and in that case I can't tap on anything near the bottom of the screen.\n\nEdit: \n\nThanks for your reply, I'll try to contact the development team of the 8 different apps in which I've noticed this issue - However,  I fully expect them to say this is an issue with Android 11. Especially since everything was working fine with Android 10.\n\nManaged to add a screenshot, don't know why it didn't do anything tapping on the paperclip before.\n\nAs you can see, the bar is on the right of the screen, when it should be hidden and should be somewhere at the bottom.\n\nWhen it's visible (seems random) I can't use that portion of the screen.",
+    "is_img": 1,
+    "category": "Other, Google Pixel 3 XL",
+    "post_time": "2020-09-18T19:07:01.09183+00:00",
+    "reply": "31 Replies"
+}
