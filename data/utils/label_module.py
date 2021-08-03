@@ -13,15 +13,20 @@ LD = "-ld"
 NL = "-nl"
 E = "-e"
 NS = "-ns"
-COMMAND_DICT = {H:"list all command", PC:"print context", PL:"print available label", LD:"label the data", NL:"append new label", NS:"sample new data immediately", E:"exit the program"}
+S = '-s'
+COMMAND_DICT = {H:"list all command", PC:"print context", PL:"print available label", LD:"label the data", NL:"append new label", NS:"sample new data immediately", E:"exit the program", S:'show the current sample\'s label'}
 
 def show_command():
     for key, value in COMMAND_DICT.items():
         print("{0} {1}".format(key, value))
-def print_label(label_list):
-    for label, des in label_list.items():
-        print("{0}: {1}".format(label, des))
-
+def print_label(idx_label_dic):
+    s=''
+    for i, (idx, label) in enumerate(idx_label_dic.items()):
+        s += '{:>2d}: {:<30}'.format(idx,str(label))
+        if (i+1)%4 ==0:
+            print(s)
+            s=''
+    print(s)
 
 
 def print_context(sample_data):
@@ -38,6 +43,7 @@ def label_new_data(sample_num, data_path, index_path, label_path, output_path):
         #TODO need sync module
         annotated_index = read_json(index_path)
         label_list = read_json(label_path)
+        idx_label_dic = {i:label for i, label in zip(range(len(label_list)), label_list.keys())}
         labeled_data = read_json(output_path)
         #random sample the data
         while(1):
@@ -58,7 +64,8 @@ def label_new_data(sample_num, data_path, index_path, label_path, output_path):
                 continue
             elif command == PL:
                 label_list = read_json(label_path)
-                print_label(label_list)
+                idx_label_dic = {i:label for i, label in zip(range(len(label_list)), label_list.keys())}       
+                print_label(idx_label_dic)
                 continue
             elif command == NL:
                 new_label = str(input("label:"))
@@ -71,9 +78,30 @@ def label_new_data(sample_num, data_path, index_path, label_path, output_path):
                 exit(0)
             elif command == LD:
                 sample_data['content'].replace("$", "")
-                print_label(label_list)
+                label_list = read_json(label_path)
+                idx_label_dic = {i:label for i, label in zip(range(len(label_list)), label_list.keys())}
+                print_label(idx_label_dic)
                 print("one label per round.")
                 #annotation
                 label = input("label:")
+                try:
+                    idx_label_dic[int(label)]
+                except:
+                    print('idx not exists, try again')
+                    continue
                 answer_span = input("answer(use \"$\" as split symbol):")
-                labeled_data, annotated_index = label_data(sample_data, sample_index, label, answer_span, index_path, label_path, output_path)
+                labeled_data, annotated_index = label_data(sample_data, sample_index, idx_label_dic[int(label)], answer_span, index_path, label_path, output_path)
+            elif command == S:
+                labeled_data = read_json(output_path)
+                try:
+                    _ = labeled_data[str(sample_index)]
+                    s = ''
+                    for i, label in enumerate(_["label"].keys()):
+                        s+="{:<30}".format(label)
+                        if (i+1)%4==0:
+                            print(s)
+                            s=''
+                    print(s)
+                except:
+                    print("didn't label yet")
+

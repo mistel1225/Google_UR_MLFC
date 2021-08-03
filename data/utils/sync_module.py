@@ -42,10 +42,10 @@ def label_data(sample_data, sample_index, label, answer_span, index_path, label_
         print("error: this label doesn't exist in label_list currently.")
         restore_lock()
         return labeled_data, annotated_index
-    if sample_index not in labeled_data.keys():
-        labeled_data[sample_index] = {"data":sample_data, "label":{label:answer_span}}
+    if str(sample_index) not in labeled_data.keys():
+        labeled_data[str(sample_index)] = {"data":sample_data, "label":{label:answer_span}}
     else:
-        labeled_data[sample_index]["label"][label] = answer_span
+        labeled_data[str(sample_index)]["label"][label] = answer_span
     annotated_index[sample_index] = {"label":1, "verify":0}
     #update the data in file system
     save_json(labeled_data, output_path)

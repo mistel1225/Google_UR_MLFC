@@ -3,3 +3,4 @@ data/remote_mount_data/data.lock
 data/multi_label_data/data1000label.json
 data/utils/annotated_id.json
 data/utils/data_label.json
+data/utils/__pycache__/*.pyc
