@@ -34,13 +34,17 @@ def get_all_link(driver):
 def get_content(driver, link):
     _ = driver.find_element_by_class_name('PageTitle')
     title = _.find_element_by_tag_name('span').text
-    print(title)
+    context = ""
+    #print(title)
     '''
     _ = driver.find_element_by_id('bodyDisplay')
     context = _.find_element_by_tag_name('p').text
     '''
-    context = driver.find_element_by_id('bodyDisplay').text
-    print(context)
+    try:
+        context = driver.find_element_by_id('bodyDisplay').text
+    except:
+        print("error: no content was found.")
+        print("link = {0}".format(link))
     flag = 0
     try:
         tag_list = driver.find_element_by_id('taglist')
@@ -55,18 +59,26 @@ def get_content(driver, link):
                 tags.append(li.find_element_by_tag_name('a').text)
             except:
                 continue
-    print(tags)
-    print('================================================================')
-    return {'title':title, 'context':context, 'tag_list':tags, 'url': link}
+    #print(tags)
+    #print('================================================================')
+    return {'title':title, 'content':context, 'tag_list':tags, 'url': link}
 if __name__ == '__main__':
-    #for s21 forum
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
     driver = webdriver.Chrome(executable_path='./chromedriver', chrome_options=options)
     data_num = 0
     samsung_data = {}
+    link_list = [
+    'https://us.community.samsung.com/t5/Galaxy-S21/bd-p/GalaxyS21',
+    'https://us.community.samsung.com/t5/Note20/bd-p/get-help-galaxy-note20',
+    'https://us.community.samsung.com/t5/Galaxy-S20/bd-p/get-help-galaxy-s20',
+    'https://us.community.samsung.com/t5/Galaxy-Z-Flip/bd-p/get-help-galaxy-ZFlip',
+    'https://us.community.samsung.com/t5/Galaxy-Fold/bd-p/Gethelp-galaxy-fold',
+    'https://us.community.samsung.com/t5/Other-Mobile-Devices/bd-p/get-help-phones-other-mobile-devices',
+    'https://us.community.samsung.com/t5/Galaxy-Note-Phones/bd-p/get-help-phones-galaxy-note-phones',
+    'https://us.community.samsung.com/t5/Galaxy-S-Phones/bd-p/get-help-phones-galaxy-s-phones']
     for page in range(1, 65):
-        driver.get('https://us.community.samsung.com/t5/Galaxy-S21/bd-p/GalaxyS21'+'/page/{0}'.format(str(page)))
+        driver.get(link_list[0]+'/page/{0}'.format(str(page)))
         links = get_all_link(driver)
         for link in links:
             driver.get(link)
@@ -74,7 +86,100 @@ if __name__ == '__main__':
             samsung_data[data_num] = data
             data_num+=1
             print('{0}...'.format(data_num))
-            time.sleep(1.5)
+            time.sleep(0.25)
         with open('samsungdata.json', 'w') as f:
             json.dump(samsung_data, f, indent=2)
         time.sleep(5)
+    for page in range(1, 33):
+        driver.get(link_list[1]+'/page/{0}'.format(str(page)))
+        links = get_all_link(driver)
+        for link in links:
+            driver.get(link)
+            data = get_content(driver, link)
+            samsung_data[data_num] = data
+            data_num+=1
+            print('{0}...'.format(data_num))
+            time.sleep(0.1)
+        with open('samsungdata.json', 'w') as f:
+            json.dump(samsung_data, f, indent=2)
+        time.sleep(5)
+
+    for page in range(1, 45):
+        driver.get(link_list[2]+'/page/{0}'.format(str(page)))
+        links = get_all_link(driver)
+        for link in links:
+            driver.get(link)
+            data = get_content(driver, link)
+            samsung_data[data_num] = data
+            data_num+=1
+            print('{0}...'.format(data_num))
+            time.sleep(0.25)
+        with open('samsungdata.json', 'w') as f:
+            json.dump(samsung_data, f, indent=2)
+        time.sleep(5)
+    for page in range(1, 4):
+        driver.get(link_list[3]+'/page/{0}'.format(str(page)))
+        links = get_all_link(driver)
+        for link in links:
+            driver.get(link)
+            data = get_content(driver, link)
+            samsung_data[data_num] = data
+            data_num+=1
+            print('{0}...'.format(data_num))
+            time.sleep(0.1)
+        with open('samsungdata.json', 'w') as f:
+            json.dump(samsung_data, f, indent=2)
+        time.sleep(5)
+    for page in range(1, 7):
+        driver.get(link_list[4]+'/page/{0}'.format(str(page)))
+        links = get_all_link(driver)
+        for link in links:
+            driver.get(link)
+            data = get_content(driver, link)
+            samsung_data[data_num] = data
+            data_num+=1
+            print('{0}...'.format(data_num))
+            time.sleep(0.25)
+        with open('samsungdata.json', 'w') as f:
+            json.dump(samsung_data, f, indent=2)
+        time.sleep(5)
+    for page in range(1, 64):
+        driver.get(link_list[5]+'/page/{0}'.format(str(page)))
+        links = get_all_link(driver)
+        for link in links:
+            driver.get(link)
+            data = get_content(driver, link)
+            samsung_data[data_num] = data
+            data_num+=1
+            print('{0}...'.format(data_num))
+            time.sleep(0.1)
+        with open('samsungdata.json', 'w') as f:
+            json.dump(samsung_data, f, indent=2)
+        time.sleep(5)
+    for page in range(1, 59):
+        driver.get(link_list[6]+'/page/{0}'.format(str(page)))
+        links = get_all_link(driver)
+        for link in links:
+            driver.get(link)
+            data = get_content(driver, link)
+            samsung_data[data_num] = data
+            data_num+=1
+            print('{0}...'.format(data_num))
+            time.sleep(0.25)
+        with open('samsungdata.json', 'w') as f:
+            json.dump(samsung_data, f, indent=2)
+        time.sleep(5)
+    for page in range(1, 92):
+        driver.get(link_list[7]+'/page/{0}'.format(str(page)))
+        links = get_all_link(driver)
+        for link in links:
+            driver.get(link)
+            data = get_content(driver, link)
+            samsung_data[data_num] = data
+            data_num+=1
+            print('{0}...'.format(data_num))
+            time.sleep(0.1)
+        with open('samsungdata.json', 'w') as f:
+            json.dump(samsung_data, f, indent=2)
+        time.sleep(5)
+
