@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 import json
+import logging
 #for community
 '''
 driver = webdriver.Chrome(executable_path='./chromedriver')
@@ -22,6 +23,7 @@ for i in range(10):
     load_button.click()
     time.sleep(1)
 '''
+
 def get_all_link(driver):
     thread_list = driver.find_element_by_id('grid')
     threads = thread_list.find_element_by_tag_name('tbody')
@@ -35,16 +37,13 @@ def get_content(driver, link):
     _ = driver.find_element_by_class_name('PageTitle')
     title = _.find_element_by_tag_name('span').text
     context = ""
-    #print(title)
-    '''
-    _ = driver.find_element_by_id('bodyDisplay')
-    context = _.find_element_by_tag_name('p').text
-    '''
     try:
         context = driver.find_element_by_id('bodyDisplay').text
     except:
         print("error: no content was found.")
         print("link = {0}".format(link))
+    # for us
+    '''
     flag = 0
     try:
         tag_list = driver.find_element_by_id('taglist')
@@ -59,8 +58,19 @@ def get_content(driver, link):
                 tags.append(li.find_element_by_tag_name('a').text)
             except:
                 continue
-    #print(tags)
-    #print('================================================================')
+    '''
+    #for uk
+    tags = []
+    try:
+        tag_list = driver.find_elements_by_class_name('label')
+        for tag in tag_list:
+            tags.append(tag.find_element_by_tag_name('a').text)
+    except:
+        logging.error(msg="",exc_info=True)
+    print(title)
+    print(context)
+    print(tags)
+    print('================================================================')
     return {'title':title, 'content':context, 'tag_list':tags, 'url': link}
 if __name__ == '__main__':
     options = webdriver.ChromeOptions()
@@ -68,6 +78,8 @@ if __name__ == '__main__':
     driver = webdriver.Chrome(executable_path='./chromedriver', chrome_options=options)
     data_num = 0
     samsung_data = {}
+    #for US
+    '''
     link_list = [
     'https://us.community.samsung.com/t5/Galaxy-S21/bd-p/GalaxyS21',
     'https://us.community.samsung.com/t5/Note20/bd-p/get-help-galaxy-note20',
@@ -182,4 +194,39 @@ if __name__ == '__main__':
         with open('samsungdata.json', 'w') as f:
             json.dump(samsung_data, f, indent=2)
         time.sleep(5)
+    '''
+    #for uk
+    driver.get('https://eu.community.samsung.com/t5/smartphones/ct-p/smartphones-uk?fbclid=IwAR2qmQmH8dTSISWXPOq3ufA0YfW8YxWIGLp-uXRkfPK3sDj-I6MaLqbQ2FA')
+    category = driver.find_element_by_class_name('category-wayfinding')
+    _ = category.find_elements_by_tag_name('figure')
+    #_ = _.find_elements_by_tag_name('a')
+    category_links = []
+    for i in _ :
+        a = i.find_element_by_tag_name('a')
+        link = a.get_attribute('href')
+        category_links.append(link)
+    for series in category_links:
+        driver.get(series)
+        _ = driver.find_element_by_class_name('lia-paging-full')
+        _ = _.find_element_by_class_name('lia-paging-page-last')
+        num_pages = _.find_element_by_tag_name('a').text
+        for page in range(1, int(num_pages)):
+            driver.get(series+'/page/{0}'.format(str(page)))
+            links = get_all_link(driver)
+            for link in links:
+                driver.get(link)
+                data = get_content(driver, link)
+                samsung_data[data_num] = data
+                data_num+=1
+                print('{0}...'.format(data_num))
+                time.sleep(0.001)
+            with open('samsungdatauk.json', 'w') as f:
+                json.dump(samsung_data, f, indent=2)
+            time.sleep(5)
+
+
+
+
+
+
 

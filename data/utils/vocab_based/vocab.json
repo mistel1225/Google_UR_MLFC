@@ -1,0 +1,352 @@
+{
+  "0": [
+    "notif",
+    "sound",
+    "alarm",
+    "vibrat",
+    "set"
+  ],
+  "1": [
+    "connect",
+    "wifi",
+    "mobil",
+    "data",
+    "network"
+  ],
+  "2": [
+    "video",
+    "record",
+    "youtub",
+    "watch",
+    "audio"
+  ],
+  "3": [
+    "unlock",
+    "lock",
+    "work",
+    "sensor",
+    "fingerprint"
+  ],
+  "4": [
+    "account",
+    "email",
+    "gmail",
+    "sign",
+    "access"
+  ],
+  "5": [
+    "work",
+    "stop",
+    "hear",
+    "call",
+    "microphon"
+  ],
+  "6": [
+    "stick",
+    "boot",
+    "reset",
+    "mode",
+    "factori"
+  ],
+  "7": [
+    "play",
+    "music",
+    "store",
+    "song",
+    "app"
+  ],
+  "8": [
+    "mode",
+    "turn",
+    "screen",
+    "light",
+    "night"
+  ],
+  "9": [
+    "search",
+    "chrome",
+    "type",
+    "keyboard",
+    "open"
+  ],
+  "10": [
+    "nois",
+    "like",
+    "facebook",
+    "make",
+    "problem"
+  ],
+  "11": [
+    "assist",
+    "voic",
+    "activ",
+    "work",
+    "command"
+  ],
+  "12": [
+    "button",
+    "volum",
+    "power",
+    "press",
+    "cast"
+  ],
+  "13": [
+    "camera",
+    "app",
+    "work",
+    "clear",
+    "open"
+  ],
+  "14": [
+    "card",
+    "work",
+    "verizon",
+    "unlock",
+    "pixel"
+  ],
+  "15": [
+    "camera",
+    "pictur",
+    "photo",
+    "take",
+    "imag"
+  ],
+  "16": [
+    "power",
+    "button",
+    "screen",
+    "turn",
+    "hold"
+  ],
+  "17": [
+    "charg",
+    "work",
+    "charger",
+    "cabl",
+    "port"
+  ],
+  "18": [
+    "issu",
+    "problem",
+    "have",
+    "happen",
+    "time"
+  ],
+  "19": [
+    "messag",
+    "text",
+    "send",
+    "receiv",
+    "group"
+  ],
+  "20": [
+    "support",
+    "replac",
+    "send",
+    "contact",
+    "tell"
+  ],
+  "21": [
+    "wifi",
+    "connect",
+    "network",
+    "work",
+    "signal"
+  ],
+  "22": [
+    "dont",
+    "payment",
+    "tablet",
+    "pixl",
+    "know"
+  ],
+  "23": [
+    "bluetooth",
+    "connect",
+    "devic",
+    "pair",
+    "headphon"
+  ],
+  "24": [
+    "flash",
+    "unlock",
+    "bootload",
+    "volt",
+    "devic"
+  ],
+  "25": [
+    "wallpap",
+    "live",
+    "water",
+    "blue",
+    "pixel"
+  ],
+  "26": [
+    "know",
+    "like",
+    "want",
+    "look",
+    "thank"
+  ],
+  "27": [
+    "locat",
+    "map",
+    "time",
+    "chang",
+    "turn"
+  ],
+  "28": [
+    "theme",
+    "dark",
+    "pixel",
+    "\u0442\u0435\u043b\u0435\u0444\u043e\u043d",
+    "bright"
+  ],
+  "29": [
+    "file",
+    "download",
+    "transfer",
+    "time",
+    "note"
+  ],
+  "30": [
+    "updat",
+    "android",
+    "secur",
+    "latest",
+    "patch"
+  ],
+  "31": [
+    "batteri",
+    "drain",
+    "charg",
+    "hour",
+    "get"
+  ],
+  "32": [
+    "screen",
+    "display",
+    "black",
+    "lock",
+    "white"
+  ],
+  "33": [
+    "devic",
+    "help",
+    "thank",
+    "support",
+    "step"
+  ],
+  "34": [
+    "screen",
+    "home",
+    "app",
+    "swipe",
+    "open"
+  ],
+  "35": [
+    "screen",
+    "touch",
+    "work",
+    "respond",
+    "black"
+  ],
+  "36": [
+    "data",
+    "backup",
+    "transfer",
+    "reset",
+    "restor"
+  ],
+  "37": [
+    "photo",
+    "imag",
+    "save",
+    "pictur",
+    "storag"
+  ],
+  "38": [
+    "contact",
+    "number",
+    "sync",
+    "list",
+    "block"
+  ],
+  "39": [
+    "india",
+    "servic",
+    "pixel",
+    "want",
+    "avail"
+  ],
+  "40": [
+    "reset",
+    "factori",
+    "restart",
+    "time",
+    "work"
+  ],
+  "41": [
+    "call",
+    "voicemail",
+    "receiv",
+    "incom",
+    "ring"
+  ],
+  "42": [
+    "speaker",
+    "sound",
+    "hear",
+    "volum",
+    "work"
+  ],
+  "43": [
+    "esim",
+    "activ",
+    "code",
+    "samsung",
+    "support"
+  ],
+  "44": [
+    "option",
+    "set",
+    "chang",
+    "featur",
+    "select"
+  ],
+  "45": [
+    "like",
+    "year",
+    "time",
+    "iphon",
+    "user"
+  ],
+  "46": [
+    "support",
+    "http",
+    "answer",
+    "pixel",
+    "help"
+  ],
+  "47": [
+    "turn",
+    "charg",
+    "batteri",
+    "plug",
+    "charger"
+  ],
+  "48": [
+    "replac",
+    "repair",
+    "warranti",
+    "screen",
+    "break"
+  ],
+  "49": [
+    "updat",
+    "android",
+    "instal",
+    "upgrad",
+    "beta"
+  ]
+}
