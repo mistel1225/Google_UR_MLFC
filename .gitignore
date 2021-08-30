@@ -5,3 +5,4 @@ data/utils/annotated_id.json
 data/utils/data_label.json
 data/utils/__pycache__/*.pyc
 data/multi_label_data/*.py
+.DS_Store
