@@ -1,15 +1,21 @@
 README
 >[![hackmd-github-sync-badge](https://hackmd.io/2qQKhR-hRq-62aXKv4n6cg/badge)](https://hackmd.io/2qQKhR-hRq-62aXKv4n6cg)  
 
-worklog 
->[![hackmd-github-sync-badge](https://hackmd.io/TX6rpzlaSkuiE9k3Cu-vKQ/badge)](https://hackmd.io/TX6rpzlaSkuiE9k3Cu-vKQ)
-# Google UR multi-label forum's comment dataset
+# Google UR with NTU BDS Lab: multi-label forum's comment dataset
+
 ## MileStone
 * labeling 1000+ sample data (6/29~)
-    * working on label.py(7/7~)
+    * working on label.py(7/7~7/16)
         * enter the error correction phase(7/12~7/14)
         * the current funtionality doesn't support more than two people labeling data at the same time(see worklog.md)(done at 7/14)
-    * data annotation(7/19~)   
+    * data annotation(7/19~8/1)  
+* use rule-based method to collect data
+     * currently collect 20000+ labeled data based on rule-based method(please refer to the weekly progress slide on 8/17 [here](https://docs.google.com/presentation/d/12pQ2_DL7lQkqaZgFKNTR70FIpBuVj78-EhZLm5ak6fk/edit#slide=id.gec59da25bc_0_10))
+## Important Link
+* proposal  
+    * [Multi-Label Classification for Forum Comments](https://docs.google.com/document/d/1zJ4aa-ic6tEgruDsbcMaHiqyLOqGNLlz90la3FaVBCo/edit)
+*  weekly progress slide
+    *  [Google UR with NTU BDS Lab - NLP](https://docs.google.com/presentation/d/12pQ2_DL7lQkqaZgFKNTR70FIpBuVj78-EhZLm5ak6fk/edit#slide=id.p)
 
 ## Bug report
 To report any bug or suggestion, please post an issue and apply following format.  
@@ -61,34 +67,43 @@ Google_UR_MLFC/
 　　　　|---.gitignore  
 ## Multi-label Dataset
 * label structure  
-    1. Battery / Charging (Draining, Swelling, Percentage)  
-    2. Internet (Wifi / LTE / Hotspot)  
-    3. Bluetooth (Pair)  
-    4. USB/Type-C (Port, 有水在裡面相關的警告訊息)  
-    5. Device Connection(TV casting/pc connect/smart device.../external device)(難)  
-    6. Software/System Update (Security Update, Android Update)  
-    7. Screen/Touch screen (Display, Touch)  
-    8. Virtual Assistance  
-    9. Headphone (藍芽耳機:3+9, usb耳機:4+9)  
-    10. Audio / Voice (microphone/speaker, Volume)  
-    11. App (3rd)(難) (或是拆開成google app/ third party app)(email)  
-    12. Notification (Do Not Disturb, Alarm, Ringtone, Notification bar)  
-    13. Camera/ Multimedia (Lense, Photo, Video)  
-    14. SIM/ eSIM  
-    15. Communication(Call / Contact/ Text Message/ Voicemail / Screen call)  
-    16. Account (同步問題，找帳號)  
-    17. Security (Face recognition, Screen Lock, Password)  
-    18. Boot (Bootloop, Can't not boot, system failure)  
-    19. Storage(File, Drive, SDcard)  
-    20. Backup  
-    21. Set up(How to ..., 跟上面邏輯不太一樣)  
-    22. GPS (Location)  
-    23. User Interface(Homescreen, Wallpaper, Swipe)  
-    24. Feature Request (Suggestion, Feedback)  
-    25. Appearance (power button, )  
-    26. Other  
-    27. Useless  
-## Some note
+    * Hardware Components  
+        1. battery (Draining, Swelling, Percentage)  
+        2. internet (Wifi / LTE / Hotspot)  
+        3. bluetooth (Pair)  
+        4. usb/type-c (Port, warning about water in port)  
+        5. camera (Lense, Photo, Video)  
+        6. sIM/ eSIM  
+        7. screen(Display, Touch)  
+        8. appearance (power button, )  
+        9. storage(File, Drive, SDcard, transfer)  
+        10. speaker  
+        11. headphone (bluetooth headphone=3+9, usb headphone=4+9)  
+    * Software App && Services
+        1. software/system Update (Security Update, Android Update)
+        2. google app(virtual assistance, chrome, gmail, map, youtube...)
+        3. third party app (whatsapp...)
+        4. account(sync, find account)
+        5. boot(bootloop, can't boot, system failure...)
+    * Function Feature
+        1. communication(Call / Contact/ Text Message/ Voicemail / Screen call)  
+        2. multimedia (photo, video, video playing...)  
+        3. audio / Voice (volume/music player)  
+        4. security (Face recognition, Screen Lock, Password)  
+        5. gps (Location)  
+        6. device connection(TV casting/pc connect/smart device.../external device)  
+        7. system service(settings, launcher, keyboard, ui, screenshot)  
+        8. notification  
+    * Feedback type  
+        1. set up(how to...)  
+        2. feature request and suggestion(suggestion, feedback)  
+        3. customer service  
+    * Stability  
+        1. stability(crash for no reason, shutdown, overheat)  
+    * other  
+        1. other  
+        2. useless  
+## Some note  
 * sync README.md with hackmd  
 https://hackmd.io/c/tutorials-tw/%2Fs%2Flink-with-github-tw
 * link to the issue number on Github within a commit message
