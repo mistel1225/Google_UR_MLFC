@@ -85,6 +85,8 @@ Google_UR_MLFC/
         3. third party app (whatsapp...)
         4. account(sync, find account)
         5. boot(bootloop, can't boot, system failure...)
+        6. backup
+        7. virtual assistance
     * Function Feature
         1. communication(Call / Contact/ Text Message/ Voicemail / Screen call)  
         2. multimedia (photo, video, video playing...)  
@@ -95,7 +97,7 @@ Google_UR_MLFC/
         7. system service(settings, launcher, keyboard, ui, screenshot)  
         8. notification  
     * Feedback type  
-        1. set up(how to...)  
+        1. setup(how to...)  
         2. feature request and suggestion(suggestion, feedback)  
         3. customer service  
     * Stability  
