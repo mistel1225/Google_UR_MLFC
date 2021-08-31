@@ -11,7 +11,7 @@ import nltk
 nltk.download('wordnet')
 
 label_map = {'Account': 'A',
- 'App': 'B',
+ 'Third Party App': 'B',
  'Appearance': 'C',
  'Audio/Voice': 'D',
  'Backup': 'E',
@@ -63,15 +63,16 @@ def inference(mdl:tp.PLDAModel, title:str, content:str, threshold:float=.05, gro
   stopwords = ['googl', 'pixel', 'tri', 'phone', 'work', 'issu', 'help', 'time',
                'devic', 'problem', 'like', 'go', 'want', 'know', 'need', 'thank',
                'happen', 'get', 'come']
-
   for word in stopwords:
     while word in doc:
       doc.remove(word)
 
   if print_detail:
     print(doc)
+  if doc == []:
+      return [], 0
+  
   doc = mdl.make_doc(doc)
-
   predicted_label = []
   result = mdl.infer(doc=doc)[0]
   for label, prob in sorted(zip(mdl.topic_label_dict, result), key=lambda x:x[1], reverse=True):
