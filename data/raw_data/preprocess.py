@@ -1,12 +1,22 @@
 import json
+from pathlib import Path
+path_dict = {"g": Path("./data35000.json"), "s_uk": Path("./samsungdatauk.json"), "s_us": Path("./samsungdataus.json")}
 
-if __name__ == '__main__':
-    with open('data35000.json', 'r') as f:
-        data = json.load(f)
-    new_data = {}
-    idx=0
-    for item in data['data']:
-        new_data[idx] = item
-        idx+=1
-    with open('data35000.json', 'w') as f:
-        json.dump(new_data, f, indent=2)
+
+def combine_raw_data():
+    idx = 0
+    data = {}
+    for p in path_dict.values():
+        with open(p, 'r') as f:
+            _ = json.load(f)
+        for k, d in _.items():
+            if "category" in d.keys():
+                d["tag_list"] = d["category"].split(',')
+                d.pop("category")
+            data[idx] = d
+            idx += 1
+
+    with open('rawdata.json', 'w') as f:
+        json.dump(data, f, indent=2)
+
+combine_raw_data()

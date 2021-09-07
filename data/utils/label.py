@@ -5,28 +5,31 @@ import os
 import logging
 from label_module import label_new_data
 from sync_module import read_json, save_json
+
+worker_list = ['j', 'y']
+
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('-n', '--num', help=
-            'sample {num} data from data/raw_data/data35000.json(for new data) or data/multi_label_data(for verify data)', 
+            'sample {num} data from data/raw_data/rawdata.json(for new data) or data/multi_label_data(for verify data)', 
             type=int, default=50)
     parser.add_argument('-m', '--mode', help=
             'new: sample new data. verify:sample the data that is already being labeled.',
             type=str, default='new')
     parser.add_argument('-dp', '--data_path', help=
             '../raw_data/{data with no label}.json, ../multi_label_data/{data already being labeled}.json', 
-            type=Path, default='../raw_data/data35000.json')
+            type=Path, default='../raw_data/rawdata.json')
     parser.add_argument('-op', '--output_path', help=
     'for experiment usage: ../multi_label_data/{name of whatever you want}.json, for labeling usage: ../remote_mount_data/data35000label.json', 
-            type=Path, default='../remote_mount_data/data35000label.json')
+            type=Path, default='../remote_mount_data/multilabel_data.json')
     parser.add_argument('-ip', '--index_path', help=
             'path to store the index of the data that has been annotated.', 
              type=Path, default='../remote_mount_data/annotated_id.json')
     parser.add_argument('-lp', '--label_path', help=
             'path to store the label.',
             type=Path, default='../remote_mount_data/data_label.json')
-    args = parser.parse_args()
-    return args
+    #args = parser.parse_args()
+    return parser
 def init_file(path):
     if not path.exists():
         logging.info('{0} didn\'t exists, create new file...'.format(path))
@@ -39,11 +42,19 @@ mode = ['new', 'verify']
 def main(args):
     
     if args.mode == 'new':        
-        label_data = label_new_data(args.num, args.data_path, args.index_path, args.label_path, args.output_path)
+        label_data = label_new_data(args.num, args.data_path, args.index_path, args.label_path, args.output_path, args.worker_name)
+    elif args.mode == 'verify':
+        pass
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
     args = parse_args()
+    worker_name = input('who are you?\n')
+    if worker_name not in worker_list:
+        logging.error('{0} is not in worker list'.format(worker_name))
+        exit(-1)
+    args.add_argument("--worker_name", "-wn", type=str, default=worker_name)
+    args = args.parse_args()   
     if args.num <= 0:
         logging.error('{0} <= 0, program shut down.'.format(args.num))
         exit(-1)
@@ -55,6 +66,14 @@ if __name__ == '__main__':
     init_file(args.output_path)
     init_file(args.index_path)
     init_file(args.label_path)
+    '''
+    worker_name = input('who are you?')
+    if worker_name not in worker_list:
+        logging.error('{0} is not in worker list'.format(worker_name))
+        exit(-1)
+    args.add_argument("worker_name", default=worker_name)
+    args = parser.parse_args()
+    '''
     if args.mode not in mode:
         logging.error('{0} is not in default mode [\'new\', \'verify\']'.format(args.mode))
         exit(-1)

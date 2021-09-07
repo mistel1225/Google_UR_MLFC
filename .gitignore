@@ -8,3 +8,5 @@ baseline_model/multilabel_t5/lightning_logs/
 baseline_model/multilabel_t5/output
 __pycache__/
 *.pyc
+*.swp
+data/remote_mount_data/
