@@ -37,19 +37,17 @@ here is some way to contribute this project
 * Label annotation  
     * dependency: sshfs
         * Linux, Mac, Windows: https://blog.gtwang.org/linux/sshfs-ssh-linux-windows-mac-os-x/   
-    * In this version, we expect the data is located at 140.112.29.201:/home/NLP_annotation/NLP_DATA, and label.py should have to provide multiple annotation at the same time without corruption or overwriting.  
+    * For the first time to use this label.py, please follow the link below to generate your personal key authentication
+        * https://blog.gtwang.org/linux/linux-ssh-public-key-authentication/
     * For labeling, please follow the instruction below  
     ```bash
-    ##usage:
-    cd data/utils
-    bash ./sshfs.sh
-    python3 ./label.py
-    ##for unmount
-    ubuntu:
-    fusermount -u remote_mount_data
-    macOS:
-    umount remote_mount_data
-    ##for labeling on local site
+    ##usage(ubuntu):
+    cd data/utils  
+    bash ./label_ubuntu.sh  
+    ##usage(macos):
+    cd data/utils:  
+    bash ./label_mac.sh
+    ##usage(local):  
     cd data/utils
     python3 label.py -dp ../raw_data/data1000.json -ip ./annotated_id.json -lp ./data_label.json -op ../multi_label_data/data1000label.json
     ```
