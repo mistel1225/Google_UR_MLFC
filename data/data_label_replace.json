@@ -1,0 +1,46 @@
+{
+  "hardware components": [
+    "battery",
+    "internet",
+    "bluetooth",
+    "usb/type-c",
+    "camera",
+    "sim/esim",
+    "screen",
+    "appearance",
+    "storage",
+    "speaker",
+    "headphone"
+  ],
+  "software app && services": [
+    "software/system update",
+    "google app",
+    "third party app",
+    "virtual assistance",
+    "account",
+    "boot",
+    "backup"
+  ],
+  "function feature": [
+    "audio/voice",
+    "notification",
+    "communication",
+    "multimedia",
+    "security",
+    "device connection",
+    "gps",
+    "system service"
+  ],
+  "feedback type": [
+    "feature request and suggestion",
+    "customer service",
+    "setup"
+  ],
+  "stability": [
+    "stability"
+  ],
+  "other": [
+    "other",
+    "useless"
+  ]
+}

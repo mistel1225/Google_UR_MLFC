@@ -210,10 +210,11 @@ if __name__ == '__main__':
                 if 'battery and power' in category:
                     newdata['label'].append(vocab_index[vocab_index_reverse['battery']])
             
-            #lda_model = tp.PLDAModel().load('../../../baseline_model/PLDA/PLDA_for_1000_labeled_data.model')
             result, jaccard_score = inference(mdl=lda_model, title=value['title'], content=value['content'], print_detail=False, threshold=0.45)
             for l in result:
-                newdata['label'].append(l)
+                if l.lower() not in vocab_index.values():
+                    print("{} not in label list".format(l.lower()))
+                newdata['label'].append(l.lower())
             _ = set(newdata['label'])
             newdata['label'] = list(_)
             multi_data[data_count] = newdata

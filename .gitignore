@@ -3,6 +3,8 @@ data/remote_mount_data/data.lock
 data/multi_label_data/data1000label.json
 data/utils/annotated_id.json
 data/utils/data_label.json
-data/utils/__pycache__/*.pyc
-data/multi_label_data/*.py
 .DS_Store
+baseline_model/multilabel_t5/lightning_logs/
+baseline_model/multilabel_t5/output
+__pycache__/
+*.pyc
