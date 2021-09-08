@@ -41,6 +41,8 @@ here is some way to contribute this project
         * https://blog.gtwang.org/linux/linux-ssh-public-key-authentication/
     * For labeling, please follow the instruction below  
     ```bash
+    ##if it's your first time to execute label.py
+    mkdir data/utils/remote_mount_data
     ##usage(ubuntu):
     cd data/utils  
     bash ./label_ubuntu.sh  
