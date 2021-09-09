@@ -43,11 +43,19 @@ here is some way to contribute this project
     ```bash
     ##if it's your first time to execute label.py
     mkdir data/utils/remote_mount_data
+    ##usage(singlelabel for battery)
+    cd data/utils
+    bash ./bash_singlelabel.sh
+    ##usage(multilabel)
+    cd data/utils
+    bash ./bash_multilabel.sh
+    
+    ##old
     ##usage(ubuntu):
     cd data/utils  
     bash ./label_ubuntu.sh  
     ##usage(macos):
-    cd data/utils:  
+    cd data/utils
     bash ./label_mac.sh
     ##usage(local):  
     cd data/utils
