@@ -59,9 +59,13 @@ def label_data(sample_data, sample_index, label: str, index_path, label_path, ou
         labeled_data[str(sample_index)] = {"data":sample_data, "label":[label], "worker_name": [worker_name]}
         annotated_index[str(sample_index)] = {"label":1, "verify":0}
     else:
-        labeled_data[str(sample_index)]["label"].append(label)
-        labeled_data[str(sample_index)]["worker_name"].append(worker_name)
-        labeled_data[str(sample_index)]["worker_name"] = list(set(labeled_data[str(sample_index)]["worker_name"]))
+        if label in labeled_data[str(sample_index)]["label"]:
+            print("error: this label has already being append in this sample data.")
+        else:
+            labeled_data[str(sample_index)]["label"].append(label)
+        
+            labeled_data[str(sample_index)]["worker_name"].append(worker_name)
+            labeled_data[str(sample_index)]["worker_name"] = list(set(labeled_data[str(sample_index)]["worker_name"]))
     #update the data in file system
     save_json(labeled_data, output_path)
     save_json(annotated_index, index_path)

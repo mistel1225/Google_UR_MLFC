@@ -113,7 +113,7 @@ def label_new_data(sample_num, data_path, index_path, label_path, output_path, w
                 try:
                     _ = labeled_data[str(sample_index)]
                     s = ''
-                    for i, label in enumerate(_["label"].keys()):
+                    for i, label in enumerate(_["label"]):
                         s+="{:<30}".format(label)
                         if (i+1)%4==0:
                             print(s)
