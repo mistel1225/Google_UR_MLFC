@@ -6,13 +6,15 @@ path_dict = {"g": Path("./data35000.json"), "s_uk": Path("./samsungdatauk.json")
 def combine_raw_data():
     idx = 0
     data = {}
-    for p in path_dict.values():
+    for name,p in path_dict.items():
         with open(p, 'r') as f:
             _ = json.load(f)
         for k, d in _.items():
+            d['index'] = idx
             if "category" in d.keys():
                 d["tag_list"] = d["category"].split(',')
-                d.pop("category")
+            
+            d['source'] = name
             data[idx] = d
             idx += 1
 

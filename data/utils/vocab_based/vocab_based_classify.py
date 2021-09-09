@@ -7,37 +7,37 @@ from plda_inference import inference
 import tomotopy as tp
 from tqdm import tqdm
 vocab = {
-        'battery': ["drain", "swell"], 
+        'battery': ["drain", "swell", "battery"], 
         'internet': [],
         'bluetooth': ['bluetooth'],
-        'usb/type-c': ['type-c', 'usb'],
-        'camera': ['lense', 'night sight', 'astrophotography'],
-        'sim/esim': ['esim', 'sim'],
+        #'usb/type-c': ['type-c', 'usb'],
+        'camera': ['lense', 'night sight', 'astrophotography',], #'camera'],
+        #'sim/esim': ['esim', 'sim'],
         'screen': [],
         'appearance': [],
         'storage': [],
         'speaker': [], 
         'headphone': [],
 
-        'software/system update':['after upgra', 'after upda', 'after the up', 'updat', 'upgrad'],
+        #'software/system update':['after upgra', 'after upda', 'after the up', 'updat', 'upgrad'],
         'google app': [],
         'third party app': [],
         'account': [],
         'boot': [],
-        'backup': ['restore', 'backup'],
+        #'backup': ['restore', 'backup'],
         'virtual assistance': [],
 
         'audio/voice': [],
-        'notification': ['do not disturb', 'alarm', 'ringtone'],
-        'communication': ['voicemail', 'screen call'],
+        #'notification': ['do not disturb', 'alarm', 'ringtone'],
+        'communication': ['voicemail', 'screen call', 'calls'],
         'multimedia': [],
-        'security': ['screen lock', 'fingerprint', 'face recognition'],
-        'device connection': ['cast'],
+        #'security': ['screen lock', 'fingerprint', 'face recognition'],
+        #'device connection': ['cast'],
         'gps': ['gps'],
-        'system service':['gesture', 'swipe', 'launcher', 'keyboard'],
+        #'system service':['gesture', 'swipe', 'launcher', 'keyboard'],
         
         'feature request and suggestion':[],
-        'customer service': ['warrant', 'repair', 'support'],
+        #'customer service': ['warrant', 'repair', 'support'],
         'setup':[], 
         
         'stability':[],
@@ -48,8 +48,8 @@ vocab = {
 vocab_index = {i:label for i, label in enumerate(vocab.keys())}
 vocab_index_reverse = {label:i for i, label in enumerate(vocab_index.values())}
 
-path_dict = {'g':Path('../../raw_data/data35000.json'), 's_uk':Path('../../raw_data/samsungdatauk.json'), 's_us':Path('../../raw_data/samsungdataus.json')}
-
+#path_dict = {'g':Path('../../raw_data/data35000.json'), 's_uk':Path('../../raw_data/samsungdatauk.json'), 's_us':Path('../../raw_data/samsungdataus.json')}
+path_dict = {'raw_data': Path('../../raw_data/rawdata.json')}
 if __name__ == '__main__':
     #print(data)
     multi_data = {}
@@ -57,17 +57,19 @@ if __name__ == '__main__':
     multilabel_count = 0 # multi labeled data count
     data_count = 0 # num of data
     multi_data = {}
+    
     with open("vocab.json",'r') as f:
         pachi_vocab = json.load(f)
-    lda_model = tp.PLDAModel().load('../../../baseline_model/PLDA/PLDA_for_1000_labeled_data.model')
+    #lda_model = tp.PLDAModel().load('../../../baseline_model/PLDA/PLDA_for_1000_labeled_data.model')
   
-    for data_name, data_path in path_dict.items():
+    for n, data_path in path_dict.items():
         with open(data_path, 'r') as f:
             data = json.load(f)
         for key, value in tqdm(data.items()):
             newdata = {'data':value, 'label':[]}
             content = value['title'] + " " + value['content']
             content = content.lower()
+            '''
             for label_name, label_keywords in pachi_vocab.items():
                 feq_counter = 0
                 for keyword in label_keywords:
@@ -188,33 +190,36 @@ if __name__ == '__main__':
                             newdata['label'].append(vocab_index[vocab_index_reverse['screen']])
                     if label_name == '49':
                         newdata['label'].append(vocab_index[vocab_index_reverse['software/system update']])
-    
+            '''
     
             for label_name, label_keywords in vocab.items():
                for keyword in label_keywords:
                    if keyword in content:
                        newdata['label'].append(vocab_index[vocab_index_reverse[label_name]])
                        break
-            if data_name == 'g':
-                category = value['category'].lower()
-                if 'google assistant and voice actions' in category:
-                    newdata['label'].append(vocab_index[vocab_index_reverse['google app']])
-                if 'homescreen and launcher' in category:
-                    newdata['label'].append(vocab_index[vocab_index_reverse['system service']])
+            if  value['source'] == 'g':
+                #category = [l.lower() for l in value['tag_list']]
+                category = value["category"].lower()
+                #if 'google assistant and voice actions' in category:
+                #    newdata['label'].append(vocab_index[vocab_index_reverse['google app']])
+                #if 'homescreen and launcher' in category:
+                #    newdata['label'].append(vocab_index[vocab_index_reverse['system service']])
                 if 'camera' in category:
                     newdata['label'].append(vocab_index[vocab_index_reverse['camera']])
-                if 'setting up and personalizing your' in category:
-                    newdata['label'].append('setup')
+                #if 'setting up and personalizing your' in category:
+                #    newdata['label'].append('setup')
                 if 'contacts, calls, voicemail' in category:
                     newdata['label'].append(vocab_index[vocab_index_reverse['communication']])
                 if 'battery and power' in category:
                     newdata['label'].append(vocab_index[vocab_index_reverse['battery']])
-            
+            '''
             result, jaccard_score = inference(mdl=lda_model, title=value['title'], content=value['content'], print_detail=False, threshold=0.45)
+            
             for l in result:
                 if l.lower() not in vocab_index.values():
                     print("{} not in label list".format(l.lower()))
                 newdata['label'].append(l.lower())
+            '''
             _ = set(newdata['label'])
             newdata['label'] = list(_)
             multi_data[data_count] = newdata
