@@ -41,7 +41,8 @@ class T5FineTuner(pl.LightningModule):
     def training_step(self, batch, batch_idx):
         loss = self._step(batch)
         tensorboard_logs = {"train_loss":loss.detach()}
-        return {"loss":loss, "log": tensorboard_logs}
+        self.log('train_loss', loss)
+        return loss
     def training_epoch_end(self, outputs):
         avg_train_loss = torch.stack([x["loss"] for x in outputs]).mean()
         tensorboard_logs = {"avg_train_loss": avg_train_loss}

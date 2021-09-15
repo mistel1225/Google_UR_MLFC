@@ -6,7 +6,7 @@ import logging
 from label_module import label_new_data
 from sync_module import read_json, save_json
 
-worker_list = ['j', 'y']
+worker_list = ['j', 'y', 's', 'o']
 
 def parse_args():
     parser = argparse.ArgumentParser()
