@@ -9,4 +9,5 @@ baseline_model/multilabel_t5/output
 __pycache__/
 *.pyc
 *.swp
+*.ckpt
 data/remote_mount_data/
