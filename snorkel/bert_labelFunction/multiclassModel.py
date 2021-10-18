@@ -1,7 +1,8 @@
 import torch
 import pytorch_lightning as pl
 from torch.utils.data import Dataset, DataLoader
-from multiclassDataset import get_dataset
+from . import multiclassDataset
+#from multiclassDataset import get_dataset
 import torch
 from torch import nn
 from transformers import (
@@ -85,9 +86,9 @@ class BertFineTuner(pl.LightningModule):
         self.lr_scheduler = scheduler
         return [optimizer], [scheduler]
     def train_dataloader(self):
-        train_dataset = get_dataset(tokenizer=self.tokenizer, mode='train', args=self.hparams)
+        train_dataset = multiclassDataset.get_dataset(tokenizer=self.tokenizer, mode='train', args=self.hparams)
         return DataLoader(train_dataset, batch_size=self.hparams.train_batch_size, drop_last=False, shuffle=True, num_workers=8)
     def val_dataloader(self):
-        val_dataset = get_dataset(tokenizer=self.tokenizer, mode='test', args=self.hparams)
+        val_dataset = multiclassDataset.get_dataset(tokenizer=self.tokenizer, mode='test', args=self.hparams)
         self.val_dataset = val_dataset
         return DataLoader(val_dataset, batch_size=self.hparams.eval_batch_size, num_workers=8)

@@ -1,10 +1,10 @@
 {
-  "0": "Battery and Power",
-  "1": "Camera",
-  "2": "Connectivity, Network, Bluetooth",
-  "3": "Contacts, Calls, Voicemail",
-  "4": "Google Assistant and Voice Actions",
-  "5": "Homescreen and Launcher",
-  "6": "Setting up and Personalizing your Device",
-  "7": "Other"
+  "Battery and Power": 0,
+  "Camera": 1,
+  "Connectivity, Network, Bluetooth": 2,
+  "Contacts, Calls, Voicemail": 3,
+  "Google Assistant and Voice Actions": 4,
+  "Homescreen and Launcher": 5,
+  "Setting up and Personalizing your Device": 6,
+  "Other": 7
 }
