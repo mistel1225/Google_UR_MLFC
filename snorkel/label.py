@@ -10,6 +10,11 @@ from tqdm import tqdm
 import textwrap
 import pandas as pd
 from io import StringIO
+import tomotopy as tp
+import gensim
+import nltk
+from nltk.stem import WordNetLemmatizer
+from nltk.stem.porter import *
 
 ABSTAIN = -1
 BATTERY = 0
@@ -32,6 +37,10 @@ keywords = {
 
 #target file
 data = pd.read_csv("./../data/raw_data/samsungdata.csv")
+
+nltk.download('wordnet')
+stemmer = PorterStemmer()
+plda_model = tp.PLDAModel().load("./plda_labelFunction/output/plda_model.model")
 
 #prepare model and tokenizer
 bert_model_path = './bert_labelFunction/output/model.ckpt'
@@ -66,6 +75,32 @@ def vocab_based(d):
                 return i
 
 @labeling_function()
+def plda_based(x):
+    def lemmatize_stemming(text):
+        return stemmer.stem(WordNetLemmatizer().lemmatize(text, pos='v'))
+    def preprocess(text):
+        result = []
+        for token in gensim.utils.simple_preprocess(text):
+            if token not in gensim.parsing.preprocessing.STOPWORDS and len(token) > 3:
+                result.append(lemmatize_stemming(token))
+        return result
+
+    doc = preprocess(x.title + ' ' + x.content)
+    stopwords = ['googl', 'pixel', 'tri', 'phone', 'work', 'issu', 'help', 'time',
+               'devic', 'problem', 'like', 'go', 'want', 'know', 'need', 'thank',
+               'happen', 'get', 'come']
+    for word in stopwords:
+        while word in doc:
+            doc.remove(word)
+
+    if doc == []:
+        return -1
+
+    doc = plda_model.make_doc(doc)
+    result = plda_model.infer(doc=doc)[0]
+    return int(max(zip(plda_model.topic_label_dict, result),key=lambda x:x[1])[0])
+
+@labeling_function()
 def bert_based(d):
     #prepare input text
     text = '[CLS] '+d['title'] + '[SEP]' + d['content']
@@ -94,7 +129,7 @@ def t5_based(d):
     except:
         return -1
 
-lfs = [vocab_based, bert_based, t5_based]
+lfs = [vocab_based, plda_based, bert_based, t5_based]
 applier = PandasLFApplier(lfs=lfs)
 L_train = applier.apply(df=data)
 
