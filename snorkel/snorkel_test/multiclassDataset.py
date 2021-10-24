@@ -7,7 +7,7 @@ from transformers import T5Tokenizer
 import pandas as pd
 import json
 class multiclassDataset(Dataset):
-    def __init__(self, tokenizer, mode, max_len=512):
+    def __init__(self, tokenizer, mode, max_len):
         self.max_len = max_len
         self.tokenizer = tokenizer
         self.mode = mode
